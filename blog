@@ -1,0 +1,4 @@
+Fri Sep 19 15:13:13 CST 2014
+.s/g[0-9]*/&,/g
+
+Today I used the command above to add comma for every sever_id in a line, wonderful!
