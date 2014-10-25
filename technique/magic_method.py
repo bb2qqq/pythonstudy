@@ -1,18 +1,71 @@
 #__metaclass__ = type
 import random
 
+def flatten(nested):
+    try:
+        for sublist in nested:
+            for element in flatten(sublist):
+                yield element
+    except TypeError:
+        yield nested
+
+class TestIterator:
+    value = 0
+    """ To make an iterator, you must have a 'next' method in your object """
+
+    def next(self):
+        self.value -= 1
+        if self.value <= -10: raise StopIteration  # StopIteration will simply stop the iteration when a for loop reaches this triger condition, without prompt out an alarming error
+
+    def __iter__(self):
+        return self
+
 def check_index(key):
     if not isinstance(key, (int, long)): raise TypeError('Tenemos que cargar muchos pesados')
     if key<0: raise IndexError('Tencent is a bully company')
 
 
+class BaseItem(object):
+    def __getitem__(self, key):
+        try:
+            return self.key
+        except:
+            return 'haha, hehe, heihei'
+
+    def __setitem__(self, key, value):
+        self.__dict__[key] = value
+
+class TestClassMagic(object):
+    """When del self.egg, we'll call self.recycle *=2, when call self.recycle *2, we'll triger __setattr__, thus self.recycle would become some random value, wow """
+    egg = 'chicken'
+    recycle = '---waste---'
+
+    def __setattr__(self, name, value):
+        value = random.choice(['pato', 'zepra', 'neto', 'gigi', 'monja', 'palillo'])
+        object.__setattr__(self, name, value)
+
+    def __delattr__(self, name):
+        self.recycle *= 2
+
+
+
 class ClassMagicMethod(object):
 
-    def __getattribute__(self, name):
-        if 't' in name:
-            return "At the seventh day, god makes human beings'
+    """ Seems __getattribute__ has priority over __getattr__ """
 
-    def __getattr
+    egg = 'chick'                           # use self.egg we can call this, and you can't define self.egg = blahblah in this line
+
+    def __getattr__(self, name):
+        return 250
+
+    def __getattribute__(self, name):
+        if 't' in name:                                         # Even call object.__dict__ will triger this !
+            return "At the seventh day, god makes human beings"
+        else:
+            return object.__getattribute__(self, name)
+
+    def show_egg(self):
+        print self.egg
 
 class Mini(object):
     @property
