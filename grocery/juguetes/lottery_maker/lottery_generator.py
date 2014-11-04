@@ -23,5 +23,5 @@ def double_color_ball():
     print 'Double color ball'
     give_me_number(33, 16)
 
-super_lottery()
+#super_lottery()
 double_color_ball()
