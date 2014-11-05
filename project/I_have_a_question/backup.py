@@ -1,0 +1,2 @@
+doubt_all={'What kind of desire?': {"Kind of think I should do something, or I'll waste the day": None}, '"Why didn\'t I go to bed"': {'Because I got some desire': None}, 'What kind of things?': {'Like creating or something renew my life': None}}
+doubt_log={1411056194.563788: {1411056194.563788: 'What kind of desire?', 1411056291.721322: 'What kind of things?'}}
