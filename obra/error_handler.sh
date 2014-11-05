@@ -1,8 +1,10 @@
-PROGNAME=$(basename $0)
+PROGNAME=$(basename  $0)
 error_exit()
 {
-    x_info=$(echo "Error_${PROGNAME}:Line${1:-"Sweet Error"}")
-    touch $x_info
+    timestamp="$(date +%Y%m%d-%H:%M:%S)"
+    x_info=$(echo "Error_${PROGNAME}:Line${1:-"Ada"}_")
+    zeta=$x_info$timestamp
+    touch "$zeta"
     exit 1
 }
 

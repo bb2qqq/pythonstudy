@@ -21,29 +21,6 @@ def flatten(nested):
 for i in flatten([1,[2],[[3]]]):
     print i
 
-1
-2
-3
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 def advance_flatten(nested):
     try:
@@ -56,3 +33,15 @@ def advance_flatten(nested):
                 yield element
     except TypeError:
         yield nested
+
+def my_flatten(something):
+    try:
+        for sub_nested in something:    # if iterable, let's go to the loop, if not, return the value by except clause
+            try: sub_nested + ''        # test if it is a string
+            except TypeError: pass      # if not a string, TypeError occurs, let's continue
+            else: raise TypeError       # if it's a string, raise Error so it can be returned
+            for element in my_flatten(sub_nested):   #  Recursion to see if the element in sub_nested is still iterable.
+                return                         #  This yield is the hardest part to understand
+
+    except TypeError:               # if not iterable, return the value itself
+        yield something
