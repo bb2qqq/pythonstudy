@@ -1,0 +1,11 @@
+Neurons are pictured in figure 1.2 (top). Neurons consists of three main
+parts: the cell body (soma), the branches that transmit the cell’s input from
+other neurons (dendrites), and the single trunk transmitting the cell’s output
+to other neurons (axon). Very roughly, a neuron can be either in an active state
+(firing) or an inactive state (not firing). A neuron fires when it receives enough
+signals from other neurons through its dendrites. Firing consists of sending an
+electric pulse through the axon, which is then converted into a chemical signal
+via chemicals called neurotransmitters. This chemical signal in turn activates
+other neurons through their dendrites. The firing frequency and the resulting
+chemical output signals of a neuron can vary over time according to both its
+input and how much it has been firing recently.
