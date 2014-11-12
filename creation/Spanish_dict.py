@@ -1,3 +1,4 @@
+# coding: utf-8
 from Spanish_cache import raw_dict
 import datetime
 
@@ -16,7 +17,7 @@ def g():
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         meaning, synonym, english, forgot_time, pronounciation, relative_word  = raw_dict[old_word]
-        print old_word, ':'
+        print old_word, 
         print 'meaning:', meaning
         if synonym:
             print 'synonym:', synonym
