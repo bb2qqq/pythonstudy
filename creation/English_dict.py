@@ -8,14 +8,14 @@ def a():
         pass    # do something here
     else:
         meaning = raw_input("Enter the Meaning below and press ENTER when finished typing:\n\n")
-        raw_dict[new_word] = [meaning, [], '', 0, '' ]
+        raw_dict[new_word] = [meaning, [], '', 0, '', []]
     save()
 
 def g():
     'short for get'
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
-        meaning, synonym, spanish, forgot_time, pronounciation  = raw_dict[old_word]
+        meaning, synonym, spanish, forgot_time, pronounciation, relative_word  = raw_dict[old_word]
         print old_word, ':'
         print 'meaning:', meaning
         if synonym:
@@ -26,6 +26,8 @@ def g():
             print 'forgot_time:', forgot_time
         if pronounciation:
             print 'pronounciation:', pronounciation
+        if relative_word:
+            print 'relative_word', relative_word
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
 
@@ -34,7 +36,7 @@ def e():
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         spanish =  raw_input("Enter the Spanish below and press ENTER when finished typing:\n\n")
-        raw_dict[old_word][2] = spanish
+        raw_dict[old_word][4] = spanish
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -49,6 +51,16 @@ def s():
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
 
+def r():
+    'short for relative words'
+    old_word = raw_input('Enter the word:')
+    if old_word in raw_dict:
+        relative_word =  raw_input("Enter the Relative_Word below and press ENTER when finished typing:\n\n")
+        raw_dict[old_word][5].append(relative_word)
+    else:
+        print " The word you are searching for is not in this dict now, please check your spelling."
+    save()
+
 def p():
     'short for pronounciation, for ENGLISH word only'
     old_word = raw_input('Enter the word:')
@@ -58,6 +70,7 @@ def p():
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
+
 def f(score=1):
     'short for forget, default score is 1'
     old_word = raw_input('Enter the word:')
