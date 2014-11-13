@@ -1,7 +1,7 @@
 # coding:utf-8
+import sys
 from English_cache import raw_dict
 import datetime
-
 def a():
     'short for add'
     new_word = raw_input('Enter the word:')
@@ -13,14 +13,28 @@ def a():
             return
         type = raw_input('\nEnter the word type, please:\n')
         raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'spanish': '', 'relative_word':[],
-                               'pronounciation':'', 'type': [], 'forget_score': 0}
-        raw_dict[new_word] = [meaning, [], '', 0, '', [], [type]]
+                'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now()}
     save()
 
 def wash_ass(target_dict):
-    for i in target_dict:
-        if type(i) is list:
-            pass  # do something here.
+    for old_word in target_dict:
+        if type(raw_dict[old_word]) is list:
+            try:
+                if len(raw_dict[old_word]) == 7:
+                    meaning, synonym, spanish, forget_score, pronounciation, relative_word, word_type = raw_dict[old_word]
+                else:
+                    meaning, synonym, spanish, forget_score, pronounciation, relative_word, = raw_dict[old_word]
+            except:
+                print raw_dict[old_word]
+                sys.exit(0)
+            target_dict[old_word] = {}
+            target_dict[old_word]['meaning'] = meaning
+            target_dict[old_word]['synonym'] = synonym
+            target_dict[old_word]['spanish'] = spanish
+            target_dict[old_word]['forget_score'] = forget_score
+            target_dict[old_word]['pronounciation'] = pronounciation
+            target_dict[old_word]['relative_word'] = relative_word
+    save()
 
 def d():
     'short for del'
@@ -35,12 +49,12 @@ def t():
     'short for type'
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
-        type =  raw_input("Enter the Type below and press ENTER when finished typing:\n\n")
+        word_type =  raw_input("Enter the Word_Type below and press ENTER when finished typing:\n\n")
         try:
-            if type not in raw_dict[old_word][6]:
-                raw_dict[old_word][6].append(type)
+            if word_type not in raw_dict[old_word].get('word_type'):
+                raw_dict[old_word].get('word_type').append(word_type)
         except:
-            raw_dict[old_word].append([type])
+            raw_dict[old_word]['word_type'] = [word_type]
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -49,11 +63,15 @@ def g():
     'short for get'
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
-        try:
-            meaning, synonym, spanish, forgot_time, pronounciation, relative_word, type = raw_dict[old_word]
-        except:
-            raw_dict[old_word].append([])
-            meaning, synonym, spanish, forgot_time, pronounciation, relative_word, type = raw_dict[old_word]
+        meaning = raw_dict[old_word].get('meaning')
+        synonym = raw_dict[old_word].get('synonym')
+        spanish = raw_dict[old_word].get('spanish')
+        forget_score = raw_dict[old_word].get('forget_score')
+        pronounciation = raw_dict[old_word].get('pronounciation')
+        relative_word = raw_dict[old_word].get('relative_word')
+        word_type = raw_dict[old_word].get('word_type')
+        create_time = raw_dict[old_word].get('create_time')
+
 
         print old_word
         print 'meaning:', meaning
@@ -61,14 +79,14 @@ def g():
             print 'synonym:', synonym
         if spanish:
             print 'spanish:', spanish
-        if forgot_time:
-            print 'forgot_time:', forgot_time
+        if forget_score:
+            print 'forget_score:', forget_score
         if pronounciation:
             print 'pronounciation:', convert(pronounciation)
         if relative_word:
             print 'relative_word:', relative_word
-        if type:
-            print 'type:', type
+        if word_type:
+            print 'word_type:', word_type
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
 
@@ -80,7 +98,7 @@ def e():
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         spanish =  raw_input("Enter the Spanish below and press ENTER when finished typing:\n\n")
-        raw_dict[old_word][2] = spanish
+        raw_dict[old_word]['spanish'] = spanish
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -89,14 +107,14 @@ def m():
     'short for meaning'
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
-        if raw_dict[old_word][0]:
-            confirm = raw_input('The current meaning is: %s, press y to continue, press other to quit'  % raw_dict[old_word][0])
+        if raw_dict[old_word].get('meaning'):
+            confirm = raw_input('The current meaning is: %s, press y to continue, press other to quit\n'  % raw_dict[old_word].get('meaning'))
             if confirm == 'y':
                 meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
-                raw_dict[old_word][0] = meaning
+                raw_dict[old_word]['meaning'] = meaning
         else:
             meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
-            raw_dict[old_word][0] = meaning
+            raw_dict[old_word]['meaning'] = meaning
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -106,7 +124,7 @@ def s():
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         synonym =  raw_input("Enter the Synonym below and press ENTER when finished typing:\n\n")
-        raw_dict[old_word][1].append(synonym)
+        raw_dict[old_word].get('synonym').append(synonym)
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -116,11 +134,11 @@ def r():
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         relative_word =  raw_input("Enter the Relative_Word below and press ENTER when finished typing:\n\n")
-        if relative_word not in raw_dict[old_word][5]:
-            raw_dict[old_word][5].append(relative_word)
+        if relative_word not in raw_dict[old_word].get('relative_word'):
+            raw_dict[old_word].get('relative_word').append(relative_word)
         if raw_dict.get(relative_word):
-            if old_word not in raw_dict[relative_word][5]:
-                raw_input[relative_word][5].append(old_word)
+            if old_word not in raw_dict[relative_word]['relative_word']:
+                raw_input[relative_word]['relative_word'].append(old_word)
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -130,37 +148,39 @@ def p():
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         pronounciation =  raw_input("Enter the Pronounciation below and press ENTER when finished typing:\n\n")
-        raw_dict[old_word][4] = pronounciation
+        raw_dict[old_word]['pronounciation'] = pronounciation
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
 
-def f(score=1):
-    'short for forget, default score is 1'
+def f(score=1,):
+    """short for forget, default score is 1, if you want to lower a word\'s socre, just pass negative number to this func"""
     old_word = raw_input('Enter the word:')
-    """ use it when you forget the word """
     if old_word in raw_dict:
-        raw_dict[old_word][3] += score
+        raw_dict[old_word]['forget_score'] += score
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
 
-def v(reverse_sig=0, withscores=0, L2=0):
-    """Short for view, default to rank from the word you forgot the highest time, pass any value to rank from reverse """
-    if not withscores:
-        for i in sorted(raw_dict.keys(), key=lambda x: raw_dict[x][3], reverse= not reverse_sig):
+def v(rev=True, SS=False, L2=False, T=False ):
+    """Short for view, default to rank from the word you forgot the most times, pass any value to rank from reverse
+    L2 = bilingual, SS = show score, rev = Reverse, T = by time order
+    """
+    if not SS:
+        for i in sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time') if T else raw_dict[x].get('forget_score') , reverse = rev):
             if L2:
-                if not raw_dict[i][2]:
+                if not raw_dict[i].get('spanish'):
                     continue
             print i
     else:
-        for i in sorted(raw_dict.keys(), key=lambda x: raw_dict[x][3], reverse= not reverse_sig):
+        for i in sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time') if T else raw_dict[x].get('forget_score'), reverse = rev):
             if L2:
-                if not raw_dict[i][2]:
+                if not raw_dict[i].get('spanish'):
                     continue
-            print i, raw_dict[i][3]
+            print i, raw_dict[i].get('forget_score')
 
 def h():
+    """ show IPA(International Phonetic Alphabet) mapping """
     print """
               E for ə
               A for ʌ
@@ -179,10 +199,12 @@ def save():
     f.write('raw_dict=%r' % raw_dict)
     f.close()
 
-def se():
-    ' short for save exit '
+def se(quit_sig=False):
+    ' short for save exit, actually it is often used for backup'
     f = open('English_backup.py', 'a')
     now = str(datetime.datetime.now())[:19]
     f.write('\nlast_time=%r\n' % now)
     f.write('raw_dict=%r\n' % raw_dict)
     f.close()
+    if quit_sig:
+        sys.exit(0)
