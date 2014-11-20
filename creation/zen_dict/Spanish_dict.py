@@ -1,7 +1,28 @@
 # coding:utf-8
 import sys
-from English_cache import raw_dict
+from Spanish_cache import raw_dict
 import datetime
+
+# Automatically load new words
+def init():
+    f=open('raw', 'r')
+    for i in f:
+        i = i.rstrip('\n')
+        i = i.split('-')
+        if len(i) >= 2:
+            En = i[0]
+            Es = i[1]
+            if Es in raw_dict:
+                if raw_dict[Es].get('english'):
+                    pass
+                else:
+                    raw_dict[Es]['english'] = En
+            else:
+                raw_dict[Es] = { 'meaning': '', 'synonym': [], 'english': En, 'relative_word':[],
+                                 'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now()}
+    save()
+
+
 def a():
     'short for add'
     new_word = raw_input('Enter the word:')
@@ -12,7 +33,7 @@ def a():
         if not new_word:
             return
         type = raw_input('\nEnter the word type, please:\n')
-        raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'spanish': '', 'relative_word':[],
+        raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'english': '', 'relative_word':[],
                 'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now()}
     save()
 
@@ -21,16 +42,16 @@ def wash_ass(target_dict):
         if type(raw_dict[old_word]) is list:
             try:
                 if len(raw_dict[old_word]) == 7:
-                    meaning, synonym, spanish, forget_score, pronounciation, relative_word, word_type = raw_dict[old_word]
+                    meaning, synonym, english, forget_score, pronounciation, relative_word, word_type = raw_dict[old_word]
                 else:
-                    meaning, synonym, spanish, forget_score, pronounciation, relative_word, = raw_dict[old_word]
+                    meaning, synonym, english, forget_score, pronounciation, relative_word, = raw_dict[old_word]
             except:
                 print raw_dict[old_word]
                 sys.exit(0)
             target_dict[old_word] = {}
             target_dict[old_word]['meaning'] = meaning
             target_dict[old_word]['synonym'] = synonym
-            target_dict[old_word]['spanish'] = spanish
+            target_dict[old_word]['english'] = english
             target_dict[old_word]['forget_score'] = forget_score
             target_dict[old_word]['pronounciation'] = pronounciation
             target_dict[old_word]['relative_word'] = relative_word
@@ -65,7 +86,7 @@ def g():
     if old_word in raw_dict:
         meaning = raw_dict[old_word].get('meaning')
         synonym = raw_dict[old_word].get('synonym')
-        spanish = raw_dict[old_word].get('spanish')
+        english = raw_dict[old_word].get('english')
         forget_score = raw_dict[old_word].get('forget_score')
         pronounciation = raw_dict[old_word].get('pronounciation')
         relative_word = raw_dict[old_word].get('relative_word')
@@ -77,8 +98,8 @@ def g():
         print 'meaning:', meaning
         if synonym:
             print 'synonym:', synonym
-        if spanish:
-            print 'spanish:', spanish
+        if english:
+            print 'english:', english
         if forget_score:
             print 'forget_score:', forget_score
         if pronounciation:
@@ -97,8 +118,8 @@ def e():
     'short for español if you are in EnglishDict, short for english if you are in SpanishDict'
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
-        spanish =  raw_input("Enter the Spanish below and press ENTER when finished typing:\n\n")
-        raw_dict[old_word]['spanish'] = spanish
+        english =  raw_input("Enter the Spanish below and press ENTER when finished typing:\n\n")
+        raw_dict[old_word]['english'] = english
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -167,15 +188,15 @@ def v(rev=True, SS=False, L2=False, T=False ):
     L2 = bilingual, SS = show score, rev = Reverse, T = by time order
     """
     if not SS:
-        for i in sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time') if T else raw_dict[x].get('forget_score') , reverse = rev):
+        for i in sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time', datetime.datetime(2006, 07, 11, 21, 13, 29, 296140) ) if T else raw_dict[x].get('forget_score') , reverse = rev):
             if L2:
-                if not raw_dict[i].get('spanish'):
+                if not raw_dict[i].get('english'):
                     continue
             print i
     else:
-        for i in sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time') if T else raw_dict[x].get('forget_score'), reverse = rev):
+        for i in sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time', datetime.datetime(2006, 07, 11, 21, 13, 29, 296140)) if T else raw_dict[x].get('forget_score'), reverse = rev):
             if L2:
-                if not raw_dict[i].get('spanish'):
+                if not raw_dict[i].get('english'):
                     continue
             print i, raw_dict[i].get('forget_score')
 
@@ -195,16 +216,18 @@ def h():
           """
 
 def save():
-    f = open('English_cache.py', 'w')
-    f.write('raw_dict=%r' % raw_dict)
+    f = open('Spanish_cache.py', 'w')
+    f.write('import datetime\nraw_dict=%r' % raw_dict)
     f.close()
 
 def se(quit_sig=False):
     ' short for save exit, actually it is often used for backup'
-    f = open('English_backup.py', 'a')
+    f = open('Spanish_backup.py', 'a')
     now = str(datetime.datetime.now())[:19]
     f.write('\nlast_time=%r\n' % now)
     f.write('raw_dict=%r\n' % raw_dict)
     f.close()
     if quit_sig:
         sys.exit(0)
+
+init()
