@@ -12,6 +12,9 @@ def init():
         if len(i) >= 2:
             En = i[0]
             Es = i[1]
+            category = ''
+            if len(i) >=3:
+                category = i[2]
             if Es in raw_dict:
                 if raw_dict[Es].get('english'):
                     pass
@@ -20,6 +23,8 @@ def init():
             else:
                 raw_dict[Es] = { 'meaning': '', 'synonym': [], 'english': En, 'relative_word':[],
                                  'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now()}
+            if category and 'category' in raw_dict[Es]:
+                raw_dict[Es]['category'] = category
     save()
 
 
@@ -73,16 +78,16 @@ def t():
         word_type =  raw_input("Enter the Word_Type below and press ENTER when finished typing:\n\n")
         try:
             if word_type not in raw_dict[old_word].get('word_type'):
-                raw_dict[old_word].get('word_type').append(word_type)
+                raw_dict[old_word].['word_type'].append(word_type)
         except:
             raw_dict[old_word]['word_type'] = [word_type]
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
 
-def g():
+def g(old_word=''):
     'short for get'
-    old_word = raw_input('Enter the word:')
+    old_word = old_word or raw_input('Enter the word:')
     if old_word in raw_dict:
         meaning = raw_dict[old_word].get('meaning')
         synonym = raw_dict[old_word].get('synonym')
@@ -183,22 +188,59 @@ def f(score=1,):
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
 
-def v(rev=True, SS=False, L2=False, T=False ):
+def v(rev=True, SS=False, L2=False, T=False, wt='', cat=''):
     """Short for view, default to rank from the word you forgot the most times, pass any value to rank from reverse
-    L2 = bilingual, SS = show score, rev = Reverse, T = by time order
+    L2 = bilingual, SS = show score, rev = Reverse, T = by time order, wt = by word type, cat = by category
     """
+    target = sort_by_score(raw_dict.keys(), rev=rev)
+
+    if T:
+        target = sort_by_time(target)
+
+    if L2:
+        target = sort_by_bilingual(target)
+
+    if wt:
+        target = sort_by_word_type(target, wt)
+
+    if cat:
+        target = sort_by_category(target, cat)
+
     if not SS:
-        for i in sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time', datetime.datetime(2006, 07, 11, 21, 13, 29, 296140) ) if T else raw_dict[x].get('forget_score') , reverse = rev):
-            if L2:
-                if not raw_dict[i].get('english'):
-                    continue
+        for i in target:
             print i
     else:
-        for i in sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time', datetime.datetime(2006, 07, 11, 21, 13, 29, 296140)) if T else raw_dict[x].get('forget_score'), reverse = rev):
-            if L2:
-                if not raw_dict[i].get('english'):
-                    continue
+        for i in target:
             print i, raw_dict[i].get('forget_score')
+
+def sort_by_score(target, rev):
+    target = sorted(target, key=lambda x: raw_dict[x].get('forget_score', 0), reverse = rev)
+    return target
+
+def sort_by_bilingual(target):
+    temp_L = []
+    for i in target:
+        if raw_dict[i].get('english'):
+            temp_L.append(i)
+    return temp_L
+
+def sort_by_time(target):
+    target = sorted(target, key=lambda x: raw_dict[x].setdefault('create_time', datetime.datetime(2006, 07, 11, 21, 13, 29, 296140)))
+    return target
+
+def sort_by_word_type(target, word_type):
+    temp_L = []
+    for i in target:
+        if word_type in raw_dict[i].get('word_type', []):
+            temp_L.append(i)
+    return temp_L
+
+def sort_by_category(target, category):
+    temp_L = []
+    for i in target:
+        if raw_dict[i].get('category') == category:
+            temp_L.append(i)
+    return temp_L
 
 def h():
     """ show IPA(International Phonetic Alphabet) mapping """
@@ -263,6 +305,32 @@ def exam(rev=True, L2=False, T=False ):
                 print '\n'
                 g(old_word=i)
 
+def get_current_category():
+    S = set([])
+    for i in raw_dict:
+        if i.get('category'):
+            S.update([i['category']])
+
+    return (" ").join([i for i in S])
+
+
+def c():
+    """ Short for category """
+    old_word = raw_input('Enter the word:')
+    if old_word in raw_dict:
+        if raw_dict[old_word].get('category'):
+            print 'Now we already have a category for this word, it is', raw_dict[old_word]['category'], '. Type y to continue, others to quit'
+            choice = raw_input('>>>')
+            if choice not in ['y', 'yes']:
+                return
+            else:
+                current_category = get_current_category()
+                print "Current exists categories are: ", current_category
+                category =  raw_input("Enter the category below and press ENTER when finished typing:\n\n")
+                raw_dict[old_word].setdefault['category'] = category
+
+    else:
+        print " The word you are searching for is not in this dict now, please check your spelling."
 
 
 init()
