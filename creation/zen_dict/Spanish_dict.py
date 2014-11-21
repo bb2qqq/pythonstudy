@@ -241,20 +241,27 @@ def exam(rev=True, L2=False, T=False ):
                 continue
 
         if L2:
+            print '\n'
             print 'Please type the Spanish/English version of: ', i
             answer = raw_input('>>>')
             if answer == raw_dict[i]['spanish']:
                 raw_dict[i]['forget_score'] -= 1
             else:
                 raw_dict[i]['forget_score'] += 1
+                print '\n'
+                g(old_word=i)
+                print '\n'
 
         else:
+            print '\n'
             print 'Do you remember: ',i, '?'
             answer = raw_input('type y for yes, and others for no: ')
             if answer == 'y' or answer == 'yes':
                 raw_dict[i]['forget_score'] -= 1
             else:
                 raw_dict[i]['forget_score'] += 1
+                print '\n'
+                g(old_word=i)
 
 
 
