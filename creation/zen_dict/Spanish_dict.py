@@ -37,9 +37,9 @@ def a():
         meaning = raw_input("Enter the Meaning below and press ENTER when finished typing:\n\n")
         if not new_word:
             return
-        type = raw_input('\nEnter the word type, please:\n')
+        word_type = raw_input('\nEnter the word type, please:\n')
         raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'english': '', 'relative_word':[],
-                'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now()}
+                'pronounciation':'', 'word_type': word_type, 'forget_score': 0, 'create_time': datetime.datetime.now()}
     save()
 
 def wash_ass(target_dict):
