@@ -188,7 +188,7 @@ def f(score=1,):
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
 
-def v(rev=True, SS=False, L2=False, T=False, wt='', cat=''):
+def v(rev=True, SS=False, L2=False, T=False, wt='', cat='', exam=0):
     """Short for view, default to rank from the word you forgot the most times, pass any value to rank from reverse
     L2 = bilingual, SS = show score, rev = Reverse, T = by time order, wt = by word type, cat = by category
     """
@@ -205,6 +205,9 @@ def v(rev=True, SS=False, L2=False, T=False, wt='', cat=''):
 
     if cat:
         target = sort_by_category(target, cat)
+
+    if exam:
+        return target
 
     if not SS:
         for i in target:
@@ -272,24 +275,29 @@ def se(quit_sig=False):
     if quit_sig:
         sys.exit(0)
 
-def exam(rev=True, L2=False, T=False ):
+def exam(rev=True, L2=False, T=False, target = [] ):
     """Default to rank from the word you forgot the most times, pass any value to rank from reverse
     L2 = bilingual, rev = Reverse, T = by time order,
     """
 
-    for i in sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time', datetime.datetime(2006, 07, 11, 21, 13, 29, 296140)) if T else raw_dict[x].get('forget_score') , reverse = rev):
+    target = target or sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time', datetime.datetime(2006, 07, 11, 21, 13, 29, 296140)) if T else raw_dict[x].get('forget_score') , reverse = rev)
+
+    temp_L = []
+
+    for i in target:
         if L2:
-            if not raw_dict[i].get('spanish'):
+            if not raw_dict[i].get('english'):
                 continue
 
         if L2:
             print '\n'
             print 'Please type the Spanish/English version of: ', i
             answer = raw_input('>>>')
-            if answer == raw_dict[i]['spanish']:
+            if answer == raw_dict[i]['english']:
                 raw_dict[i]['forget_score'] -= 1
             else:
                 raw_dict[i]['forget_score'] += 1
+                temp_L.append(i)
                 print '\n'
                 g(old_word=i)
                 print '\n'
@@ -302,8 +310,16 @@ def exam(rev=True, L2=False, T=False ):
                 raw_dict[i]['forget_score'] -= 1
             else:
                 raw_dict[i]['forget_score'] += 1
+                temp_L.append(i)
                 print '\n'
                 g(old_word=i)
+
+    if temp_L:
+        print 'These are the words you failed in this exam, you can put more effort on them later.\n'
+        for i in temp_L:
+            print '\t\t', i
+
+    save()
 
 def get_current_category():
     S = set([])
