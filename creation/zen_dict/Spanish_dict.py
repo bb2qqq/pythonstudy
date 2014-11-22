@@ -229,8 +229,8 @@ def sort_by_score(target, rev, sl):
             i_score = raw_dict[i].get('forget_score', 0)
             if i >= sl:
                 temp_L.append(i)
-
-    return temp_L
+        return temp_L
+    return target
 
 def sort_by_bilingual(target):
     temp_L = []
@@ -276,6 +276,25 @@ def save():
     f = open('Spanish_cache.py', 'w')
     f.write('import datetime\nraw_dict=%r' % raw_dict)
     f.close()
+
+    f2 = open('S_mobile', 'w')
+    target = v(exam=1)
+    for i in target:
+        word = i
+        meaning = raw_dict[i].get('meaning', '')
+        english = raw_dict[i].get('english', '')
+        word_type = raw_dict[i].get('word_type', '')
+        forget_score = raw_dict[i].get('forget_score', 0)
+        pronounciation = raw_dict[i].get('pronounciation', '')
+        if english:
+            english=' <' + english + '>'
+        if not word_type:
+            word_type=''
+        if meaning:
+            meaning =  '   \"' + meaning + '\"'
+
+        f2.write('{word}  {english}{meaning}\n'.format(word=word,  english=english, meaning=meaning))
+    f2.close()
 
 def se(quit_sig=False):
     ' short for save exit, actually it is often used for backup'
