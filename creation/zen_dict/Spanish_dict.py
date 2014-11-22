@@ -13,18 +13,23 @@ def init():
             En = i[0]
             Es = i[1]
             category = ''
+            word_type = ''
             if len(i) >=3:
                 category = i[2]
+            if len(i) >=4:
+                word_type = i[3]
             if Es in raw_dict:
                 if raw_dict[Es].get('english'):
                     pass
                 else:
                     raw_dict[Es]['english'] = En
             else:
-                raw_dict[Es] = { 'meaning': '', 'synonym': [], 'english': En, 'relative_word':[],
-                                 'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now()}
+                raw_dict[Es] = { 'meaning': '', 'synonym': [], 'english': En, 'relative_word':[], 'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now()}
             if category and 'category' in raw_dict[Es]:
                 raw_dict[Es]['category'] = category
+            if word_type:
+                if word_type not in raw_dict[Es].get('word_type', []):
+                    raw_dict[Es]['word_type'].append(word_type)
     save()
 
 
