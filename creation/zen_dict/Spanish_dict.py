@@ -78,7 +78,7 @@ def t():
         word_type =  raw_input("Enter the Word_Type below and press ENTER when finished typing:\n\n")
         try:
             if word_type not in raw_dict[old_word].get('word_type'):
-                raw_dict[old_word].['word_type'].append(word_type)
+                raw_dict[old_word]['word_type'].append(word_type)
         except:
             raw_dict[old_word]['word_type'] = [word_type]
     else:
@@ -188,11 +188,11 @@ def f(score=1,):
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
 
-def v(rev=True, SS=False, L2=False, T=False, wt='', cat='', exam=0):
+def v(rev=True, SS=False, L2=False, T=False, wt='', cat='', sl=0, exam=0):
     """Short for view, default to rank from the word you forgot the most times, pass any value to rank from reverse
-    L2 = bilingual, SS = show score, rev = Reverse, T = by time order, wt = by word type, cat = by category
+    L2 = bilingual, SS = show score, rev = Reverse, T = by time order, wt = by word type, cat = by category, sl = score limit
     """
-    target = sort_by_score(raw_dict.keys(), rev=rev)
+    target = sort_by_score(raw_dict.keys(), rev=rev, sl=sl)
 
     if T:
         target = sort_by_time(target)
@@ -216,9 +216,16 @@ def v(rev=True, SS=False, L2=False, T=False, wt='', cat='', exam=0):
         for i in target:
             print i, raw_dict[i].get('forget_score')
 
-def sort_by_score(target, rev):
+def sort_by_score(target, rev, sl):
+    temp_L = []
     target = sorted(target, key=lambda x: raw_dict[x].get('forget_score', 0), reverse = rev)
-    return target
+    if sl:
+        for i in target:
+            i_score = raw_dict[i].get('forget_score', 0)
+            if i >= sl:
+                temp_L.append(i)
+
+    return temp_L
 
 def sort_by_bilingual(target):
     temp_L = []
