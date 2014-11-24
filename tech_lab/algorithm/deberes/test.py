@@ -3,20 +3,16 @@
 
 
 def recur(my_dict):
+    wr_n = 0
     try:
         for item in my_dict:
             recur(item)
-            pass
     except:
         wr_n += 1
         pass
 
-        if wr_n == len(my_dict.keys()):
-            yield result
-
-
-
-
+    if wr_n == len(my_dict.keys()):
+        yield result
 
 
 
