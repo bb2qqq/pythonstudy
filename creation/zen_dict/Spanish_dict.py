@@ -128,7 +128,7 @@ def e():
     'short for español if you are in EnglishDict, short for english if you are in SpanishDict'
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
-        english =  raw_input("Enter the Spanish below and press ENTER when finished typing:\n\n")
+        english =  raw_input("Enter the English below and press ENTER when finished typing:\n\n")
         raw_dict[old_word]['english'] = english
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
