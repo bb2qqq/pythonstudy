@@ -12,7 +12,7 @@ def init():
         if len(i) >= 2:
             En = i[0]
             Es = i[1]
-            category = ''
+            category = []
             word_type = ''
             if len(i) >=3:
                 category = i[2]
@@ -24,9 +24,9 @@ def init():
                 else:
                     raw_dict[En]['spanish'] = Es
             else:
-                raw_dict[En] = { 'meaning': '', 'synonym': [], 'spanish': Es, 'relative_word':[], 'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now(),  'category': ''}
-            if category and 'category' in raw_dict[En]:
-                raw_dict[En]['category'] = category
+                raw_dict[En] = { 'meaning': '', 'synonym': [], 'spanish': Es, 'relative_word':[], 'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now(),  'category': []}
+            if category and 'category' in raw_dict[En] and category not in raw_dict[En]['category']:
+                raw_dict[En]['category'].append(category)
             if word_type:
                 if word_type not in raw_dict[En].get('word_type', []):
                     raw_dict[En]['word_type'].append(word_type)
@@ -254,7 +254,7 @@ def sort_by_word_type(target, word_type):
 def sort_by_category(target, category):
     temp_L = []
     for i in target:
-        if raw_dict[i].get('category') == category:
+        if category in raw_dict[i].get('category', []):
             temp_L.append(i)
     return temp_L
 
@@ -354,28 +354,36 @@ def exam(rev=True, L2=False, T=False, target = []):
     save()
 
 def get_current_category():
-    S = set([])
+    L = []
     for i in raw_dict:
-        if i.get('category'):
-            S.update([i['category']])
+        if raw_dict[i].get('category'):
+            L.extend([raw_dict[i]['category']])
+
+    S = set(L)
 
     return (" ").join([i for i in S])
 
-
 def c():
     """ Short for category """
+    # this function can
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         if raw_dict[old_word].get('category'):
-            print 'Now we already have a category for this word, it is', raw_dict[old_word]['category'], '. Type y to continue, others to quit'
+            print 'Current categories for this word:', '\t'.join(raw_dict[old_word]['category']), '. Type y to add new category, type others to quit'
             choice = raw_input('>>>')
             if choice not in ['y', 'yes']:
                 return
             else:
                 current_category = get_current_category()
                 print "Current exists categories are: ", current_category
-                category =  raw_input("Enter the category below and press ENTER when finished typing:\n\n")
-                raw_dict[old_word]['category'] = category
+                category =  raw_input("Enter your category below and press ENTER when finished typing:\n\n")
+                raw_dict[old_word].setdefault['category'] = category
+        else:
+            raw_dict[old_word]['category'] = []
+            current_category = get_current_category()
+            print "Current exists categories are: ", current_category
+            category =  raw_input("Enter your category below and press ENTER when finished typing:\n\n")
+            raw_dict[old_word].setdefault['category'] = category
 
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
