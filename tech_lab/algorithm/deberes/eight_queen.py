@@ -48,3 +48,60 @@ for init in process:
 #for item in process:
 #    print process[item]
 
+
+
+
+def get_dict_level(target):
+    n = 0
+    if target.keys():
+        n += 1
+        for i in target.keys():
+            if get_dict_level(i):
+                n += 1
+
+    print n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
