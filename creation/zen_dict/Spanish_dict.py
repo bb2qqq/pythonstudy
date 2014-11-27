@@ -43,8 +43,9 @@ def a():
         if not new_word:
             return
         word_type = raw_input('\nEnter the word type, please:\n')
+        category = raw_input('\nEnter the category, please:\n')
         raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'english': '', 'relative_word':[],
-                'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [] }
+                'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [category] }
     save()
 
 def wash_ass(target_dict):
@@ -162,8 +163,8 @@ def s():
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
 
-def r():
-    'short for relative words'
+def r(nc=0):
+    'short for relative words, nc stands for no clone, which means do not try to make new word of the typing relative word'
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         relative_word =  raw_input("Enter the Relative_Word below and press ENTER when finished typing:\n\n")
@@ -172,6 +173,9 @@ def r():
         if raw_dict.get(relative_word):
             if old_word not in raw_dict[relative_word]['relative_word']:
                 raw_input[relative_word]['relative_word'].append(old_word)
+
+        if nc:
+            return
 
         if relative_word in raw_dict:
             if 'relative_word' in raw_dict[relative_word]:
