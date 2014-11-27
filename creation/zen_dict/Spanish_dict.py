@@ -37,14 +37,14 @@ def a():
     'short for add'
     new_word = raw_input('Enter the word:')
     if new_word in raw_dict:
-        pass    # do something here
+        print 'The word you are trying to add is already in the dict, please use other methods to modify it.'    # do something here
     else:
         meaning = raw_input("Enter the Meaning below and press ENTER when finished typing:\n\n")
         if not new_word:
             return
         word_type = raw_input('\nEnter the word type, please:\n')
         raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'english': '', 'relative_word':[],
-                'pronounciation':'', 'word_type': word_type, 'forget_score': 0, 'create_time': datetime.datetime.now()}
+                'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [] }
     save()
 
 def wash_ass(target_dict):
@@ -102,7 +102,7 @@ def g(old_word=''):
         relative_word = raw_dict[old_word].get('relative_word')
         word_type = raw_dict[old_word].get('word_type')
         create_time = raw_dict[old_word].get('create_time')
-
+        category = raw_dict[old_word].get('category')
 
         print old_word
         print 'meaning:', meaning
@@ -118,6 +118,8 @@ def g(old_word=''):
             print 'relative_word:', relative_word
         if word_type:
             print 'word_type:', word_type
+        if category:
+            print 'category', category
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
 
@@ -170,6 +172,19 @@ def r():
         if raw_dict.get(relative_word):
             if old_word not in raw_dict[relative_word]['relative_word']:
                 raw_input[relative_word]['relative_word'].append(old_word)
+
+        if relative_word in raw_dict:
+            if 'relative_word' in raw_dict[relative_word]:
+                if old_word in raw_dict.get('relative_word', []):
+                    pass
+                else:
+                    raw_dict[relative_word]['relative_word'].append(old_word)
+            else:
+                raw_dict[relative_word]['relative_word'] = [old_word]
+        else:
+            raw_dict[relative_word] = { 'meaning': '', 'synonym': [], 'english': '', 'relative_word':[old_word],
+                    'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [] }
+
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()

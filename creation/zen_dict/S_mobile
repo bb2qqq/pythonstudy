@@ -7,12 +7,14 @@ pestaña   <eyelash>
 bazo   <spleen>
 glándula   <gland>
 nudillo   <knuckle>
-fusilamiento     "resultado de fusilar, que es, una ejecución"
 pelotón   <squad>   "Una pequeña unidad militaria, que es Ban en chino"
+antojo   <whim>
+veleidad   <whim>   "Voluntad antojadiza o deseo vano, ligereza, inconsistencia."
+fusilamiento     "resultado de fusilar, que es, una ejecución"
+antojadizo     "Que tiene antojos con frecuencia."
 narices   <nostril>   "las dos abiertas de un nariz, por dónde respiras"
 riñon   <kidney>
 páncreas   <pancreas>
-dedo anular   <ring finger>
 codo   <elbow>
 uña   <fingernail>
 arteria   <artery>
@@ -21,6 +23,7 @@ vesícula biliar   <gall bladder>
 espinazo   <spine>
 ombligo   <belly button>
 párpado   <eyelid>
+costilla   <rib>
 cuerda vocal   <vocal cord>
 muslo   <thigh>
 cadera   <hip>
@@ -29,11 +32,11 @@ paladar   <palate>
 tobillo   <ankle>
 trasero   <buttocks>
 saliva   <saliva>
-planta   <sole>
-vello   <body hair>
 hoyuelo   <dimple>
+planta   <sole>
+dedo anular   <ring finger>
 dedo meñique   <little finger>
 dedo índice   <index finger>
 barbilla   <chin>
 nuca   <nape>
-costilla   <rib>
+vello   <body hair>
