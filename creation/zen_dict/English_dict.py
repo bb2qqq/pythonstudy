@@ -42,9 +42,10 @@ def a():
         meaning = raw_input("Enter the Meaning below and press ENTER when finished typing:\n\n")
         if not new_word:
             return
+        spanish = raw_input('\nEnter the Spanish corresponde word, please:\n')
         word_type = raw_input('\nEnter the word type, please:\n')
         category = raw_input('\nEnter the category, please:\n')
-        raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'spanish': '', 'relative_word':[],
+        raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'spanish': spanish, 'relative_word':[],
                 'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [category]}
     save()
 
