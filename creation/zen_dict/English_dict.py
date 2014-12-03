@@ -33,8 +33,8 @@ def init():
     save()
 
 
-def a():
-    'short for add'
+def a(b=0):
+    'short for add, b is short for bilingual'
     new_word = raw_input('Enter the word:')
     if new_word:
         add_score()
@@ -60,6 +60,18 @@ def a():
 
         raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'spanish': spanish, 'relative_word':[],
                 'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [category]}
+
+        # When bilingual signal is True, create new world in the correspond dict.
+    if b:
+        from Spanish_cache import raw_dict as spanish_raw_dict, score as spanish_score
+        if spanish and spanish not in spanish_raw_dict:
+            spanish_raw_dict[spanish] = { 'meaning': '', 'synonym': [], 'english': new_word, 'relative_word':[],
+            'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [category]}
+
+            f = open('Spanish_cache.py', 'w')
+            f.write('import datetime\nraw_dict=%r\nscore=%d' % (spanish_raw_dict, spanish_score))
+            f.close()
+
     save()
 
 def wash_ass(target_dict):
@@ -149,15 +161,29 @@ def g(old_word=''):
 def convert(pronounciation):
     return pronounciation.replace('Z','ð').replace('SH','ʃ').replace('S','s').replace('J','ʒ').replace('G','dʒ').replace('CH','tʃ').replace('E','ə').replace('A','ʌ').replace('O','ɔ').replace('N','ŋ')
 
-def e():
-    'short for español if you are in EnglishDict, short for english if you are in SpanishDict'
+def e(b=0):
+    'short for español if you are in EnglishDict, short for english if you are in SpanishDict,  b stands for bilingual'
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         spanish =  raw_input("Enter the Spanish below and press ENTER when finished typing:\n\n")
         raw_dict[old_word]['spanish'] = spanish
         add_score()
+
+        if b:
+            from Spanish_cache import raw_dict as spanish_raw_dict, score as spanish_score
+            if spanish and spanish not in spanish_raw_dict:
+                word_type = raw_dict['old_word'].get('word_type', [])
+                category = raw_dict['old_word'].get('old_word', [])
+                spanish_raw_dict[spanish] = { 'meaning': '', 'synonym': [], 'english': old_word, 'relative_word':[],
+                'pronounciation':'', 'word_type': word_type, 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': category}
+
+                f = open('Spanish_cache.py', 'w')
+                f.write('import datetime\nraw_dict=%r\nscore=%d' % (spa_raw_dict, spanish_score))
+                f.close()
+
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
+
     save()
 
 def m():
@@ -169,7 +195,7 @@ def m():
             if confirm == 'y':
                 meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
                 raw_dict[old_word]['meaning'] = meaning
-                add_score(3)
+                add_score(0.5)
         else:
             meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
             raw_dict[old_word]['meaning'] = meaning
@@ -356,6 +382,7 @@ def se(quit_sig=False):
     now = str(datetime.datetime.now())[:19]
     f.write('\nlast_time=%r\n' % now)
     f.write('raw_dict=%r\n' % raw_dict)
+    f.write('score=%r\n' % score)
     f.close()
     if quit_sig:
         sys.exit(0)
@@ -449,6 +476,7 @@ def c():
     save()
 
 def add_score(num=1):
+    global score
     score += num
 
 def x():

@@ -33,8 +33,8 @@ def init():
     save()
 
 
-def a():
-    'short for add'
+def a(b=0):
+    'short for add, b is short for bilingual'
     new_word = raw_input('Enter the word:')
     if new_word:
         add_score()
@@ -60,6 +60,18 @@ def a():
 
         raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'english': english, 'relative_word':[],
                 'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [category] }
+
+        # When bilingual signal is True, create new world in the correspond dict.
+    if b:
+        from English_cache import raw_dict as english_raw_dict, score as english_score
+        if english and english not in english_raw_dict:
+            english_raw_dict[english] = { 'meaning': '', 'synonym': [], 'spanish': new_word, 'relative_word':[],
+            'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [category]}
+
+            f = open('English_cache.py', 'w')
+            f.write('import datetime\nraw_dict=%r\nscore=%d' % (english_raw_dict, english_score))
+            f.close()
+
     save()
 
 def wash_ass(target_dict):
@@ -156,8 +168,22 @@ def e():
         english =  raw_input("Enter the English below and press ENTER when finished typing:\n\n")
         raw_dict[old_word]['english'] = english
         add_score()
+
+        if b:
+            from English_cache import raw_dict as english_raw_dict, score as english_score
+            if english and english not in english_raw_dict:
+                word_type = raw_dict['old_word'].get('word_type', [])
+                category = raw_dict['old_word'].get('old_word', [])
+                english_raw_dict[english] = { 'meaning': '', 'synonym': [], 'spanish': old_word, 'relative_word':[],
+                'pronounciation':'', 'word_type': word_type, 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': category}
+
+                f = open('English_cache.py', 'w')
+                f.write('import datetime\nraw_dict=%r\nscore=%d' % (english_raw_dict, english_score))
+                f.close()
+
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
+
     save()
 
 def m():
@@ -169,7 +195,7 @@ def m():
             if confirm == 'y':
                 meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
                 raw_dict[old_word]['meaning'] = meaning
-                add_score(3)
+                add_score(0.5)
         else:
             meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
             raw_dict[old_word]['meaning'] = meaning
@@ -356,6 +382,7 @@ def se(quit_sig=False):
     now = str(datetime.datetime.now())[:19]
     f.write('\nlast_time=%r\n' % now)
     f.write('raw_dict=%r\n' % raw_dict)
+    f.write('score=%r\n' % score)
     f.close()
     if quit_sig:
         sys.exit(0)

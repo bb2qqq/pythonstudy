@@ -2,6 +2,17 @@
 # what do we have, all the elements of the dict
 
 
+def nested_depth(d):
+    if not isinstance(d, dict):
+        return 0
+    if not d:
+        return 1
+    return 1 + max(nested_depth(v) for v in d.values())
+
+
+
+
+
 def recur(my_dict):
     wr_n = 0
     try:
