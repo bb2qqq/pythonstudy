@@ -1,6 +1,6 @@
 # coding:utf-8
 import sys
-from Spanish_cache import raw_dict
+from Spanish_cache import raw_dict, score
 import datetime
 
 # Automatically load new words
@@ -36,6 +36,9 @@ def init():
 def a():
     'short for add'
     new_word = raw_input('Enter the word:')
+    if new_word:
+        add_score()
+
     if new_word in raw_dict:
         print 'The word you are trying to add is already in the dict, please use other methods to modify it.'    # do something here
     else:
@@ -45,6 +48,16 @@ def a():
         english = raw_input('\nEnter the English corresponde word, please:\n')
         word_type = raw_input('\nEnter the word type, please:\n')
         category = raw_input('\nEnter the category, please:\n')
+
+        if meaning:
+            add_score(3)
+        if english:
+            add_score()
+        if word_type:
+            add_score(0.5)
+        if category:
+            add_score(0.5)
+
         raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'english': english, 'relative_word':[],
                 'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [category] }
     save()
@@ -73,9 +86,15 @@ def d():
     'short for del'
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
+        temp_score = 0
+        for item in raw_dict[old_word]:
+            if raw_dict[old_word][item]:
+                temp_score += 1
+        add_score(-temp_score)
         raw_dict.pop(old_word)    # do something here
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
+
     save()
 
 def t():
@@ -88,6 +107,8 @@ def t():
                 raw_dict[old_word]['word_type'].append(word_type)
         except:
             raw_dict[old_word]['word_type'] = [word_type]
+        finally:
+            add_score(0.5)
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -134,6 +155,7 @@ def e():
     if old_word in raw_dict:
         english =  raw_input("Enter the English below and press ENTER when finished typing:\n\n")
         raw_dict[old_word]['english'] = english
+        add_score()
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -147,9 +169,11 @@ def m():
             if confirm == 'y':
                 meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
                 raw_dict[old_word]['meaning'] = meaning
+                add_score(3)
         else:
             meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
             raw_dict[old_word]['meaning'] = meaning
+            add_score(3)
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -160,6 +184,7 @@ def s():
     if old_word in raw_dict:
         synonym =  raw_input("Enter the Synonym below and press ENTER when finished typing:\n\n")
         raw_dict[old_word].get('synonym').append(synonym)
+        add_score()
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -171,6 +196,8 @@ def r(nc=0):
         relative_word =  raw_input("Enter the Relative_Word below and press ENTER when finished typing:\n\n")
         if relative_word not in raw_dict[old_word].get('relative_word'):
             raw_dict[old_word].get('relative_word').append(relative_word)
+            add_score()
+
         if raw_dict.get(relative_word):
             if old_word not in raw_dict[relative_word]['relative_word']:
                 raw_input[relative_word]['relative_word'].append(old_word)
@@ -190,6 +217,7 @@ def r(nc=0):
             raw_dict[relative_word] = { 'meaning': '', 'synonym': [], 'english': '', 'relative_word':[old_word],
                     'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [] }
 
+
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -200,6 +228,7 @@ def p():
     if old_word in raw_dict:
         pronounciation =  raw_input("Enter the Pronounciation below and press ENTER when finished typing:\n\n")
         raw_dict[old_word]['pronounciation'] = pronounciation
+        add_score(1.5)
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -209,6 +238,7 @@ def f(score=1,):
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         raw_dict[old_word]['forget_score'] += score
+        add_score(-2)
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
@@ -240,6 +270,7 @@ def v(rev=True, SS=False, L2=False, T=False, wt='', cat='', sl=0, exam=0):
     else:
         for i in target:
             print i, raw_dict[i].get('forget_score')
+
 
 def sort_by_score(target, rev, sl):
     temp_L = []
@@ -278,7 +309,7 @@ def sort_by_category(target, category):
     return temp_L
 
 def h():
-    """ show IPA(International Phonetic Alphabet) mapping """
+    """Short for help, show IPA(International Phonetic Alphabet) mapping """
     print """
               E for ə
               A for ʌ
@@ -294,7 +325,7 @@ def h():
 
 def save():
     f = open('Spanish_cache.py', 'w')
-    f.write('import datetime\nraw_dict=%r' % raw_dict)
+    f.write('import datetime\nraw_dict=%r\nscore=%d' % (raw_dict, score))
     f.close()
 
     f2 = open('S_mobile', 'w')
@@ -310,11 +341,14 @@ def save():
             english=' <' + english + '>'
         if not word_type:
             word_type=''
+        if pronounciation:      # No pronounciation for Spanish mobile version
+            pronounciation = ' [' + pronounciation + ']'
         if meaning:
             meaning =  '   \"' + meaning + '\"'
 
         f2.write('{word}  {english}{meaning}\n'.format(word=word,  english=english, meaning=meaning))
     f2.close()
+
 
 def se(quit_sig=False):
     ' short for save exit, actually it is often used for backup'
@@ -328,7 +362,7 @@ def se(quit_sig=False):
 
 def exam(rev=True, L2=False, T=False, target = [] ):
     """Default to rank from the word you forgot the most times, pass any value to rank from reverse
-    L2 = bilingual, rev = Reverse, T = by time order,
+    L2 = bilingual, rev = Reverse, T = by time order, you can use v() to pass a filtered target list to exam()
     """
 
     target = target or sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time', datetime.datetime(2006, 07, 11, 21, 13, 29, 296140)) if T else raw_dict[x].get('forget_score') , reverse = rev)
@@ -346,8 +380,10 @@ def exam(rev=True, L2=False, T=False, target = [] ):
             answer = raw_input('>>>')
             if answer == raw_dict[i]['english']:
                 raw_dict[i]['forget_score'] -= 1
+                add_score(1)
             else:
                 raw_dict[i]['forget_score'] += 1
+                add_score(-2)
                 temp_L.append(i)
                 print '\n'
                 g(old_word=i)
@@ -359,8 +395,10 @@ def exam(rev=True, L2=False, T=False, target = [] ):
             answer = raw_input('type y for yes, and others for no: ')
             if answer == 'y' or answer == 'yes':
                 raw_dict[i]['forget_score'] -= 1
+                add_score(1)
             else:
                 raw_dict[i]['forget_score'] += 1
+                add_score(-2)
                 temp_L.append(i)
                 print '\n'
                 g(old_word=i)
@@ -382,10 +420,8 @@ def get_current_category():
 
     return (" ").join([i for i in S])
 
-
 def c():
     """ Short for category """
-    # need to be reviewed throughly
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         if raw_dict[old_word].get('category'):
@@ -399,16 +435,33 @@ def c():
                 category =  raw_input("Enter your category below and press ENTER when finished typing:\n\n")
                 if not category in raw_dict[old_word]['category']:
                     raw_dict[old_word].setdefault['category'] = category
+                add_score(0.5)
         else:
             raw_dict[old_word]['category'] = []
             current_category = get_current_category()
             print "Current exists categories are: ", current_category
             category =  raw_input("Enter your category below and press ENTER when finished typing:\n\n")
-            raw_dict[old_word]['category'] = [category]
-
+            raw_dict[old_word].setdefault['category'] = category
+            add_score(0.5)
     else:
         print " The word you are searching for is not in this dict now, please check your spelling."
 
     save()
+
+def add_score(num=1):
+    global score
+    score += num
+
+def x():
+    'x is short for experience'
+    print "TU PUNTO: ", score
+
+def show_init_score():   # single-use function
+    temp_score = 0
+    for word in raw_dict:
+        for item in raw_dict[word]:
+            if raw_dict[word][item]:
+                temp_score += 1
+    print temp_score
 
 init()
