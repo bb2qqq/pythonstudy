@@ -159,7 +159,7 @@ def g(old_word=''):
         print " The word you are searching for is not in this dict now, please check your spelling."
 
 def convert(pronounciation):
-    return pronounciation.replace('Z','ð').replace('SH','ʃ').replace('S','s').replace('J','ʒ').replace('G','dʒ').replace('CH','tʃ').replace('E','ə').replace('A','ʌ').replace('O','ɔ').replace('N','ŋ')
+    return pronounciation.replace('Z','ð').replace('SH','ʃ').replace('S','θ').replace('J','ʒ').replace('G','dʒ').replace('CH','tʃ').replace('E','ə').replace('A','ʌ').replace('O','ɔ').replace('N','ŋ')
 
 def e(b=0):
     'short for español if you are in EnglishDict, short for english if you are in SpanishDict,  b stands for bilingual'
@@ -172,13 +172,13 @@ def e(b=0):
         if b:
             from Spanish_cache import raw_dict as spanish_raw_dict, score as spanish_score
             if spanish and spanish not in spanish_raw_dict:
-                word_type = raw_dict['old_word'].get('word_type', [])
-                category = raw_dict['old_word'].get('old_word', [])
+                word_type = raw_dict[old_word].get('word_type', [])
+                category = raw_dict[old_word].get('category', [])
                 spanish_raw_dict[spanish] = { 'meaning': '', 'synonym': [], 'english': old_word, 'relative_word':[],
                 'pronounciation':'', 'word_type': word_type, 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': category}
 
                 f = open('Spanish_cache.py', 'w')
-                f.write('import datetime\nraw_dict=%r\nscore=%d' % (spa_raw_dict, spanish_score))
+                f.write('import datetime\nraw_dict=%r\nscore=%d' % (spanish_raw_dict, spanish_score))
                 f.close()
 
     else:
