@@ -51,7 +51,7 @@ def a():
 
         if meaning:
             add_score(3)
-        if spanish:
+        if english:
             add_score()
         if word_type:
             add_score(0.5)
@@ -449,6 +449,7 @@ def c():
     save()
 
 def add_score(num=1):
+    global score
     score += num
 
 def x():
