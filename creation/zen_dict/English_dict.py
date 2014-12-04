@@ -528,8 +528,9 @@ def init_exam():
         exam()
 
     else:
-        print "\nANYWAY, BUDDY, YOU CAN'T ESCAPE OF THIS EXAM, NOW TAKE IT!"
-        exam()
+        pass
+#        print "\nANYWAY, BUDDY, YOU CAN'T ESCAPE OF THIS EXAM, NOW TAKE IT!"
+#        exam()
 
 
 init()

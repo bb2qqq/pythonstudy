@@ -529,8 +529,9 @@ def init_exam():
         exam()
 
     else:
-        print "\nDE TODO MODO VAS A TOMAR ETSE EXAMEN, DISFRUTALO!"
-        exam()
+        pass
+#        print "\nDE TODO MODO VAS A TOMAR ETSE EXAMEN, DISFRUTALO!"
+#        exam()
 
 
 init()
