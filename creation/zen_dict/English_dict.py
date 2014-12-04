@@ -513,4 +513,24 @@ def show_init_score():   # single-use function
                 temp_score += 1
     print temp_score
 
+def init_exam():
+    n = 0
+    for i in raw_dict:
+        score = raw_dict[i].get('forget_score', 0)
+        if score >= 1:
+            n += 1
+    if n > 15:
+        print "\n\n\n\n\n YOU HAVE MORE THAN 15 FORGOTTEN WORDS, PLEASE DO THE EXAM RIGHT NOW. \n\n\n\n\n"
+
+    choice = raw_input("Do the exam right now?")
+
+    if choice in ['y', 'yes', 'sí', 'OK', 'vale', 'fine']:
+        exam()
+
+    else:
+        print "\nANYWAY, BUDDY, YOU CAN'T ESCAPE OF THIS EXAM, NOW TAKE IT!"
+        exam()
+
+
 init()
+init_exam()
