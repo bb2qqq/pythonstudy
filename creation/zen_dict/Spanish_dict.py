@@ -161,7 +161,7 @@ def g(old_word=''):
 def convert(pronounciation):
     return pronounciation.replace('Z','ð').replace('SH','ʃ').replace('S','θ').replace('J','ʒ').replace('G','dʒ').replace('CH','tʃ').replace('E','ə').replace('A','ʌ').replace('O','ɔ').replace('N','ŋ')
 
-def e():
+def e(b=0):
     'short for español if you are in EnglishDict, short for english if you are in SpanishDict'
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
