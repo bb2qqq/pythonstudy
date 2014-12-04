@@ -36,6 +36,7 @@ def init():
 def a(b=0):
     'short for add, b is short for bilingual'
     new_word = raw_input('Enter the word:')
+    new_word = spanish_convert(new_word)
     if new_word:
         add_score()
 
@@ -46,6 +47,8 @@ def a(b=0):
         if not new_word:
             return
         english = raw_input('\nEnter the English corresponde word, please:\n')
+
+
         word_type = raw_input('\nEnter the word type, please:\n')
         category = raw_input('\nEnter the category, please:\n')
 
@@ -74,6 +77,11 @@ def a(b=0):
 
     save()
 
+def spanish_convert(target):
+    """  In case you don't have spanish input on your machine, you can use a,e,i,o,u + ' to add stress, and n + ~ to convert it to ñ """
+    target = target.replace("a'",'á',).replace("e'",'é',).replace("i'",'í',).replace("o'",'ó',).replace("u'",'ú',).replace("n~",'ñ',)
+    return target
+
 def wash_ass(target_dict):
     for old_word in target_dict:
         if type(raw_dict[old_word]) is list:
@@ -97,6 +105,7 @@ def wash_ass(target_dict):
 def d():
     'short for del'
     old_word = raw_input('Enter the word:')
+    old_word = spanish_convert(old_word)
     if old_word in raw_dict:
         temp_score = 0
         for item in raw_dict[old_word]:
@@ -128,6 +137,7 @@ def t():
 def g(old_word=''):
     'short for get'
     old_word = old_word or raw_input('Enter the word:')
+    old_word = spanish_convert(old_word)
     if old_word in raw_dict:
         meaning = raw_dict[old_word].get('meaning')
         synonym = raw_dict[old_word].get('synonym')
@@ -136,6 +146,7 @@ def g(old_word=''):
         pronounciation = raw_dict[old_word].get('pronounciation')
         relative_word = raw_dict[old_word].get('relative_word')
         word_type = raw_dict[old_word].get('word_type')
+
         create_time = raw_dict[old_word].get('create_time')
         category = raw_dict[old_word].get('category')
 
@@ -164,8 +175,10 @@ def convert(pronounciation):
 def e(b=0):
     'short for español if you are in EnglishDict, short for english if you are in SpanishDict'
     old_word = raw_input('Enter the word:')
+    old_word = spanish_convert(old_word)
     if old_word in raw_dict:
         english =  raw_input("Enter the English below and press ENTER when finished typing:\n\n")
+
         raw_dict[old_word]['english'] = english
         add_score()
 
@@ -194,10 +207,12 @@ def m():
             confirm = raw_input('The current meaning is: %s, press y to continue, press other to quit\n'  % raw_dict[old_word].get('meaning'))
             if confirm == 'y':
                 meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
+                meaning = spanish_convert(meaning)
                 raw_dict[old_word]['meaning'] = meaning
                 add_score(0.5)
         else:
             meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
+            meaning = spanish_convert(meaning)
             raw_dict[old_word]['meaning'] = meaning
             add_score(3)
     else:
@@ -209,6 +224,7 @@ def s():
     old_word = raw_input('Enter the word:')
     if old_word in raw_dict:
         synonym =  raw_input("Enter the Synonym below and press ENTER when finished typing:\n\n")
+        synonym = spanish_convert(synonym)
         raw_dict[old_word].get('synonym').append(synonym)
         add_score()
     else:
@@ -218,15 +234,17 @@ def s():
 def r(nc=0):
     'short for relative words, nc stands for no clone, which means do not try to make new word of the typing relative word'
     old_word = raw_input('Enter the word:')
+    old_word = spanish_convert(old_word)
     if old_word in raw_dict:
         relative_word =  raw_input("Enter the Relative_Word below and press ENTER when finished typing:\n\n")
+        relative_word = spanish_convert(relative_word)
         if relative_word not in raw_dict[old_word].get('relative_word'):
             raw_dict[old_word].get('relative_word').append(relative_word)
             add_score()
 
         if raw_dict.get(relative_word):
             if old_word not in raw_dict[relative_word]['relative_word']:
-                raw_input[relative_word]['relative_word'].append(old_word)
+                raw_dict[relative_word]['relative_word'].append(old_word)
 
         if nc:
             return
@@ -251,6 +269,7 @@ def r(nc=0):
 def p():
     'short for pronounciation, for ENGLISH word only'
     old_word = raw_input('Enter the word:')
+    old_word = spanish_convert(old_word)
     if old_word in raw_dict:
         pronounciation =  raw_input("Enter the Pronounciation below and press ENTER when finished typing:\n\n")
         raw_dict[old_word]['pronounciation'] = pronounciation
@@ -262,6 +281,7 @@ def p():
 def f(score=1,):
     """short for forget, default score is 1, if you want to lower a word\'s socre, just pass negative number to this func"""
     old_word = raw_input('Enter the word:')
+    old_word = spanish_convert(old_word)
     if old_word in raw_dict:
         raw_dict[old_word]['forget_score'] += score
         add_score(-2)
@@ -405,6 +425,7 @@ def exam(rev=True, L2=False, T=False, target = [] ):
             print '\n'
             print 'Please type the Spanish/English version of: ', i
             answer = raw_input('>>>')
+            answer = spanish_convert(answer)
             if answer == raw_dict[i]['english']:
                 raw_dict[i]['forget_score'] -= 1
                 add_score(1)
@@ -420,6 +441,7 @@ def exam(rev=True, L2=False, T=False, target = [] ):
             print '\n'
             print 'Do you remember: ',i, '?'
             answer = raw_input('type y for yes, and others for no: ')
+            answer = spanish_convert(answer)
             if answer == 'y' or answer == 'yes':
                 raw_dict[i]['forget_score'] -= 1
                 add_score(1)
@@ -450,6 +472,7 @@ def get_current_category():
 def c():
     """ Short for category """
     old_word = raw_input('Enter the word:')
+    old_word = spanish_convert(old_word)
     if old_word in raw_dict:
         if raw_dict[old_word].get('category'):
             print 'Current categories for this word:', '\t'.join(raw_dict[old_word]['category']), '. Type y to add new category, type others to quit'
