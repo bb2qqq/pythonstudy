@@ -4,7 +4,7 @@ set expandtab
 set tabstop=8
 set shiftwidth=4
 set softtabstop=4
-"set autoindent
+set autoindent
 set number
 set title
 vnoremap <C-c> "*y
@@ -28,10 +28,10 @@ nnoremap <C-L> <C-W><C-L>
 nnoremap <C-H> <C-W><C-H>
 
 " resize current buffer by +/- 5
-nnoremap <A-U> :vertical resize -5<cr>
-nnoremap <A-I> :resize +5<cr>
-nnoremap <A-O> :resize -5<cr>
-nnoremap <A-P> :vertical resize +5<cr>
+nnoremap <F1> :vertical resize -5<cr>
+nnoremap <F2> :resize +5<cr>
+nnoremap <F3> :resize -5<cr>
+nnoremap <F4> :vertical resize +5<cr>
 
 "Taglist settings
 ab tlg TlistToggle

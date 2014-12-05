@@ -60,9 +60,12 @@ alias abroad2='ssh admin@203.90.239.49'
 alias abroad3='ssh admin@203.90.239.46'
 alias abroad='ssh admin@203.90.236.146'
 alias qiku='ssh admin@182.254.166.54'
-
+alias zd='pushd ~/pythonstudy/creation/zen_dict'
+alias alg='pushd ~/pythonstudy/tech_lab/algorithm'
+alias cien='pushd ~/pythonstudy/grocery/literatura/master_obra'
 alias py='python'
 alias ipy='ipython -i'
+alias lib='pushd /home/zen/pythonstudy/grocery/library'
 # Zen #
 
 case "$TERM" in
