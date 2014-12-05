@@ -429,6 +429,8 @@ def exam(rev=True, L2=False, T=False, target = [] ):
             if answer == raw_dict[i]['english']:
                 raw_dict[i]['forget_score'] -= 1
                 add_score(1)
+                print '\n'
+                g(old_word=i)
             else:
                 raw_dict[i]['forget_score'] += 1
                 add_score(-2)
@@ -445,6 +447,8 @@ def exam(rev=True, L2=False, T=False, target = [] ):
             if answer == 'y' or answer == 'yes':
                 raw_dict[i]['forget_score'] -= 1
                 add_score(1)
+                print '\n'
+                g(old_word=i)
             else:
                 raw_dict[i]['forget_score'] += 1
                 add_score(-2)
@@ -516,17 +520,20 @@ def show_init_score():   # single-use function
 
 def init_exam():
     n = 0
+    x = 0
     for i in raw_dict:
         score = raw_dict[i].get('forget_score', 0)
         if score >= 1:
             n += 1
-    if n > 15:
-        print "\n\n\n\n\n AHORA TIENES MAS DE 15 PALABRAS OLVIDO, HAGA EL EXAMEN POR FAVOR  \n\n\n\n\n"
+        if score == 0:
+            x += 1
+    if n > 15 or x > 20:
+        print "\n\n\n\n\n AHORA TIENES MAS DE %d PALABRAS OLVIDOS Y %d PALABRAS DESMEMORIZADOS, HAGA EL EXAMEN POR FAVOR  \n\n\n\n\n" %(n,x)
 
-    choice = raw_input("HAGA EL EXAMEN AHORA?")
+        choice = raw_input("HAGA EL EXAMEN AHORA?")
 
-    if choice in ['y', 'yes', 'sí', 'OK', 'vale', 'fine']:
-        exam()
+        if choice in ['y', 'yes', 'sí', 'OK', 'vale', 'fine']:
+            exam()
 
     else:
         pass

@@ -428,6 +428,8 @@ def exam(rev=True, L2=False, T=False, target = []):
             if answer == raw_dict[i]['spanish']:
                 raw_dict[i]['forget_score'] -= 1
                 add_score(1)
+                print '\n'
+                g(old_word=i)
             else:
                 raw_dict[i]['forget_score'] += 1
                 add_score(-2)
@@ -444,6 +446,8 @@ def exam(rev=True, L2=False, T=False, target = []):
             if answer == 'y' or answer == 'yes':
                 raw_dict[i]['forget_score'] -= 1
                 add_score(1)
+                print '\n'
+                g(old_word=i)
             else:
                 raw_dict[i]['forget_score'] += 1
                 add_score(-2)
@@ -515,17 +519,20 @@ def show_init_score():   # single-use function
 
 def init_exam():
     n = 0
+    x = 0
     for i in raw_dict:
         score = raw_dict[i].get('forget_score', 0)
         if score >= 1:
             n += 1
-    if n > 15:
-        print "\n\n\n\n\n YOU HAVE MORE THAN 15 FORGOTTEN WORDS, PLEASE DO THE EXAM RIGHT NOW. \n\n\n\n\n"
+        if score == 0:
+            x += 1
+    if n > 15 or x > 20:
+        print "\n\n\n\n\n YOU HAVE %d FORGOTTEN WORDS AND %d UNMEMORIZED WORDS, PLEASE DO THE EXAM RIGHT NOW. \n\n\n\n\n" % (n, x)
 
-    choice = raw_input("Do the exam right now?")
+        choice = raw_input("Do the exam right now?")
 
-    if choice in ['y', 'yes', 'sí', 'OK', 'vale', 'fine']:
-        exam()
+        if choice in ['y', 'yes', 'sí', 'OK', 'vale', 'fine']:
+            exam()
 
     else:
         pass
