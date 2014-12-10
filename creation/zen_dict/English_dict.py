@@ -465,12 +465,16 @@ def exam(rev=True, L2=False, T=False, target = []):
 def get_current_category():
     L = []
     for i in raw_dict:
-        if raw_dict[i].get('category'):
-            L.extend([raw_dict[i]['category']])
+        category = raw_dict[i].get('category')
+        if category:
+            if type(category) == list:
+                L.extend(raw_dict[i]['category'])
+            elif type(category) == str:
+                L.append(raw_dict[i]['category'])
 
     S = set(L)
 
-    return (" ").join([i for i in S])
+    return ("\t").join([i for i in S])
 
 def c():
     """ Short for category """
@@ -500,6 +504,11 @@ def c():
         print " The word you are searching for is not in this dict now, please check your spelling."
 
     save()
+
+def vc():
+    """ short for view category """
+    result =  get_current_category()
+    return result
 
 def add_score(num=1):
     global score
