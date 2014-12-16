@@ -1,6 +1,6 @@
 # coding:utf-8
 import sys
-from English_cache import raw_dict, score
+from English_cache import raw_dict, score, st_dict
 import datetime
 
 # Automatically load new words
@@ -105,6 +105,7 @@ def wash_ass(target_dict):
 def d():
     'short for del'
     old_word = raw_input('Enter the word:')
+
     if old_word in raw_dict:
         temp_score = 0
         for item in raw_dict[old_word]:
@@ -370,7 +371,7 @@ def h():
 
 def save():
     f = open('English_cache.py', 'w')
-    f.write('import datetime\nraw_dict=%r\nscore=%d' % (raw_dict, score))
+    f.write('import datetime\nraw_dict=%r\nscore=%d\nst_dict=%r' % (raw_dict, score, st_dict))
     f.close()
 
     f2 = open('E_mobile', 'w')
@@ -402,14 +403,33 @@ def se(quit_sig=False):
     f.write('\nlast_time=%r\n' % now)
     f.write('raw_dict=%r\n' % raw_dict)
     f.write('score=%r\n' % score)
+    f.write('st_dict=%r\n' % st_dict)
     f.close()
     if quit_sig:
         sys.exit(0)
 
-def exam(rev=True, L2=False, T=False, target = []):
+def exam(rev=True, L2=False, T=False, target = [], st=False):
     """Default to rank from the word you forgot the most times, pass any value to rank from reverse
-    L2 = bilingual, rev = Reverse, T = by time order, you can use v() to pass a filtered target list to exam()
+    L2 = bilingual, rev = Reverse, T = by time order, st = test Sentence, you can use v() to pass a filtered target list to exam()
     """
+
+    # sentence test begin
+
+    if st:
+        agent = show_st(exam=True)
+        for index, sentence in agent:
+            print sentence, '\n'
+            answer = raw_input('You remember this sentence?')
+            if answer in ['y', 'yes', 's', 'si']:
+                st_dict[index]['forget_score'] -= 1
+                add_score(1)
+            else:
+                st_dict[index]['forget_score'] += 1
+                add_score(-2)
+        save()
+        return
+
+    # sentence test end
 
     target = target or sorted(raw_dict.keys(), key=lambda x: raw_dict[x].get('create_time', datetime.datetime(2006, 07, 11, 21, 13, 29, 296140)) if T else raw_dict[x].get('forget_score') , reverse = rev)
 
@@ -440,7 +460,7 @@ def exam(rev=True, L2=False, T=False, target = []):
 
         else:
             print '\n'
-            print 'Do you remember: ',i, '?'
+            print 'Do you remember: ', i, '?'
             answer = raw_input('type y for yes, and others for no: ')
 
             if answer == 'y' or answer == 'yes':
@@ -456,7 +476,7 @@ def exam(rev=True, L2=False, T=False, target = []):
                 g(old_word=i)
 
     if temp_L:
-        print 'These are the words you failed in this exam, you can put more effort on them later.\n'
+        print 'These are the words you failed in this +xam, you can put more effort on them later.\n'
         for i in temp_L:
             print '\t\t', i
 
@@ -547,6 +567,37 @@ def init_exam():
         pass
 #        print "\nANYWAY, BUDDY, YOU CAN'T ESCAPE OF THIS EXAM, NOW TAKE IT!"
 #        exam()
+
+def st(d=False):
+    """ short for sentence, d = delete signal """
+    used_index = set(st_dict.keys())
+    index_pool = set(range(100000))
+    usable_index = index_pool - used_index
+    next_index = sorted(list(usable_index))[0]
+    sentence = raw_input('please type the sentence below:\n\n')
+
+    exist_sentence = set([x['sentence'] for x in st_dict.values()])
+
+    if sentence not in exist_sentence:
+        st_dict[next_index] = {'forget_score': 0, 'sentence': sentence}
+
+    save()
+
+def show_st(exam=False):
+
+    temp = []
+    for index in sorted(st_dict.keys(), key=lambda x: st_dict[x]['forget_score']):
+        sentence = st_dict[index]['sentence']
+
+        if not exam:
+            print 'index: ', index,'\n'
+            print sentence, '\n\n'
+
+        else:
+            temp.append((index, sentence))
+
+    if exam:
+        return temp
 
 
 init()
