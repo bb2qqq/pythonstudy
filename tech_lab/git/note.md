@@ -187,17 +187,3 @@ git add file_to
     * Tips: when viewing logs, under Unix, git will use vim to do the operation, so you can use  10j, 30k to move up and down.
     * Tips: Author is the one who wrote the code, commiter is the one who commit this code on a branch,
             They can be the same guy or not, in a huge project, someone will play a professioner reviewer and commiter role.
-
-
-
-
-
-
-
-
-
-
-
-
-
-

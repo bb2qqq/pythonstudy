@@ -1,3 +1,7 @@
+# alias which accepts parameters
+alias gc='git checkout $1'
+EXAMPLE: gc my_branch
+
 # Print server numbers in a column with your specified number range
 seq 163 180 | awk '{print "g"$1}'
 
