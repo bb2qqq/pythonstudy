@@ -66,16 +66,48 @@ def a(b=0):
 
         # When bilingual signal is True, create new world in the correspond dict.
     if b:
-        from English_cache import raw_dict as english_raw_dict, score as english_score
+        from English_cache import raw_dict as english_raw_dict, score as english_score, st_dict as english_st_dict
         if english and english not in english_raw_dict:
             english_raw_dict[english] = { 'meaning': '', 'synonym': [], 'spanish': new_word, 'relative_word':[],
             'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [category]}
 
             f = open('English_cache.py', 'w')
-            f.write('import datetime\nraw_dict=%r\nscore=%d' % (english_raw_dict, english_score))
+            f.write('import datetime\nraw_dict=%r\nscore=%d\nst_dict=%r' % (english_raw_dict, english_score, english_st_dict))
             f.close()
 
     save()
+
+def b(new_word=''):
+    """ b is short to make a word in bilingual dict(in both English dict and Spanish dict)"""
+
+    new_word = new_word or raw_input('Please enter the word you want to transfer:\n')
+
+    if new_word not in raw_dict:
+        print 'The word does not exist in this dict'
+        return
+    elif not raw_dict[new_word].get('spanish'):
+        print 'You did not add spanish correspondents for this word!'
+        return
+    else:
+        pass
+
+    meaning, synonym, spanish, forget_score, pronounciation, relative_word, word_type, create_time, category = g(new_word, data=True)
+
+
+    from English_cache import raw_dict as english_raw_dict, score as english_score, st_dict as english_st_dict
+    if english and english not in english_raw_dict:
+        english_raw_dict[english] = { 'meaning': '', 'synonym': synonym, 'english': new_word, 'relative_word': relative_word, 'pronounciation':pronounciation, 'word_type': word_type, 'forget_score': forget_score, 'create_time': datetime.datetime.now(), 'category': category}
+
+        f = open('English_cache.py', 'w')
+        f.write('import datetime\nraw_dict=%r\nscore=%d\nst_dict=%r' % (english_raw_dict, english_score, english_st_dict))
+        f.close()
+    else:
+        print "That word is already in the target dictionary!"
+        return
+
+
+    save()
+
 
 def spanish_convert(target):
     """  In case you don't have spanish input on your machine, you can use a,e,i,o,u + ' to add stress, and n + ~ to convert it to ñ """
@@ -134,8 +166,8 @@ def t():
         print " The word you are searching for is not in this dict now, please check your spelling."
     save()
 
-def g(old_word=''):
-    'short for get'
+def g(old_word='', data=False):
+    'short for get, data is the sig to demand return data of a word'
     old_word = old_word or raw_input('Enter the word:')
     old_word = spanish_convert(old_word)
     if old_word in raw_dict:
@@ -152,6 +184,11 @@ def g(old_word=''):
 
         print old_word
         print 'meaning:', meaning
+
+        # signal to demand return data
+        if data:
+            return meaning, synonym, english, forget_score, pronounciation, relative_word, word_type, create_time, category
+
         if synonym:
             print 'synonym:', synonym
         if english:
