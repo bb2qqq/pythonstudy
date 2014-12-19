@@ -130,6 +130,11 @@ git add file_to
     command: git log --pretty=oneline  * To view the Head and commit message only, in 1 line
     command: git log --pretty=short    * view commit message, Head, author, in 3 line, (full, fuller) instead of short for more info
 
+    command: git log --since=2.weeks   * view commit history in specified time range
+    command: git log --since="2 years 6 months 5 days 1 minute ago"     * A variation
+    command: git log --since='2014-12-17'   * Another variation
+
+
     command: git log --pretty=format:'%h  %ar %<(13) %an "%s"' --graph * A nice magic one liner
     * --graph option shows a primitive git graphical flow
 
