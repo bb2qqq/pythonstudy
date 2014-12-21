@@ -22,6 +22,8 @@ class BaseDict(object):
         self.st_dict = st_dict
         self.exam_rate = 30
 
+        self.__dict__.update({})    # make abbreviation for methods, make the code more readable, preserved for now
+
         self.init()
         self.init_exam()
 
