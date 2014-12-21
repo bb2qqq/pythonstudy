@@ -500,10 +500,10 @@ def exam(rev=True, L2=False, T=False, target = [], st=False ):
 
         else:
             print '\n'
-            print 'Do you remember: ',i, '?'
+            print 'Recuerdas este?   ',i
             answer = raw_input('type y for yes, and others for no: ')
             answer = spanish_convert(answer)
-            if answer == 'y' or answer == 'yes':
+            if answer in ['y', 'yes', 's', 'si']:
                 raw_dict[i]['forget_score'] -= 1
                 add_score(1)
                 print '\n'
@@ -600,7 +600,7 @@ def init_exam():
 
         choice = raw_input("HAGA EL EXAMEN AHORA?")
 
-        if choice in ['y', 'yes', 'sí', 'OK', 'vale', 'fine']:
+        if choice in ['y', 'yes', 's', 'sí', 'OK', 'vale', 'fine']:
             exam()
 
     else:

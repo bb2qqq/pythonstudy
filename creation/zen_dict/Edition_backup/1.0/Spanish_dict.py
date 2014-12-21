@@ -44,6 +44,7 @@ def a(b=0):
         print 'The word you are trying to add is already in the dict, please use other methods to modify it.'    # do something here
     else:
         meaning = raw_input("Enter the Meaning below and press ENTER when finished typing:\n\n")
+        meaning = spanish_convert(meaning)
         if not new_word:
             return
         english = raw_input('\nEnter the English corresponde word, please:\n')
@@ -85,13 +86,13 @@ def b(new_word=''):
     if new_word not in raw_dict:
         print 'The word does not exist in this dict'
         return
-    elif not raw_dict[new_word].get('spanish'):
+    elif not raw_dict[new_word].get('english'):
         print 'You did not add spanish correspondents for this word!'
         return
     else:
         pass
 
-    meaning, synonym, spanish, forget_score, pronounciation, relative_word, word_type, create_time, category = g(new_word, data=True)
+    meaning, synonym, english, forget_score, pronounciation, relative_word, word_type, create_time, category = g(new_word, data=True)
 
 
     from English_cache import raw_dict as english_raw_dict, score as english_score, st_dict as english_st_dict
@@ -172,6 +173,8 @@ def g(old_word='', data=False):
     old_word = spanish_convert(old_word)
     if old_word in raw_dict:
         meaning = raw_dict[old_word].get('meaning')
+        meaning = spanish_convert(meaning)
+
         synonym = raw_dict[old_word].get('synonym')
         english = raw_dict[old_word].get('english')
         forget_score = raw_dict[old_word].get('forget_score')
