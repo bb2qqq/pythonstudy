@@ -4,17 +4,57 @@ from English_cache import raw_dict, score, st_dict
 import datetime
 import pickle
 import random
-
+import importlib
+import pprint
 """ 现在的问题，每次改动时都需要对比改动两个文件，比较麻烦, 希望可以做一个模板词典，支持任意个语言之间的通用化。 当然，需要将之前版本的数据导入
 确保读档时不会初始化对象
 """
-def get_dict(first_lan, second_lan):
+def get_dict(transfer=False):
     """ Using for check if target_dict exists, if not, make one, else, get it. All dict name are represent in English. """
-    pass
+    global __doc__
+
+    first_lan = raw_input('Please type in the first language of the dict:\n')
+    second_lan = raw_input('Please type in the second language of the dict:\n')
+    avail_language = ['Spanish', 'English', 'Chinese', 'French', 'German', 'Arabic', 'Russian', 'Portuguese', 'Japanese', 'Korean', 'Italian', 'Hindi']
+    if first_lan not in avail_language or second_lan not in avail_language:
+        print 'The language you typed in is not supported by this dict system, please select from the following list, if you still have doubts, try contact marioykuky@gmail.com'
+        pprint(avail_language)
+        get_dict()
+
+    __doc__ += '\n This is a %s_%s_dict made by you and zen_dict system ' %  (first_lan, second_lan)
+
+
+    # compatibility with old code
+    if transfer:
+        if first_lan == 'English' and second_lan == 'Spanish':
+            agent = importlib.import_module('English_cache')
+
+        if first_lan == 'Spanish' and second_lan == 'English':
+            agent = importlib.import_module('Spanish_cache')
+
+        current_dict = BaseDict(first_lan, second_lan, agent.raw_dict, agent.score, agent.st_dict)
+
+    else:
+        try:
+            agent = importlib.import_module('%s_%s_cache' % (first_lan, second_lan))
+            current_dict = agent.__dict__['%s_%s_cahe' % (first_lan, second_lan)]
+        except:
+            current_dict = BaseDict(first_lan, {}, second_lan, 0, {})
+
+    globals().update({'a': current_dict.a, 'b': current_dict.b, 'd': current_dict.d, 't': current_dict.t,
+                    'g': current_dict.g, 'sl': current_dict.sl, 'm': current_dict.m, 's': current_dict.s,
+                    'r': current_dict.r, 'p': current_dict.p, 'f': current_dict.f, 'v': current_dict.v,
+                    'h': current_dict.h,  'c': current_dict.c, 'x': current_dict.x, 'se': current_dict.se,
+                    'exam': current_dict.exam, 'save': current_dict.save,
+                     })
+
+    print __doc__
+
+
 
 
 class BaseDict(object):
-    def __init__(first_lan, second_lan, raw_dict, score, st_dict):
+    def __init__(self, first_lan, second_lan, raw_dict, score, st_dict):
         self.first_lan = first_lan
         self.second_lan = second_lan
         self.raw_dict = raw_dict
@@ -28,7 +68,7 @@ class BaseDict(object):
         self.init_exam()
 
     # Automatically load new words
-    def init():
+    def init(self):
         f=open('raw', 'r')
         for i in f:
             i = i.rstrip('\n')
@@ -98,7 +138,7 @@ class BaseDict(object):
             # When bilingual signal is True, create new world in the correspond dict.
             # ? Here comes the issue, how to call another object add the word, and save it?
         if b:
-            sec_dict = get_dict(second_lan, first_lan)
+            sec_dict = get_dict(self.second_lan, self.first_lan)
             if sl_word and sl_word not in sec_dict.raw_dict:
                 sec_dict.raw_dict[sl_word] = { 'meaning': '', 'synonym': [], 'sl_word': new_word, 'relative_word':[], 'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [category]}
                 sec_dict.save()
@@ -124,7 +164,7 @@ class BaseDict(object):
 
         meaning, synonym, sl_word, forget_score, pronounciation, relative_word, word_type, create_time, category = self.g(new_word, data=True)
 
-        sec_dict = get_dict(second_lan, first_lan)
+        sec_dict = get_dict(self.second_lan, self.first_lan)
         if sl_word and sl_word not in sec_dict.raw_dict:
             sec_dict.raw_dict[sl_word] = { 'meaning': '', 'synonym': synonym, 'english': new_word, 'relative_word': relative_word, 'pronounciation':pronounciation, 'word_type': word_type, 'forget_score': forget_score, 'create_time': datetime.datetime.now(), 'category': category}
 
@@ -413,11 +453,11 @@ class BaseDict(object):
     def save(self):
         """ Emobile is a temporary solution for my study on mobiles """
         saving_data = pickle.dumps(self)
-        f = open('%s_cache.py' % first_lan, 'w')
-        f.write('%s_cache=%r' % (first_lan, saving_data))
+        f = open('%s_%s_cache.py' % (self.first_lan, self.second_lan), 'w')
+        f.write('%s_%s_cache=%r' % (self.first_lan, self.second_lan, saving_data))
         f.close()
 
-        f2 = open('%s_mobile' % first_lan, 'w')
+        f2 = open('%s_mobile' % self.first_lan, 'w')
         target = self.v(exam=1)
         for i in target:
             word = i
@@ -445,7 +485,7 @@ class BaseDict(object):
         now = str(datetime.datetime.now())[:19]
         saving_data = pickle.dumps(self)
         f.write('\nlast_time=%r\n' % now)
-        f.write('sig=%s_%s_dict\n' % (first_lan, second_lan))
+        f.write('sig=%s_%s_dict\n' % (self.first_lan, self.second_lan))
         f.write('data=%r\n' % saving_data)
         f.close()
         if quit:
@@ -600,7 +640,7 @@ class BaseDict(object):
         result =  self.get_current_category()
         return result
 
-    def self.add_score(self, num=1):
+    def add_score(self, num=1):
         self.score += num
 
     def x(self):
@@ -676,4 +716,4 @@ class BaseDict(object):
         if exam:
             return temp
 
-
+get_dict(transfer=True)
