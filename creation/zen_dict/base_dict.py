@@ -1,10 +1,17 @@
 # coding:utf-8
 import sys
+from sys import argv
 import datetime
 import pickle
 import random
 import importlib
 import pprint
+
+try:
+    sig = argv[1]
+except:
+    sig = ''
+
 """ 现在的问题，每次改动时都需要对比改动两个文件，比较麻烦, 希望可以做一个模板词典，支持任意个语言之间的通用化。 当然，需要将之前版本的数据导入确保读档时不会初始化对象 """
 def get_dict(first_lan='', second_lan='', transfer=False):
     """ Using for check if target_dict exists, if not, make one, else, get it. All dict name are represent in English. """
@@ -34,15 +41,16 @@ def get_dict(first_lan='', second_lan='', transfer=False):
     else:
         try:
             agent = importlib.import_module('%s_%s_cache' % (first_lan, second_lan))
-            current_dict = agent.__dict__['%s_%s_cahe' % (first_lan, second_lan)]
+            current_dict = pickle.loads(agent.__dict__['%s_%s_cache' % (first_lan, second_lan)])
         except:
-            current_dict = BaseDict(first_lan, {}, second_lan, 0, {})
+            print 'exept happend'
+            current_dict = BaseDict(first_lan, second_lan, {}, 0, {})
 
     globals().update({'a': current_dict.a, 'b': current_dict.b, 'd': current_dict.d, 't': current_dict.t,
                     'g': current_dict.g, 'sl': current_dict.sl, 'm': current_dict.m, 's': current_dict.s,
                     'r': current_dict.r, 'p': current_dict.p, 'f': current_dict.f, 'v': current_dict.v,
                     'h': current_dict.h,  'c': current_dict.c, 'x': current_dict.x, 'se': current_dict.se,
-                    'exam': current_dict.exam, 'save': current_dict.save,
+                    'exam': current_dict.exam, 'save': current_dict.save, 'raw_dict': current_dict.raw_dict,
                      })
 
     print __doc__
@@ -61,11 +69,13 @@ class BaseDict(object):
         self.exam_rate = 30
 
         self.__dict__.update({})    # make abbreviation for methods, make the code more readable, preserved for now
+
         if wash_ass:
             self.wash_ass()
 
+        if first_lan in ['English', 'Spanish']:
+            self.init()
 
-        #self.init()
         self.init_exam()
 
 
@@ -82,15 +92,20 @@ class BaseDict(object):
 
         self.save()
 
-    # Automatically load new words
+    # Automatically load new words in a brief file
     def init(self):
         f=open('raw', 'r')
         for i in f:
             i = i.rstrip('\n')
             i = i.split('-')
             if len(i) >= 2:
-                En = i[0]
-                Es = i[1]
+                if self.first_lan == 'English':
+                    En = i[0]
+                    Es = i[1]
+                if self.first_lan == 'Spanish':     # still En is i[0], this is a tricky to keep other structure unmodified
+                    En = i[1]
+                    Es = i[0]
+
                 category = []
                 word_type = ''
                 if len(i) >=3:
@@ -734,4 +749,10 @@ class BaseDict(object):
         if exam:
             return temp
 
-get_dict()
+if sig == 's':
+    get_dict('Spanish', 'English')
+elif sig == 'e':
+    get_dict('English', 'Spanish')
+else:
+    get_dict()
+

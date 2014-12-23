@@ -18,3 +18,9 @@ git log --before='2013-12-01' --no-merges                       # Show git commi
 
 
 git rm $(git ls-files --deleted)                                # git removing all deleted files
+
+
+git remote show/add/rename/rm                                   # git remote operations
+
+git fetch remote_name remote_branch_name                        # git remote data transfer
+git pull  remote_name remote_branch_name
