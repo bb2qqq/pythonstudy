@@ -1,0 +1,59 @@
+Recursion分为两部分： 基准条件 和 递归部分， 递归部分依据规则进行某种自身调用，直到达到基准条件，然后停止。
+
+
+Bash传列表参数，在python里eval后，所有的字符表达会自动默认为数字！
+如在bash里执行 python test.py ["100", "200"]
+这个列表在py文件里eval后是 [100, 200]! 不信可以去试！
+
+
+数据先用pickle变成stream流，转完了再存进redis
+需要时从redis取出相应文件再dump
+
+merge遇冲突全局搜索HEAD和其对应下划线
+
+后端设计，models层最重要，这个出来后，其他的logic层和view层自然而然就浮现出来了。数据结构很重要，从几十万级的量级去考虑
+
+supervisorlog里面有错误信息，很好用的，记录了具体python进程处理请求时遇到的问题
+
+命名时就以程序易排序的方式命名，如吴伟的'hwa0'到'hwa9'再到'hwb0'
+
+在文档说明中表明各类属性的类型对于阅读理解代码很有帮助。
+
+能够统一的值最好都用一个变量表示。不要到处用常量，这样方便统一修改。
+
+吴伟为了统计数据的方便，主动造锤子，建了一个redis_key，来记录每日登陆的uid, 因为他的主动性，让记录留存变得简单，这就是我和他的差距。主动性不够啊。
+
+用时间划分天数时最好选择半开区间，即 00:00 < time <= 24:00, 不然在0点0分会重复取数据
+
+
+
+pickle的储存是相对依赖，loads的时候，如果相关环境不存在，就会报错，请看:
+import pickle
+class A():
+	a = ‘a’
+b = A()
+b.a = ‘bbb’
+pickle.dumps(b)
+"(i__main__\nA\np0\n(dp1\nS'a'\np2\nS'bbb'\np3\nsb."
+
+再开一个python命令行，输入
+import pickle
+b = pickle.loads("(i__main__\nA\np0\n(dp1\nS'a'\np2\nS'bbb'\np3\nsb.")
+AttributeError: 'module' object has no attribute 'A'
+
+报错了。让我们再来定义一个类A
+class A():
+    x = ‘yoyo’
+b = pickle.loads("(i__main__\nA\np0\n(dp1\nS'a'\np2\nS'bbb'\np3\nsb.")
+b.a 
+‘bbb’
+b.x
+‘yoyo’
+
+聪明的读者，你看明白了吗？
+
+
+
+
+
+

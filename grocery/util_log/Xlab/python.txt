@@ -458,31 +458,4 @@ yield 1
 >>> simple_generator()
 <generator object at 1510b0>
 
-#Zen#  When each time you call a generator, you got an iterator returned by it
-
-
-Usually a module can be imported only once, but you can use built-in reload to import it any times you want, it was imported from .pyc by using reload
-
-
-
-If you write two file:
-vim a.py
-from b import b
-a = 1
-
-vim b.py
-from a import a
-b = 2
-
-run python a.py, you’ll get an error, cause this will trigger infinite import, but python only import a module once, so that at the third time, the import would fail
-
-
-from pprint import pprint
-pprint can print list in a pretty way:
-similar to      for i in L: print i
-
-
-Change sys.python search path: export PYTHONPATH=$PYTHONPATH:~/python
-
-
-zjc
+#Zen#  When each time you call a generator, you got an iterator returned by it!
