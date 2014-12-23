@@ -1,24 +1,21 @@
 # coding:utf-8
 import sys
-from English_cache import raw_dict, score, st_dict
 import datetime
 import pickle
 import random
 import importlib
 import pprint
-""" 现在的问题，每次改动时都需要对比改动两个文件，比较麻烦, 希望可以做一个模板词典，支持任意个语言之间的通用化。 当然，需要将之前版本的数据导入
-确保读档时不会初始化对象
-"""
-def get_dict(transfer=False):
+""" 现在的问题，每次改动时都需要对比改动两个文件，比较麻烦, 希望可以做一个模板词典，支持任意个语言之间的通用化。 当然，需要将之前版本的数据导入确保读档时不会初始化对象 """
+def get_dict(first_lan='', second_lan='', transfer=False):
     """ Using for check if target_dict exists, if not, make one, else, get it. All dict name are represent in English. """
     global __doc__
 
-    first_lan = raw_input('Please type in the first language of the dict:\n')
-    second_lan = raw_input('Please type in the second language of the dict:\n')
+    first_lan = first_lan or raw_input('Please type in the first language of the dict:\n')
+    second_lan = second_lan or raw_input('Please type in the second language of the dict:\n')
     avail_language = ['Spanish', 'English', 'Chinese', 'French', 'German', 'Arabic', 'Russian', 'Portuguese', 'Japanese', 'Korean', 'Italian', 'Hindi']
     if first_lan not in avail_language or second_lan not in avail_language:
         print 'The language you typed in is not supported by this dict system, please select from the following list, if you still have doubts, try contact marioykuky@gmail.com'
-        pprint(avail_language)
+        pprint.pprint(avail_language)
         get_dict()
 
     __doc__ += '\n This is a %s_%s_dict made by you and zen_dict system ' %  (first_lan, second_lan)
@@ -32,7 +29,7 @@ def get_dict(transfer=False):
         if first_lan == 'Spanish' and second_lan == 'English':
             agent = importlib.import_module('Spanish_cache')
 
-        current_dict = BaseDict(first_lan, second_lan, agent.raw_dict, agent.score, agent.st_dict)
+        current_dict = BaseDict(first_lan, second_lan, agent.raw_dict, agent.score, agent.st_dict, wash_ass=True)
 
     else:
         try:
@@ -50,11 +47,12 @@ def get_dict(transfer=False):
 
     print __doc__
 
+    return current_dict
 
 
 
 class BaseDict(object):
-    def __init__(self, first_lan, second_lan, raw_dict, score, st_dict):
+    def __init__(self, first_lan, second_lan, raw_dict, score, st_dict, wash_ass=False):
         self.first_lan = first_lan
         self.second_lan = second_lan
         self.raw_dict = raw_dict
@@ -63,9 +61,26 @@ class BaseDict(object):
         self.exam_rate = 30
 
         self.__dict__.update({})    # make abbreviation for methods, make the code more readable, preserved for now
+        if wash_ass:
+            self.wash_ass()
+
 
         self.init()
         self.init_exam()
+
+
+    # 将原数据结构里的spanish和english转为sl_word
+    def wash_ass(self):
+        for word in self.raw_dict:
+            if 'spanish' in self.raw_dict[word]:
+                self.raw_dict[word]['sl_word'] = self.raw_dict[word]['spanish']
+                del self.raw_dict[word]['spanish']
+
+            if 'english' in self.raw_dict[word]:
+                self.raw_dict[word]['sl_word'] = self.raw_dict[word]['english']
+                del self.raw_dict[word]['english']
+
+        self.save()
 
     # Automatically load new words
     def init(self):
@@ -82,19 +97,19 @@ class BaseDict(object):
                     category = i[2]
                 if len(i) >=4:
                     word_type = i[3]
-                if En in raw_dict:
-                    if raw_dict[En].get('sl_word'):
+                if En in self.raw_dict:
+                    if self.raw_dict[En].get('sl_word'):
                         pass
                     else:
-                        raw_dict[En]['sl_word'] = Es
+                        self.raw_dict[En]['sl_word'] = Es
                 else:
-                    raw_dict[En] = { 'meaning': '', 'synonym': [], 'sl_word': Es, 'relative_word':[], 'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now(),  'category': []}
-                if category and 'category' in raw_dict[En] and category not in raw_dict[En]['category']:
-                    raw_dict[En]['category'].append(category)
+                    self.raw_dict[En] = { 'meaning': '', 'synonym': [], 'sl_word': Es, 'relative_word':[], 'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now(),  'category': []}
+                if category and 'category' in self.raw_dict[En] and category not in self.raw_dict[En]['category']:
+                    self.raw_dict[En]['category'].append(category)
                 if word_type:
-                    if word_type not in raw_dict[En].get('word_type', []):
-                        raw_dict[En]['word_type'].append(word_type)
-        save()
+                    if word_type not in self.raw_dict[En].get('word_type', []):
+                        self.raw_dict[En]['word_type'].append(word_type)
+        self.save()
 
 
     def a(self, b=0):
@@ -115,22 +130,22 @@ class BaseDict(object):
             meaning = raw_input("Enter the Meaning below and press ENTER when finished typing:\n\n")
 
             # sl_word is short for second_language word
-            sl_word = raw_input('\nEnter the %s corresponde word, please:\n' % second_lan)
+            sl_word = raw_input('\nEnter the %s corresponde word, please:\n' % self.second_lan)
             # spanish_convert is a special function for converting english typing to spanish, when you don't have spanish input
-            if second_lan == 'Spanish':
+            if self.second_lan == 'Spanish':
                 sl_word = self.spanish_convert(sl_word)
 
             word_type = raw_input('\nEnter the word type, please:\n')
             category = raw_input('\nEnter the category, please:\n')
 
             if meaning:
-                self.addscore(3)
+                self.add_score(3)
             if sl_word:
-                self.addscore(1)
+                self.add_score(1)
             if word_type:
-                self.addscore(0.5)
+                self.add_score(0.5)
             if category:
-                self.addscore(0.5)
+                self.add_score(0.5)
 
             self.raw_dict[new_word] = { 'meaning': meaning, 'synonym': [], 'sl_word': sl_word, 'relative_word':[],
                     'pronounciation':'', 'word_type': [word_type], 'forget_score': 0, 'create_time': datetime.datetime.now(), 'category': [category]}
@@ -191,7 +206,7 @@ class BaseDict(object):
             for item in self.raw_dict[old_word]:
                 if self.raw_dict[old_word][item]:
                     temp_score += 1
-            self.addscore(-temp_score)
+            self.add_score(-temp_score)
             self.raw_dict.pop(old_word)    # do something here
         else:
             print " The word you are searching for is not in this dict now, please check your spelling."
@@ -209,7 +224,7 @@ class BaseDict(object):
             except:
                 self.raw_dict[old_word]['word_type'] = [word_type]
             finally:
-                self.addscore(0.5)
+                self.add_score(0.5)
         else:
             print " The word you are searching for is not in this dict now, please check your spelling."
         self.save()
@@ -221,7 +236,7 @@ class BaseDict(object):
         if old_word in self.raw_dict:
             meaning = self.raw_dict[old_word].get('meaning')
             synonym = self.raw_dict[old_word].get('synonym')
-            spanish = self.raw_dict[old_word].get('spanish')
+            sl_word = self.raw_dict[old_word].get('sl_word')
             forget_score = self.raw_dict[old_word].get('forget_score')
             pronounciation = self.raw_dict[old_word].get('pronounciation')
             relative_word = self.raw_dict[old_word].get('relative_word')
@@ -232,7 +247,7 @@ class BaseDict(object):
 
             # signal to demand return data
             if data:
-                return meaning, synonym, spanish, forget_score, pronounciation, relative_word, word_type, create_time, category
+                return meaning, synonym, sl_word, forget_score, pronounciation, relative_word, word_type, create_time, category
 
             print old_word
 
@@ -240,8 +255,8 @@ class BaseDict(object):
                 print 'meaning:', meaning
             if synonym:
                 print 'synonym:', synonym
-            if spanish:
-                print 'spanish:', spanish
+            if sl_word:
+                print 'sl_word:', sl_word
             if forget_score:
                 print 'forget_score:', forget_score
             if pronounciation:
@@ -267,9 +282,9 @@ class BaseDict(object):
         if old_word in self.raw_dict:
             sl_word =  raw_input("Enter the Spanish below and press ENTER when finished typing:\n\n")
             if self.second_lan == 'Spanish':
-                sl_word = spanish_convert(sl_word)
+                sl_word = self.spanish_convert(sl_word)
             self.raw_dict[old_word]['sl_word'] = sl_word
-            self.addscore()
+            self.add_score()
 
             #  the 1st b is flag name, 2nd b is the instance function name.
             if b:
@@ -290,12 +305,12 @@ class BaseDict(object):
                     meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
 
                     self.raw_dict[old_word]['meaning'] = meaning
-                    self.addscore(0.5)
+                    self.add_score(0.5)
             else:
                 meaning =  raw_input("Enter the meaning below and press ENTER when finished typing:\n\n")
 
                 self.raw_dict[old_word]['meaning'] = meaning
-                self.addscore(3)
+                self.add_score(3)
         else:
             print " The word you are searching for is not in this dict now, please check your spelling."
         self.save()
@@ -307,7 +322,7 @@ class BaseDict(object):
             synonym =  raw_input("Enter the Synonym below and press ENTER when finished typing:\n\n")
 
             self.raw_dict[old_word].get('synonym').append(synonym)
-            self.addscore()
+            self.add_score()
         else:
             print " The word you are searching for is not in this dict now, please check your spelling."
         self.save()
@@ -321,7 +336,7 @@ class BaseDict(object):
 
             if relative_word not in self.raw_dict[old_word].get('relative_word'):
                 self.raw_dict[old_word].get('relative_word').append(relative_word)
-                self.addscore()
+                self.add_score()
 
             if self.raw_dict.get(relative_word):
                 if old_word not in self.raw_dict[relative_word]['relative_word']:
@@ -347,25 +362,25 @@ class BaseDict(object):
             print " The word you are searching for is not in this dict now, please check your spelling."
         self.save()
 
-    def p():
+    def p(self):
         'short for pronounciation, it is by default means the pronounciation of the first lan, but if first lan does not need this, like Spanish, it is refer to the second lan, and you can specify this in the object doc information'
         old_word = raw_input('Enter the word:')
 
         if old_word in self.raw_dict:
             pronounciation =  raw_input("Enter the Pronounciation below and press ENTER when finished typing:\n\n")
             self.raw_dict[old_word]['pronounciation'] = pronounciation
-            self.addscore(1.5)
+            self.add_score(1.5)
         else:
             print " The word you are searching for is not in this dict now, please check your spelling."
         self.save()
 
-    def f(score=1,):
+    def f(self, f_score=1):
         """short for forget, default score is 1, if you want to lower a word\'s socre, just pass negative number to this func"""
         old_word = raw_input('Enter the word:')
 
         if old_word in self.raw_dict:
-            self.raw_dict[old_word]['forget_score'] += score
-            self.addscore(-2)
+            self.raw_dict[old_word]['forget_score'] += f_score
+            self.add_score(-2)
         else:
             print " The word you are searching for is not in this dict now, please check your spelling."
         self.save()
@@ -400,12 +415,13 @@ class BaseDict(object):
 
 
     def sort_by_score(self, target, rev, sl):
+        "sl is short for score_limit"
         temp_L = []
         target = sorted(target, key=lambda x: self.raw_dict[x].get('forget_score', 0), reverse = rev)
         if sl:
             for i in target:
                 i_score = self.raw_dict[i].get('forget_score', 0)
-                if i >= sl:
+                if i_score >= sl:
                     temp_L.append(i)
             return temp_L
         return target
@@ -413,7 +429,7 @@ class BaseDict(object):
     def sort_by_bilingual(self, target):
         temp_L = []
         for i in target:
-            if self.raw_dict[i].get('spanish'):
+            if self.raw_dict[i].get('sl_word'):
                 temp_L.append(i)
         return temp_L
 
@@ -457,17 +473,16 @@ class BaseDict(object):
         f.write('%s_%s_cache=%r' % (self.first_lan, self.second_lan, saving_data))
         f.close()
 
-        f2 = open('%s_mobile' % self.first_lan, 'w')
+        f2 = open('%s_%s_mobile' % (self.first_lan, self.second_lan), 'w')
         target = self.v(exam=1)
         for i in target:
             word = i
             meaning = self.raw_dict[i].get('meaning', '')
-            spanish = self.raw_dict[i].get('spanish', '')
+            sl_word = self.raw_dict[i].get('sl_word', '')
             word_type = self.raw_dict[i].get('word_type', '')
-            forget_score = self.raw_dict[i].get('forget_score', 0)
             pronounciation = self.raw_dict[i].get('pronounciation', '')
-            if spanish:
-                spanish=' <' + spanish + '>'
+            if sl_word:
+                sl_word=' <' + sl_word + '>'
             if not word_type:
                 word_type=''
             if pronounciation:
@@ -475,11 +490,11 @@ class BaseDict(object):
             if meaning:
                 meaning =  '   \"' + meaning + '\"'
 
-            f2.write('{word}  {spanish}{pronounciation}{meaning}\n'.format(word=word,  spanish=spanish, meaning=meaning, pronounciation=pronounciation))
+            f2.write('{word}  {sl_word}{pronounciation}{meaning}\n'.format(word=word,  sl_word=sl_word, meaning=meaning, pronounciation=pronounciation))
         f2.close()
 
 
-    def se(self, quit=False):
+    def se(self, quit_sig=False):
         ' short for save exit, actually it is often used for backup'
         f = open('Dict_backup.py', 'a')
         now = str(datetime.datetime.now())[:19]
@@ -488,10 +503,10 @@ class BaseDict(object):
         f.write('sig=%s_%s_dict\n' % (self.first_lan, self.second_lan))
         f.write('data=%r\n' % saving_data)
         f.close()
-        if quit:
+        if quit_sig:
             sys.exit(0)
 
-    def exam(self, rev=True, L2=False, T=False, target = [], st=False, brief=False, total=False):
+    def exam(self, rev=True, L2=False, T=False, target = [], st=False, brief=False):
         """Default to rank from the word you forgot the most times, pass any value to rank from reverse
         L2 = bilingual, rev = Reverse, T = by time order, st = test Sentence, you can use v() to pass a filtered target list to exam(), brief meanse only examing words with forget_score >= 0
         考试的时候有一个机制，对于遗忘积分为负(已记忆)的单词选取不频繁，但如果抽到的标记为已记忆的单词如果忘记的话，就增大抽查频率，直到100%, 如果抽查已记忆单词全部回答正确，就减少抽查比例，最低减到2%, 那么记住1万个单词考试一次最少是200个单词， 初始值是30%。
@@ -528,7 +543,7 @@ class BaseDict(object):
 
         for word in target:
             if self.raw_dict[word]['forget_score'] < 0:
-                M_sample.update
+                M_sample.append(word)
 
         for i in target:
 
@@ -537,7 +552,7 @@ class BaseDict(object):
                     continue
 
             if L2:
-                if not self.raw_dict[i].get('spanish'):
+                if not self.raw_dict[i].get('sl_word'):
                     continue
 
                 else:
@@ -545,7 +560,7 @@ class BaseDict(object):
                     print 'Please type the Spanish/English version of: ', i
                     answer = raw_input('>>>')
 
-                    if answer == self.raw_dict[i]['spanish']:
+                    if answer == self.raw_dict[i]['sl_word']:
                         self.raw_dict[i]['forget_score'] -= 1
                         self.add_score(1)
                         print '\n'
@@ -645,7 +660,7 @@ class BaseDict(object):
 
     def x(self):
         'x is short for experience'
-        print "YOUR SCORE: ", score
+        print "YOUR SCORE: ", self.score
 
     def show_init_score(self):   # single-use function, obsolete now
         temp_score = 0
@@ -656,8 +671,8 @@ class BaseDict(object):
         print temp_score
 
     def init_exam(self):
-        n = 0
-        x = 0
+        forget_word_num = 0
+        unmemorized_word_num = 0
         for i in self.raw_dict:
             forget_score = self.raw_dict[i].get('forget_score', 0)
             if forget_score >= 1:
@@ -665,7 +680,7 @@ class BaseDict(object):
             if forget_score == 0:
                 unmemorized_word_num += 1
         if forget_word_num > 15 or unmemorized_word_num > 20:
-            print "\n\n\n\n\n YOU HAVE %d FORGOTTEN WORDS AND %d UNMEMORIZED WORDS, PLEASE DO THE EXAM RIGHT NOW. \n\n\n\n\n" % (n, x)
+            print "\n\n\n\n\n YOU HAVE %d FORGOTTEN WORDS AND %d UNMEMORIZED WORDS, PLEASE DO THE EXAM RIGHT NOW. \n\n\n\n\n" % (forget_word_num, unmemorized_word_num)
 
             choice = raw_input("Do the exam right now?")
 
@@ -716,4 +731,4 @@ class BaseDict(object):
         if exam:
             return temp
 
-get_dict(transfer=True)
+#get_dict(transfer=True)

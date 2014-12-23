@@ -5,8 +5,7 @@
 grep -Fnrl lush ./      * Find recursively on current directory those files which contains keyword lush and list them out.
 # -F = fixed string, -n = show line number(not used here), -r = recursively, -l = list files instead of show lines contains pattern
 
-find  -name '*Garcia*' |xargs  grep -l 'Aureliano'          * Find all files contains name "Garcia" and list those files who has "Aureliano" in it.
-# xargs is used to pass "standard input" or "pipe aruguments" to commands such like "grep" or "awk", or to break the long arguments of list into pieces so it is acceptable for some commands
+find  -name '*Garcia*' |xargs  grep -l 'Aureliano'          * Find all files contains name "Garcia" and list those files who has "Aureliano" in it.  # xargs is used to pass "standard input" or "pipe aruguments" to commands such like "grep" or "awk", or to break the long arguments of list into pieces so it is acceptable for some commands
 
 
 
@@ -44,18 +43,12 @@ find -! -name "*master*"
 
 
 
-
 #####################           SED         #############################
 
 
 
 # find line of file contains keyword and del it
 sed -i '/key_word/d' target_file
-
-
-
-
-
 
 
 
@@ -70,3 +63,7 @@ seq 163 180 | awk '{print "g"$1}'
 
 # copy file structures with particular file size restriction
 rsync -a --min-size 1k --max-size 1m original_path /new_destination/
+
+
+# kill all screen sessions
+killall -15 screen
