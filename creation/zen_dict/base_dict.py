@@ -65,7 +65,7 @@ class BaseDict(object):
             self.wash_ass()
 
 
-        self.init()
+        #self.init()
         self.init_exam()
 
 

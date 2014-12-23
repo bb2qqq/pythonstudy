@@ -13,3 +13,8 @@ git log -5                                                      # git Show the r
 git log --before='2013-12-01' --no-merges                       # Show git commits before 2013-12-01 with no merges-in
 
 # FOR MORE INFORMATIONS, DO  man grep log
+
+
+
+
+git rm $(git ls-files --deleted)                                # git removing all deleted files
