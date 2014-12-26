@@ -13,7 +13,7 @@ except:
     sig = ''
 
 """ 现在的问题，每次改动时都需要对比改动两个文件，比较麻烦, 希望可以做一个模板词典，支持任意个语言之间的通用化。 当然，需要将之前版本的数据导入确保读档时不会初始化对象 """
-def get_dict(first_lan='', second_lan='', transfer=False):
+def get_dict(first_lan='', second_lan='', transfer=False, update=True):
     """ Using for check if target_dict exists, if not, make one, else, get it. All dict name are represent in English. """
     global __doc__
 
@@ -46,7 +46,9 @@ def get_dict(first_lan='', second_lan='', transfer=False):
             print 'exept happend'
             current_dict = BaseDict(first_lan, second_lan, {}, 0, {})
 
-    globals().update({'a': current_dict.a, 'b': current_dict.b, 'd': current_dict.d, 't': current_dict.t,
+
+    if update:
+        globals().update({'a': current_dict.a, 'b': current_dict.b, 'd': current_dict.d, 't': current_dict.t,
                     'g': current_dict.g, 'sl': current_dict.sl, 'm': current_dict.m, 's': current_dict.s,
                     'r': current_dict.r, 'p': current_dict.p, 'f': current_dict.f, 'v': current_dict.v,
                     'h': current_dict.h,  'c': current_dict.c, 'x': current_dict.x, 'se': current_dict.se,
@@ -146,6 +148,8 @@ class BaseDict(object):
                 return
 
             meaning = raw_input("Enter the Meaning below and press ENTER when finished typing:\n\n")
+            if self.first_lan == 'Spanish':
+                meaning = self.spanish_convert(meaning)
 
             # sl_word is short for second_language word
             sl_word = raw_input('\nEnter the %s corresponde word, please:\n' % self.second_lan)
@@ -197,7 +201,7 @@ class BaseDict(object):
 
         meaning, synonym, sl_word, forget_score, pronounciation, relative_word, word_type, create_time, category = self.g(new_word, data=True)
 
-        sec_dict = get_dict(self.second_lan, self.first_lan)
+        sec_dict = get_dict(self.second_lan, self.first_lan, update=False)
         if sl_word and sl_word not in sec_dict.raw_dict:
             sec_dict.raw_dict[sl_word] = { 'meaning': '', 'synonym': synonym, 'english': new_word, 'relative_word': relative_word, 'pronounciation':pronounciation, 'word_type': word_type, 'forget_score': forget_score, 'create_time': datetime.datetime.now(), 'category': category}
 
@@ -253,6 +257,9 @@ class BaseDict(object):
 
         if old_word in self.raw_dict:
             meaning = self.raw_dict[old_word].get('meaning')
+            if self.first_lan == 'Spanish':
+                meaning = self.spanish_convert(meaning)
+
             synonym = self.raw_dict[old_word].get('synonym')
             sl_word = self.raw_dict[old_word].get('sl_word')
             forget_score = self.raw_dict[old_word].get('forget_score')

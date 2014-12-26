@@ -22,3 +22,11 @@ Tue Dec 23 10:40:14 CST 2014
 Tue Dec 23 18:43:45 CST 2014
 
     New zen_dict is buggy-pro, fix them out, Bro Zen!
+
+Thu Dec 25 09:14:34 CST 2014
+
+    Starts to import net element to mcwiki
+
+Fri Dec 26 11:33:10 CST 2014
+
+    Reconstruct the variable name of base_dict
