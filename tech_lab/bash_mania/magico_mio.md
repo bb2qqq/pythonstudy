@@ -7,7 +7,7 @@ grep -Fnrl lush ./      * Find recursively on current directory those files whic
 
 find  -name '*Garcia*' |xargs  grep -l 'Aureliano'          * Find all files contains name "Garcia" and list those files who has "Aureliano" in it.  # xargs is used to pass "standard input" or "pipe aruguments" to commands such like "grep" or "awk", or to break the long arguments of list into pieces so it is acceptable for some commands
 
-
+grep -P "\tapple\t"         * -P means Perl-style regex, this can search for pattern contain tab
 
 
 
