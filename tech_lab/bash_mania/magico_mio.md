@@ -71,3 +71,24 @@ killall -15 screen
 # These tow commands are identical, they both read and execute the commands write in a file in the current shell envioronment
 source file_name / . file_name
 
+
+
+####################            ON MAC              #######################
+
+pwd | pbcopy                                        # copy what pwd print to clipboard
+
+pbpaste                                             # paste whatever in clipboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
