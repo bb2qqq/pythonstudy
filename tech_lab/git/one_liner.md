@@ -48,6 +48,10 @@ git push remote tag_name                                        # push specific 
 
 git push remote --tags                                          # push all local tags to remote server
 
+git rev-parse tag_name                                          # Show the SHA-1 ID of a tag
+
 ###################         OTHERS          ###########################
 
 git rm $(git ls-files --deleted)                                # git removing all deleted files
+
+global git config is under ~/.gitconfig

@@ -67,3 +67,7 @@ rsync -a --min-size 1k --max-size 1m original_path /new_destination/
 
 # kill all screen sessions
 killall -15 screen
+
+# These tow commands are identical, they both read and execute the commands write in a file in the current shell envioronment
+source file_name / . file_name
+
