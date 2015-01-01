@@ -41,6 +41,9 @@ find -name "*pinche*" -maxdepth 1
 find -! -name "*master*"
 
 
+# Find directory with name containling config in all directories of system
+find / -type d -name '*config*'
+
 
 
 #####################           SED         #############################
