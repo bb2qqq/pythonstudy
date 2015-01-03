@@ -1,27 +1,26 @@
-
 # Zen
 
 alias logics='vim /Users/zen1/zen/shared/genesis/backend/logics/'
 alias models='vim /Users/zen1/zen/shared/genesis/backend/models'
 alias views='vim /Users/zen1/zen/shared/genesis/backend/views'
 alias admin='vim /Users/zen1/zen/shared/genesis/backend/admin'
-alias goupload='cd /Users/zen1/zen/shared/genesis/backend/admin/upload'
+alias goupload='pushd /Users/zen1/zen/shared/genesis/backend/admin/upload'
 alias utils='vim /Users/zen1/zen/shared/genesis/backend/lib/utils'
 alias core='vim /Users/zen1/zen/shared/genesis/backend/lib/core'
 alias db='vim /Users/zen1/zen/shared/genesis/backend/lib/db'
 alias statistics='vim /Users/zen1/zen/shared/genesis/backend/lib/statistics'
 alias templates='vim /Users/zen1/zen/shared/genesis/backend/templates/admin'
 
-alias gologics='cd /Users/zen1/zen/shared/genesis/backend/logics/'
-alias gomodels='cd /Users/zen1/zen/shared/genesis/backend/models'
-alias goviews='cd /Users/zen1/zen/shared/genesis/backend/views'
-alias goadmin='cd /Users/zen1/zen/shared/genesis/backend/admin'
-alias goupload='cd /Users/zen1/zen/shared/genesis/backend/admin/upload'
-alias goutils='cd /Users/zen1/zen/shared/genesis/backend/lib/utils'
-alias gocore='cd /Users/zen1/zen/shared/genesis/backend/lib/core'
-alias godb='cd /Users/zen1/zen/shared/genesis/backend/lib/db'
-alias gostatistics='cd /Users/zen1/zen/shared/genesis/backend/lib/statistics'
-alias gotemplates='cd /Users/zen1/zen/shared/genesis/backend/templates/admin'
+alias gologics='pushd /Users/zen1/zen/shared/genesis/backend/logics/'
+alias gomodels='pushd /Users/zen1/zen/shared/genesis/backend/models'
+alias goviews='pushd /Users/zen1/zen/shared/genesis/backend/views'
+alias goadmin='pushd /Users/zen1/zen/shared/genesis/backend/admin'
+alias goupload='pushd /Users/zen1/zen/shared/genesis/backend/admin/upload'
+alias goutils='pushd /Users/zen1/zen/shared/genesis/backend/lib/utils'
+alias gocore='pushd /Users/zen1/zen/shared/genesis/backend/lib/core'
+alias godb='pushd /Users/zen1/zen/shared/genesis/backend/lib/db'
+alias gostatistics='pushd /Users/zen1/zen/shared/genesis/backend/lib/statistics'
+alias gotemplates='pushd /Users/zen1/zen/shared/genesis/backend/templates/admin'
 alias newtest='ssh -p 8001 root@test.kaiqigu.net'
 alias dl='pushd /Users/zen1/zen/shared/download'
 alias ba='. .bashrc'
@@ -30,7 +29,8 @@ alias cmgescp='scp -P 2009 admin@211.155.89.81:/data/admin/upload/* ~/Downloads'
 alias abscp='scp admin@203.90.236.146:~/upl/* /Users/zen1/zen/shared/download'
 alias qqscp='scp admin@182.254.166.54:~/upl/* /Users/zen1/zen/shared/download'
 alias dev='ssh zengjuchen@dev.kaiqigu.net'
-alias gogb='cd /Users/zen1/zen/shared/genesis/backend'
+alias gogb='pushd /Users/zen1/zen/shared/genesis/backend'
+alias goab='pushd /Users/zen1/zen/Abroad_genesis/chaojiyingxiong_fanti'
 alias cmge='ssh -p 2009 admin@211.155.89.81'
 alias mixtimer='ssh -p 2009 admin@211.155.89.209'
 alias iostimer='ssh -p 2009 admin@211.155.89.216'
@@ -66,8 +66,6 @@ alias dream='pushd ~/zen/pythonstudy/MAKE_MY_DREAM_COME_TRUE'
 alias cien='vim ~/zen/pythonstudy/grocery/literatura/master_obra/cien'
 alias bm='pushd /Users/zen1/zen/pythonstudy/tech_lab/bash_mania'
 alias vs='pushd /Users/zen1/zen/pythonstudy/tech_lab/vim_skill'
-
-
 
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
@@ -144,7 +142,7 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 fi
 
 
-
+# show git branch in colourful way
 parse_git_branch() {
 git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
@@ -205,5 +203,11 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
 
-
-
+function dee { w3m "http://www.oxfordlearnersdictionaries.com/definition/american_english/$1"; }
+function dss { w3m "http://wordreference.com/definicion/$1"; }
+function des { w3m "http://www.spanishdict.com/translate/$1"; }
+function dec { w3m "http://dict.cn/$1"; }
+export -f dee
+export -f dss
+export -f des
+export -f dec
