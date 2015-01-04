@@ -38,3 +38,11 @@ Tue Dec 30 18:31:51 CST 2014
 Wed Dec 31 18:21:45 CST 2014
 
     Test b function of base_dict
+
+Sun Jan  4 09:25:52 CST 2015
+
+    清理zen_dict脏数据，重构init函数
+
+Sun Jan  4 23:43:23 CST 2015
+
+    清理和重构工作完成

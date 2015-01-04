@@ -44,6 +44,7 @@ alias ca='xmodmap $HOME/.speedswapper'
 alias abroad2='ssh admin@203.90.239.49'
 alias abroad3='ssh admin@203.90.239.46'
 alias abroad='ssh admin@203.90.236.146'
+alias vt='ssh admin@54.169.181.67'
 alias qiku='ssh admin@182.254.166.54'
 alias zd='pushd ~/zen/pythonstudy/creation/zen_dict'
 alias alg='pushd ~/zen/pythonstudy/tech_lab/algorithm'
@@ -203,11 +204,13 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
 
-function dee { w3m "http://www.oxfordlearnersdictionaries.com/definition/american_english/$1"; }
-function dss { w3m "http://wordreference.com/definicion/$1"; }
-function des { w3m "http://www.spanishdict.com/translate/$1"; }
-function dec { w3m "http://dict.cn/$1"; }
+function dee { w3m  "http://www.oxfordlearnersdictionaries.com/definition/american_english/$1"; }
+function dss { w3m  "http://wordreference.com/definicion/$1"; }
+function des { w3m  "http://www.spanishdict.com/translate/$1"; }
+function dec { w3m  "http://dict.cn/$1"; }
 export -f dee
 export -f dss
 export -f des
 export -f dec
+
+export EDITOR=vim

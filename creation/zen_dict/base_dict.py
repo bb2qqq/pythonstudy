@@ -25,7 +25,8 @@ def get_dict(first_lan='', second_lan='', transfer=False, update=True):
         pprint.pprint(avail_language)
         get_dict()
 
-    __doc__ += '\n This is a %s_%s_dict made by you and zen_dict system ' %  (first_lan, second_lan)
+    if __doc__:
+        __doc__ += '\n This is a %s_%s_dict made by you and zen_dict system ' %  (first_lan, second_lan)
 
 
     # compatibility with old code
@@ -56,6 +57,8 @@ def get_dict(first_lan='', second_lan='', transfer=False, update=True):
                      })
 
     print __doc__
+    if first_lan in ['English', 'Spanish']:
+        current_dict.init()
 
     return current_dict
 
@@ -75,7 +78,7 @@ class BaseDict(object):
         if wash_ass:
             self.wash_ass()
 
-        if first_lan in ['English', 'Spanish']:
+        if self.first_lan in ['English', 'Spanish']:
             self.init()
 
         self.init_exam()
@@ -101,40 +104,32 @@ class BaseDict(object):
             i = i.rstrip('\n')
             i = i.split('-')
             if len(i) >= 2:
-                if self.first_lan == 'English':
-                    En = i[0]
-                    Es = i[1]
-                if self.first_lan == 'Spanish':     # still En is i[0], this is a tricky to keep other structure unmodified
-                    En = i[1]
-                    Es = i[0]
+                En = i[0]
+                Es = i[1]
 
-                category = []
-                word_type = ''
-                if len(i) >=3:
-                    category = i[2]
-                if len(i) >=4:
-                    word_type = i[3]
-                if En in self.raw_dict:
-                    if self.raw_dict[En].get('sl_word'):
+                if self.first_lan == 'English':
+                    first_lan = En
+                    second_lan = Es
+                if self.first_lan == 'Spanish':     # still En is i[0], this is a tricky to keep other structure unmodified
+                    first_lan = Es
+                    second_lan = En
+
+                if first_lan in self.raw_dict:
+                    if self.raw_dict[first_lan].get('sl_word'):
                         pass
                     else:
-                        self.raw_dict[En]['sl_word'] = Es
+                        self.raw_dict[first_lan]['sl_word'] = second_lan
                 else:
-                    self.raw_dict[En] = { 'meaning': '', 'synonym': [], 'sl_word': Es, 'relative_word':[], 'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now(),  'category': []}
-                try:
-                    if category and 'category' in self.raw_dict[En] and category not in self.raw_dict[En]['category']:
-                        self.raw_dict[En]['category'].append(category)
-                    if word_type:
-                        if word_type not in self.raw_dict[En].get('word_type', []):
-                            self.raw_dict[En]['word_type'].append(word_type)
-                except:
-                    print category, word_type, 'add failes.'
+                    self.raw_dict[first_lan] = { 'meaning': '', 'synonym': [], 'sl_word': second_lan, 'relative_word':[], 'pronounciation':'', 'word_type': [], 'forget_score': 0, 'create_time': datetime.datetime.now(),  'category': []}
+
         self.save()
 
 
     def a(self, b=0):
         'short for add, b is short for bilingual'
         new_word = raw_input('Enter the word:')
+        if self.first_lan == 'Spanish':
+            new_word = self.spanish_convert(new_word)
 
         if new_word in self.raw_dict:
             print 'The word you are trying to add is already in the dict, please use other methods to modify it.'    # do something here
@@ -757,9 +752,9 @@ class BaseDict(object):
             return temp
 
 if sig == 's':
-    get_dict('Spanish', 'English')
+    zen_dict = get_dict('Spanish', 'English')
 elif sig == 'e':
-    get_dict('English', 'Spanish')
+    zen_dict = get_dict('English', 'Spanish')
 else:
-    get_dict()
+    zen_dict =  get_dict()
 
