@@ -67,7 +67,11 @@ alias dream='pushd ~/zen/pythonstudy/MAKE_MY_DREAM_COME_TRUE'
 alias cien='vim ~/zen/pythonstudy/grocery/literatura/master_obra/cien'
 alias bm='pushd /Users/zen1/zen/pythonstudy/tech_lab/bash_mania'
 alias vs='pushd /Users/zen1/zen/pythonstudy/tech_lab/vim_skill'
-
+alias ns='ssh -p 22 hadoop@120.132.57.110'                         # ns is short for new statistic
+alias au='pushd /Users/zen1/zen/automation'
+alias dt='. ~/.bashrc'
+alias vb='vim ~/.bashrc'
+alias be='pushd ~/zen/pythonstudy/Brain_extension'
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)

@@ -1,5 +1,4 @@
 aprecio  
-hijastro   <stepson>
 sonaja   <bell>   "pequeña chapas de metal que se colocan en algunas cosas para que suenen al moverse"
 retirada   <retreat>   "La salida de un servicio militar o diplomatico de un lugar"
 nalga   <buttock>   "los dos carnes del mujer debajo de su cadera que los hombres como yo les gustan más"
@@ -16,9 +15,9 @@ auto     "1. propio 2. acción o hecho 3. Forma de resolución judical"
 insidiosa   <insidious>   "Malicioso o dan~ino con apariencias inofensivas"
 gemelo   <twin>
 inédito     "1. Escrito y no publicado. 2. desconocido, nuevo"
+divergir   <diverge>
 salamandra   <salamander>   "un anfibio"
 clamar   <clamour>   "qujarse, dar voces lastimosas, pidiendo favor o ayuda"
-sobrina   <niece>
 nuera   <daughter_in_law>
 convocar   <convoke>   "Citar llamar personas para un reunio'n"
 meridional   <southern>   "del sur"
@@ -32,10 +31,11 @@ centenar     "un cien"
 banquillo   <bench>   "asiento largo para sentar, como los que se sentar los jugadores reservas de fútbol."
 malabarista     "Uno que se tira cosas al aire y jugar con ellas"
 pandereta     "un tipo de tambor"
+cuñada   <sister_in_law>
+madrasta   <stepmother>
 cosechar   <harvest>   "hacer la cosecha"
 sobrino   <nephew>
-hermanastra   <half_sister>
-madrasta   <stepmother>
+sobrina   <niece>
 resurgimiento  
 yerno   <son_in_law>
 hacienda     "1. Finca agricola 2. Conjunto de bienes y riquezas que alguien tiene  3. Departamento pu'blica que control el gasto de otros departamentos"
@@ -46,12 +46,14 @@ lucrar     "Ganar, sacar provecho de un negocio o encargo"
 estiércol     "excremiento de cualquier animal"
 excavar   <excavate>   "mover la tierra fuera de un lugar hasta obtener un pozo o un hoyo."
 infanta     "Una princesa"
-amorío   <love affair>
 pesadilla   <nightmare>   "sueño que produce angustia y temor"
 pi'fano   <fife>   "un instrumento muscial que es parecido a flautín que tiene agujeros sobrelo. se llama 'HengDí en chino"
+amorío   <love affair>
 tía abuela   <great aunt>
 reclamar   <reclaim>   "Clamar o llamar con repetición o mucha instancia."
 ciberataque   <ciberattack>
+hermanastra   <half_sister>
+hijastro   <stepson>
 hijastra   <stepdaughter>
 colega   <colleague>
 hermanastro   <half_brother>
@@ -69,7 +71,7 @@ lucro   <profit>   "Ganancia o provecho que se saca de algo"
 saltimbanquis     "Un hombre que juega con los cuchillos"
 impregnar   <impregnate>   "para hacer algo pregnar, también puede ser introducir algo a otra objecto completamente. A sus moléculos."
 contemplar   <contemplate>   "1. Mirar con atención o intrés  2. Considerar profundamente"
-cuñada   <sister_in_law>
+tremula   <tremulous>   "temblando"
 fiscal   <fiscal>   "financial, relativo de tesoro"
 logro   <achieve>   "acción y efecto de lograr"
 felicitar   <congratulate>   "hacer feliz a alguien"
@@ -106,9 +108,8 @@ rodear   <surround>   "andar alrededor de algo, poner cosas alrededor de algo"
 conformar   <conform>   "acuerdo con otros o con una regulación, por presión social o desición de sí mismo"
 bazo   <spleen>
 indicio   <indication>   "Una cosa que significa o predecir el suceso de otras cosas"
-pedregoso     "cubierto de piedras, de mucho piedras"
-espinilla   <shin>
 hallar   <n>   "1.Encontrar una gente o una cosa. 2. Descubrir o inventar lo que está desconocido hasta entonces."
+espinilla   <shin>
 pestaña   <eyelash>
 aplazar     "deferir una acción, con idea de realizarlo más tarde"
 naranjo   <orange tree>   "árbol de naranja"
@@ -116,6 +117,7 @@ uña   <fingernail>
 apreciar   <appreciate>
 insalvable   <insurmountable>   "Que no puede ser salvado."
 precaución   <precaution>   "preparación y acción prepuesto para segurar que no hay algo mal que sucede"
+pedregoso     "cubierto de piedras, de mucho piedras"
 nudillo   <knuckle>
 pudrir   <rot>   "hacer que un materia órgano se altere y descomponga"
 patógeno   <pathogen>
@@ -148,6 +150,7 @@ pelotón   <squad>   "Una pequeña unidad militaria, que es Ban en chino"
 seno   <breast>
 codo   <elbow>
 páncreas   <pancreas>
+nuca   <nape>
 dedo meñique   <little finger>
 saliva   <saliva>
 dedo índice   <index finger>
@@ -156,7 +159,6 @@ riñon   <kidney>
 arteria   <artery>
 espinazo   <spine>
 muslo   <thigh>
-costilla   <rib>
 narices   <nostril>   "las dos abiertas de un nariz, por dónde respiras"
 hígado   <liver>
 vesícula biliar   <gall bladder>
@@ -164,11 +166,11 @@ cadera   <hip>
 vello   <body hair>
 tobillo   <ankle>
 planta   <sole>
-nuca   <nape>
 párpado   <eyelid>
 trasero   <buttocks>
 dedo anular   <ring finger>
 ombligo   <belly button>
 barbilla   <chin>
+costilla   <rib>
 cuerda vocal   <vocal cord>
 paladar   <palate>

@@ -55,3 +55,5 @@ git rev-parse tag_name                                          # Show the SHA-1
 git rm $(git ls-files --deleted)                                # git removing all deleted files
 
 global git config is under ~/.gitconfig
+
+git checkout -b branch_name                                     # create a branch and checkout to it at the same time
