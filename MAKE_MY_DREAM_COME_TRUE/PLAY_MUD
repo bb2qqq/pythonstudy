@@ -51,3 +51,11 @@ Tue Jan  6 12:57:49 CST 2015
 
     使用a(b=1)时，会自动切换到副字典，想办法优化体验
 
+Tue Jan  6 17:15:33 CST 2015
+    Fix the merge conflict of origin and local, figure out where went wrong, try to find a way to avoid it [ unfinished ]
+
+    * before push to origin, exam if the current directory is clean
+
+Wed Jan  7 16:10:08 CST 2015
+
+    Recite zen of python    [ unfinished ]

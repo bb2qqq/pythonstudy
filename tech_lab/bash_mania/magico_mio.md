@@ -89,6 +89,7 @@ jar xf huge_file.zip
         # Locate a program`s path in the system
 which program_name
 
+
 ####################            ON MAC              #######################
 
 pwd | pbcopy                                        	# copy what pwd print to clipboard
