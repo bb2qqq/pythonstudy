@@ -11,6 +11,13 @@ HISTCONTROL=ignoredups:ignorespace
 
 
 # Zen
+# ls files with colors, tutorial on here - http://linux-sxs.org/housekeeping/lscolors.html
+
+alias ls='ls --color'
+LS_COLORS='di=32:fi=0:ln=31:pi=5:so=5:bd=5:cd=5:or=31:mi=0:ex=33:*.rpm=90'
+export LS_COLORS
+
+# Zen
 
 alias ls='ls --hide="*.pyc"'
 alias logics='vim /media/sf_shared/genesis/backend/logics/'
@@ -207,9 +214,6 @@ export PS1='\[\033[00;33m\]\u@\h\[\033[01;34m\] \w\[\033[01;35m\]$(__git_ps1)\[\
 #fi
 #unset color_prompt force_color_prompt
 
-alias ls='ls --color'
-LS_COLORS='di=32:fi=0:ln=31:pi=5:so=5:bd=5:cd=5:or=31:mi=0:ex=33:*.rpm=90'
-export LS_COLORS
 
 __git_files () {
     _wanted files expl 'local files' _files

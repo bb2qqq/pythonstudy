@@ -83,6 +83,11 @@ rsync -chavzP --stats user@remote.host:/path/to/copy /path/to/local/storage
 	# Synchronize file from local to remote
 rsync -chavzP --stats /path/to/copy user@host.remoted.from:/path/to/local/storage
 
+
+        # Sync from all content from one directory from to another directory with different name
+rsync -r /origin/*  /target/
+
+
 	# Unzip file with size greater than 4G
 jar xf huge_file.zip
 
