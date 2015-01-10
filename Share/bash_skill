@@ -1,0 +1,28 @@
+pipe是unix系统下的一个好用的工具，它最常用的作用是将上一个命令的输出结果传给下一个命令
+如: grep 360 charge_file | grep 2015-01-01  会搜索 charge_file里所有含有360的行，然后在这些行里再搜索 含有 2015-01-01的行，并把它们打印出来
+
+
+mac的bash会自带一个pbcopy, 你可以把任意命令的输出结果用pipe传给它，然后再用command + v 或是 pbpaste命令打印出来.
+如: pwd | pbcopy
+pbpaste  或 command + v
+/Users/zen1/zen/pythonstudy/Share   # 粘贴你的当前目录
+
+
+
+bash里使用过的命令会存在一个临时文件里，
+
+
+在使用bash的时候，我们经常会遇到执行一个命令没有root权限的时候，如果你用sudo su切换到root账户时，你会发现在
+
+
+
+
+
+
+
+
+
+
+
+
+
