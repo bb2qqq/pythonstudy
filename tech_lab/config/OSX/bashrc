@@ -80,6 +80,8 @@ alias vb='vim ~/.bashrc'
 alias be='pushd ~/zen/pythonstudy/Brain_extension'
 alias phi='vim ~/zen/pythonstudy/Brain_Extension/Some_times_I_am_philosophical'
 alias n20='ssh -p 22 admin@120.132.57.20'
+alias ct='cat ~/zen/pythonstudy/tree_hole'
+alias g='grep'
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
@@ -225,10 +227,8 @@ export -f dss
 export -f des
 export -f dec
 
-function th { echo "$1" >> /Users/zen1/zen/pythonstudy/tree_hole; }
-export -f th
 
-function th { echo "$1" >> /Users/zen1/zen/pythonstudy/tree_hole; }
+function th { echo -e "\n$1" >> /Users/zen1/zen/pythonstudy/tree_hole; }
 export -f th
 
 function zd { ipython -i ~/zen/pythonstudy/creation/zen_dict/base_dict.py "$1";}
