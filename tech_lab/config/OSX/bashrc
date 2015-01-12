@@ -1,5 +1,5 @@
 # Zen
-
+alias 1='vim /Users/zen1/zen/pythonstudy/1'
 alias logics='vim /Users/zen1/zen/shared/genesis/backend/logics/'
 alias models='vim /Users/zen1/zen/shared/genesis/backend/models'
 alias views='vim /Users/zen1/zen/shared/genesis/backend/views'
@@ -26,7 +26,7 @@ alias dl='pushd /Users/zen1/zen/shared/download'
 alias ba='. .bashrc'
 alias upload='expect /home/zen/lab/scripts/upload.sh'
 alias cmgescp='scp -P 2009 admin@211.155.89.81:/data/admin/upload/* ~/Downloads'
-alias abscp='scp admin@203.90.236.146:~/upl/* /Users/zen1/zen/shared/download'
+alias abscp='scp admin@203.90.236.146:~/upl/* ~/Downloads'
 alias qqscp='scp admin@182.254.166.54:~/upl/* /Users/zen1/zen/shared/download'
 alias dev='ssh zengjuchen@dev.kaiqigu.net'
 alias gogb='pushd /Users/zen1/zen/shared/genesis/backend'
@@ -45,8 +45,9 @@ alias abroad2='ssh admin@203.90.239.49'
 alias abroad3='ssh admin@203.90.239.46'
 alias abroad='ssh admin@203.90.236.146'
 alias vt='ssh admin@54.169.181.67'
+alias vtscp='scp admin@54.169.181.67:~/upl/* ~/Downloads'
 alias qiku='ssh admin@182.254.166.54'
-alias zd='pushd ~/zen/pythonstudy/creation/zen_dict'
+alias gzd='pushd ~/zen/pythonstudy/creation/zen_dict'
 alias mc='pushd ~/zen/pythonstudy/creation/zen_dict/mcwiki'
 alias alg='pushd ~/zen/pythonstudy/tech_lab/algorithm'
 alias cien='pushd ~/zen/pythonstudy/grocery/literatura/master_obra'
@@ -68,15 +69,17 @@ alias pys='pushd /Users/zen1/zen/pythonstudy'
 alias dream='pushd ~/zen/pythonstudy/MAKE_MY_DREAM_COME_TRUE'
 alias cien='vim ~/zen/pythonstudy/grocery/literatura/master_obra/cien'
 alias bm='pushd /Users/zen1/zen/pythonstudy/tech_lab/bash_mania'
+alias pm='pushd /Users/zen1/zen/pythonstudy/tech_lab/python_mania'
 alias vs='pushd /Users/zen1/zen/pythonstudy/tech_lab/vim_skill'
 alias ns='ssh -p 22 hadoop@120.132.57.110'                         # ns is short for new statistic
 alias nsr='ssh -p 22 admin@120.132.57.19'                         # ns real 
+alias nsrscp='scp admin@120.132.57.19:/data/admin/upload/* ~/Downloads'
 alias au='pushd /Users/zen1/zen/automation'
 alias dt='. ~/.bashrc'
 alias vb='vim ~/.bashrc'
 alias be='pushd ~/zen/pythonstudy/Brain_extension'
 alias phi='vim ~/zen/pythonstudy/Brain_Extension/Some_times_I_am_philosophical'
-
+alias n20='ssh -p 22 admin@120.132.57.20'
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
@@ -212,6 +215,7 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
 
+
 function dee { w3m  "http://www.oxfordlearnersdictionaries.com/definition/american_english/$1"; }
 function dss { w3m  "http://wordreference.com/definicion/$1"; }
 function des { w3m  "http://www.spanishdict.com/translate/$1"; }
@@ -220,5 +224,17 @@ export -f dee
 export -f dss
 export -f des
 export -f dec
+
+function th { echo "$1" >> /Users/zen1/zen/pythonstudy/tree_hole; }
+export -f th
+
+function th { echo "$1" >> /Users/zen1/zen/pythonstudy/tree_hole; }
+export -f th
+
+function zd { ipython -i ~/zen/pythonstudy/creation/zen_dict/base_dict.py "$1";}
+export -f zd
+
+function bs { grep "$1" ~/.bashrc ;}
+export -f bs
 
 export EDITOR=vim

@@ -1,0 +1,32 @@
+刚才忽然有个感触: 程序员是世界上最懒的人，他们会不遗余力地去寻找让自己偷懒的方法。
+
+然后想：你有一个偷懒的方法，我有一个偷懒的方法，我们分享一下不就有两个偷懒的方法了吗？
+
+所以提了这个问题。
+
+先抛个砖:
+
+我主要的偷懒方法集中在各种rc文件的配置里，其中又以alias为主力。
+
+其中有这么些类型：
+1. 直接切换到常用目录
+alias vf='pushd /my/frequent/visited/direcotry'
+用pushd是因为可以快速用pushd再切回上个目录
+
+快速连接远程服务器
+alias rmt='ssh user@xx.xxx.xx.xx'
+
+缩写常用命令
+alias py='python'
+alias ga='git add'
+
+另外，为了方便地在terminal环境下查英文单词，我做了两个global function,放在bashrc里
+function dee { w3m "http://www.oxfordlearnersdictionaries.com/definition/american_english/$1"; }
+function dec { w3m "http://dict.cn/$1"; }
+export -f dee
+export -f dec
+这样，输入dee ogre,我就能在terminal里直接看到ogre的释义了（需先安装w3m)
+
+我的同事在vim里配置有自动生成文档和基本结构的快捷键，这样他在写python代码的时候可以节省很多的功夫，可是这个方法我还没学到手。
+
+你有哪些偷懒的方法呢？

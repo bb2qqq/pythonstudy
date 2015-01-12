@@ -54,7 +54,8 @@ find / -type d -name '*config*'
 	# find line of file contains keyword and del it
 sed -i '/key_word/d' target_file
 
-
+        # print specified line in linux, here print the line 100
+sed -n '100p'
 
 
 ###################             OTHERS              ######################
