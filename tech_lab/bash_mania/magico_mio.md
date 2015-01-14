@@ -5,13 +5,14 @@
 	# -F = fixed string, -n = show line number(not used here), -r = recursively, -l = list files instead of show lines contains pattern
 grep -Fnrl lush ./      * Find recursively on current directory those files which contains keyword lush and list them out.
 
+
         # Find all files contains name "Garcia" and list those files who has "Aureliano" in it.
 find  -name '*Garcia*' |xargs  grep -l 'Aureliano'
       	* xargs is used to pass "standard input" or "pipe aruguments" to commands such like "grep" or "awk", or to break the long arguments of list into pieces so it is acceptable for some commands
 
+
         # -P means Perl-style regex, this can search for pattern contain tab
 grep -P "\tapple\t"
-
 
 
 
@@ -38,6 +39,7 @@ find -type f -size +5M -delete
 	# Find file cotains "*pinche*" only on the first level
 find -name "*pinche*" -maxdepth 1
 
+
 	# Find something does not match the option, at here name not contains master, but could be other options
 find -! -name "*master*"
 
@@ -54,32 +56,45 @@ find / -type d -name '*config*'
 	# find line of file contains keyword and del it
 sed -i '/key_word/d' target_file
 
+
         # print specified line in linux, here print the line 100
 sed -n '100p'
 
 
-###################             OTHERS              ######################
 
+###################             FILE & DIRECTORIES          ###################
+
+
+	# copy file structures with particular file size restriction
+rsync -a --min-size 1k --max-size 1m original_path /new_destination/
+
+        # request confirmation before delete a file, and -i option override any previous -f option, but and override -f after -i
+rm -i pattern/file
+
+
+
+
+
+###################             OTHERS              ######################
 
 
 	# Print server numbers in a column with your specified number range
 seq 163 180 | awk '{print "g"$1}'
 
 
-	# copy file structures with particular file size restriction
-rsync -a --min-size 1k --max-size 1m original_path /new_destination/
-
 
 	# kill all screen sessions
 killall -15 screen
+
 
 	# These tow commands are identical, they both read and execute the commands write in a file in the current shell envioronment
 source file_name / . file_name
 
 
-* -c for checksum, -v for verbose, -P for progress, -h for human readable format, -z for compress, -a for archive mode
+        * -c for checksum, -v for verbose, -P for progress, -h for human readable format, -z for compress, -a for archive mode
 	# Synchronize file from remote to local
 rsync -chavzP --stats user@remote.host:/path/to/copy /path/to/local/storage
+
 
 	# Synchronize file from local to remote
 rsync -chavzP --stats /path/to/copy user@host.remoted.from:/path/to/local/storage
@@ -92,9 +107,23 @@ rsync -r /origin/*  /target/
 	# Unzip file with size greater than 4G
 jar xf huge_file.zip
 
+
         # Locate a program`s path in the system
 which program_name
 
+
+        # Execute the output of the previous command
+sed -n 'line_num p' | sh(bash)                              # excute specified line
+tail -n 5 your_file | sh(bash)                              # excute the last five line of a file
+
+
+        # Prohibit using  >  to write to file, use >| to force write, this can avoid mis-operate between > and >>
+set -o noclobber                                            # Disable  >
+set +o noclobber                                            # Enable   >
+
+
+        # Passing all variables to the command or script
+some_command "$@"                                                    # if you have 'a.sh' which contains 'echo "$@"', then you can do 'sh a.sh to print out any kind of sentences', you`ll got 'to print out any kind of sentences' on your screen now.
 
 ####################            ON MAC              #######################
 

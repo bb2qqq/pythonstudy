@@ -16,6 +16,8 @@ git log -5                                                      # git Show the r
 
 git log --before='2013-12-01' --no-merges                       # Show git commits before 2013-12-01 with no merges-in
 
+
+
 # FOR MORE INFORMATIONS, DO  man grep log
 
 
@@ -36,6 +38,7 @@ git push remote_name  local_branch_name                         # To push local 
 
 git push remote_name local_branch_name:remote_branch_name       # Push local branch data to specified remote branch, if there isn`t such a remote branch, create one.
 
+git push -f                                                     # Push local branch to remote tracking branch by force, whcih may cause remote commit loss, use it with caution.
 
 ##################          BRANCH          ###########################
 
