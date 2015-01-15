@@ -47,6 +47,7 @@ alias abroad='ssh admin@203.90.236.146'
 alias vt='ssh admin@54.169.181.67'
 alias vtscp='scp admin@54.169.181.67:~/upl/* ~/Downloads'
 alias qiku='ssh admin@182.254.166.54'
+alias qiku2='ssh admin@182.254.170.143'
 alias gzd='pushd ~/zen/pythonstudy/creation/zen_dict'
 alias mc='pushd ~/zen/pythonstudy/creation/zen_dict/mcwiki'
 alias alg='pushd ~/zen/pythonstudy/tech_lab/algorithm'
@@ -83,6 +84,13 @@ alias n20='ssh -p 22 admin@120.132.57.20'
 alias ct='cat ~/zen/pythonstudy/tree_hole'
 alias g='grep'
 alias pd='pushd'
+alias gpm='pushd /Users/zen1/zen/pythonstudy/creation/project_manager'
+alias m='pushd /Users/zen1/zen/pythonstudy/tech_lab/my_work'
+alias pme='ipython -i /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen'
+alias pms='python /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen show'
+alias pmcki='python /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen check_in'
+alias bc='pushd /Users/zen1/zen/pythonstudy/bussiness_club'
+ 
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)

@@ -15,6 +15,10 @@ find  -name '*Garcia*' |xargs  grep -l 'Aureliano'
 grep -P "\tapple\t"
 
 
+        # Search except files with some kind of string, here find pattern in file_names except those contains 'master' in file name
+grep --exclude='*master*'  pattern  file_names
+
+
 
 #################          FIND             #################################
 
