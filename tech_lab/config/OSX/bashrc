@@ -1,4 +1,5 @@
 # Zen
+shopt -s extglob
 alias 1='vim /Users/zen1/zen/pythonstudy/1'
 alias logics='vim /Users/zen1/zen/shared/genesis/backend/logics/'
 alias models='vim /Users/zen1/zen/shared/genesis/backend/models'
@@ -59,6 +60,7 @@ alias tec='pushd ~/zen/pythonstudy/tech_lab'
 alias ga='git add'
 alias gb='git branch '
 alias gc='git checkout '
+alias gl='git log'
 alias gd='git diff'
 alias gpl='git pull'
 alias gps='git push'
@@ -86,11 +88,8 @@ alias g='grep'
 alias pd='pushd'
 alias gpm='pushd /Users/zen1/zen/pythonstudy/creation/project_manager'
 alias m='pushd /Users/zen1/zen/pythonstudy/tech_lab/my_work'
-alias pme='ipython -i /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen'
-alias pms='python /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen show'
-alias pmcki='python /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen check_in'
-alias bc='pushd /Users/zen1/zen/pythonstudy/bussiness_club'
- 
+alias cap='pushd /Users/zen1/zen/pythonstudy/Capitalist'
+alias mem='vim /Users/zen1/zen/pythonstudy/Brain_extension/memo'
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
@@ -227,6 +226,43 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
     . /etc/bash_completion
 fi
 
+#alias pme='ipython -i /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen'
+#alias pms='python /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen show'
+#alias pmcki='python /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen check_in'
+
+function pme {
+               if [ -n "$1" ]
+                    then
+                    user="$1"
+               else
+                    user="zen"
+               fi
+               ipython -i /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user
+             }
+
+function pms {
+               if [ -n "$1" ]
+                    then
+                    user="$1"
+               else
+                    user="zen"
+               fi
+               python  /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user show "$2"
+             }
+
+function pmcki {
+               if [ -n "$1" ]
+                    then
+                    user="$1"
+               else
+                    user="zen"
+               fi
+               python  /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user check_in "$2"
+             }
+
+export -f pme
+export -f pms
+export -f pmcki
 
 function dee { w3m  "http://www.oxfordlearnersdictionaries.com/definition/american_english/$1"; }
 function dss { w3m  "http://wordreference.com/definicion/$1"; }

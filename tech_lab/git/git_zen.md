@@ -51,3 +51,45 @@ For example:
 
 
 When Cloning a repository, git will creates a 'master' branch automatically which tracks 'origin/master'
+
+
+P3  ******************************************************************************************
+
+There are two ways to merging diverged commits, the first one is 'merge', and the second one is 'rebase'.
+
+'Merge' find the common ancestor of two commits, and do a three way merge. 'Rebase' directly imply the changes of one commits on another.
+
+There is no difference between the end result of 'Merge' and 'Rebase', But 'Rebase' can give you a cleaner linear log history.
+
+'Rebase' happens like this, first you rewind back to the common ancestor of two branches, then all the changes from the ancestor to current branch will be recored linear in a temporary file. Then your current branch will be set to the last commit
+of the target branch, then, apply all the changes stored in the temp file by their order on this commit of target branch. Then you`ll got a "target branch commit + all commit changes by order from ancestor to current branch" commit. This commit
+is where your current branch resides. And with no-doubt, it is a newer commit at this same flow with the target branch. And you check back to your target branch, merge it with your previosu branch, then a fast-forward merge will be made.
+
+!!!
+    DO NOT REBASE COMMITS THAT EXIST OUTSIDE YOUR REPOSITORY
+!!!
+
+In git, except the SHA-1 checksum, there is also a patch-id to track each commit changes. So in different commit, there may contain the same ptach change, such as a rebased commit may have the same change content as its origin commit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

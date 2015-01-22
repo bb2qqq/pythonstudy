@@ -27,8 +27,18 @@ def get_pm(user=''):
 
 
 class ProjectManager(object):
-    """ raw_dict sample: { 'Activity1': {'create_time': 149222113, 'active_time': 152221313, 'index': 1, progress: 0.0, tips: ['Page 101']}, 'Activity2': {}} """
-
+    """ raw_dict_sample: {
+                            'Activity1': {
+                                            'create_time': '2014-01-05 15:23:25',
+                                            'active_time': '2014-01-05 15:23:25',           # Last check-in time
+                                            'index': 1,                                     # Index to fast locate a project
+                                            'progress': 0.0,                                # Project process
+                                            'tips': ['Last Read: Page 101'],                # Tips as reminders
+                                            'check_in_times: 0
+                                         },
+                            'Activity2': {}
+                         }
+    """
 
     def __init__(self, user=''):
         self.raw_dict = {}
@@ -44,35 +54,44 @@ class ProjectManager(object):
         return next_index
 
 
-    def add_activity(self, activity):
+    def add_activity(self, activity_name):
         now = datetime.datetime.now()
         index = self.get_avail_index()
-        if activity not in self.raw_dict:
-            self.raw_dict[activity] = {'create_time': now, 'active_time': now, 'index': index, 'progress': 0.0, 'tips': [ ]}
-            self.index_dict[index] = activity
+
+        if activity_name not in self.raw_dict:
+            self.raw_dict[activity_name] = {'create_time': now, 'active_time': now, 'index': index, 'progress': 0.0, 'tips': [ ], 'check_in_times': 1}
+            self.index_dict[index] = activity_name
 
             self.save()
 
         else:
-            print 'The activity is already in your project manager'
+            print 'The activity_name is already in your project manager'
 
-    def check_in(self, index):
-        now = datetime.datetime.now()
-        activity = self.index_dict[index]
-        self.raw_dict[activity]['active_time'] = now
+
+    def del_activity(self, activity_index):
+
+        activity_name = self.index_dict.get(activity_index, None)
+        if not activity_name:
+            return "Wrong activity index"
+        del self.raw_dict[activity_name]
+
 
     def show_one_activity(self, activity_index):
+
         activity = self.index_dict[activity_index]
         create_time = str(self.raw_dict[activity]['create_time'])[:19]
         active_time = str(self.raw_dict[activity]['active_time'])[:19]
+        check_in_times = self.raw_dict.get('check_in_times', 0)
         tips = self.raw_dict[activity]['tips']
-        print activity_index, '\t', activity, '\t', create_time, '\t', active_time
-        print 'Tips:'
-        for tip in tips:
-            print tip
 
+        # \t and \n is intended to improve output readability
+        print activity_index, '\t', activity, '\t', create_time, '\t', active_time, '\t', check_in_times
+        print '\nTips:\n'
+        for tip in tips:
+            print '\t', tip, '\n'
 
     def show_all_activity(self):
+
         now = datetime.datetime.now()
         active_limit = datetime.timedelta(days = 3)
         keep_up_limit = datetime.timedelta(days = 10)
@@ -85,28 +104,60 @@ class ProjectManager(object):
             for activity in target_list:
                 index = self.raw_dict[activity]['index']
                 active_time = str(self.raw_dict[activity]['active_time'])[:19]
-                print index, '\t', activity, '\t', active_time
+                check_in_times = self.raw_dict.get('check_in_times', 0)
+                print '\t', activity, '\t', index, '\t', active_time, '\t', check_in_times, '\n'
 
-        print '\nActive Project:\n'
-        temp_print(active_list)
+        if active_list:
+            print '\nActive Project:\n'
+            temp_print(active_list)
 
-        print '\nKeeping Up Project:\n'
-        temp_print(keep_up_list)
+        if keep_up_list:
+            print '\nKeeping Up Project:\n'
+            temp_print(keep_up_list)
 
-        print '\nFrozen Project:\n'
-        temp_print(frozen_list)
+        if frozen_list:
+            print '\nFrozen Project:\n'
+            temp_print(frozen_list)
+
+
+    def check_in(self, index):
+        """  打卡功能，用于更新各个project的活跃状态  """
+        now = datetime.datetime.now()
+        activity = self.index_dict[index]
+        self.raw_dict[activity]['active_time'] = now
+        self.raw_dict[activity]['check_in_times'] += 1
+        self.save()
 
 
     def add_tip(self, activity_index, tip=''):
         activity = self.index_dict[activity_index]
         tip = tip or raw_input().replace('\\n', '\n')
         self.raw_dict[activity]['tips'].append(tip)
+        self.check_in(activity_index)                   # Add tip 包含 check_in 状态
 
         self.save()
 
 
-    def show_tips(self, activity ):
-        for index, tip in enumerate(self.raw_dict['activity']['tip']):
+    def del_tip(self, activity_index, tip_index):
+
+        activity_name = self.index_dict.get(activity_index, None)
+        if not activity_name:
+            return "Wrong activity index"
+        activity = self.raw_dict[activity_name]
+        tips = activity['tips']
+        tip_existance = tip_index <= len(tips)
+        if not tip_existance:
+            return "Wrong tip index"
+        del self.raw_dict[activity_name]['tips'][tip_index]
+
+
+    def show_tips(self, activity_index ):
+        activity_name = self.index_dict.get(activity_index, None)
+
+        if not activity_name:
+            return "Wrong activity index"
+
+        for index, tip in enumerate(self.raw_dict[activity_name]['tips']):
             print index, tip
 
 

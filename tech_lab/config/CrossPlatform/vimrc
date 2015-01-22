@@ -22,6 +22,9 @@ set tags=./tags; /media/sf_zen/genesis/backend/
 noremap <Leader>t :!ctags-proj.sh<CR>
 
 
+nnoremap <C-e>      2<C-e>
+nnoremap <C-y> 2<C-y>
+"
 " vsplit switch optimization
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>

@@ -60,10 +60,16 @@ git branch --merged / --no-merged                               # To view branch
 
 git branch -d branch_name                                       # Delete merged branch, if it isn`t merged, using -D to force delete
 
+git rebase --onto master server client                          # Checkout to client, find the common ancestor of server and client, and the change patches from that commit to current client branch commit, store them and replay them on master commit. And switch branch client head to this final commit.
 
+git rebase [basebranch] [topicbranch]                           # Checkout to topicbranch, replay its changes on basebranch
+    * DO NOT REBASE COMMITS OUTSIDE YOUR REPOSITORY
+
+git pull --rebase                                               # Equal to "git fetch" + "git rebase origin/tracked_branch"
 
 
 ###################         TAG             ############################
+
 
 git tag -l "*key_word*"                                         # list all tags contains "key_word"
 

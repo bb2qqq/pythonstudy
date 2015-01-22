@@ -52,6 +52,12 @@ find -! -name "*master*"
 find / -type d -name '*config*'
 
 
+        # Find files in target directories and mv them to a new directory
+find *dir_pattern* -type f -name "*" -exec mv {} /path/to/new_dir \;
+find . -type d -name "*dir_pattern*" -exec bash -c 'mv "{}"/* /path/to/new_dir' \;
+        * bash -c treat the string afterwards as a command, here {} is the result of the find command
+
+
 
 #####################           SED         #############################
 
@@ -84,7 +90,6 @@ rm -i pattern/file
 
 	# Print server numbers in a column with your specified number range
 seq 163 180 | awk '{print "g"$1}'
-
 
 
 	# kill all screen sessions
@@ -128,6 +133,22 @@ set +o noclobber                                            # Enable   >
 
         # Passing all variables to the command or script
 some_command "$@"                                                    # if you have 'a.sh' which contains 'echo "$@"', then you can do 'sh a.sh to print out any kind of sentences', you`ll got 'to print out any kind of sentences' on your screen now.
+
+
+        # Add a line to crontab
+crontab -l > temp_cron_file
+echo "* * * * * sh my_sync.sh" >> temp_cron_file
+crontab temp_cron_file
+rm temp_cron_file
+
+
+        # date without padding area on month
+date +"%Y%-m%d"
+
+
+        # find the path of a command
+whereis command
+
 
 ####################            ON MAC              #######################
 
