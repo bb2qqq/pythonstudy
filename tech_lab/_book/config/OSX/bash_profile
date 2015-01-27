@@ -1,0 +1,8 @@
+[[ -s ~/.bashrc ]] && source ~/.bashrc
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+export CLICOLOR=1
+export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx      # original_tutorial_link:  http://apple.stackexchange.com/questions/33677/how-can-i-configure-mac-terminal-to-have-color-ls-output
+if [ -f ~/.git-completion.bash ]; then
+  . ~/.git-completion.bash
+fi
