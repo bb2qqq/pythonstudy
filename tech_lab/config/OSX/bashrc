@@ -83,6 +83,8 @@ alias vb='vim ~/.bashrc'
 alias be='pushd ~/zen/pythonstudy/Brain_extension'
 alias phi='vim ~/zen/pythonstudy/Brain_Extension/Some_times_I_am_philosophical'
 alias n20='ssh -p 22 admin@120.132.57.20'
+alias ir='ssh -p 22 admin@120.132.57.32'
+alias mr='ssh -p 22 admin@120.132.57.21'
 alias ct='cat ~/zen/pythonstudy/tree_hole'
 alias g='grep'
 alias pd='pushd'
@@ -93,7 +95,8 @@ alias mem='vim /Users/zen1/zen/pythonstudy/Brain_extension/memo'
 alias nl='pushd /Users/zen1/zen/new_life/normaldocuments'
 alias pbc='pwd | pbcopy'
 alias pbp='pbpaste'
-alias zen='vim ~/zen/pythonstudy/Brain_extension/Some_times_I_am_philosophical'
+alias zen='vim ~/zen/pythonstudy/book/zen_book/philosopy'
+alias book='pushd ~/zen/pythonstudy/book'
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples

@@ -1,4 +1,4 @@
-### GREP ###
+d### GREP ###
 
 
 * Find recursively on current directory those files which contains keyword _luck_ and list them out.
@@ -91,6 +91,14 @@
 	  sed -n '100p'
 
 
+### PROCESS ###
+
+* find the process_id of a particular program
+
+      pgrep cron
+
+
+
 ### FILE & DIRECTORIES ###
 
 
@@ -120,6 +128,13 @@
 
       ssh -vvv usr@host
 
+* Change owner and owner group of a file
+
+      chown target_user:target_group target_file
+
+* Make a file writable
+
+      chmod +w target_file
 
 
 ### OTHERS ###
@@ -137,8 +152,8 @@
 
 * These tow commands are identical, they both read and execute the commands write in a file in the current shell envioronment
 
-	  source file_name 
-	  . file_name	  
+	  source file_name
+	  . file_name	
 
 
 
@@ -199,6 +214,11 @@ set +o noclobber                                            # Enable   >
 	  date +"%Y%-m%d"
 
 
+* redirect stderror content to where stdout content goes
+
+          command somefile > target_doc 2>&1
+
+> 2 denotes standard error, while 1 denote standard out, & act as special descriptor
 
 
 ### ON MAC ###

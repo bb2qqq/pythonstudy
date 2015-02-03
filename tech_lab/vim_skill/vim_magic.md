@@ -16,4 +16,17 @@
 
 * 删除本文件内所有行尾部的空格
 
-      :%s/ \+$//g
+      :%s/\s\+$//g
+
+* 将所有与非特殊符号字符的pattern替换掉，特殊符号可以是空格，标点，\t等。在此命令中，pattern只能为字母或数字
+
+      :%s!\<PATTERN\>!TARGET_VALUE!gc
+
+> \<和\>分别表示 PATTERN 前和 PATTERN 后的任意符号, 如`s!\<vi!VIM!` 会将 &vi 里的vi替换成VIM， 而不会替换 avi 里的 vi。
+
+* Ignore capitalization when doing pattern searching
+
+      :s!PATTERN!TARGET_VALUE!i
+
+
+

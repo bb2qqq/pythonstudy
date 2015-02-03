@@ -61,3 +61,6 @@ set clipboard=unnamedplus
  " terminal encoding
  " even if you set utf-8 in ssh client
  set termencoding=utf-8
+
+" Fix copy paste issues on iterm
+mouse=r

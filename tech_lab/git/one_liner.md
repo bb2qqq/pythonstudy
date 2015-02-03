@@ -18,10 +18,6 @@ git log --before='2013-12-01' --no-merges                       # Show git commi
 
 
 
-# FOR MORE INFORMATIONS, DO  man grep log
-
-
-
 
 ###################         REMOTE          ###########################
 
