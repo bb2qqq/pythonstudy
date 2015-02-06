@@ -1,0 +1,488 @@
+
+Almost all module functions depend on the basic function random(), which generates a random float uniformly in the semi-open range [0.0, 1.0). Python uses the Mersenne Twister as the core generator. It produces 53-bit precision floats and has a period of 2**19937-1. The underlying implementation in C is both fast and threadsafe. The Mersenne Twister is one of the most extensively tested random number generators in existence. However, being completely deterministic, it is not suitable for all purposes, and is completely unsuitable for cryptographic purposes.
+
+The functions supplied by this module are actually bound methods of a hidden instance of the random.Random class. You can instantiate your own instances of Random to get generators that don°Øt share state. This is especially useful for multi-threaded programs, creating a different instance of Random for each thread, and using the jumpahead() method to make it likely that the generated sequences seen by each thread don°Øt overlap.
+
+Warning The pseudo-random generators of this module should not be used for security purposes. Use os.urandom() or SystemRandom if you require a cryptographically secure pseudo-random number generator.
+
+
+import importlib
+module = importlib.import_module('uid_2014-10-13')
+
+
+============================================================
+
+String Formatting with Dictionaries
+
+>>> phonebook
+{'Beth': '9102', 'Alice': '2341', 'Cecil': '3258'}
+>>> "Cecil's phone number is %(Cecil)s." % phonebook
+"Cecil's phone number is 3258."
+
+
+>>> template = '''<html>
+<head><title>%(title)s</title></head>
+<body>
+<h1>%(title)s</h1>
+<p>%(text)s</p>
+</body>'''
+>>> data = {'title': 'My Home Page', 'text': 'Welcome to my home page!'}
+>>> print template % data
+<html>
+<head><title>My Home Page</title></head>
+<body>
+<h1>My Home Page</h1>
+<p>Welcome to my home page!</p>
+</body>
+
+
+>>> returned_value = d.clear()
+>>> d
+{}
+>>> print returned_value
+None
+
+
+>>> {}.fromkeys(['name', 'age'])
+{'age': None, 'name': None}
+
+>>> d.popitem()
+('url', 'http://www.python.org')
+
+setdefault
+The setdefault method is somewhat similar to get, in that it retrieves a value associated with
+a given key. In addition to the get functionality, setdefault sets the value corresponding to the
+given key if it is not already in the dictionary:
+>>> d = {}
+>>> d.setdefault('name', 'N/A')
+'N/A'
+
+
+The Boolean values True and False belong to the type bool, which can be used (just like, for
+example, list, str, and tuple) to convert other values:
+>>> bool('I think, therefore I am')
+True
+>>> bool(42)
+True
+>>> bool('')
+False
+>>> bool(0)
+False
+
+
+Although [] and "" are both false (that is, bool([])==bool("")==False), they are not equal (that
+is, []!=""). The same goes for other false objects of different types (for example, ()!=False).
+
+
+x is not y x and y are different objects.
+
+a if b else c
+
+>>> age = -1
+>>> assert 0 < age < 100
+Traceback (most recent call last):
+
+>>> zip(range(5), xrange(100000000))
+[(0, 0), (1, 1), (2, 2), (3, 3), (4, 4)]
+
+
+A simpler way is to add an else clause to your loop°™it is only executed if you didn°Øt call
+break. Let°Øs reuse the example from the preceding section on break:
+
+from math import sqrt
+for n in range(99, 81, -1):
+root = sqrt(n)
+if root == int(root):
+print n
+break
+else:
+print "Didn't find it!"
+
+Notice that I changed the lower (exclusive) limit to 81 to test the else clause. If you run the
+program, it prints out °∞Didn°Øt find it!°± because (as you saw in the section on break) the largest
+square below 100 is 81. You can use continue, break, and else clauses with both for loops and
+while loops.
+
+
+>>> [(x, y) for x in range(3) for y in range(3)]
+[(0, 0), (0, 1), (0, 2), (1, 0), (1, 1), (1, 2), (2, 0), (2, 1), (2, 2)]
+
+[{x:y} for y in range(3,10) for x in range(-100,30)]
+[{x:y} for x in range(3,10) for y in range(-100,30)]
+
+
+>>> girls = ['alice', 'bernice', 'clarice']
+>>> boys = ['chris', 'arnold', 'bob']
+>>> [b+'+'+g for b in boys for g in girls if b[0] == g[0]]
+['chris+clarice', 'arnold+alice', 'bob+bernice']
+
+
+°ˆNote Using normal parentheses instead of brackets will not give you a °∞tuple comprehension.°± In Python
+2.3 and earlier, you°Øll simply get an error; in more recent versions, you°Øll end up with a generator. See the
+sidebar °∞Loopy Generators°± in Chapter 9 for more information.
+
+Generator:
+( (x,y) for x in range(10) for y in range(5) if x > y)
+
+
+eval
+A built-in function that is similar to exec is eval (for °∞evaluate°±). Just as exec executes a series
+of Python statements, eval evaluates a Python expression (written in a string) and returns the
+resulting value. (exec doesn°Øt return anything because it is a statement itself.) For example, you
+can use the following to make a Python calculator:
+>>> eval(raw_input("Enter an arithmetic expression: "))
+Enter an arithmetic expression: 6 + 18 * 2
+42
+
+>>> scope = {}
+>>> exec 'x = 2' in scope
+>>> eval('x*x', scope)
+4
+
+reversed(seq)
+# generate a reversed list iterator
+
+my_dict.setdefault('xxx', 255) 
+# dict.setdefault( x, 5) =  if dict.get(x): return dict[x], else: dict.set(x, 5)
+
+The parameters that are supplied with a name like this are called keyword parameters. On
+their own, the key strength of keyword parameters is that they can help clarify the role of each
+parameter. Instead of needing to use some odd and mysterious call like this:
+>>> store('Mr. Brainsample', 10, 20, 13, 5)
+you could use this:
+>>> store(patient='Mr. Brainsample', hour=10, minute=20, day=13, month=5)
+
+Even though it takes a bit more typing, it is absolutely clear what each parameter does.
+Also, if you get the order mixed up, it doesn°Øt matter.
+
+
+Pretty nifty, huh? And that°Øs not all. You can combine positional and keyword parameters.
+The only requirement is that all the positional parameters come first. If they don°Øt, the interpreter
+won°Øt know which ones they are (that is, which position they are supposed to have).
+
+
+°ˆNote Unless you know what you°Øre doing, you might want to avoid mixing positional and keyword parameters.
+That approach is generally used when you have a small number of mandatory parameters and many
+modifying parameters with default values.
+For example, our hello function might require a name, but allow us to (optionally) specify
+the greeting and the punctuation:
+def hello_4(name, greeting='Hello', punctuation='!'):
+       print '%s, %s%s' % (greeting, name, punctuation)
+	   
+	      
+v=(1,2,3,4)
+
+def t(a, b, c, d):
+	return a+b+c+d
+	
+t(*v)
+10
+
+King = 'papa'
+Queen = 'mama'
+new_string = '{0} is husband of {1}'.format(King, Queen)
+
+' I {verb} {obj}'.format(verb='hack', obj='water')
+
+'{0} {0} {0}, she {1}'.format('bang', 'shoot')
+
+frase = 'Quiero tu {cosa}'.format
+frase(cosa='beso')
+
+'{}+{}'.format('ba','e')
+'{}+{{}}'.format('ba')
+
+dict_frase = " estoy buscando %(machacha)s en este %(cosa)s" % {'machacha': 'lupo', 'cosa': 'gitano', 'mama': 'Mey'}
+# though more items in dict than in string, but it won't throw error.
+
+
+vars()
+
+
+>>> x = 1
+>>> scope = vars()
+>>> scope['x']
+1
+>>> scope['x'] += 1
+>>> x
+2
+°ˆCaution In general, you should not modify the dictionary returned by vars because, according to the official
+Python documentation, the result is undefined. In other words, you might not get the result you°Øre after.
+
+# This is called a closure, as mp_f inherite the scope of mp.
+def mp(f):
+	  def mp_f(n):
+			print locals()
+			return f*n
+	  return mp_f
+	 
+	 
+A useful recursive function usually consists of the following parts:
+? A base case (for the smallest possible problem) when the function returns a value
+directly
+? A recursive case, which contains one or more recursive calls on smaller parts of the
+problem 
+	 
+	 
+So you have a function calling itself. But how is that even possible? It°Øs really not as strange
+as it might seem. As I said before, each time a function is called, a new namespace is created for
+that specific call. That means that when a function calls °∞itself,°± you are actually talking about
+two different functions (or, rather, the same function with two different namespaces). You
+might think of it as one creature of a certain species talking to another one of the same species.
+
+If a function or an algorithm is complex and difficult to understand, clearly defining it in your own
+words before actually implementing it can be very helpful. Programs in this sort of °∞almost-programminglanguage°±
+are often referred to as pseudocode.
+
+To make a method or attribute private (inaccessible from the outside), simply start its
+name with two underscores:
+
+class Secretive:
+	  def __inaccessible(self):
+			 print "Bet you can't see me..."
+	  def accessible(self):
+	         print "The secret message is:"
+			 self.__inaccessible()
+
+>>> s = Secretive()
+>>> s.__inaccessible()
+Traceback (most recent call last):
+File "<pyshell#112>", line 1, in ?
+s.__inaccessible()
+AttributeError: Secretive instance has no attribute '__inaccessible'
+>>> s.accessible()
+The secret message is:
+Bet you can't see me...
+
+
+Although the double underscores are a bit strange, this seems like a standard private
+method, as found in other languages. What°Øs not so standard is what actually happens. Inside
+a class definition, all names beginning with a double underscore are °∞translated°± by adding a
+single underscore and the class name to the beginning:
+>>> Secretive._Secretive__inaccessible
+<unbound method Secretive.__inaccessible>
+If you know how this works behind the scenes, it is still possible to access private methods
+outside the class, even though you°Øre not supposed to:
+>>> s._Secretive__inaccessible()
+Bet you can't see me...
+
+Investigating Inheritance
+If you want to find out whether a class is a subclass of another, you can use the built-in method
+issubclass:
+>>> issubclass(SPAMFilter, Filter)
+True
+>>> issubclass(Filter, SPAMFilter)
+False
+If you have a class and want to know its base classes, you can access its special attribute
+__bases__:
+>>> SPAMFilter.__bases__
+(<class __main__.Filter at 0x171e40>,)
+
+An instance of a class is also instance of the class's superclass, if there is one
+
+If you are using multiple inheritance, there is one thing you should look out for: if a
+method is implemented differently by two or more of the superclasses (that is, you have two
+different methods with the same name), you must be careful about the order of these superclasses
+(in the class statement). The methods in the earlier classes override the methods in the
+later ones. So if the Calculator class in the preceding example had a method called talk, it
+would override (and make inaccessible) the talk method of the Talker. 
+
+
+If you
+wanted to, you could even check whether the talk attribute was callable:
+>>> callable(getattr(tc, 'talk', None))
+True
+
+When determining which classes you need and which methods they should have, you may
+try something like this:
+1. Write down a description of your problem (what should the program do?). Underline all
+the nouns, verbs, and adjectives.
+2. Go through the nouns, looking for potential classes.
+3. Go through the verbs, looking for potential methods.
+4. Go through the adjectives, looking for potential attributes.
+5. Allocate methods and attributes to your classes.
+
+
+The raise Statement
+To raise an exception, you use the raise statement with an argument that is either a class
+(which should subclass Exception) or an instance. When using a class, an instance is created
+automatically Here is an example, using the built-in exception class Exception:
+>>> raise Exception
+Traceback (most recent call last):
+File "<stdin>", line 1, in ?
+Exception
+>>> raise Exception('hyperdrive overload')
+Traceback (most recent call last):
+File "<stdin>", line 1, in ?
+Exception: hyperdrive overload
+
+
+To list the contents of a module, you can use the dir function,
+which is described in Chapter 10:
+>>> import exceptions
+>>> dir(exceptions)
+['ArithmeticError', 'AssertionError', 'AttributeError', ...]
+
+
+So, how do you create exception classes? Just like any other class°™but be sure to subclass
+Exception (either directly or indirectly, which means that subclassing any other built-in exception
+is okay). Thus, writing a custom exception basically amounts to something like this:
+class SomeCustomException(Exception): pass
+Really not much work, is it? (If you want, you can certainly add methods to your exception
+class as well.)
+
+
+If you want to catch more than one exception type with one block, you can specify them all in
+a tuple, as follows:
+try:
+	x = input('Enter the first number: ')
+	y = input('Enter the second number: ')
+	print x/y
+except (ZeroDivisionError, TypeError, NameError):
+	print 'Your numbers were bogus...'		
+
+Note that the parentheses around the exceptions in the except clause are important. A
+common error is to omit these parentheses, in which case you may end up with something
+other than what you want. For an explanation, see the next section, °∞Catching the Object.°±
+
+
+The following is a sample program that prints out the exception (if it occurs), but
+keeps running:
+try:
+	x = input('Enter the first number: ')
+	y = input('Enter the second number: ')
+	print x/y
+except (ZeroDivisionError, TypeError), e:
+	print e
+°ˆNote In Python 3.0, the except clause will be written except (ZeroDivisionError, TypeError) as e.
+
+
+°ˆCaution Catching all exceptions like this is risky business because it will hide errors you haven°Øt thought
+of as well as those you°Øre prepared for. It will also trap attempts by the user to terminate execution by Ctrl-C,
+attempts by functions you call to terminate by sys.exit, and so on. In most cases, it would be better to use
+except Exception, e and perhaps do some checking on the exception object, e.
+
+
+while True:
+	try:
+		x = input('Enter the first number: ')
+		y = input('Enter the second number: ')
+		value = x/y
+		print 'x/y is', value
+	except:
+		print 'Invalid input. Please try again.'
+	else:
+		break
+		
+Here, the loop is broken (by the break statement in the else clause) only when no exception
+is raised. In other words, as long as something wrong happens, the program keeps asking
+for new input. The following is an example run:
+
+Enter the first number: 1
+Enter the second number: 0
+Invalid input. Please try again.
+Enter the first number: 'foo'
+Enter the second number: 'bar'
+Invalid input. Please try again.
+Enter the first number: baz
+Invalid input. Please try again.
+Enter the first number: 10
+Enter the second number: 2
+x/y is 5
+
+#zen# there is another syntax named 'finally' in try block, it is executed after a try block no matter whatever happend
+
+
+For a sequence, if the key is a negative integer, it should be used to count from the end.
+In other words, treat x[-n] the same as x[len(x)-n].
+
+
+isinstance(3.0, (str, float))  # if 3 belongs to str or float, return True
+
+
+You specify one or more decorators (which are applied in reverse order) by listing
+them above the method (or function), using the @ operator:
+
+
+So what°Øs new here is the yield statement. Any function that contains a yield statement is
+called a generator.
+
+
+LOOPY GENERATORS
+In Python 2.4, a relative of list comprehension (see Chapter 5) was introduced: generator comprehension (or
+generator expressions). It works in the same way as list comprehension, except that a list isn°Øt constructed
+(and the °∞body°± isn°Øt looped over immediately). Instead, a generator is returned, allowing you to perform the
+computation step by step:
+>>> g = ((i+2)**2 for i in range(2,27))
+>>> g.next()
+16
+As you can see, this differs from list comprehension in the use of plain parentheses. In a simple case
+such as this, I might as well have used a list comprehension. However, if you wish to °∞wrap°± an iterable object
+(possibly yielding a huge number of values), a list comprehension would void the advantages of iteration by
+immediately instantiating a list.
+A neat bonus is that when using generator comprehension directly inside a pair of existing parentheses,
+such as in a function call, you don°Øt need to add another pair. In other words, you can write pretty code like this:
+sum(i**2 for i in range(10))
+
+
+Note There are two main reasons why you shouldn°Øt iterate over string-like objects in the flatten function.
+First, you want to treat string-like objects as atomic values, not as sequences that should be flattened.
+Second, iterating over them would actually lead to infinite recursion because the first element of a string is
+another string of length one, and the first element of that string is the string itself!
+
+
+Try understand yield
+
+def x():
+	  yield 1
+	  yield 2
+	  yield 3
+	  
+for i in x():
+     print i, x().next()
+	 
+1 1
+2 1
+3 1
+
+
+In other words, generators consist of two separate components: the generator-function
+and the generator-iterator. The generator-function is what is defined by the def statement containing
+a yield. The generator-iterator is what this function returns. In less precise terms, these
+two entities are often treated as one and collectively called a generator.
+>>> def simple_generator():
+yield 1
+...
+>>> simple_generator
+<function simple_generator at 153b44>
+>>> simple_generator()
+<generator object at 1510b0>
+
+#Zen#  When each time you call a generator, you got an iterator returned by it
+
+
+Usually a module can be imported only once, but you can use built-in reload to import it any times you want, it was imported from .pyc by using reload
+
+
+
+If you write two file:
+vim a.py
+from b import b
+a = 1
+
+vim b.py
+from a import a
+b = 2
+
+run python a.py, you’ll get an error, cause this will trigger infinite import, but python only import a module once, so that at the third time, the import would fail
+
+
+from pprint import pprint
+pprint can print list in a pretty way:
+similar to      for i in L: print i
+
+
+Change sys.python search path: export PYTHONPATH=$PYTHONPATH:~/python
+
+
+zjc

@@ -1,0 +1,221 @@
+# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+# for examples
+
+# If not running interactively, don't do anything
+[ -z "$PS1" ] && return
+
+# don't put duplicate lines in the history. See bash(1) for more options
+# ... or force ignoredups and ignorespace
+HISTCONTROL=ignoredups:ignorespace
+
+
+# Zen
+# ls files with colors, tutorial on here - http://linux-sxs.org/housekeeping/lscolors.html
+
+alias ls='ls --color'
+LS_COLORS='di=32:fi=0:ln=31:pi=5:so=5:bd=5:cd=5:or=31:mi=0:ex=33:*.rpm=90'
+export LS_COLORS
+
+# Zen
+
+alias ls='ls --hide="*.pyc"'
+alias logics='vim /media/sf_shared/genesis/backend/logics/'
+alias models='vim /media/sf_shared/genesis/backend/models'
+alias views='vim /media/sf_shared/genesis/backend/views'
+alias admin='vim /media/sf_shared/genesis/backend/admin'
+alias goupload='cd /media/sf_shared/genesis/backend/admin/upload'
+alias utils='vim /media/sf_shared/genesis/backend/lib/utils'
+alias core='vim /media/sf_shared/genesis/backend/lib/core'
+alias db='vim /media/sf_shared/genesis/backend/lib/db'
+alias statistics='vim /media/sf_shared/genesis/backend/lib/statistics'
+alias templates='vim /media/sf_shared/genesis/backend/templates/admin'
+
+alias ls='ls --hide="*.pyc"'
+alias gologics='cd /media/sf_shared/genesis/backend/logics/'
+alias gomodels='cd /media/sf_shared/genesis/backend/models'
+alias goviews='cd /media/sf_shared/genesis/backend/views'
+alias goadmin='cd /media/sf_shared/genesis/backend/admin'
+alias goupload='cd /media/sf_shared/genesis/backend/admin/upload'
+alias goutils='cd /media/sf_shared/genesis/backend/lib/utils'
+alias gocore='cd /media/sf_shared/genesis/backend/lib/core'
+alias godb='cd /media/sf_shared/genesis/backend/lib/db'
+alias gostatistics='cd /media/sf_shared/genesis/backend/lib/statistics'
+alias gotemplates='cd /media/sf_shared/genesis/backend/templates/admin'
+alias newtest='ssh -p 8001 root@test.kaiqigu.net'
+alias dl='pushd /media/sf_shared/download'
+alias ba='. .bashrc'
+alias upload='expect ~/lab/scripts/upload.sh'
+#alias gotest='ssh root@42.62.77.54'
+alias cmgescp='scp -P 2009 admin@211.155.89.81:/data/admin/upload/* /media/sf_shared/download'
+alias abscp='scp admin@203.90.236.146:~/upl/* /media/sf_shared/download'
+alias qqscp='scp admin@182.254.166.54:~/upl/* /media/sf_shared/download'
+alias dev='ssh zengjuchen@dev.kaiqigu.net'
+alias gogb='cd /media/sf_shared/genesis/backend'
+alias gb='vim /media/sf_shared/genesis/backend'
+alias cmge='ssh -p 2009 admin@211.155.89.81'
+alias mixtimer='ssh -p 2009 admin@211.155.89.209'
+alias iostimer='ssh -p 2009 admin@211.155.89.216'
+alias n209='ssh -p 2009 admin@211.155.89.209'
+alias n210='ssh -p 2009 admin@211.155.89.210'
+alias n211='ssh -p 2009 admin@211.155.89.211'
+alias n213='ssh -p 2009 admin@211.155.89.213'
+alias n216='ssh -p 2009 admin@211.155.89.216'
+alias teleport='sh ~/lab/teleport.sh'
+alias ca='xmodmap $HOME/.speedswapper'
+alias abroad2='ssh admin@203.90.239.49'
+alias abroad3='ssh admin@203.90.239.46'
+alias abroad='ssh admin@203.90.236.146'
+alias qiku='ssh admin@182.254.166.54'
+alias zd='pushd ~/pythonstudy/creation/zen_dict'
+alias alg='pushd ~/pythonstudy/tech_lab/algorithm'
+alias tec='pushd ~/pythonstudy/tech_lab'
+alias ga='git add'
+alias gb='git branch '
+alias gc='git checkout '
+alias gd='git diff'
+alias gp='git pull'
+alias gs='git status '
+alias gcm='git commit '
+alias py='python'
+alias ipy='ipython -i'
+alias pys='pushd ~/pythonstudy'
+alias dream='pushd ~/pythonstudy/MAKE_MY_DREAM_COME_TRUE'
+alias cien='vim /home/zen/pythonstudy/grocery/literatura/master_obra/cien'
+# Zen #
+
+case "$TERM" in
+*-256color)
+    alias ssh='TERM=${TERM%-256color} ssh'
+    ;;
+*)
+    POTENTIAL_TERM=${TERM}-256color
+    POTENTIAL_TERMINFO=${TERM:0:1}/$POTENTIAL_TERM
+
+    # better to check $(toe -a | awk '{print $1}') maybe?
+    BOX_TERMINFO_DIR=/usr/share/terminfo
+    [[ -f $BOX_TERMINFO_DIR/$POTENTIAL_TERMINFO ]] && \
+        export TERM=$POTENTIAL_TERM
+
+    HOME_TERMINFO_DIR=$HOME/.terminfo
+    [[ -f $HOME_TERMINFO_DIR/$POTENTIAL_TERMINFO ]] && \
+        export TERM=$POTENTIAL_TERM
+    ;;
+esac
+
+# Zen #
+
+
+
+# append to the history file, don't overwrite it
+shopt -s histappend
+
+# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+HISTSIZE=1000
+HISTFILESIZE=2000
+
+# check the window size after each command and, if necessary,
+# update the values of LINES and COLUMNS.
+shopt -s checkwinsize
+
+# make less more friendly for non-text input files, see lesspipe(1)
+[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
+
+# set variable identifying the chroot you work in (used in the prompt below)
+if [ -z "$debian_chroot" ] && [ -r /etc/debian_chroot ]; then
+    debian_chroot=$(cat /etc/debian_chroot)
+fi
+
+# set a fancy prompt (non-color, unless we know we "want" color)
+case "$TERM" in
+    xterm-color) color_prompt=yes;;
+esac
+
+# uncomment for a colored prompt, if the terminal has the capability; turned
+# off by default to not distract the user: the focus in a terminal window
+# should be on the output of commands, not on the prompt
+force_color_prompt=yes
+
+if [ -n "$force_color_prompt" ]; then
+    if [ -x /usr/bin/tput ] && tput setaf 1 >&/dev/null; then
+	# We have color support; assume it's compliant with Ecma-48
+	# (ISO/IEC-6429). (Lack of such support is extremely rare, and such
+	# a case would tend to support setf rather than setaf.)
+	color_prompt=yes
+    else
+	color_prompt=
+    fi
+fi
+
+if [ "$color_prompt" = yes ]; then
+    PS1='${debian_chroot:+($debian_chroot)}\[\033[00;33m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+else
+    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
+fi
+unset color_prompt force_color_prompt
+
+# If this is an xterm set the title to user@host:dir
+case "$TERM" in
+xterm*|rxvt*)
+    PS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"
+    ;;
+*)
+    ;;
+esac
+
+# enable color support of ls and also add handy aliases
+if [ -x /usr/bin/dircolors ]; then
+    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
+    alias ls='ls --color=auto'
+    #alias dir='dir --color=auto'
+    #alias vdir='vdir --color=auto'
+
+#Zcomment#    alias grep='grep --color=auto'
+    alias grep='GREP_COLOR="1;33;40" LANG=C grep --color=auto'
+    alias fgrep='fgrep --color=auto'
+    alias egrep='egrep --color=auto'
+fi
+
+# some more ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Add an "alert" alias for long running commands.  Use like so:
+#   sleep 10; alert
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.
+
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+
+# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).
+if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
+    . /etc/bash_completion
+fi
+
+export PS1='\[\033[00;33m\]\u@\h\[\033[01;34m\] \w\[\033[01;35m\]$(__git_ps1)\[\033[01;34m\] \$\[\033[00m\] '
+
+# Add git branch if its present to PS1
+#parse_git_branch() {
+# git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
+#}
+#if [ "$color_prompt" = yes ]; then
+# PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[01;31m\]$(parse_git_branch)\[\033[00m\]\$ '
+#else
+# PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w$(parse_git_branch)\$ '
+#fi
+#unset color_prompt force_color_prompt
+
+
+__git_files () {
+    _wanted files expl 'local files' _files
+}
+

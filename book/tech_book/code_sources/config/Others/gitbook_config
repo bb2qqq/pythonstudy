@@ -1,0 +1,28 @@
+# Remove gitbook AD
+cd /usr/local/lib/node_modules/gitbook
+grep -Fnr 'gitbook-link' ./
+"Delete those blocks which contains the parttern AD link"
+
+
+
+# Reduce code effect padding
+cd /usr/local/lib/node_modules/gitbook/theme/stylesheets/base
+vim markdown.less
+
+Find the code block:
+
+    code {
+        padding: 0;
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
+        margin: 0;
+        font-size: 85%;
+        background-color: #f7f7f7;
+        border-radius: 3px;
+    }
+
+
+change the border-radius: 3px; to border-radius: 0px;
+
+
+

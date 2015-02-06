@@ -1,0 +1,289 @@
+# Zen
+shopt -s extglob
+alias 1='vim /Users/zen1/zen/pythonstudy/1'
+alias logics='vim /Users/zen1/zen/shared/genesis/backend/logics/'
+alias models='vim /Users/zen1/zen/shared/genesis/backend/models'
+alias views='vim /Users/zen1/zen/shared/genesis/backend/views'
+alias admin='vim /Users/zen1/zen/shared/genesis/backend/admin'
+alias goupload='pushd /Users/zen1/zen/shared/genesis/backend/admin/upload'
+alias utils='vim /Users/zen1/zen/shared/genesis/backend/lib/utils'
+alias core='vim /Users/zen1/zen/shared/genesis/backend/lib/core'
+alias db='vim /Users/zen1/zen/shared/genesis/backend/lib/db'
+alias statistics='vim /Users/zen1/zen/shared/genesis/backend/lib/statistics'
+alias templates='vim /Users/zen1/zen/shared/genesis/backend/templates/admin'
+
+alias gologics='pushd /Users/zen1/zen/shared/genesis/backend/logics/'
+alias gomodels='pushd /Users/zen1/zen/shared/genesis/backend/models'
+alias goviews='pushd /Users/zen1/zen/shared/genesis/backend/views'
+alias goadmin='pushd /Users/zen1/zen/shared/genesis/backend/admin'
+alias goupload='pushd /Users/zen1/zen/shared/genesis/backend/admin/upload'
+alias goutils='pushd /Users/zen1/zen/shared/genesis/backend/lib/utils'
+alias gocore='pushd /Users/zen1/zen/shared/genesis/backend/lib/core'
+alias godb='pushd /Users/zen1/zen/shared/genesis/backend/lib/db'
+alias gostatistics='pushd /Users/zen1/zen/shared/genesis/backend/lib/statistics'
+alias gotemplates='pushd /Users/zen1/zen/shared/genesis/backend/templates/admin'
+alias newtest='ssh -p 8001 root@test.kaiqigu.net'
+alias dl='pushd /Users/zen1/zen/shared/download'
+alias ba='. .bashrc'
+alias upload='expect /home/zen/lab/scripts/upload.sh'
+alias cmgescp='scp -P 2009 admin@211.155.89.81:/data/admin/upload/* ~/Downloads'
+alias abscp='scp admin@203.90.236.146:~/upl/* ~/Downloads'
+alias qqscp='scp admin@182.254.166.54:~/upl/* /Users/zen1/zen/shared/download'
+alias dev='ssh zengjuchen@dev.kaiqigu.net'
+alias gogb='pushd /Users/zen1/zen/shared/genesis/backend'
+alias goab='pushd /Users/zen1/zen/Abroad_genesis/chaojiyingxiong_fanti'
+alias cmge='ssh -p 2009 admin@211.155.89.81'
+alias mixtimer='ssh -p 2009 admin@211.155.89.209'
+alias iostimer='ssh -p 2009 admin@211.155.89.216'
+alias n209='ssh -p 2009 admin@211.155.89.209'
+alias n210='ssh -p 2009 admin@211.155.89.210'
+alias n211='ssh -p 2009 admin@211.155.89.211'
+alias n213='ssh -p 2009 admin@211.155.89.213'
+alias n216='ssh -p 2009 admin@211.155.89.216'
+alias teleport='sh ~/lab/teleport.sh'
+alias ca='xmodmap $HOME/.speedswapper'
+alias abroad2='ssh admin@203.90.239.49'
+alias abroad3='ssh admin@203.90.239.46'
+alias abroad='ssh admin@203.90.236.146'
+alias vt='ssh admin@54.169.181.67'
+alias vtscp='scp admin@54.169.181.67:~/upl/* ~/Downloads'
+alias qiku='ssh admin@182.254.166.54'
+alias qiku2='ssh admin@182.254.170.143'
+alias gzd='pushd ~/zen/pythonstudy/creation/zen_dict'
+alias mc='pushd ~/zen/pythonstudy/creation/zen_dict/mcwiki'
+alias alg='pushd ~/zen/pythonstudy/tech_lab/algorithm'
+alias cien='pushd ~/zen/pythonstudy/grocery/literatura/master_obra'
+alias py='python'
+alias ipy='ipython -i'
+alias lib='pushd ~/zen/pythonstudy/grocery/library'
+alias tec='pushd ~/zen/pythonstudy/tech_lab'
+alias ga='git add'
+alias gb='git branch '
+alias gc='git checkout '
+alias gl='git log'
+alias gd='git diff'
+alias gpl='git pull'
+alias gps='git push'
+alias gs='git status '
+alias gcm='git commit '
+alias py='python'
+alias ipy='ipython -i'
+alias pys='pushd /Users/zen1/zen/pythonstudy'
+alias dream='pushd ~/zen/pythonstudy/MAKE_MY_DREAM_COME_TRUE'
+alias cien='vim ~/zen/pythonstudy/grocery/literatura/master_obra/cien'
+alias bm='pushd /Users/zen1/zen/pythonstudy/tech_lab/bash_mania'
+alias pm='pushd /Users/zen1/zen/pythonstudy/tech_lab/python_mania'
+alias vs='pushd /Users/zen1/zen/pythonstudy/tech_lab/vim_skill'
+alias ns='ssh -p 22 hadoop@120.132.57.110'                         # ns is short for new statistic
+alias nsr='ssh -p 22 admin@120.132.57.19'                         # ns real 
+alias nsrscp='scp admin@120.132.57.19:/data/admin/upload/* ~/Downloads'
+alias au='pushd /Users/zen1/zen/automation'
+alias dt='. ~/.bashrc'
+alias vb='vim ~/.bashrc'
+alias be='pushd ~/zen/pythonstudy/Brain_extension'
+alias phi='vim ~/zen/pythonstudy/Brain_Extension/Some_times_I_am_philosophical'
+alias n20='ssh -p 22 admin@120.132.57.20'
+alias ct='cat ~/zen/pythonstudy/tree_hole'
+alias g='grep'
+alias pd='pushd'
+alias gpm='pushd /Users/zen1/zen/pythonstudy/creation/project_manager'
+alias m='pushd /Users/zen1/zen/pythonstudy/tech_lab/my_work'
+alias cap='pushd /Users/zen1/zen/pythonstudy/Capitalist'
+alias mem='vim /Users/zen1/zen/pythonstudy/Brain_extension/memo'
+alias nl='pushd /Users/zen1/zen/new_life/normaldocuments'
+alias pbc='pwd | pbcopy'
+alias pbp='pbpaste'
+alias zen='vim ~/zen/pythonstudy/Brain_extension/Some_times_I_am_philosophical'
+# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+# for examples
+
+# If not running interactively, don't do anything
+[ -z "$PS1" ] && return
+
+# don't put duplicate lines in the history. See bash(1) for more options
+# ... or force ignoredups and ignorespace
+HISTCONTROL=ignoredups:ignorespace
+
+
+# Zen
+
+case "$TERM" in
+*-256color)
+    alias ssh='TERM=${TERM%-256color} ssh'
+    ;;
+*)
+    POTENTIAL_TERM=${TERM}-256color
+    POTENTIAL_TERMINFO=${TERM:0:1}/$POTENTIAL_TERM
+
+    # better to check $(toe -a | awk '{print $1}') maybe?
+    BOX_TERMINFO_DIR=/usr/share/terminfo
+    [[ -f $BOX_TERMINFO_DIR/$POTENTIAL_TERMINFO ]] && \
+        export TERM=$POTENTIAL_TERM
+
+    HOME_TERMINFO_DIR=$HOME/.terminfo
+    [[ -f $HOME_TERMINFO_DIR/$POTENTIAL_TERMINFO ]] && \
+        export TERM=$POTENTIAL_TERM
+    ;;
+esac
+
+# Zen #
+
+
+
+# append to the history file, don't overwrite it
+shopt -s histappend
+
+# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+HISTSIZE=1000
+HISTFILESIZE=2000
+
+# check the window size after each command and, if necessary,
+# update the values of LINES and COLUMNS.
+shopt -s checkwinsize
+
+
+
+#Zcomment#    alias grep='grep --color=auto'
+    alias grep='GREP_COLOR="1;33;40" LANG=C grep --color=auto'
+    alias fgrep='fgrep --color=auto'
+    alias egrep='egrep --color=auto'
+
+
+
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.
+
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+
+# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).
+if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
+    . /etc/bash_completion
+fi
+
+
+# show git branch in colourful way
+parse_git_branch() {
+git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+}
+
+#PS1="\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\[\033[01;34m\]\w\[\033[01;31m\]\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
+PS1='\[\033[01;34m\]\u@\h\[\033[00;33m\]\w\[\033[32m\]$(parse_git_branch)\[\033[00m\]\$ '
+
+
+case "$TERM" in
+*-256color)
+    alias ssh='TERM=${TERM%-256color} ssh'
+    ;;
+*)
+    POTENTIAL_TERM=${TERM}-256color
+    POTENTIAL_TERMINFO=${TERM:0:1}/$POTENTIAL_TERM
+
+    # better to check $(toe -a | awk '{print $1}') maybe?
+    BOX_TERMINFO_DIR=/usr/share/terminfo
+    [[ -f $BOX_TERMINFO_DIR/$POTENTIAL_TERMINFO ]] && \
+        export TERM=$POTENTIAL_TERM
+
+    HOME_TERMINFO_DIR=$HOME/.terminfo
+    [[ -f $HOME_TERMINFO_DIR/$POTENTIAL_TERMINFO ]] && \
+        export TERM=$POTENTIAL_TERM
+    ;;
+esac
+
+# Zen #
+
+
+
+# append to the history file, don't overwrite it
+shopt -s histappend
+
+# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+HISTSIZE=1000
+HISTFILESIZE=2000
+
+# check the window size after each command and, if necessary,
+# update the values of LINES and COLUMNS.
+shopt -s checkwinsize
+
+
+
+# set a fancy prompt (non-color, unless we know we "want" color)
+case "$TERM" in
+    xterm-color) color_prompt=yes;;
+esac
+
+
+
+
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+
+if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
+    . /etc/bash_completion
+fi
+
+#alias pme='ipython -i /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen'
+#alias pms='python /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen show'
+#alias pmcki='python /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen check_in'
+
+function pme {
+               if [ -n "$1" ]
+                    then
+                    user="$1"
+               else
+                    user="zen"
+               fi
+               ipython -i /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user
+             }
+
+function pms {
+               if [ -n "$1" ]
+                    then
+                    user="$1"
+               else
+                    user="zen"
+               fi
+               python  /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user show "$2"
+             }
+
+function pmcki {
+               if [ -n "$1" ]
+                    then
+                    user="$1"
+               else
+                    user="zen"
+               fi
+               python  /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user check_in "$2"
+             }
+
+export -f pme
+export -f pms
+export -f pmcki
+
+function dee { w3m  "http://www.oxfordlearnersdictionaries.com/definition/american_english/$1"; }
+function dss { w3m  "http://wordreference.com/definicion/$1"; }
+function des { w3m  "http://www.spanishdict.com/translate/$1"; }
+function dec { w3m  "http://dict.cn/$1"; }
+export -f dee
+export -f dss
+export -f des
+export -f dec
+
+
+function th { echo -e "\n$@" >> /Users/zen1/zen/pythonstudy/tree_hole; }
+export -f th
+
+function zd { pushd ~/zen/pythonstudy/creation/zen_dict/; ipython -i ~/zen/pythonstudy/creation/zen_dict/base_dict.py "$1"; pushd;}
+export -f zd
+
+function bs { grep "$1" ~/.bashrc ;}
+export -f bs
+
+export EDITOR=vim

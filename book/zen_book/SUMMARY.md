@@ -1,3 +1,3 @@
 # SUMMARY
 
-* [test](philosophy)
+* [test](markdown_magic.md)
