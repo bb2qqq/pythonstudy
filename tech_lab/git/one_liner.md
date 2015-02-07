@@ -16,7 +16,7 @@ git log -5                                                      # git Show the r
 
 git log --before='2013-12-01' --no-merges                       # Show git commits before 2013-12-01 with no merges-in
 
-
+git show --name-only commit-head                                # Show the changed file during a commit
 
 
 ###################         REMOTE          ###########################

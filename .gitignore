@@ -1,2 +1,14 @@
 *sw*
 *pyc
+
+# IGNORE GITBOOK AUTO-GENERATE FILES
+*woff
+*png
+*ico
+*js
+*css
+*json
+*eot
+*svg
+*ttf
+*html
