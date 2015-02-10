@@ -1,4 +1,16 @@
 
+## DATA STRUCTURE ##
+
+
+#### SET OPERATION ####
+
+    UNION               s | t           #  all elements in s and t, except duplicate
+    INTERSECTION        s & t           #  elements that are in s and t
+    DIFERENCE           s - t           #  element in s but not in t
+    SYMMETRIC_DIFFER    s ^ t           #  equal to (s - t) | (t - s), means that element in t or s that are not appeared in both set
+
+
+
 * if List_A exists, iter over List_A, otherwise iter over List_B
 
         for i in List_A or List_B:

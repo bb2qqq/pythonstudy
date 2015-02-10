@@ -170,6 +170,12 @@
 
 > using `"` to wrap the sentence will make bash search its history, and `'` avoid this issue
 
+* Rename multiple files
+
+      # First, install mmv on your machine
+      mmv '*.mp3' '#1.wma'
+
+
 ### USERS ###
 
 * view groups briefly
@@ -190,6 +196,9 @@
 
 ### OTHERS ###
 
+* change default shell
+
+      chsh -s /bin/your_shell
 
 * Show most detailed info when connecting by ssh
 

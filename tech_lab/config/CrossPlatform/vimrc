@@ -1,5 +1,8 @@
 colorscheme mario
 "colorscheme elflord
+syntax enable
+"set background=dark
+"colorscheme solarized
 
 "set hlsearch
 "set autoindent
