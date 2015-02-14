@@ -1,83 +1,64 @@
+shell 是用来帮助人和机器交流的中间层。它将人的命令转化为机器能听懂的语言。terminal是shell的外观，人的输入和机器的反应会显示在它的外观上。
+
+Bourne Shell是unix上最早的shell, 它叫这个名字是因为最早作者的名字里有`Bourne`这个词，它写于1970s。由于它是最早的shell,所以缩写是`sh`。而bash则是另一个家伙在1989年写的，里面加入了一些增强特性。为了表达对`Bourne Shell`作者的敬意，这个新shell的名字叫`Bourne Again Shell`, 尽管新作者的名字和`Bourne`没有半毛钱关系。而这个新shell的缩写则是我们现在广泛使用的`bash`
+
+开一个新terminal窗口的时候会开启一个shell进程
+
+`echo $$`可以打印出当前shell的进程id
 
 
 
-# chmod
+`$?`是上一条命令或脚本的执行状态，0是成功，1是报错。
+bash最多支持256种退出状态，即0到255。可以用`awk 'BEGIN {exit 258}'; echo $?`命令来验证这一点。
 
-chmod is short for change mode.
+在没有双引号的情况下`$*`和`$@`作用相同，而加了双引号后，`"$*"`会把所有的variable用引号包起来，`"$@"`则会把接受的variable一个个用引号包起来, 试看下例：
 
-Let`s do `ls -lhrt` first.
+    vim t.sh
 
-    drwxr-xr-x  3 zen1  staff   102B Jan 21 21:30 scripts
-    -rw-r--r--@ 1 zen1  staff   5.7K Feb  3 17:39 bash_magic.md
-    -rw-r--r--  1 zen1  staff     0B Feb  3 20:40 self_tutorial.md
+    for i in "$*"
+        do
+            echo $i
+        done
 
-The first column indicates the permission for the file.
+    for i in "$@"
+        do
+            echo $i
+        done
 
-The second column shows the hard link number of the file or directory
+接着，你输入`sh t.sh WJB I`, 你会得到:
 
-The third column is the owner
+    WJB I
+    WJB
+    I
 
-The fourth column is the group where the owner belongs
-
-The fifth column is the size of the file
-
-The sixth column is the last modified time of the file
-
-The seventh column is the name of the file
-
-
-The first letter of file permission column, d or -, indicate the file is a directory or a normal file.
-
-The next three letters behind the first letter, indicate the permisson for that file as owner of file.  
-r for read  
-w for write(or delete)  
-x for execute  
-
-> if you got x for a directory, that means you can search that directory.  *Actually, if a directory lack of x permission, you can`t cd to it, nor ls its files*
-
-There are three 'rwx' block in total.  
-The second 'rwx' block shows the permission for the members of the group which the file owner is in.
-The last 'rwx' block shows the permission of any others who are not the owner nor in the group of which the owner is in, in short, other users.
-
-*Root user can do anything to any file*
-
-_command of chmod_
-
-         chmod who=permissions filename/directory
-         chmod who+permissions filename/directory
-         chmod who-permissions filename/directory
-         chmod who=target_user filename/directory   \# this will make 'who' has the same permissions as target_user/group
-         chmod who-target_user filename/directory   \# this will delete the those permission of target_user from 'who'
-         chmod who+target_user filename/directory   \# this will add the permissions of target_user to 'who'
-
-> You use + to add permission for some user, - to delete permission for some user, and = to made the permission of user exactly as what you type.
-
-If you got two files, "raw_data" and "analy_data.sh", in the first one stores all your cofidential datas. And the second script will give out some result based on some low-security-level data of "raw_data" file. Which can be run by many colleagues.  
-But the problem is, if someone directly used the 'analy_data.sh' which he has permission to exec. He will not be allowed to open the 'raw_data', so he can not get the result.  
-To solve this, you can use the command `chmod u+s analy_data.sh`, this will made anyone who execute the script do have the same capacity as the file owner in the scope of the script.  
-You can also use `chmod g+s file` to make the user who execute the file has the same permission as the group of the file.
-
-You can also convert these permissions to binary numbers and then further convert them to arabic numbers
-
---- for  000  = 0
---x for  001  = 1
--w- for  010  = 2
--wr for  011  = 3
-r-- for  100  = 4
-r-x for  101  = 5
-rw- for  110  = 6
-rwx for  111  = 7
-
-# chown
-
-chown changes the owner of the file, and the new onwer will inherit the former owner`s permissions of the particular file.
-
-      chown user:target_group file/directory       \# change the owner or group of a file/directory
-      chown -hR user:target_group directory        \# change the owner of all the sub files of a directory to user and its group to target_group
+看到区别了？
 
 
-# pipe |
+Shell里有arrary,可以用来存储各类value, 但index只能是数字。
 
-in a pipe, the output of the last command will be passed as input to the next command, such as:
+初始化一个array，我们用`Hero=(Illidian Arthas Lich-King)`
 
-    sort -u | awk '{print $2}'
+打印array里某一个序号的值, 比如2，你使用`echo ${Hero[2]}`
+
+打印array里所有value, 你使用 `echo ${Hero[*]}` 或 `echo ${Hero[@]}`
+
+
+
+
+
+Conditional expression should be wrapped in `[]`, like `[ $a != $b ]`
+
+Relational Operators only works between variables have numeric value, or number like string value, such as `"32"`, here is a table, in which `$a=10` and `$b=20`:
+
+Operator       Description                      Example
+-eq              equal                          [ $a -eq $b ]     False
+-ne              not equal                      [ $a -ne $b ]     True
+-gt              greater than                   [ $a -gt $b ]     False
+-lt              less than                      [ $a -lt $b ]     True
+-ge              greater than or equal          [ $a -ge $b ]     False
+-le              less than or equal             [ $a -le $b ]     True
+
+
+在所有的Conditional Expression里，变量和`[`之间必须有一个空格，像`[ $a >= $b ]`.  
+而`[$a >= $b]`则会导致错误发生。
+

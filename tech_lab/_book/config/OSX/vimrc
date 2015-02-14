@@ -1,5 +1,8 @@
 colorscheme mario
 "colorscheme elflord
+syntax enable
+"set background=dark
+"colorscheme solarized
 
 "set hlsearch
 "set autoindent
@@ -37,7 +40,9 @@ nnoremap <C-L> <C-W><C-L>
 nnoremap <C-H> <C-W><C-H>
 
 " resize current buffer by +/- 5
-nnoremap <F1> :vertical resize -5<cr>
+" <F1> requries map to disable help popout
+map <F1> :vertical resize -5<cr>    
+imap <F1> :vertical resize -5<cr>    
 nnoremap <F2> :resize +5<cr>
 nnoremap <F3> :resize -5<cr>
 nnoremap <F4> :vertical resize +5<cr>

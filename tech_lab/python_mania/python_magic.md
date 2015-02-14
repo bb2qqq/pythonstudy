@@ -1,4 +1,11 @@
 
+### Arithmatic operation ###
+
+* convert a string coded in base-n system into decimal number
+
+      int(str, base_n)
+      e.g: int('0xAE', 16)
+
 ## DATA STRUCTURE ##
 
 

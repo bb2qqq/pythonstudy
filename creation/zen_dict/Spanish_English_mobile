@@ -11,16 +11,19 @@ imponer   <impose>   "poner una carga, una obligación sobre algo"
 prenaviden~o     "antes de navidad, naviden~o que significa de la navedad"
 hoyo   <hole>   "A hole"
 tío abuelo   <great uncle>
+pentágono   <pentagon>   "Una forma geométrico que tiene 5 lados"
+auto     "1. propio 2. acción o hecho 3. Forma de resolución judical"
 insidiosa   <insidious>   "Malicioso o dan~ino con apariencias inofensivas"
 gemelo   <twin>
 inédito     "1. Escrito y no publicado. 2. desconocido, nuevo"
-subrayar   <underline>   "rayar un línea debajo de algo, que es un metaphor de emphasis alog"
 divergir   <diverge>
 salamandra   <salamander>   "un anfibio"
 clamar   <clamour>   "qujarse, dar voces lastimosas, pidiendo favor o ayuda"
+nuera   <daughter_in_law>
 convocar   <convoke>   "Citar llamar personas para un reunio'n"
 meridional   <southern>   "del sur"
-pi'fano   <fife>   "un instrumento muscial que es parecido a flautín que tiene agujeros sobrelo. se llama 'HengDí en chino"
+trillizos   <triplets>
+cifra   <figure>   "nu'mero di'gito"
 padrasto   <stepfather>
 bisnieto   <great_grandchild>
 probar     "intentar hacer algo nuevo"
@@ -29,21 +32,25 @@ centenar     "un cien"
 banquillo   <bench>   "asiento largo para sentar, como los que se sentar los jugadores reservas de fútbol."
 malabarista     "Uno que se tira cosas al aire y jugar con ellas"
 pandereta     "un tipo de tambor"
+cuñada   <sister_in_law>
+madrasta   <stepmother>
 cosechar   <harvest>   "hacer la cosecha"
 sobrino   <nephew>
 sobrina   <niece>
-cifra   <figure>   "nu'mero di'gito"
 resurgimiento  
+yerno   <son_in_law>
 hacienda     "1. Finca agricola 2. Conjunto de bienes y riquezas que alguien tiene  3. Departamento pu'blica que control el gasto de otros departamentos"
 pómulo   <cheekbone>
 recurrir   <recur>   "1. Acudir a un juez o autoridad con una demanda  2. Dicho de una cosa: Volver al lugar de dónde salió"
+capcioso     "engañoso"
 sándalo     "un perfume de una madera(TanXiangMu)"
 lucrar     "Ganar, sacar provecho de un negocio o encargo"
 estiércol     "excremiento de cualquier animal"
+excavar   <excavate>   "mover la tierra fuera de un lugar hasta obtener un pozo o un hoyo."
 infanta     "Una princesa"
-amorío   <love affair>
 pesadilla   <nightmare>   "sueño que produce angustia y temor"
-trillizos   <triplets>
+pi'fano   <fife>   "un instrumento muscial que es parecido a flautín que tiene agujeros sobrelo. se llama 'HengDí en chino"
+amorío   <love affair>
 tía abuela   <great aunt>
 reclamar   <reclaim>   "Clamar o llamar con repetición o mucha instancia."
 ciberataque   <ciberattack>
@@ -53,25 +60,20 @@ hijastra   <stepdaughter>
 colega   <colleague>
 hermanastro   <half_brother>
 inso'lita     "no común ni ordinario"
-excavar   <excavate>   "mover la tierra fuera de un lugar hasta obtener un pozo o un hoyo."
 cuatrillizos   <quadruplets>
-tremula   <tremulous>   "temblando"
 lograr     "conseguir o alcanzar lo que se intenta o desea"
-yerno   <son_in_law>
 parientes   <relatives>
 resurgir     "1. volver a la vida  2. recobrar fuerza física o moral"
 bisabuela   <great_grandmother>
 bisabuelo   <great_grandfather>
 amigos íntimos   <close friend>
-auto     "1. propio 2. acción o hecho 3. Forma de resolución judical"
+subrayar   <underline>   "rayar un línea debajo de algo, que es un metaphor de emphasis alog"
 deducir   <deduct>   "obtener un conclusion con un conocimiento previo"
-nuera   <daughter_in_law>
 lucro   <profit>   "Ganancia o provecho que se saca de algo"
 saltimbanquis     "Un hombre que juega con los cuchillos"
-madrasta   <stepmother>
 impregnar   <impregnate>   "para hacer algo pregnar, también puede ser introducir algo a otra objecto completamente. A sus moléculos."
 contemplar   <contemplate>   "1. Mirar con atención o intrés  2. Considerar profundamente"
-cuñada   <sister_in_law>
+tremula   <tremulous>   "temblando"
 fiscal   <fiscal>   "financial, relativo de tesoro"
 logro   <achieve>   "acción y efecto de lograr"
 felicitar   <congratulate>   "hacer feliz a alguien"
@@ -88,7 +90,6 @@ almizcle     "un substancia del fuerte olor segregada por una glándula del cier
 homólogo   <homologous> [hE'malEgEs]
 glándula   <gland>
 amapola   <poppy>   "Un flor, cuyo fruta puede fabricar el opio, que es una droga viciosa."
-uña   <fingernail>
 mandíbula   <jaw>
 licuar   <liquefy> ['likwE,fai]   "Hacer li'quida una cosa so'lida o gaseosa."
 hallazgo  
@@ -114,6 +115,7 @@ espinilla   <shin>
 pestaña   <eyelash>
 aplazar     "deferir una acción, con idea de realizarlo más tarde"
 naranjo   <orange tree>   "árbol de naranja"
+uña   <fingernail>
 apreciar   <appreciate>
 insalvable   <insurmountable>   "Que no puede ser salvado."
 precaución   <precaution>   "preparación y acción prepuesto para segurar que no hay algo mal que sucede"
@@ -121,7 +123,7 @@ pedregoso     "cubierto de piedras, de mucho piedras"
 nudillo   <knuckle>
 pudrir   <rot>   "hacer que un materia órgano se altere y descomponga"
 patógeno   <pathogen>
-engendro   <freak, monster>   "Criatura de forma incompleta, fea. Pensamientos y planes mal concebido."
+el culpable   <culprit>
 arbitrario   <arbitrary>   "de un modo sin precaucion, sin destino, sin regularidad"
 castigo  
 exagerar   <exaggerate>
@@ -134,7 +136,7 @@ plantearse     "Plantearse algo que significa pensar de algo"
 fusilamiento     "resultado de fusilar, que es, una ejecución"
 germen patógeno  
 costillar     "el estractura mayor de un nave, como costilla para el hombre"
-el culpable   <culprit>
+engendro   <freak, monster>   "Criatura de forma incompleta, fea. Pensamientos y planes mal concebido."
 coronel   <colonel> ['kE:nEl]
 prevalecer   <prevail>   "Que tiene popularidad, que tiene bastante ventaja para "pre-valecer" otras cosas"
 mudar   <mutate>   "transformar, especialmente un gene alterar un poco de si' mismo para crear nuevas caracteri'sticas."
@@ -145,32 +147,32 @@ quebrantar     "romper con fuerza"
 linfa   <lymph>
 travieso     "1.inquieto y revoltoso 2. Atravesado"
 rumiar   <ruminate>   "1. pensar muchas veces, despacio y profundamente  2. masticando el alimento que se devuelto desde el estómago por segunda vez en algunos animales"
-pelotón   <squad>   "Una pequeña unidad militaria, que es Ban en chino"
 patrulla  
+pelotón   <squad>   "Una pequeña unidad militaria, que es Ban en chino"
 seno   <breast>
 codo   <elbow>
 páncreas   <pancreas>
 dedo meñique   <little finger>
 saliva   <saliva>
 dedo índice   <index finger>
-planta   <sole>
+hoyuelo   <dimple>
 riñon   <kidney>
 arteria   <artery>
 espinazo   <spine>
-cadera   <hip>
 muslo   <thigh>
-barbilla   <chin>
 narices   <nostril>   "las dos abiertas de un nariz, por dónde respiras"
 hígado   <liver>
 vesícula biliar   <gall bladder>
-nuca   <nape>
-párpado   <eyelid>
-tobillo   <ankle>
-hoyuelo   <dimple>
+cadera   <hip>
 vello   <body hair>
+nuca   <nape>
+tobillo   <ankle>
+planta   <sole>
+párpado   <eyelid>
 trasero   <buttocks>
+dedo anular   <ring finger>
 ombligo   <belly button>
+barbilla   <chin>
 costilla   <rib>
 cuerda vocal   <vocal cord>
 paladar   <palate>
-dedo anular   <ring finger>

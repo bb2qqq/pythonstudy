@@ -72,14 +72,15 @@ is where your current branch resides. And with no-doubt, it is a newer commit at
 In git, except the SHA-1 checksum, there is also a patch-id to track each commit changes. So in different commit, there may contain the same ptach change, such as a rebased commit may have the same change content as its origin commit.
 
 
+P4  ******************************************************************************************
 
+A commit encapsultaes:
 
+* all parent object ids
 
+* author name, email and date
 
-
-
-
-
+* commiter name and email and the commit time
 
 
 

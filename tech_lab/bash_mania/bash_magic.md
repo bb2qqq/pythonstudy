@@ -101,6 +101,29 @@
 
 ### FILE & DIRECTORIES ###
 
+* Show files by revert Size order
+
+      ls -lShr
+
+* Synchronize file from remote to local
+
+	  rsync -chavzP --stats user@remote.host:/path/to/copy /path/to/local/storage
+
+>	-c for checksum, -v for verbose, -P for progress, -h for human readable format, -z for compress, -a for archive mode
+
+* Synchronize file from local to remote
+
+	  rsync -chavzP --stats /path/to/copy user@host.remoted.from:/path/to/local/storage
+
+
+* Sync from all content from one directory from to another directory with different name
+
+	  rsync -r /origin/*  /target/
+
+
+* Unzip file with size greater than 4G
+
+	  jar xf huge_file.zip
 
 * copy file structures with particular file size restriction
 
@@ -193,8 +216,75 @@
       cut -d: -f1 /etc/passwd
 
 
+### COMMAND FOR COMMAND ###
+
+* These two commands are identical, they both read and execute the commands write in a file in the current shell envioronment
+
+	  source file_name
+	  . file_name	
+
+* Execute the output of the previous command
+
+      sed -n 'line_num p' | bash                              # excute specified line
+      tail -n 5 your_file | bash                              # excute the last five line of a file
+
+##### cron  #####
+In cron, you have two important meta command to memorize:
+
+      crontab -l        # List out all current cron task
+      crontab -e        # Edit cron job for current user
+
+You should add all those cron tasks by typing `crontab -e`
+
+* Add a line to crontab without `crontab -e` _(edit mode to add task to cron)_
+
+	  crontab -l > temp_cron_file
+	  echo "* * * * * sh my_sync.sh" >> temp_cron_file
+	  crontab temp_cron_file
+	  rm temp_cron_file
+
+* run the command every 2 hours, every 20 mintues a time in the running hour
+
+      */20 */2 * * *  command
+
+* run the command between hours 17-20, and in these hours, every minute a time between 5-8
+
+      5-8 17-20 * * *  command
+
+* run the command in minute 18 and 36 and 54 of hour 18 and hour 20
+
+      18,36,54   18,20 * * * command
+
+* run the command everytime you reboot
+
+      @reboot command
+
+
+### PROCESS AND PROGRAM ###
+
+* Locate a program`s path in the system
+
+	  which program_name
+	  whereis program_name
+
+* kill all screen sessions
+
+	  killall -15 screen
+
 
 ### OTHERS ###
+
+* execute a executable program
+
+    exec program
+
+* show login informations
+
+      last
+
+* show recently kernel infos
+
+      sudo dmesg
 
 * change default shell
 
@@ -206,51 +296,7 @@
 
 * Print server numbers in a column with your specified number range
 
-	  seq 163 180 | awk '{print "g"$1}'
-
-
-* kill all screen sessions
-
-	  killall -15 screen
-
-
-* These tow commands are identical, they both read and execute the commands write in a file in the current shell envioronment
-
-	  source file_name
-	  . file_name	
-
-
-
-* Synchronize file from remote to local
-
-	  rsync -chavzP --stats user@remote.host:/path/to/copy /path/to/local/storage
-
->	-c for checksum, -v for verbose, -P for progress, -h for human readable format, -z for compress, -a for archive mode
-
-* Synchronize file from local to remote
-
-	  rsync -chavzP --stats /path/to/copy user@host.remoted.from:/path/to/local/storage
-
-
-* Sync from all content from one directory from to another directory with different name
-
-	  rsync -r /origin/*  /target/
-
-
-* Unzip file with size greater than 4G
-
-	  jar xf huge_file.zip
-
-
-* Locate a program`s path in the system
-
-	  which program_name
-	  whereis program_name
-
-* Execute the output of the previous command
-
-	  sed -n 'line_num p' | bash                              # excute specified line
-      tail -n 5 your_file | bash                              # excute the last five line of a file
+	seq 163 180 | awk '{print "g"$1}'
 
 
 * Prohibit using  >  to write to file, use >| to force write, this can avoid mis-operate between > and >>
@@ -265,18 +311,9 @@ set +o noclobber                                            # Enable   >
 >   if you have 'a.sh' which contains 'echo "$@"', then you can do `sh a.sh 'to print out any kind of sentences'`, you`ll got the sentence **to print out any kind of sentences** on your screen now.
 
 
-* Add a line to crontab without `crontab -e` _(edit mode to add task to cron)_
-
-	  crontab -l > temp_cron_file
-	  echo "* * * * * sh my_sync.sh" >> temp_cron_file
-	  crontab temp_cron_file
-	  rm temp_cron_file
-
-
 * date without padding 0 area on month _( 2015101 instead of 20150101 )_
 
 	  date +"%Y%-m%d"
-
 
 * redirect stderror content to where stdout content goes
 
@@ -287,7 +324,29 @@ set +o noclobber                                            # Enable   >
 
 * generate ssh key
 
-	ssh-keygen -t rsa
+        ssh-keygen -t rsa
+
+* Read input and assign it as value to the variable
+
+        read MY_VAR
+
+##### CALCULATION #####
+
+* add
+
+      expr 1 + 1
+
+* multiply
+
+      expr 6 \* 4
+
+* divide
+
+      expr 8 / 5            # will only keep the int part
+
+* modulus
+
+      expr 3 % 8
 
 
 ### ON MAC ###

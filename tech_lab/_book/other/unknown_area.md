@@ -12,15 +12,6 @@ x86指令集和arm指令集之间的区别？
 
 ### Unanswered ###
 
-What does the `Mounted on` and `Filesystem` mean here?
-
-Filesystem      Size  Used Avail Use% Mounted on
-/dev/xvda2       25G  2.1G   22G  10% /
-tmpfs           1.9G     0  1.9G   0% /dev/shm
-/dev/xvda1      248M   58M  179M  25% /boot
-/dev/xvdc       985G   17G  918G   2% /data
-
-
 寻址是什么？
 
 汇编语言和机器语言之间的区别?

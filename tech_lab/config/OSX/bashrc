@@ -46,6 +46,7 @@ alias abroad2='ssh admin@203.90.239.49'
 alias abroad3='ssh admin@203.90.239.46'
 alias abroad='ssh admin@203.90.236.146'
 alias vt='ssh admin@54.169.181.67'
+alias tl='ssh admin@119.81.197.73'
 alias vtscp='scp admin@54.169.181.67:~/upl/* ~/Downloads'
 alias qiku='ssh admin@182.254.166.54'
 alias qiku2='ssh admin@182.254.170.143'
@@ -95,9 +96,10 @@ alias mem='vim /Users/zen1/zen/pythonstudy/Brain_extension/memo'
 alias nl='pushd /Users/zen1/zen/new_life/normaldocuments'
 alias pbc='pwd | pbcopy'
 alias pbp='pbpaste'
-alias zen='vim ~/zen/pythonstudy/book/zen_book/philosopy'
+alias zen='vim ~/zen/pythonstudy/book/zen_book/zen.md'
 alias book='pushd ~/zen/pythonstudy/book'
 alias gbs='gitbook serve .'
+alias g='w3m http://www.google.com'
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
@@ -272,16 +274,20 @@ export -f pme
 export -f pms
 export -f pmcki
 
-function dee { w3m  "http://www.oxfordlearnersdictionaries.com/definition/english/$1"; }
-function dea { w3m  "http://www.oxfordlearnersdictionaries.com/definition/american_english/$1"; }
-function dss { w3m  "http://wordreference.com/definicion/$1"; }
-function des { w3m  "http://www.spanishdict.com/translate/$1"; }
-function dec { w3m  "http://dict.cn/$1"; }
+function dee { w3m  "http://www.oxfordlearnersdictionaries.com/definition/english/$*"; }
+function dea { w3m  "http://www.oxfordlearnersdictionaries.com/definition/american_english/$*"; }
+function dss { w3m  "http://wordreference.com/definicion/$*"; }
+function des { w3m  "http://www.spanishdict.com/translate/$*"; }
+function dec { w3m  "http://dict.cn/$*"; }
 export -f dee
 export -f dea
 export -f dss
 export -f des
 export -f dec
+
+function wk { w3m  "http://en.wikipedia.org/wiki/$*"; }
+export -f wk
+
 
 function nth { { echo; cat; } >> /Users/zen1/zen/pythonstudy/tree_hole; }
 export -f nth

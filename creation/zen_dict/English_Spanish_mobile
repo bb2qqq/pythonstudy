@@ -1,12 +1,13 @@
 thymus   ['SaimEs]   "A gland in the chest which produces cell T for immune system."
 erratic   [i'ratic]   "Something or someone's behaviour is unpredictable, out of control, and out of your mind, which is not managable."
 sole   <planta>
-chromosome   [ˈkrəʊməsəʊm]   "A small biological organ that carries gene, every human cells have 23 pairs of chromosome, except the sperm and ova, they have 23 single chromosomes"
 stymie   ['staimi]   "To prevent or disturb somebody to do something"
+chromosome   [ˈkrəʊməsəʊm]   "A small biological organ that carries gene, every human cells have 23 pairs of chromosome, except the sperm and ova, they have 23 single chromosomes"
 sister_in_law   <cuñada>
 great uncle   <tío abuelo>
 love affair   <amorío>
 wrangle     "An angrily argument which continues for a long period of time."
+scalar   ['skeilE]   "having size but no direction compare vector"
 nephew   <sobrino>
 stepdaughter   <hijastra>
 relatives   <parientes>
@@ -31,6 +32,7 @@ great_grandmother   <bisabuela>
 rote   [rEut]   "rote learning means to study something by repeat it many times without using your brains to understand it."
 attest     "To prove"
 hare     "wild rabbit, runs fast"
+stagnated  
 half_sister   <hermanastra>
 synergy   ['sinEGi]   "The result that 2 units work together get more than what they get separately."
 blaspheme     "To speak about god or holy things in an offensive way"
@@ -66,6 +68,7 @@ axon   ['aksOn]   "Long thin branch of a neuron cell that sends signal to other 
 twin   <gemelo>
 cybernetics     "A science branch that study how machine and human brain works, and trying to produce machines that act like human brain."
 great aunt   <tía abuela>
+pentagon   <pentágono> ['pentEgEn]   "1. a five sided polygon 2. a pentagonal building where resides the defense apartment of U.S.A."
 stingy     "not willing to give, not generous, especially in money issues"
 close friend   <amigos íntimos>
 metaphor   <metáfora>
@@ -80,6 +83,7 @@ Epiphany     "A Christan Festival, on January 6"
 nomad   ['nEumad]   "A nomad hanging around the prairie, without fixed living place"
 annotate   <anotar> ['anEteit]   "To add notes to a book or text, giving explanations or comments"
 sly   [slai]   "cunning, is good at to hide his/her/its own thoughts and perform deceptively"
+polygon   <polígono>   "a closed shape with at least 3 sides, and usually five or more"
 compile   <compilar>   "Compile something means to produce a book, list, report, etc. By bringing together different items, articles, songs, etc. To my understanding, compiling brings separated things together to make them more systematic whole stuff, which increased their value and readability. Bash_magic.md is a work of compiling."
 vatican   <vaticano>
 stepfather   <padrasto>
@@ -87,7 +91,6 @@ quadruplets   <cuatrillizos>
 rickety   ['rikEti]   "not strong or well made, likely to break"
 streak     "1. A long thin mark o line on something 2. A continious success or failure, especially in gambling or sports, like a winning streak"
 colleague   <colega>
-stagnated  
 onslaught     "A strong or violent attack"
 dendrite     "short branch at the end of neuron cells, which receive signals from other neurons"
 malign     "Say bad things about sb/sth publicly."
@@ -96,7 +99,7 @@ tremulous   <tremula>
 malaise   [mE'leiz]   "1. A problem that can't be explained clearly. 2. A general uncomfortable"
 interdisciplinary   [,intE'disEplinEri]   "involving different areas of knowledge or studies"
 scrivener   ['skrivnE]   "On who writes letters contracts for others"
-undercurrent     "1.A feeling, especially the negative one, that is hidden but whose effect can be felt. 2. flow streams under the surface of water"
+tamper     "To make changes to something without permission, especially in order to damage it"
 insidious  
 note  
 discourse   [diskO:s]   "Discussion or communication between people in public, about a particular subject."
@@ -114,7 +117,7 @@ stupendous   [stju:'pendEs]   "extremely large or impressive, especially greater
 liquefy   <licuar>
 nascent   ['nasnt]   "things or processes that just has begining, and is going to developing"
 great_grandchild   <bisnieto>
-tamper     "To make changes to something without permission, especially in order to damage it"
+undercurrent     "1.A feeling, especially the negative one, that is hidden but whose effect can be felt. 2. flow streams under the surface of water"
 squint   <entrecerrar>   "to look at something with your eyes partly shut in order to keep out bright light or to see better"
 thigh   <muslo>
 flask   <frasco> [fla:sk]   "A bottle with narrow neck, usually used for storing chemical liquid"
@@ -158,17 +161,17 @@ lymph   <linfa>   "A colorless liquid which carries white blood cells to prevent
 consonant   ['konsEnEnt]   "The sound made by half/fully stop aire flow through the mouth, 'f', 'k', 'l' are consonants"
 buttocks   <trasero>
 gland   <glándula>
-patrol   <patrullar> [pE'trEul]   "To move around a place or in a routine to make sure there is no trouble on the area. In warcraft III, P is the hotkey for Patrol."
 cheekbone   <pómulo>
 calf   <pantorilla>
 elbow   <codo>
 palate   <paladar>
+patrol   <patrullar> [pE'trEul]   "To move around a place or in a routine to make sure there is no trouble on the area. In warcraft III, P is the hotkey for Patrol."
 chin   <barbilla>
 eczema   <eccema>   "An autoimmune disease, which I have for years."
 rib   <costilla>
 archive   <archivo> ['a:kaiv]   "1. Noun A place where plenty of documents were saved. 2. Verb To save documents in an archive"
-excel   [ik'sel]   "be extremely good at somthing, if you excel yourself, you are being better than you usually do."
 kidney   <riñon>
+excel   [ik'sel]   "be extremely good at somthing, if you excel yourself, you are being better than you usually do."
 shin   <espinilla>
 eyebrow   <ceja>
 vowel  
