@@ -56,7 +56,6 @@ alias alg='pushd ~/zen/pythonstudy/tech_lab/algorithm'
 alias cien='pushd ~/zen/pythonstudy/grocery/literatura/master_obra'
 alias py='python'
 alias ipy='ipython -i'
-alias lib='pushd ~/zen/pythonstudy/grocery/library'
 alias tec='pushd ~/zen/pythonstudy/tech_lab'
 alias ga='git add'
 alias gb='git branch '
@@ -100,6 +99,10 @@ alias zen='vim ~/zen/pythonstudy/book/zen_book/zen.md'
 alias book='pushd ~/zen/pythonstudy/book'
 alias gbs='gitbook serve .'
 alias g='w3m http://www.google.com'
+alias ls='ls -F'
+alias vim='/usr/local/bin/vim'
+alias lib='pushd ~/zen/shared/library'
+alias r='open ~/zen/shared/library/reading/*'
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)

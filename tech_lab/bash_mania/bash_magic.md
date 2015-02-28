@@ -101,7 +101,30 @@
 
 ### FILE & DIRECTORIES ###
 
-* Show files by revert Size order
+* Two ways of set sticky bit for a file
+
+      chmod +t target_file
+      chmod 1777 target_file
+
+* Make anyone runs the file like they are they owner or member of the owner group.
+
+      chmod u+s file
+      chmod g+s file
+
+* Read the file as input to cat
+
+      cat < file
+
+* List file with suffix to show their file-type
+
+      ls -F
+
+> `/` for directory, `*` for executable, `@` for symbolic link, `=` for socket, `%` for whiteout, `|` for FIFO
+> whiteout files's purpose is to mask files which can't actually be deleted so they disappear from directories
+> FIFO stands for `First In, First Out`, and has another name `named pipe`, it enables different processes to commnunicate.
+
+
+* List files by revert Size order
 
       ls -lShr
 

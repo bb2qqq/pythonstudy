@@ -27,3 +27,5 @@
         Every line has its own necessary functionality.
         Knowing what does each line do in your code.
         Make it more readable for reviewing(for you and others).
+
+   Comment is more for better thinking than instructions for others.

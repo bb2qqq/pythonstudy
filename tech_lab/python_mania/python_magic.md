@@ -1,3 +1,9 @@
+### print ###
+
+* To print without carriage, you add a comma after what you wanna print
+
+    print 'my string',
+
 
 ### Arithmatic operation ###
 
@@ -5,6 +11,8 @@
 
       int(str, base_n)
       e.g: int('0xAE', 16)
+
+
 
 ## DATA STRUCTURE ##
 

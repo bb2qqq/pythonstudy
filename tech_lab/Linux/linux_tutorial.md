@@ -79,3 +79,11 @@ A hard link then just creats another file with a link to the same underlying ino
 When you delete a file it removes one link to the underlying inode. The inode is only deleted (or deletable/over-writable) when all links to the inode have been deleted.
 
 A symbolic link(soft-link) is a link to another name in the file system. It can across filesystems, while hard-link can't.
+
+##### FIFO ######
+FIFO stands for `First In, First Out`, and has another name `named pipe`, it enables different processes to commnunicate.
+First, you use `mkfifo magic_pipe` to create a fifo file. Then you open two terminals, typed in each of them `ls -lhrt > magic_pipe` and `cat < magic_pipe`.
+You'll see magic happens, and you can even reverse their order, first type `cat < magic_pipe`, then `ls -lhrt > magic_pipe`. Still works!
+It's thrilling.
+
+

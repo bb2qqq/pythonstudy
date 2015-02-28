@@ -1,3 +1,11 @@
+"Taglist settings
+ab tlg TlistToggle
+ab vres vertical resize
+ab rd r!date
+ab rp r!pbpaste
+filetype plugin on
+
+
 colorscheme mario
 "colorscheme elflord
 syntax enable
@@ -14,6 +22,9 @@ syntax on
 " allow auto complete only in currrent file
 set complete-=i
 
+" Disable auto add hash when copy from texts
+" !!! CAUTION !!! set paste will disable abbreviation setting! don't know why
+"set paste
 
 
 " Obsolete ctag config
@@ -29,8 +40,8 @@ set complete-=i
 
 " KEY REMAP
 
-vnoremap <C-c> "*y
-nnoremap <C-e>      2<C-e>
+"vnoremap <C-c> "*y
+nnoremap <C-e> 2<C-e>
 nnoremap <C-y> 2<C-y>
 
 " vsplit switch optimization
@@ -49,12 +60,6 @@ nnoremap <F4> :vertical resize +5<cr>
 
 
 
-"Taglist settings
-ab tlg TlistToggle
-ab vres vertical resize
-ab rd r!date
-ab rp r!pbpaste
-filetype plugin on
 
 
 " General Identation
@@ -79,7 +84,7 @@ autocmd FileType python match ExtraWhitespace /\s\+$/
 
 " MAC CONFIG
 
-set clipboard=unnamedplus
+set clipboard=unnamed
 
  ******** file encode ********
  " unix or dos file
@@ -95,4 +100,15 @@ set clipboard=unnamedplus
  set termencoding=utf-8
 
 " Fix copy paste issues on iterm
-mouse=r
+set mouse=nichr
+
+" Allow backspacing everything in insert mode
+" Type   :help backspace   to view details
+set backspace=indent,eol,start
+
+
+" Disable auto insert hash when type newline after a comment line
+" Type   :help fo-table   to view details
+set formatoptions-=cro
+
+

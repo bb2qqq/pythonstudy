@@ -1,12 +1,57 @@
 # Where to buy a mac?
     http://www.appletuan.com
 
-# Map alt + f/b key in iterm2
+# Homebrew
+
+    Official sites:
+        http://brew.sh/
+
+    update vim to vim74:
+        brew install vim
+
+    Change bashrc: 
+        vim='/usr/bin/vim'
+
+    install python3:
+        brew install python3
+
+# Virtual Box
+    install an Ubuntu on virtualbox
+    initial your git project in shared folder
+    Do most of your job in this shared file.
+    share the clipboard, net-card
+
+# VIM
+*share clipboard with system*
+
+    add "set clipboard=unnamed" to your vimrc
+
+# Iterm config.
+
+*Map alt + f/b key in iterm2*
+
     http://stackoverflow.com/questions/81272/is-there-any-way-in-the-os-x-terminal-to-move-the-cursor-word-by-word
+
+*Enable system clipboard(lot of more convinient)*
+
+    Iterm > Preference > General > Allow clipboard access to terminal apps √
+
+*No shadow on inactive panes*
+
+    Iterm > Preference > Appearance > Dim inactive split panes X
+
+
+*solve iterm-vim select text problem*
+
+    add set   mouse=nichr   to your .vimrc
+    when you want selecting texts, press OPTION key and then drag your mouse on screen
 
 # install ctags on OS X
     brew install ctags-exuberant
 
+# Switch Esc and Cap in mac
+    http://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x
+#
 # install TagList on OS X
     http://www.vim.org/scripts/script.php?script_id=273
 
@@ -35,4 +80,18 @@
             Background is what it means
 
         Preference -> Profiles -> Window                    # Change Window Transparency
+
+# Adobe Reader 
+
+    install abode reader:
+        http://get.adobe.com/reader/
+
+    color set:
+        Preferences -> Accessibility -> Document Colors Options -> Replace Document Colors -> ( Background: light-grey, Font: deep dark brown, like black )
+
+    enable scrolling:
+        View -> Page Display -> Enable Scrolling
+
+
+
 
