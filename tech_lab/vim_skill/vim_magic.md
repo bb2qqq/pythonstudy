@@ -1,3 +1,25 @@
+### Switching Case
+There are two ways of switching cases in vim.
+1. Under `visual mode`, select some content, press `~` to togglebetween case, `u` to switch to lower case, `U` to swith to upper case
+
+2. using `gu/gU/g~ + {motion}`,  works for normal mode
+
+* change word case
+      g~iw        # switch the case status of an inner word
+
+* change line-range case
+      gu3j        # count 3 lines down from current line, make the content of these 4 lines lower case
+      gU1G        # go from the current line to the first line, make these two lines every_line between them upper case.
+
+* change position-range case
+      g~`a        # go from the current position to mark a, switch case for characters on these two positions and every character between them.
+      g~$         # Toggle case from current position to the end of current line
+
+> `iw` stands for inner word, alphanumeric chars connect by `_` or other alphanumeric chars was considered a word, `KEff213E` and `apple_123` are two inner words, using `:h iw` to view more details
+
+
+### UNSORTED
+
 * find line contains pattern in this file and delete that line
 
       :%g/pattern/d
@@ -35,7 +57,7 @@
 > \r is a cross-platform symbol which means press down the enter/return key
 
 
-### VIMRC ###
+### VIMRC
 
 * This will apply specified vim configurations when vim find the filetype is python
 

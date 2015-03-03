@@ -1,3 +1,13 @@
+### SYSTEM ###
+
+View server uptime from last power on
+
+    uptime
+
+View exit status of the most recent command
+
+    echo $?
+
 ### GREP ###
 
 
@@ -25,7 +35,7 @@
 	  grep --exclude='*master*'  pattern  file_names
 
 
-* Find file that does not contern the pattern
+* Find file that does not contain the pattern
 
       grep -L "pattern" files
 
@@ -51,6 +61,7 @@
 * Find file files with particular size and delete them
 
 	  find -type f -size +5M -delete
+	  find -type f -size 0k -delete     # delete all empty files
 
 
 * Find file cotains "*pinche*" only on the first level
@@ -178,27 +189,6 @@
 
       chmod +w target_file
 
-* Print column 1 and 5 separated by :
-
-      cut -d: -f1,5 target_file
-
-> cut will always print out multiple fields with delimiters, while awk can omit it, awk is a more sophisticated tool, and cut a leaner one.
-
-* Print column 1 to 8 separated by !
-
-      cut -d! -f1-8 target_file
-
-* print character 2 and 5 of every line in the target\_file/output
-
-      cut -c 2,5 target_file
-
-* print character 3 to 9 of every line in target\_file/output
-
-      cut -c 3-9 target_file
-
-* print lines in a file in reverse order
-
-      tail -r target_file
 
 * execute executable file
 
@@ -221,6 +211,34 @@
       # First, install mmv on your machine
       mmv '*.mp3' '#1.wma'
 
+
+### OUTPUT ###
+
+* Print column 1 and 5 separated by :
+
+      cut -d: -f1,5 target_file
+
+> cut will always print out multiple fields with delimiters, while awk can omit it, awk is a more sophisticated tool, and cut a leaner one.
+
+* Print column 1 to 8 separated by !
+
+      cut -d! -f1-8 target_file
+
+* print character 2 and 5 of every line in the target\_file/output
+
+      cut -c 2,5 target_file
+
+* print character 3 to 9 of every line in target\_file/output
+
+      cut -c 3-9 target_file
+
+* print lines in a file in reverse order
+
+      tail -r target_file
+
+* enable interpretation of backslash escapes in echo
+
+      echo -e '\nback\tslash\n'
 
 ### USERS ###
 
@@ -352,6 +370,11 @@ set +o noclobber                                            # Enable   >
 * Read input and assign it as value to the variable
 
         read MY_VAR
+
+* Run two scripts at the same time, until both of them complete doing next step
+
+        (sh script1.sh & sh script2.sh ) & wait
+         # Next step
 
 ##### CALCULATION #####
 

@@ -1,6 +1,9 @@
 # Where to buy a mac?
     http://www.appletuan.com
 
+# Install ulysses-iii
+    search "ulysses" in your bookmark manager
+
 # Homebrew
 
     Official sites:
@@ -92,6 +95,16 @@
     enable scrolling:
         View -> Page Display -> Enable Scrolling
 
+    memorize last view page:
+        Preferences -> Documents  -> Restore last view setting when reopening documents √
 
+# Change time from number to clock
 
+    click the time button -> View As Analog √
+
+# Change cursor blink rate when editing
+
+    defaults write -g NSTextInsertionPointBlinkPeriodOn -float 200 (200 is 200ms)
+    Restore Default:
+        defaults delete -g NSTextInsertionPointBlinkPeriodOn
 

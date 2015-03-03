@@ -29,3 +29,8 @@
         Make it more readable for reviewing(for you and others).
 
    Comment is more for better thinking than instructions for others.
+
+### Pensamientos ###
+    Something looks hard hounds you for years, you have fear to do it.
+    Finally, you gathered enough courage to face it, try to solve it.
+    It took you two minutes.

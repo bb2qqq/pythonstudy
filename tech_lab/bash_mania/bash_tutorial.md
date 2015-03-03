@@ -6,8 +6,6 @@ Bourne Shell是unix上最早的shell, 它叫这个名字是因为最早作者的
 
 `echo $$`可以打印出当前shell的进程id
 
-
-
 `$?`是上一条命令或脚本的执行状态，0是成功，1是报错。
 bash最多支持256种退出状态，即0到255。可以用`awk 'BEGIN {exit 258}'; echo $?`命令来验证这一点。
 
@@ -227,3 +225,93 @@ do
     done
 
 > All these four loops listed above can be nested together to produce more variety.
+
+You can use `continue` and `break` to do loop contral, in shell they act just like they do in python. Except you can use `continue n` and `break n` to get out of `n`th loop. Try the following two examples, you'll know what I mean.
+
+
+    #!/bin/bash
+
+    echo "break"
+
+    for var1 in 1 2 3
+    do
+        for var2 in 0 5
+        do
+            if [ $var1 -eq 2 -a $var2 -eq 0 ]
+            then
+                break 1
+            else
+                echo "$var1 $var2"
+            fi
+        done
+    done
+
+
+    echo "continue"
+
+    for i in 6 7 8 9 10
+    do
+        for j in 1 2 3 4 5
+        do
+            if [ $(expr $i % 2) -eq 0 -a $(expr $j % 2) -eq 0 ]
+            then
+                continue 2
+            else
+                echo "$i $j"
+            fi
+        done
+    done
+
+
+### Substitution
+
+To assign the output of a command to a variable, simply use:
+
+    var=`command`
+
+And follows are different substituion of variables.
+
+    Form                Description
+    ${var}              substitute the value of var
+
+    ${var:-word}        if var is null or unset, word is used as the substituted string, the value of var won't change
+    ${var:=word}        if var is null or unset, var is set to word, then substitue begins
+    ${var:+word}        if var is set, word is used as the substituted string, value of var won't change
+
+    ${var:?message}     if var is null or unset, message will be printed to standard error.
+
+### MetaCharacters
+
+    * ? [ ] ' " \ $ ; & ( ) | ^ < > new-line space tab
+
+These are special characters in shell, also named `metacharacters`. To convert  `metacharacters` to normal character, you got four way to do it
+
+1. you can add a `\` before a single `metacharacter`.  
+    echo Hello \; World!
+
+2. you can wrap any number of any kind of `metacharacters` in single quote `'` to make them normal
+    echo ' *?[]"\$;&()|^<> '
+
+> single quote can't convert single quote, try `echo ' '' '` and `echo ' \' ' '`
+
+3. Double quotes `"` do the similar job, except six characters or combinations below
+    EXCEPTIONS FOR DOUBLE QUOTE:
+        `   $   \`  \$  \'  \"  \\
+
+4. Back quotes ` ` ` will treat what inside it as command and execute it.
+
+    echo `date`
+
+
+##### INPUT REDIRECTION
+
+The symbol for input redirection is `<`, it reads content of file and feed them as standard input to command. Please see the example below:
+
+    $ wc -l test
+    1 test
+
+    $ wc -l < test
+    1
+
+In the first command, `test` file was passed as a parameter to `wc`, so `wc` knows its name and prints it out.  
+BUt in the second command, we directly passed the content to `wc`, so he don't know who is the owner of these content, except they comes from standinput, so no filename prints out.

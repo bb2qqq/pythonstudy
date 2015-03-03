@@ -103,6 +103,8 @@ alias ls='ls -F'
 alias vim='/usr/local/bin/vim'
 alias lib='pushd ~/zen/shared/library'
 alias r='open ~/zen/shared/library/reading/*'
+alias raw='vim /Users/zen1/zen/pythonstudy/Brain_extension/raw'
+alias cl='crontab -l'
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
@@ -291,6 +293,8 @@ export -f dec
 function wk { w3m  "http://en.wikipedia.org/wiki/$*"; }
 export -f wk
 
+function wkcn { w3m  "http://zh.wikipedia.org/wiki/$*"; }
+export -f wkcn
 
 function nth { { echo; cat; } >> /Users/zen1/zen/pythonstudy/tree_hole; }
 export -f nth
