@@ -89,6 +89,12 @@ OK, 让我们把以下内容复制粘贴到my\_temp里, 然后开始我们的awk
 <br>
 ### 实用技巧 ###
 
+* 将shell变量传给awk, 你使用`-v` flag
+
+      SHELL_VAR='哈哈'
+      awk -v my_var=$SHELL_VAR '{print my_var}' my_temp
+
+
 * 搜算整行里包含pattern的行， 并打印该行
 
       awk ' /pattern/ ' my_temp
@@ -432,6 +438,11 @@ awk里除了一些常规内置变量，还有一些内置函数，以下是常�
 
 
 ### 私の黑魔法 ###
+
+* 搜索消费日志里与目标服务器相符的行(截取了第二个column第1个字符到第-7个字符)
+
+      awk -v server=$i 'substr($2, 1, length($2) -7) == server' mix_spend  > server_spend
+
 
 * 显示当前文件夹下所有文件的权限
 

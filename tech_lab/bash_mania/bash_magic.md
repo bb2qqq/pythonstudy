@@ -10,6 +10,16 @@ View exit status of the most recent command
 
 ### GREP ###
 
+`egrep` = `grep -E` means using the Extended Regular Expression
+
+`fgrep` = `grep -F` means treat pattern as fixed string, separted by newline
+    content of my_pattern file:
+        Jack
+        Tom
+        Mary
+
+
+    grep -F -f my_pattern target_file      # This will grep any line contains Jack, Tom or Mary in target_file
 
 * Find recursively on current directory those files which contains keyword _luck_ and list them out.
 
@@ -43,6 +53,13 @@ View exit status of the most recent command
 
 ### FIND ###
 
+* find file among special time range
+      find -newermt '2015-01-23'    #  find files newer than the 2015-01-23, include 2015-01-23
+      find ! -newermt '2015-01-23'  #  Here the "!" means "NOT", so, this will find files earlier than 2015-01-23, and not include '2015-01-23', since its the reverse supplement of the previous command.
+      find  -newermt '2015-01-23' ! -newermt '2015-01-24'   # This command will find the file modified just in '2015-01-23'
+
+> if a file is created on "2015-03-01 00:00:00", find -newermt '2015-03-01' won't get it(On Unix find, Linux find untested).
+
 
 * Search file modified between 12-05 08:00:00 to 12-06 00:00:00, with the file size greater than 10MB and samller than 20MB, containing word "quirk" in the file name
 
@@ -51,6 +68,8 @@ View exit status of the most recent command
 * Find files with word "dwarf" in file name and list them out by last modify time
 
 	  find -name "*dwarf*"-exec ls -lhrt {} \;
+
+> ! NEED IMPROVEMENT  this will list all the content while the found file is in
 
 
 * Find file files with particular size print out their total disk usage
@@ -143,7 +162,8 @@ View exit status of the most recent command
 
 	  rsync -chavzP --stats user@remote.host:/path/to/copy /path/to/local/storage
 
->	-c for checksum, -v for verbose, -P for progress, -h for human readable format, -z for compress, -a for archive mode
+>	-c for checksum, -v for verbose, -P for progress, -h for human readable format, -z for compress, -a for archive mode  
+>  Be careful!  -c option can check file diffs more exact, but the cost is this could slow the transfer significantly when transferring huge files.  
 
 * Synchronize file from local to remote
 
@@ -212,7 +232,27 @@ View exit status of the most recent command
       mmv '*.mp3' '#1.wma'
 
 
-### OUTPUT ###
+### TEXT ###
+
+* read a large file
+      less large_file
+
+> less won't need to read the whole file before starting,  so with large files it's much faster than vi.  
+> but you can navigate in it with all kinds of vi commands!  
+> By pressing `F`, you can view newly appended content to the file. It's similar to `tail -f`  
+> But be aware, when pressing `F`, less won't doing quite right with `cat a > b`, beacause it's not append,  
+> You'll need press `R` to refresh the screen to get new content of the file  
+> Pressing `<CTRL> + G`, you can get detailed info about current page, include `file name`, `line-number`, and `percentage statistics`.  
+> By pressing `v`, you'll use configured editor to edit the current file  
+> Press `h` to get help
+
+
+* print lines that are common to file1 and file2
+      comm -12 <(sort file1) <(sort file2)
+
+> `comm` command should deal with sorted file or output  
+>  it will print out 3 columns, the first for lines are unique to file1, the second for lines are unique to file2, the 3rd for lines appears in both.  
+> -1 will suppress the print of 1st column, -2 suppress the 2nd column, -3 suppress the 3rd column
 
 * Print column 1 and 5 separated by :
 
@@ -404,3 +444,7 @@ set +o noclobber                                            # Enable   >
 * paste whatever in clipboard
 
  	  pbpaste
+
+* copy large file on iterm
+
+      `cat file` and then copy it in command line

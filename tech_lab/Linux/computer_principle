@@ -1,0 +1,38 @@
+# CPU
+Calculating
+
+
+# MEMORY
+Temporary storage
+`primary memory` is used for storage systems which function at high-speed (i.e. RAM, random access memory), as a distinction from secondary memory, which provides program and data storage that is slow to access but offer higher memory capacity. If needed, primary memory can be stored in secondary memory, through a memory management technique called "virtual memory".
+
+The term "memory",  meaning `primary memory` is often associated with addressable semiconductor memory, i.e. integrated circuits consisting of silicon-based transistors.
+
+The term storage is often used to describe secondary memory such as magnetic disks.
+
+### Memory management bugs
+* Memory Leak
+A memory leak occurs when a program requests memory from the operating system and never returns the memory when it's done with it. A program with this bug will gradually require more and more memory until the program fails as it runs out.
+
+* Segmentation fault
+A segmentation fault results  when a program tries to access memory that it has no permission to access. Generally a program doing so will be terminated by the operating system.
+
+* Buffer overflow
+Buffer overflow means that a program writes data to the end of its allocated space and then continues to write data to memory that belongs to other programs. This may result in erratic program behavior, including memory access errors, incorrect results, a crash, or a breach of system security. They are thus the basis of many software vulnerabilities and can be maliciously exploited.
+
+### Virtual Memory
+In early computer systems, programs typically specified the location to write memory and what data to put there. This approach has its pitfalls. If the location specified is incorrect, this will cause the computer to write the data to some other part of the program. The results of an error like this are unpredictable. In some cases, the incorrect data might overwrite memory used by the operating system. Computer crackers can take advantage of this to create viruses and malware.
+
+Virtual memory is a system where all physical memory is controlled by the operating system. When a program needs memory, it requests it from the operating system. The operating system then decides what physical location to place the memory in.
+
+This offers several advantages. Computer programmers no longer need to worry about where the memory is physically stored or whether the user's computer will have enough memory. It also allows multiple types of memory to be used. For example, some memory can be stored in physical RAM chips while other memory is stored on a hard drive. This drastically increases the amount of memory available to programs. The operating system will place actively used memory in physical RAM, which is much faster than hard disks. When the amount of RAM is not sufficient to run all the current programs, it can result in a situation where the computer spends more time moving memory from RAM to disk and back than it does accomplishing tasks; this is known as thrashing.
+
+Virtual memory systems usually include protected memory, but this is not always the case.
+
+Protected memory is a system where each program is given an area of memory to use and is not permitted to go outside that range. Use of protected memory greatly enchances both the reliability and security of a computer system.
+
+Without protected memory, it is possible that a bug in one program will alter the memory used by another program. This will cause that other program to run off of corrupted memory with unpredictable results. If the operating system's memory is corrupted, the entire computer system may crash and nedd to be rebooted. At times programs intentionally alter the memory used by other programs. This is done by viruses and malware to take over computers.
+
+Protected memory assigns programs their own areas of memory. If the operating system detects taht a program has tried to alter memory that does not belong to it, the program is terminated. This way, only the offending program crashes, and other programs are not affected by the error.
+
+Protected memory systems almost always include virtual memory as well.

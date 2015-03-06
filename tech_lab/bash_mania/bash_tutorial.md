@@ -315,3 +315,33 @@ The symbol for input redirection is `<`, it reads content of file and feed them 
 
 In the first command, `test` file was passed as a parameter to `wc`, so `wc` knows its name and prints it out.  
 BUt in the second command, we directly passed the content to `wc`, so he don't know who is the owner of these content, except they comes from standinput, so no filename prints out.
+
+
+`<<` is used to start a `Here` document, the pattern is like:
+
+    command << self_defined_delimiter
+        content
+        ...
+        content
+    delimiter
+
+It is used to feed multiple lines as text content to command. Below is an example.
+
+    cat << 虽然我长得有点奇怪，可我真的是个delimiter，不信你试试
+    第一行
+            来啊
+                    我是第三行
+    虽然我长得有点奇怪，可我真的是个delimiter，不信你试试
+
+Write the content above in to a file, then execute it, you'll know what `self_defined_delimiter` is. Amazing, isn't it?
+
+There are three types of I/O, each have their own identifier, called a file descriptor:
+    standard input:  0
+    standard output: 1
+    standard error:  2
+
+With no file descriptor number, `<` refers to the standard input(0),  `>` and `>>` refers to standard output(1). And we can specify the part we want to redirect, just like below.
+
+    ls non_exist_file 2> tmp
+
+> The command above will redirect the error message of ls command to tmp file, `2>` means pass standard error to target

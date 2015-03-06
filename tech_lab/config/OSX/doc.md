@@ -1,8 +1,17 @@
 # Where to buy a mac?
     http://www.appletuan.com
 
+# Install GNU utilities on mac!
+    brew install coreutils --with-default-names
+
+> http://apple.stackexchange.com/questions/69223/how-to-replace-mac-os-x-utilities-with-gnu-core-utilities
+
 # Install ulysses-iii
     search "ulysses" in your bookmark manager
+
+# Install Calibre to convert epub
+    http://www.calibre-ebook.com/download_osxf
+
 
 # Homebrew
 
@@ -54,7 +63,8 @@
 
 # Switch Esc and Cap in mac
     http://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x
-#
+
+
 # install TagList on OS X
     http://www.vim.org/scripts/script.php?script_id=273
 

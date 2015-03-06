@@ -110,3 +110,4 @@ set backspace=indent,eol,start
 " Disable auto insert hash when type newline after a comment line
 " Type   :help fo-table   to view details
 set formatoptions-=cro
+
