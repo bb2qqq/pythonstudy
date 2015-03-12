@@ -345,3 +345,177 @@ With no file descriptor number, `<` refers to the standard input(0),  `>` and `>
     ls non_exist_file 2> tmp
 
 > The command above will redirect the error message of ls command to tmp file, `2>` means pass standard error to target
+
+### Functions
+
+The basic function structure is like follow:
+
+    my_func_name () {
+                    echo "$1 eats $2"       # Write your own command here
+                    }
+
+You can return number from 0 to 255 in a function, like:
+
+    return_status () {
+                     return 119
+                     }
+    return_status
+    echo $?
+
+Function can be nested, like:
+    record_time()
+    {
+        CUR_TIME=`DATE +%y%M%D-%h:%m:%s`
+        echo $CUR_TIME
+    }
+
+    speak()
+    {
+        echo "I'm the king of the world!"
+        record_time
+    }
+
+    speak
+
+
+When you want to remove the definiton of a function, you use:
+
+    unset function_name
+
+
+### MAN-PAGE
+
+You use `man [section_number] command` to view the Manual of a command.  
+Where the section\_number is optional, the default value is 1.  
+
+Belowing are some comman sections of a man page:
+
+    Section                     Description
+    NAME                    Name of the command
+    SYNOPSIS                General usage parameters of the command.
+    DESCRIPTION             Generally describes of the command and what it does
+    OPTIONS                 Describes all the arguments or options to the command
+    SEE ALSO                Lists other commands that are directly related to the command in the man page or closely resembling its functionality.
+    BUGS                    Explains any known issues or bugs that exist with the command or its output
+    EXAMPLES                Common usage examples that give the reader an idea of how the command can be used.
+    AUTHORS                 The author of the man page/command.
+
+
+### USEFUL COMMAND
+
+Belowing are a bunch of useful commands that wait me for explore:
+
+    # Original link:  http://www.tutorialspoint.com/unix/unix-useful-commands.htm
+
+Files and Directories:
+These commands allow you to create directories and handle files.
+
+    Dealing with file
+
+    chgrp   change file group
+    file    Determine file type
+    ln  Create softlink on oldname
+    rmdir   Delete an existing directory provided it is empty.
+
+    Manipulating data:
+    The contents of files can be compared and altered with the following commands.
+
+    cmp Compare the contents of two files
+    expand  Expand tabs to spaces
+    join    Join files on some common field
+    split   Split file into smaller files
+    tr  Translate characters
+    fmt Simple text formatter
+    spell   Check text for spelling error
+    ex, edit    Line editor
+
+    Compressed Files:
+    Files may be compressed to save space. Compressed files can be created and examined:
+
+    compress    Compress files
+    gunzip  Uncompress gzipped files
+    gzip    GNU alternative compression method
+    uncompress  Uncompress files
+    zcat    Cat a compressed file
+    zcmp    Compare compressed files
+    zdiff   Compare compressed files
+
+    Getting Information:
+    Various Unix manuals and documentation are available on-line. The following Shell commands give information:
+
+    apropos Locate commands by keyword lookup
+    info    Displays command information pages online
+    whatis  Search the whatis database for complete words.
+    yelp    GNOME help viewer
+
+    Network Communication:
+    These following commands are used to send and receive files from a local UNIX hosts to the remote host around the world.
+
+    tftp    Trivial file transfer program
+    telnet  Make terminal connection to another host
+    ssh Secure shell terminal or command connection
+    scp Secure shell remote file copy
+    sftp    secure shell file transfer program
+    Some of these commands may be restricted at your computer for security reasons.
+
+    Messages between Users:
+    The UNIX systems support on-screen messages to other users and world-wide electronic mail:
+
+    evolution   GUI mail handling tool on Linux
+    mail    Simple send or read mail program
+    mesg    Permit or deny messages
+    parcel  Send files to another user
+    pine    Vdu-based mail utility
+    talk    Talk to another user
+    write   Write message to another user
+
+    Programming Utilities:
+    The following programming tools and languages are available based on what you have installed on your Unix.
+
+    Command Description
+    dbx Sun debugger
+    gdb GNU debugger
+    make    Maintain program groups and compile programs.
+    nm  Print program's name list
+    size    Print program's sizes
+    strip   Remove symbol table and relocation bits
+    cb  C program beautifier
+    cc  ANSI C compiler for Suns SPARC systems
+    ctrace  C program debugger
+    gcc GNU ANSI C Compiler
+    indent  Indent and format C program source
+    bc  Interactive arithmetic language processor
+    gcl GNU Common Lisp
+    g++ GNU C++ Compiler
+    javac   JAVA compiler
+    mysql   Run the mysql SQL interpreter
+
+    Misc Commands:
+    These commands list or alter information about the system:
+
+    Command Description
+    chfn    Change your finger information
+    determin    Automatically find terminal type
+    finger  Print information about logged-in users
+    groupadd    Create a user group
+    homequota   Show quota and file usage
+    iostat  Report I/O statistics
+    last    Show last logins of users
+    logout  log off UNIX
+    lun List user names or login ID
+    netstat Show network status
+    passwd  Change user password
+    printenv    Display value of a shell variable
+    quota -v    Display disk usage and limits
+    reset   Reset terminal mode
+    script  Save the output of a command or process
+    setenv  Set environment variables
+    stty    Set terminal options
+    time    Time a command
+    tset    Set terminal mode
+    tty Print current terminal name
+    umask   Show the permissions that are given to view files by default
+    uname   Display name of the current system
+    useradd Create a user account
+    users   Print names of logged in users
+    vmstat  Report virtual memory statistics

@@ -1,3 +1,8 @@
+
+
+
+
+
 def z_partial(func, *args, **keywords):
     def newfunc(*fargs, **fkeywords):
         newkeywords = keywords.copy()

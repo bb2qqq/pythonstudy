@@ -1,6 +1,14 @@
 # Where to buy a mac?
     http://www.appletuan.com
 
+# Install Mou
+    http://25.io/mou
+
+# chrome config
+    Stop stupid chrome helper eating memory and cpu:
+        Preferences -> Show advanced settings -> Privacy -> Content Settings -> Plug-ins -> Click to play
+
+
 # Install GNU utilities on mac!
     brew install coreutils --with-default-names
 

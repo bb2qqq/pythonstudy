@@ -115,6 +115,12 @@ alias cl='crontab -l'
 alias t='ipython -i  ~/zen/pythonstudy/tech_lab/script/zen_py_tool.py'
 alias web='pushd /Users/zen1/zen/pythonstudy/creation/web_co_editor'
 alias sys='pushd /Users/zen1/zen/pythonstudy/creation/systematized_work'
+# MASTER
+alias mm1='ssh admin@120.132.57.20'
+alias mm2='ssh admin@120.132.57.21'
+alias im1='ssh admin@120.132.57.30'
+
+
 # nginx
 
 

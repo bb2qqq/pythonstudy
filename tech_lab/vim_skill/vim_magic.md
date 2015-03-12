@@ -1,3 +1,10 @@
+### Others
+
+Paste content neatly.
+    set paste
+
+
+
 ### Navigation
     <CRTL> + f/b    # Forward or backward 1 screen
     <CRTL> + u/d    # Upward or downward 0.5 screen (Upward=Forward, downward=backward)

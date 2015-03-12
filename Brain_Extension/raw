@@ -49,8 +49,8 @@
 定期回顾自己所学习的知识(温故而知新，同时更牢固地掌握知识) [整理，结构化,系统化，去除冗余]
 
 
-
 # 我们就差一个程序员了
+
 一个母域名，母域名里是导航站，子域名里含有多个网站，多套数据结构。
 快速开发，进行实验，会员选择对自己感兴趣的人。会员可访问所有子站。
 a-z 可以支持26个子域名
@@ -61,3 +61,14 @@ a-z 可以支持26个子域名
 * 确定主机，找一个低延迟主机，最好带独立linux系统，独立ip
 
 a 多人共同写文章？
+
+### malicious website
+// when user want to leave, pop out
+confrim("You are going to fuck your mother, are you sure you want to do that?")
+
+
+
+
+
+
+

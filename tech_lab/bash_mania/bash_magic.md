@@ -1,5 +1,9 @@
 ### SYSTEM ###
 
+Send email to address:
+
+    echo 'I love you' | mail -s 'LOVE' address@domain.com
+
 View server uptime from last power on
 
     uptime
@@ -67,7 +71,7 @@ View exit status of the most recent command
 
 * Find files with word "dwarf" in file name and list them out by last modify time
 
-	  find -name "*dwarf*"-exec ls -lhrt {} \;
+	  find -name "*dwarf*" -exec stat -c "%y %n" {} \;
 
 > ! NEED IMPROVEMENT  this will list all the content while the found file is in
 
@@ -234,7 +238,12 @@ View exit status of the most recent command
 
 ### TEXT ###
 
+* join files together horizontally
+
+      paste target_files
+
 * read a large file
+
       less large_file
 
 > less won't need to read the whole file before starting,  so with large files it's much faster than vi.  
@@ -248,6 +257,7 @@ View exit status of the most recent command
 
 
 * print lines that are common to file1 and file2
+
       comm -12 <(sort file1) <(sort file2)
 
 > `comm` command should deal with sorted file or output  
@@ -448,3 +458,9 @@ set +o noclobber                                            # Enable   >
 * copy large file on iterm
 
       `cat file` and then copy it in command line
+
+* invoke javascript shell
+
+      node
+
+> start nodejs

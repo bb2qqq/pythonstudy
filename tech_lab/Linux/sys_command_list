@@ -21,3 +21,7 @@ ip
 strace
 blktrace
 dtrace
+
+
+# Desired command
+tar
