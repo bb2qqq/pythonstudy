@@ -98,6 +98,7 @@ alias pd='pushd'
 alias gpm='pushd /Users/zen1/zen/pythonstudy/creation/project_manager'
 alias m='pushd /Users/zen1/zen/pythonstudy/tech_lab/my_work'
 alias cap='pushd /Users/zen1/zen/pythonstudy/Capitalist'
+alias pyc='vim /Users/zen1/zen/pythonstudy/tech_lab/Pycharm/mac_note.md'
 alias mem='vim /Users/zen1/zen/pythonstudy/Brain_extension/memo'
 alias nl='pushd /Users/zen1/zen/new_life/normaldocuments'
 alias pbc='pwd | pbcopy'
@@ -111,6 +112,7 @@ alias vim='/usr/local/bin/vim'
 alias lib='pushd ~/zen/shared/library'
 alias r='open ~/zen/shared/library/reading/*'
 alias raw='vim /Users/zen1/zen/pythonstudy/Brain_extension/raw'
+alias fun='vim /Users/zen1/zen/pythonstudy/Brain_extension/fun'
 alias cl='crontab -l'
 alias t='ipython -i  ~/zen/pythonstudy/tech_lab/script/zen_py_tool.py'
 alias web='pushd /Users/zen1/zen/pythonstudy/creation/web_co_editor'
@@ -119,6 +121,7 @@ alias sys='pushd /Users/zen1/zen/pythonstudy/creation/systematized_work'
 alias mm1='ssh admin@120.132.57.20'
 alias mm2='ssh admin@120.132.57.21'
 alias im1='ssh admin@120.132.57.30'
+
 
 
 # nginx

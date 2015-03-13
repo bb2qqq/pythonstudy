@@ -3,6 +3,8 @@
 Paste content neatly.
     set paste
 
+Go definition of current attribute
+    gd
 
 
 ### Navigation
