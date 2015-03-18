@@ -1,0 +1,7 @@
+`ON version 4.0.4`
+
+* Disable cursor blink
+Preferences -> Editor -> General -> Apperance -> Caret blinking(ms): 300000
+
+* Customize shortcuts
+Preferences -> Apperance & Behavior -> Keymap

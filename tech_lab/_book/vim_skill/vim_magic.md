@@ -1,3 +1,64 @@
+### Others
+Write something into register, here we use `"2`
+    :let @2 = "scooter"
+
+
+Repeat last executed command-line
+
+    @:                  #  : refers to ": register here
+
+
+Paste content neatly.
+
+    set paste
+
+
+Go definition of current attribute
+
+    gd
+
+
+### Navigation
+    <CRTL> + f/b    # Forward or backward 1 screen
+    <CRTL> + u/d    # Upward or downward 0.5 screen (Upward=Forward, downward=backward)
+    <CRTL> + y/e    # Go up or down 1 line
+
+You can preced a number before press the combo key. And the motion will multiply that number. So `3<CTRL>y` will go 3 lines up.  
+You can also set `nnoremap <C-e> 2<C-e>` in your vimrc to make your `<CTRL>e` goes two lines down when you press them everytime.
+
+
+### Switching Case
+
+There are two ways of switching cases in vim.
+1. Under `visual mode`, select some content, press `~` to togglebetween case, `u` to switch to lower case, `U` to swith to upper case
+
+2. using `gu/gU/g~ + {motion}`,  works for normal mode
+
+* change word case
+      g~iw        # switch the case status of an inner word
+
+> `iw` stands for inner word, alphanumeric chars connect by `_` or other alphanumeric chars was considered a word, `KEff213E` and `apple_123` are two inner words, using `:h iw` to view more details
+
+
+* change line-range case
+      gu3j        # count 3 lines down from current line, make the content of these 4 lines lower case
+      gU1G        # go from the current line to the first line, make these two lines every_line between them upper case.
+      gU'a        # go from the current line to the line of marka, make these two lines every_line between them upper case.
+
+> `guu`, `gUU`, and `g~~` will lower, upper, toggle the case of current line. It seems double verb means do action to current line, like `yy`, `dd` do. I can investigate this assumption in the future.
+
+
+* change position-range case
+
+      ~           # Toggle character under the cursor
+      3~          # Toggle next 3 character starts from cursor
+      g~`a        # go from the current position to mark a, switch case for characters on these two positions and every character between them.
+      g~$         # Toggle case from current position to the end of current line
+
+
+
+### UNSORTED
+
 * find line contains pattern in this file and delete that line
 
       :%g/pattern/d
@@ -35,7 +96,7 @@
 > \r is a cross-platform symbol which means press down the enter/return key
 
 
-### VIMRC ###
+### VIMRC
 
 * This will apply specified vim configurations when vim find the filetype is python
 

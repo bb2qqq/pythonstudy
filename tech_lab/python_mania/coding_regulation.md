@@ -1,7 +1,7 @@
 ### 代码规范的目的
 **Guido的一个重要洞见是，比起被写而言，代码被读得更多。**  
 **提升代码的可读性可以提升项目组里每个人的工作效率。**  
-**本编码规范的目的就在于改善 Python 代码的可读性、使不同程序员书写的的 Python 代码保持一致性。**
+**本编码规范的目的在于改善 Python 代码的可读性、使不同程序员书写的的 Python 代码保持一致性。**
 
 <br>
 ### 缩进
@@ -616,7 +616,7 @@ startswith() and endswith() 更清晰易读，也倾向于减少错误。例如�
 
         No:  if type(obj) is type(1):
 
-* 检查一个对象是否是字符串时，紧记它也可能是 unicode 字符串！在Python 2.3及以上版本里，str 和 unicode 有公共的基类 basestring，所以你可以使用`isinstance(obj, basestring)`方法，例:
+* 检查一个对象是否是字符串时，谨记它也可能是 unicode 字符串！在Python 2.3及以上版本里，str 和 unicode 有公共的基类 basestring，所以你可以使用`isinstance(obj, basestring)`方法，例:
 
         >>> u'a' == 'a'
         True
@@ -701,10 +701,9 @@ startswith() and endswith() 更清晰易读，也倾向于减少错误。例如�
     " 将行末多余空格以灰色高亮显示
     autocmd FileType python highlight ExtraWhitespace ctermbg=grey guibg=grey
     autocmd FileType python match ExtraWhitespace /\s\+$/
-
     " 将每行超出79个字符的部分以红色高亮显示
     autocmd FileType python highlight OverLength ctermbg=red ctermfg=white guibg=#592929
-    autocmd FileType python match OverLength /\%80v.\+/
+    autocmd FileType python 2match OverLength /\%80v.\+/
 
 
 本文参考的source:

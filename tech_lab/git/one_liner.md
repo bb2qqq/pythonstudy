@@ -19,6 +19,7 @@ git log --before='2013-12-01' --no-merges                       # Show git commi
 git show --name-only commit-head                                # Show the changed file during a commit
 
 
+
 ###################         REMOTE          ###########################
 
 git remote show/add/rename/rm                                   # git remote operations
@@ -87,6 +88,11 @@ git rev-parse tag_name                                          # Show the SHA-1
 
 
 ###################         OTHERS          ###########################
+
+Apply a particular stash to current working directory, reapply the stage status, too.
+
+    git stash apply stash@{3} --index
+
 
 git rm $(git ls-files --deleted)                                # git removing all deleted files
 

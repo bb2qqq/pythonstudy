@@ -1,4 +1,10 @@
 # Zen
+
+# Replace BSD utility with GNU utility
+PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
+#MANPATH="/usr/local/opt/coreutils/libexec/gnuman:$MANPATH"
+
+
 shopt -s extglob
 alias 1='vim /Users/zen1/zen/pythonstudy/1'
 alias logics='vim /Users/zen1/zen/shared/genesis/backend/logics/'
@@ -45,6 +51,7 @@ alias ca='xmodmap $HOME/.speedswapper'
 alias abroad2='ssh admin@203.90.239.49'
 alias abroad3='ssh admin@203.90.239.46'
 alias abroad='ssh admin@203.90.236.146'
+alias tw='ssh admin@203.90.236.146'
 alias vt='ssh admin@54.169.181.67'
 alias tl='ssh admin@119.81.197.73'
 alias vtscp='scp admin@54.169.181.67:~/upl/* ~/Downloads'
@@ -56,7 +63,6 @@ alias alg='pushd ~/zen/pythonstudy/tech_lab/algorithm'
 alias cien='pushd ~/zen/pythonstudy/grocery/literatura/master_obra'
 alias py='python'
 alias ipy='ipython -i'
-alias lib='pushd ~/zen/pythonstudy/grocery/library'
 alias tec='pushd ~/zen/pythonstudy/tech_lab'
 alias ga='git add'
 alias gb='git branch '
@@ -92,6 +98,7 @@ alias pd='pushd'
 alias gpm='pushd /Users/zen1/zen/pythonstudy/creation/project_manager'
 alias m='pushd /Users/zen1/zen/pythonstudy/tech_lab/my_work'
 alias cap='pushd /Users/zen1/zen/pythonstudy/Capitalist'
+alias pyc='vim /Users/zen1/zen/pythonstudy/tech_lab/Pycharm/mac_note.md'
 alias mem='vim /Users/zen1/zen/pythonstudy/Brain_extension/memo'
 alias nl='pushd /Users/zen1/zen/new_life/normaldocuments'
 alias pbc='pwd | pbcopy'
@@ -100,55 +107,24 @@ alias zen='vim ~/zen/pythonstudy/book/zen_book/zen.md'
 alias book='pushd ~/zen/pythonstudy/book'
 alias gbs='gitbook serve .'
 alias g='w3m http://www.google.com'
-
-# ~/.bashrc: executed by bash(1) for non-login shells.
-# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
-# for examples
-
-# If not running interactively, don't do anything
-[ -z "$PS1" ] && return
-
-# don't put duplicate lines in the history. See bash(1) for more options
-# ... or force ignoredups and ignorespace
-HISTCONTROL=ignoredups:ignorespace
-
-
-# Zen
-
-case "$TERM" in
-*-256color)
-    alias ssh='TERM=${TERM%-256color} ssh'
-    ;;
-*)
-    POTENTIAL_TERM=${TERM}-256color
-    POTENTIAL_TERMINFO=${TERM:0:1}/$POTENTIAL_TERM
-
-    # better to check $(toe -a | awk '{print $1}') maybe?
-    BOX_TERMINFO_DIR=/usr/share/terminfo
-    [[ -f $BOX_TERMINFO_DIR/$POTENTIAL_TERMINFO ]] && \
-        export TERM=$POTENTIAL_TERM
-
-    HOME_TERMINFO_DIR=$HOME/.terminfo
-    [[ -f $HOME_TERMINFO_DIR/$POTENTIAL_TERMINFO ]] && \
-        export TERM=$POTENTIAL_TERM
-    ;;
-esac
-
-# Zen #
+alias ls='ls -F'
+alias vim='/usr/local/bin/vim'
+alias lib='pushd ~/zen/shared/library'
+alias r='open ~/zen/shared/library/reading/*'
+alias raw='vim /Users/zen1/zen/pythonstudy/Brain_extension/raw'
+alias fun='vim /Users/zen1/zen/pythonstudy/Brain_extension/fun'
+alias cl='crontab -l'
+alias t='ipython -i  ~/zen/pythonstudy/tech_lab/script/zen_py_tool.py'
+alias web='pushd /Users/zen1/zen/pythonstudy/creation/web_co_editor'
+alias sys='pushd /Users/zen1/zen/pythonstudy/creation/systematized_work'
+# MASTER
+alias mm1='ssh admin@120.132.57.20'
+alias mm2='ssh admin@120.132.57.21'
+alias im1='ssh admin@120.132.57.30'
 
 
 
-# append to the history file, don't overwrite it
-shopt -s histappend
-
-# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
-HISTSIZE=1000
-HISTFILESIZE=2000
-
-# check the window size after each command and, if necessary,
-# update the values of LINES and COLUMNS.
-shopt -s checkwinsize
-
+# nginx
 
 
 #Zcomment#    alias grep='grep --color=auto'
@@ -162,7 +138,6 @@ shopt -s checkwinsize
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
 # See /usr/share/doc/bash-doc/examples in the bash-doc package.
-
 if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
@@ -180,65 +155,7 @@ parse_git_branch() {
 git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
 
-#PS1="\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\[\033[01;34m\]\w\[\033[01;31m\]\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 PS1='\[\033[01;34m\]\u@\h\[\033[00;33m\]\w\[\033[32m\]$(parse_git_branch)\[\033[00m\]\$ '
-
-
-case "$TERM" in
-*-256color)
-    alias ssh='TERM=${TERM%-256color} ssh'
-    ;;
-*)
-    POTENTIAL_TERM=${TERM}-256color
-    POTENTIAL_TERMINFO=${TERM:0:1}/$POTENTIAL_TERM
-
-    # better to check $(toe -a | awk '{print $1}') maybe?
-    BOX_TERMINFO_DIR=/usr/share/terminfo
-    [[ -f $BOX_TERMINFO_DIR/$POTENTIAL_TERMINFO ]] && \
-        export TERM=$POTENTIAL_TERM
-
-    HOME_TERMINFO_DIR=$HOME/.terminfo
-    [[ -f $HOME_TERMINFO_DIR/$POTENTIAL_TERMINFO ]] && \
-        export TERM=$POTENTIAL_TERM
-    ;;
-esac
-
-# Zen #
-
-
-
-# append to the history file, don't overwrite it
-shopt -s histappend
-
-# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
-HISTSIZE=1000
-HISTFILESIZE=2000
-
-# check the window size after each command and, if necessary,
-# update the values of LINES and COLUMNS.
-shopt -s checkwinsize
-
-
-
-# set a fancy prompt (non-color, unless we know we "want" color)
-case "$TERM" in
-    xterm-color) color_prompt=yes;;
-esac
-
-
-
-
-if [ -f ~/.bash_aliases ]; then
-    . ~/.bash_aliases
-fi
-
-if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
-    . /etc/bash_completion
-fi
-
-#alias pme='ipython -i /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen'
-#alias pms='python /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen show'
-#alias pmcki='python /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py zen check_in'
 
 function pme {
                if [ -n "$1" ]
@@ -288,6 +205,8 @@ export -f dec
 function wk { w3m  "http://en.wikipedia.org/wiki/$*"; }
 export -f wk
 
+function wkcn { w3m  "http://zh.wikipedia.org/wiki/$*"; }
+export -f wkcn
 
 function nth { { echo; cat; } >> /Users/zen1/zen/pythonstudy/tree_hole; }
 export -f nth
@@ -301,4 +220,4 @@ export -f zd
 function bs { grep "$1" ~/.bashrc ;}
 export -f bs
 
-export EDITOR=vim
+#export EDITOR=vim

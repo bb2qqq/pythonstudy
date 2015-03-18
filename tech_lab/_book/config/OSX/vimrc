@@ -1,3 +1,16 @@
+" Disable auto add hash when copy from texts
+" !!! CAUTION !!! set paste will disable abbreviation setting! don't know why
+"set paste
+
+" Abbreviation
+ab pa set paste
+ab tlg TlistToggle
+ab vres vertical resize
+ab rd r!date
+ab rp r!pbpaste
+filetype plugin on
+
+
 colorscheme mario
 "colorscheme elflord
 syntax enable
@@ -29,8 +42,8 @@ set complete-=i
 
 " KEY REMAP
 
-vnoremap <C-c> "*y
-nnoremap <C-e>      2<C-e>
+"vnoremap <C-c> "*y
+nnoremap <C-e> 2<C-e>
 nnoremap <C-y> 2<C-y>
 
 " vsplit switch optimization
@@ -49,12 +62,6 @@ nnoremap <F4> :vertical resize +5<cr>
 
 
 
-"Taglist settings
-ab tlg TlistToggle
-ab vres vertical resize
-ab rd r!date
-ab rp r!pbpaste
-filetype plugin on
 
 
 " General Identation
@@ -65,13 +72,24 @@ set expandtab | set tabstop=8 | set shiftwidth=4 | set softtabstop=4
 filetype on
 autocmd BufNewFile,BufRead *.md setlocal filetype=markdown
 
+
+" OTHERS
+highlight ExtraWhitespace ctermbg=grey guibg=grey
+match ExtraWhitespace /\s\+$/
+
 " MARKDOWN CONFIG
 autocmd FileType markdown highlight ExtraWhitespace ctermbg=blue guibg=blue
 autocmd FileType markdown match ExtraWhitespace /\s\+$/
+autocmd FileType markdown set shiftwidth=2
+
 
 " PYTHON CONFIG
 autocmd FileType python highlight ExtraWhitespace ctermbg=grey guibg=grey
 autocmd FileType python match ExtraWhitespace /\s\+$/
+" hight-light characters greater than 80
+autocmd FileType python highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+autocmd FileType python match OverLength /\%80v.\+/
+
 
 
 
@@ -79,20 +97,29 @@ autocmd FileType python match ExtraWhitespace /\s\+$/
 
 " MAC CONFIG
 
-set clipboard=unnamedplus
+set clipboard=unnamed
 
- ******** file encode ********
- " unix or dos file
- set fileformats=unix,dos
- " euc-cn is alias to gb2312
- " set vi inside coding, must be set when you use gbk or utf-8
- set encoding=utf-8
- " actual file encoding, will set as it except fileencodings load other
- " set fileencoding=gb2312
- set fileencodings=utf-bom,utf-8,gbk,gb2312,gb18030,cp936,latin1
- " terminal encoding
- " even if you set utf-8 in ssh client
- set termencoding=utf-8
+" ******** file encode ********
+" unix or dos file
+set fileformats=unix,dos
+" euc-cn is alias to gb2312
+" set vi inside coding, must be set when you use gbk or utf-8
+set encoding=utf-8
+" actual file encoding, will set as it except fileencodings load other
+" set fileencoding=gb2312
+set fileencodings=utf-bom,utf-8,gbk,gb2312,gb18030,cp936,latin1
+" terminal encoding
+" even if you set utf-8 in ssh client
+set termencoding=utf-8
 
 " Fix copy paste issues on iterm
-mouse=r
+set mouse=nichr
+
+" Allow backspacing everything in insert mode
+" Type   :help backspace   to view details
+set backspace=indent,eol,start
+
+
+" Disable auto insert hash when type newline after a comment line
+" Type   :help fo-table   to view details
+set formatoptions-=cro

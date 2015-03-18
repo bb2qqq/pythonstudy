@@ -1,9 +1,20 @@
 ### Others
+Write something into register, here we use `"2`
+    :let @2 = "scooter"
+
+
+Repeat last executed command-line
+
+    @:                  #  : refers to ": register here
+
 
 Paste content neatly.
+
     set paste
 
+
 Go definition of current attribute
+
     gd
 
 

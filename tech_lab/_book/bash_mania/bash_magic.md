@@ -1,5 +1,29 @@
+### SYSTEM ###
+
+Send email to address:
+
+    echo 'I love you' | mail -s 'LOVE' address@domain.com
+
+View server uptime from last power on
+
+    uptime
+
+View exit status of the most recent command
+
+    echo $?
+
 ### GREP ###
 
+`egrep` = `grep -E` means using the Extended Regular Expression
+
+`fgrep` = `grep -F` means treat pattern as fixed string, separted by newline
+    content of my_pattern file:
+        Jack
+        Tom
+        Mary
+
+
+    grep -F -f my_pattern target_file      # This will grep any line contains Jack, Tom or Mary in target_file
 
 * Find recursively on current directory those files which contains keyword _luck_ and list them out.
 
@@ -25,13 +49,20 @@
 	  grep --exclude='*master*'  pattern  file_names
 
 
-* Find file that does not contern the pattern
+* Find file that does not contain the pattern
 
       grep -L "pattern" files
 
 
 
 ### FIND ###
+
+* find file among special time range
+      find -newermt '2015-01-23'    #  find files newer than the 2015-01-23, include 2015-01-23
+      find ! -newermt '2015-01-23'  #  Here the "!" means "NOT", so, this will find files earlier than 2015-01-23, and not include '2015-01-23', since its the reverse supplement of the previous command.
+      find  -newermt '2015-01-23' ! -newermt '2015-01-24'   # This command will find the file modified just in '2015-01-23'
+
+> if a file is created on "2015-03-01 00:00:00", find -newermt '2015-03-01' won't get it(On Unix find, Linux find untested).
 
 
 * Search file modified between 12-05 08:00:00 to 12-06 00:00:00, with the file size greater than 10MB and samller than 20MB, containing word "quirk" in the file name
@@ -40,7 +71,9 @@
 
 * Find files with word "dwarf" in file name and list them out by last modify time
 
-	  find -name "*dwarf*"-exec ls -lhrt {} \;
+	  find -name "*dwarf*" -exec stat -c "%y %n" {} \;
+
+> ! NEED IMPROVEMENT  this will list all the content while the found file is in
 
 
 * Find file files with particular size print out their total disk usage
@@ -51,6 +84,7 @@
 * Find file files with particular size and delete them
 
 	  find -type f -size +5M -delete
+	  find -type f -size 0k -delete     # delete all empty files
 
 
 * Find file cotains "*pinche*" only on the first level
@@ -101,12 +135,39 @@
 
 ### FILE & DIRECTORIES ###
 
+* Two ways of set sticky bit for a file
+
+      chmod +t target_file
+      chmod 1777 target_file
+
+* Make anyone runs the file like they are they owner or member of the owner group.
+
+      chmod u+s file
+      chmod g+s file
+
+* Read the file as input to cat
+
+      cat < file
+
+* List file with suffix to show their file-type
+
+      ls -F
+
+> `/` for directory, `*` for executable, `@` for symbolic link, `=` for socket, `%` for whiteout, `|` for FIFO
+> whiteout files's purpose is to mask files which can't actually be deleted so they disappear from directories
+> FIFO stands for `First In, First Out`, and has another name `named pipe`, it enables different processes to commnunicate.
+
+
+* List files by revert Size order
+
+      ls -lShr
 
 * Synchronize file from remote to local
 
 	  rsync -chavzP --stats user@remote.host:/path/to/copy /path/to/local/storage
 
->	-c for checksum, -v for verbose, -P for progress, -h for human readable format, -z for compress, -a for archive mode
+>	-c for checksum, -v for verbose, -P for progress, -h for human readable format, -z for compress, -a for archive mode  
+>  Be careful!  -c option can check file diffs more exact, but the cost is this could slow the transfer significantly when transferring huge files.  
 
 * Synchronize file from local to remote
 
@@ -152,27 +213,6 @@
 
       chmod +w target_file
 
-* Print column 1 and 5 separated by :
-
-      cut -d: -f1,5 target_file
-
-> cut will always print out multiple fields with delimiters, while awk can omit it, awk is a more sophisticated tool, and cut a leaner one.
-
-* Print column 1 to 8 separated by !
-
-      cut -d! -f1-8 target_file
-
-* print character 2 and 5 of every line in the target\_file/output
-
-      cut -c 2,5 target_file
-
-* print character 3 to 9 of every line in target\_file/output
-
-      cut -c 3-9 target_file
-
-* print lines in a file in reverse order
-
-      tail -r target_file
 
 * execute executable file
 
@@ -195,6 +235,60 @@
       # First, install mmv on your machine
       mmv '*.mp3' '#1.wma'
 
+
+### TEXT ###
+
+* join files together horizontally
+
+      paste target_files
+
+* read a large file
+
+      less large_file
+
+> less won't need to read the whole file before starting,  so with large files it's much faster than vi.  
+> but you can navigate in it with all kinds of vi commands!  
+> By pressing `F`, you can view newly appended content to the file. It's similar to `tail -f`  
+> But be aware, when pressing `F`, less won't doing quite right with `cat a > b`, beacause it's not append,  
+> You'll need press `R` to refresh the screen to get new content of the file  
+> Pressing `<CTRL> + G`, you can get detailed info about current page, include `file name`, `line-number`, and `percentage statistics`.  
+> By pressing `v`, you'll use configured editor to edit the current file  
+> Press `h` to get help
+
+
+* print lines that are common to file1 and file2
+
+      comm -12 <(sort file1) <(sort file2)
+
+> `comm` command should deal with sorted file or output  
+>  it will print out 3 columns, the first for lines are unique to file1, the second for lines are unique to file2, the 3rd for lines appears in both.  
+> -1 will suppress the print of 1st column, -2 suppress the 2nd column, -3 suppress the 3rd column
+
+* Print column 1 and 5 separated by :
+
+      cut -d: -f1,5 target_file
+
+> cut will always print out multiple fields with delimiters, while awk can omit it, awk is a more sophisticated tool, and cut a leaner one.
+
+* Print column 1 to 8 separated by !
+
+      cut -d! -f1-8 target_file
+
+* print character 2 and 5 of every line in the target\_file/output
+
+      cut -c 2,5 target_file
+
+* print character 3 to 9 of every line in target\_file/output
+
+      cut -c 3-9 target_file
+
+* print lines in a file in reverse order
+
+      tail -r target_file
+
+* enable interpretation of backslash escapes in echo
+
+      echo -e '\nback\tslash\n'
 
 ### USERS ###
 
@@ -327,6 +421,11 @@ set +o noclobber                                            # Enable   >
 
         read MY_VAR
 
+* Run two scripts at the same time, until both of them complete doing next step
+
+        (sh script1.sh & sh script2.sh ) & wait
+         # Next step
+
 ##### CALCULATION #####
 
 * add
@@ -355,3 +454,13 @@ set +o noclobber                                            # Enable   >
 * paste whatever in clipboard
 
  	  pbpaste
+
+* copy large file on iterm
+
+      `cat file` and then copy it in command line
+
+* invoke javascript shell
+
+      node
+
+> start nodejs
