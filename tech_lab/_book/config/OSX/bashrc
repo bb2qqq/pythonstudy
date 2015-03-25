@@ -37,7 +37,8 @@ alias abscp='scp admin@203.90.236.146:~/upl/* ~/Downloads'
 alias qqscp='scp admin@182.254.166.54:~/upl/* /Users/zen1/zen/shared/download'
 alias dev='ssh zengjuchen@dev.kaiqigu.net'
 alias gogb='pushd /Users/zen1/zen/shared/genesis/backend'
-alias goab='pushd /Users/zen1/zen/Abroad_genesis/chaojiyingxiong_fanti'
+alias gotw='pushd /Users/zen1/zen/Abroad_genesis/chaojiyingxiong_fanti'
+alias govt='pushd /Users/zen1/zen/shared/code_port/backend_vietnam'
 alias cmge='ssh -p 2009 admin@211.155.89.81'
 alias mixtimer='ssh -p 2009 admin@211.155.89.209'
 alias iostimer='ssh -p 2009 admin@211.155.89.216'
@@ -60,7 +61,7 @@ alias qiku2='ssh admin@182.254.170.143'
 alias gzd='pushd ~/zen/pythonstudy/creation/zen_dict'
 alias mc='pushd ~/zen/pythonstudy/creation/zen_dict/mcwiki'
 alias alg='pushd ~/zen/pythonstudy/tech_lab/algorithm'
-alias cien='pushd ~/zen/pythonstudy/grocery/literatura/master_obra'
+alias gcien='pushd ~/zen/pythonstudy/grocery/literatura/master_obra'
 alias py='python'
 alias ipy='ipython -i'
 alias tec='pushd ~/zen/pythonstudy/tech_lab'
@@ -93,6 +94,8 @@ alias n20='ssh -p 22 admin@120.132.57.20'
 alias ir='ssh -p 22 admin@120.132.57.32'
 alias mr='ssh -p 22 admin@120.132.57.21'
 alias ct='cat ~/zen/pythonstudy/tree_hole'
+alias crt='cat ~/zen/pythonstudy/reasonable_tree_hole'
+alias cj='cat ~/zen/pythonstudy/joke'
 alias g='grep'
 alias pd='pushd'
 alias gpm='pushd /Users/zen1/zen/pythonstudy/creation/project_manager'
@@ -100,7 +103,7 @@ alias m='pushd /Users/zen1/zen/pythonstudy/tech_lab/my_work'
 alias cap='pushd /Users/zen1/zen/pythonstudy/Capitalist'
 alias pyc='vim /Users/zen1/zen/pythonstudy/tech_lab/Pycharm/mac_note.md'
 alias mem='vim /Users/zen1/zen/pythonstudy/Brain_extension/memo'
-alias nl='pushd /Users/zen1/zen/new_life/normaldocuments'
+alias nl='pushd /Users/zen1/zen/new_life/newer_life/normaldocuments' 
 alias pbc='pwd | pbcopy'
 alias pbp='pbpaste'
 alias zen='vim ~/zen/pythonstudy/book/zen_book/zen.md'
@@ -121,7 +124,7 @@ alias sys='pushd /Users/zen1/zen/pythonstudy/creation/systematized_work'
 alias mm1='ssh admin@120.132.57.20'
 alias mm2='ssh admin@120.132.57.21'
 alias im1='ssh admin@120.132.57.30'
-
+alias tltest2='ssh admin@203.90.234.72'
 
 
 # nginx
@@ -208,11 +211,27 @@ export -f wk
 function wkcn { w3m  "http://zh.wikipedia.org/wiki/$*"; }
 export -f wkcn
 
-function nth { { echo; cat; } >> /Users/zen1/zen/pythonstudy/tree_hole; }
+function th { CUR_TIME=`date +"%Y-%m-%d %H:%M"`; echo -e "\n$@\n\t\t\t\t\t\t\t\t\t$CUR_TIME" >> /Users/zen1/zen/pythonstudy/tree_hole; }
+export -f th
+
+
+function nth { CUR_TIME=`date +"%Y-%m-%d %H:%M"`; { echo; cat; } >> /Users/zen1/zen/pythonstudy/tree_hole;
+                  echo -e "\t\t\t\t\t\t\t\t\t$CUR_TIME" >> /Users/zen1/zen/pythonstudy/tree_hole;
+              }
 export -f nth
 
-function th { echo -e "\n$@" >> /Users/zen1/zen/pythonstudy/tree_hole; }
-export -f th
+function rth { CUR_TIME=`date +"%Y-%m-%d %H:%M"`; echo -e "\n$@\n\t\t\t\t\t\t\t\t\t$CUR_TIME" >> /Users/zen1/zen/pythonstudy/reasonable_tree_hole; }
+export -f rth
+
+function nrth { CUR_TIME=`date +"%Y-%m-%d %H:%M"`; { echo; cat; } >> /Users/zen1/zen/pythonstudy/reasonable_tree_hole;
+                  echo -e "\t\t\t\t\t\t\t\t\t$CUR_TIME" >> /Users/zen1/zen/pythonstudy/reasonable_tree_hole;
+              }
+export -f nrth
+
+function joke { CUR_TIME=`date +"%Y-%m-%d %H:%M"`; { echo; cat; } >> /Users/zen1/zen/pythonstudy/joke;
+                  echo -e "\t\t\t\t\t\t\t\t\t$CUR_TIME" >> /Users/zen1/zen/pythonstudy/joke;
+              }
+export -f joke
 
 function zd { pushd ~/zen/pythonstudy/creation/zen_dict/; ipython -i ~/zen/pythonstudy/creation/zen_dict/base_dict.py "$1"; pushd;}
 export -f zd
@@ -221,3 +240,6 @@ function bs { grep "$1" ~/.bashrc ;}
 export -f bs
 
 #export EDITOR=vim
+
+PERL_MB_OPT="--install_base \"/Users/zen1/perl5\""; export PERL_MB_OPT;
+PERL_MM_OPT="INSTALL_BASE=/Users/zen1/perl5"; export PERL_MM_OPT;

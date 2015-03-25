@@ -120,7 +120,7 @@ View exit status of the most recent command
 	  sed -i '/key_word/d' target_file
 
 
-* print specified line in linux, here print the line 100
+* print specific line in linux, here print the line 100
 
 	  sed -n '100p'
 

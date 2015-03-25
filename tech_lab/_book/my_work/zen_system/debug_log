@@ -1,0 +1,21 @@
+
+2015-03-19 12:47:32.020098
+'Traceback (most recent call last):
+  File "logging_bug.py", line 25, in <module>
+    fuck
+NameError: name \'fuck\' is not defined
+'
+
+2015-03-19 16:01:48.153033
+'Traceback (most recent call last):
+  File "logging_bug.py", line 20, in <module>
+    fuck
+NameError: name \'fuck\' is not defined
+'
+
+2015-03-19 16:02:17.672617
+'Traceback (most recent call last):
+  File "logging_bug.py", line 20, in <module>
+    fuck
+NameError: name 'fuck' is not defined
+'

@@ -23,7 +23,6 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those
 
 
-
 Python之禅 by Tim Peters
 
 优美胜于丑陋（Python 以编写优美的代码为目标）

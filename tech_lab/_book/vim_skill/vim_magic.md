@@ -1,4 +1,8 @@
 ### Others
+Show current\_line info
+    <ctrl> + G
+
+
 Write something into register, here we use `"2`
     :let @2 = "scooter"
 

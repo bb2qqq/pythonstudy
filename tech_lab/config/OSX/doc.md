@@ -1,6 +1,16 @@
 # Where to buy a mac?
     http://www.appletuan.com
 
+# Install perl interactive shell
+    perl -d -e 1                                # A quick interactive shell
+    http://www.sukria.net/perlconsole.html      # Following INSTALL using sudo, install modules with cpan
+    http://www.cpan.org/modules/INSTALL.html    # A perl module manager, choose sudo mode to install packages.
+    Try Devel::REPL, another perl module.       # Using cpan in root mode.
+    When met trouble with installing readline, saw below link(saved in evernote):
+    https://coderwall.com/p/kk0hqw/perl-install-term-readline-gnu-on-osx
+
+> Perhaps you should just install GNU-readline, and then use `perl -d -e 1` to use interactive perl shell.
+
 # Install Picture Documentation tool
 
     https://www.yinxiang.com/skitch/

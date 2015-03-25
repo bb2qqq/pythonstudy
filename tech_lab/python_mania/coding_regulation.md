@@ -3,6 +3,11 @@
 **提升代码的可读性可以提升项目组里每个人的工作效率。**  
 **本编码规范的目的在于改善 Python 代码的可读性、使不同程序员书写的的 Python 代码保持一致性。**
 
+安装pep8脚本:  
+`sudo pip install pep8`  
+对自己的文件进行pep8规范检查：  
+`pep8 your_file.py`
+
 <br>
 ### 缩进
 
@@ -63,7 +68,7 @@
           that_is_another_thing):
           # 因为两个条件都满足，我们可以继续
           do_something()
-          
+
 
       结尾闭合的定界符(圆括号/方括号/花括号)可以与多行结构里最后一行的第一个非空白字符对齐， 如：
 
@@ -108,7 +113,6 @@
 长表达式也可以用一对额外的圆括号包裹起来( 注意在二进制运算符之后换行，而不是在它之前 )。  
 例：
 
-
       class Rectangle(Blob):
 
           def __init__(self, width, height,
@@ -130,7 +134,7 @@
       with open('/path/to/some/file/you/want/to/read') as file_1, \
            open('/path/to/some/file/being/written', 'w') as file_2:
           file_2.write(file_1.read())
-      (See the previous discussion on multiline if-statements for further thoughts on the indentation of such multiline with -statements.)
+
       (回顾前面关于if语句多行连接的讨论，想一下在这个with语句里该如何缩进)
       (PS: 我感觉这儿得加注释来进行视觉区分了，如 # 文件打开完毕)
 
@@ -232,7 +236,7 @@ import模块的先后顺序如下：
 ** 其他建议: **
 
 * 在字典里紧跟key的冒号`:`后加一个空格；在分隔字典，元组和列表元素的逗号`,`后加一个空格：
-      
+
       Yes:
       age_ref = {'Mike': 5, 'Tom': 8, 'Mary': 10}
       fruits = ['apple', 'banana', 'orange']
@@ -241,7 +245,7 @@ import模块的先后顺序如下：
 
 
 * 始终在这些二元运算符两边放置一个空格:
- 
+
   赋值符 ( = )  
   增量赋值符 ( +=, -= 等 ),  
   比较符 ( ==, <, >, !=, <>, <=, >=, in, not in, is, is not ),  
@@ -298,14 +302,14 @@ import模块的先后顺序如下：
  也避免折叠这样的长行。
 
       Rather not：
-      
+
           if foo == 'blah': do_blah_thing()
           for x in lst: total += x
           while t < 10: t = delay()
 
 
       Definitely not：
-      
+
           if foo == 'blah': do_blah_thing()
           else: do_non_blah_thing()
 
@@ -314,7 +318,7 @@ import模块的先后顺序如下：
 
           do_one(); do_two(); do_three(long, argument,
                                        list, like, this)
-                                       
+
           if foo == 'blah': one(); two(); three()
 
 ### 注释
@@ -325,8 +329,7 @@ import模块的先后顺序如下：
 注释应该是完整的句子。
 
 如果英文注释是一个短语或句子，首字母应该大写，  
-除非它是一
-个以小写字母开头的标识符 (永远不要修改标识符的大小写)。
+除非它是一个以小写字母开头的标识符 (永远不要修改标识符的大小写)。
 
 如果注释很短，可以省略末尾的句号。  
 注释块通常由一个或多个段落组成，段落是由完整的句子构成的，每个句子应该以句号结尾。  
@@ -367,10 +370,10 @@ import模块的先后顺序如下：
 Docstring(文档)是紧挨着模块，类，函数，方法定义下的第一个字符串, 以三个双引号`"""`包裹。
 
 模块包(package)的Docstring请放在`__init__.py`文件的模块文档里,  
-通常情况下所有的模块都应该有文档，    
+通常情况下所有的模块都应该有文档，  
 所有会被引用的类和函数应该有文档，  
-类里的所有公共方法(包括__init__构造方法)也应该有文档。   
-  
+类里的所有公共方法(包括__init__构造方法)也应该有文档。  
+
 对于类里的非公共方法，你应该在方法定义下写一个注释，介绍用途。
 
 * 单行文档
@@ -383,7 +386,7 @@ Docstring(文档)是紧挨着模块，类，函数，方法定义下的第一个
           if _kos_root: return _kos_root
 
   **注意：**
-    
+
   单行文档的所有引号和文本应该在同一行内。  
   在单行文档之前和之后没有空行。  
   单行文档应该是一个以句号结尾的句子，它用来指示一个函数或方法作为一个命令所产生的效果，  
@@ -408,7 +411,7 @@ Docstring(文档)是紧挨着模块，类，函数，方法定义下的第一个
   你可以用自动化工具来生成摘要行，重要的是它应该能放得进一行并且用空行与其余文档部分隔开。  
   摘要行可以与文档开头的三个引号`"`在同一行或者另起一行。  
   整个文档应该同文档开头的三个引号`"`缩进相同的等级。  
-  
+
   <br>
   脚本的文档应该像一个关于它的`使用方法`，  
   当脚本不正常运行或是缺少参数的时候被打印出来，  
@@ -426,7 +429,7 @@ Docstring(文档)是紧挨着模块，类，函数，方法定义下的第一个
 
   <br>
   函数或方法的文档应当概述它的行为，  
-  并记载它的参数，返回值，exception, 副作用，和使用限制的具体信息。    
+  并记载它的参数，返回值，exception, 副作用，和使用限制的具体信息。  
   额外的参数应当被指出来，并且应当说明关键词参数是否是接口的一部分。  
 
   <br>
@@ -437,7 +440,7 @@ Docstring(文档)是紧挨着模块，类，函数，方法定义下的第一个
 
   如果一个类是其他类的子类，并且它的行为大多数继承自它的父类，  
   它的文档应当提到这一点并且将差异概述出来。  
-  使用动词`覆盖(override)`来表示子类的方法替换了父类的方法，并且不会调用父类方法；
+  使用动词`覆盖(override)`来表示子类的方法替换了父类的方法，并且不会调用父类方法；  
   使用动词`扩展(extend)`来表示子类方法会调用父类方法（在子类方法行为的基础上）
 
 
@@ -459,9 +462,9 @@ Docstring(文档)是紧挨着模块，类，函数，方法定义下的第一个
           """ 展示用，返回None """
 
       class Sample(object):
-          """  用于展示在类中使用Docstring 
+          """  用于展示在类中使用Docstring
 
-               sample_method: 展示用类方法，返回None 
+               sample_method: 展示用类方法，返回None
           """
 
           def __init__(self):
@@ -488,16 +491,27 @@ Docstring(文档)是紧挨着模块，类，函数，方法定义下的第一个
 
 ### 命名规范
 
+一句话总结:  
+`module_name, package_name, ClassName, method_name, ExceptionName, function_name,`  
+`GLOBAL_CONSTANT_NAME, global_var_name, instance_var_name, function_parameter_name, local_var_name`
 
+三句话总结:  
+1. 类名和Exception名用Pascal驼峰命名，即ClassName, ExceptionName.  
+2. 全局常量用全大写单词加下划线命名，即GLOBAL\_CONSTANT\_NAME,  
+   在`约定好并且保持统一性`的前提下，类常量也可以用这种命名方式, 如`CLASS_CONSTANT_NAME`
+3. 其他命名使用小写单词加下划线命名，如`other_name`,  
+   模块名尽量简短，其他命名保持在三个单词, 最多不超过四个单词。
+
+详述:  
 python包名应该是简短的，全小写的名字，不推荐使用下划线`_`, 例：`logics`  
 模块名称应当使用全小写的单词，如果使用下划线`_`可以提高可读性的话，可以使用， 例：`run_timer.py`。  
 类名应当使用首字母大写单词串，例：`RewardGacha`。  
-函数名应当使用小写单词，使用`_`分隔单词来提升可读性，例：`reload_config`。      
-**方法命名，实例变量命名，全局变量名命名与函数命名规则相同**。   
+函数名应当使用小写单词，使用`_`分隔单词来提升可读性，例：`reload_config`。  
+**方法命名，实例变量命名，全局变量名命名与函数命名规则相同**。  
 常量通常在模块级别被定义，使用全大写并用`_`分隔单词，例：`MAX_OVERFLOW`。
 
 > 在你不想被其他模块引用的全局变量名前加`_`, 对于那些私有的方法名和实例变量你也这样做。  
-> **让你的命名在合理的前提下尽量的简短。太长的命名会影响代码整体的可读性。   
+> **让你的命名在合理的前提下尽量的简短。太长的命名会影响代码整体的可读性。  
 > 在python各类标准库的命名里，绝大部分命名都在三个单词以内。**  
 > 相关讨论链接: http://stackoverflow.com/questions/16920835/what-is-the-maximum-length-for-an-attribute-name-in-python
 
@@ -515,7 +529,7 @@ python包名应该是简短的，全小写的名字，不推荐使用下划线`_
 公开属性是那些你认为谁都能用的，并且能够保证不会做出向后不兼容的改变的属性。  
 而你不需保证私有属性不会变动，你甚至可以根据你的需求删除它。  
 
-> 注意，PEP原文里`私有`一词用的是`non-public`，因为在python里没有属性是真正私有的。
+> 注意，PEP原文里`私有`一词用的是`non-public`，因为在python里没有属性是真正私有的。(想要你还是能拿到)
 
 
 
@@ -530,7 +544,7 @@ python包名应该是简短的，全小写的名字，不推荐使用下划线`_
 
 <br>
 `__double_leading_underscore`(双前导下划线): 当用于命名 class 属性时，会触发名字改编。  
-例如，在类 `FooBar` 中，`__boo`属性的名字 会变成 `_FooBar__boo`
+例如，在 class `FooBar` 中，`__boo`属性的名字 会变成 `_FooBar__boo`
 
 <br>
 `__double_leading_and_trailing_underscore__`(双前导和双后置下划线): "magic" 对象或属性。  
@@ -675,7 +689,7 @@ startswith() and endswith() 更清晰易读，也倾向于减少错误。例如�
       考虑如下的代码:
       if not a and b:
           do something
- 
+
       当你状态不好的时候，大脑有时会自动脑补为：
       if not (a and b):
           do something

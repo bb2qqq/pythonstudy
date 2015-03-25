@@ -1,3 +1,12 @@
+### 判断一个对象是否是iterable
+    if hasattr(my_obj, '__iter__')
+
+
+### 获得当前文件路径
+    import os
+    os.path.dirname(os.ptah.abspath(__file__))      # 文件存储路径
+    os.getcwd()                                     # 当前所在的执行路径
+
 ### 检测一个对象是否是字符串(包括普通字符和unicode字符)
 
     isinstance(obj, basestring)
