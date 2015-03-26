@@ -53,3 +53,6 @@ To remove all the ignored file, add an `-x` to the clean command.
 
 You can also add an `-i` flag to prompt out an interactive interface,  
 through which you can confirm the deletion of file one by one, to avoid mistake.  
+
+> To remove a committed file from all commit history, read this:
+> https://help.github.com/articles/remove-sensitive-data/
