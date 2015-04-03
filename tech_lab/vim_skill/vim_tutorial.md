@@ -40,8 +40,8 @@
     )       Go to the beginning of next sentence
 
 > A sentence ends at a `.`, `!`, or `?` followed by new-line, tab or space.  
-> Append any number and any combanation between `'`, `"`, `]`, `)` to `.`, `!`, or `?` will not break a sentence.  
-> A paragragh begins after each empty line, and also at pairs of characters specified in the `paragraphs` option.  
+> Append any number and any combination between `'`, `"`, `]`, `)` to `.`, `!`, or `?` will not break a sentence.  
+> A paragraph begins after each empty line, and also at pairs of characters specified in the `paragraphs` option.  
 > A section begins after a (`<C-L>`) in the first column and at each pairs of characters in the `sections` option.  
 > ** In my vim config, section move in python file will jump between classes. **
 
@@ -84,7 +84,7 @@
 
 ** jump **
 
-Using `:jumps` or `:ju`(abrreviation) to view the jump location list.
+Using `:jumps` or `:ju`(abbreviation) to view the jump location list.
 
     CTRL-O      Jump to previous location                   # O for outside
     CTRL-I      Jump to next location                       # I for inside
@@ -93,7 +93,7 @@ Using `:jumps` or `:ju`(abrreviation) to view the jump location list.
 
 ** Long-line navigation **
 
-When you have a long-line, which shows like multiplelines on screen and is actually a single line.  
+When you have a long-line, which shows like multiple lines on screen and is actually a single line.  
 You can do these to navigate:
 
     gj      Scroll down a visual line
@@ -167,7 +167,7 @@ Here are some system marks that you can reach to.
 
 ** registers **
 
-Using `:reg` to view your current register infomations  
+Using `:reg` to view your current register informations  
 And using `:h registers` to view detailed instructions about registers.  
 
 Recent deleted content will appear in 0 - 9 register.  
@@ -282,3 +282,295 @@ With the knowledge of these registers, let's learn how to insert file from vim t
     :%y+        Copy the whole file to clipboard
     :y+         Copy the current line to the clipboard
     :N,My+      Copy line N to line M to the clipboard
+
+
+### Write Content
+
+To write whole content of current file to another file, you use:
+
+    :w newfilename
+
+Or you can specify the line range
+
+    :3,7w newfilename
+
+
+### Power if dot
+
+The dot `.` can repeat the last file-content-affecting command
+
+
+### Power of :g
+
+`:g` is short for global, it execute cmd on a per line basis
+
+    :[range]g[lobal]/{pattern}/[cmd]
+
+Excute [cmd] (default ":p") on the lines in the [range] which does match {pattern}
+
+    :[range]g[lobal]!/{pattern}/[cmd]
+
+Same as above but do [cmd] on those line which doesn't match the pattern.
+
+> `:v` act the same as `:g!`
+
+Examples:
+    :g/evil/d       # Delete lines with 'evil' in it,  line with 'devil' and 'Sheviland' is count in
+    :g/^$/d         # Delete all empty lines
+    :g/^\s*$/d      # Delete all empty and all blank lines
+    :g//m0          # Reverse a file
+
+### Abbreviation
+**Abbreviation both works in command line and insert mode**
+
+Like `ab pa set paste` will expand `pa` into `set paste` both in your command mode and insert mode.  
+Thus you'll never be able to type a single pa in insert mode.  
+Unless you type `pas` and then delete `s` or paste a `pa` in like I do.  
+So, it may cause some unitended trouble when using this feature. Be cautious.  
+
+To solve problem above, you can use `iabbrev` or `ia` for insert mode only abbreviation,  
+and `cabbrev` or `ca` for Command-line mode only abbreviation.
+
+To stop abbreviation for some word in your vim session, using `una that_word` in command mode.
+
+### Macros
+Vim supports macros
+1. press `q` to enter recording mode.
+2. press a lower case character such as `a` as the macro name
+3. do your operations
+4. press `q` again to quit recording
+5. press `@` + `your macro name` such as `@a` to apply actions in `macro a`
+6. And you can repeat a macro multiple times by press `[number]@[macro_name]`  
+  such as `6@a` to repeat `macro a` for 5 times.
+
+You can use this feature to achieve tasks that can't be easily done by Regex.
+
+If you have mis-input something into a macro, you can edit it like this:  
+1. Paste your macro from register using something like `"ap`  
+2. edit the line you pasted.  
+3. using `"ayy` to copy the modified content into register again.  
+
+
+
+
+> `@@` will execute the previous macro
+
+### AUTOCMD
+
+autocmd will execute a command when the event happened if a file matches the pattern.
+
+    autocmd {event} {pattern} {cmd}
+
+### Programming
+
+press `K` you can view the man-page for a keyword, such as `random` in python  
+To view the nth page of a shell command, use `[number]K`
+
+using `gd` to go to local declaration of a variable, and `gD` to the global declaration of a variable
+
+### Writing
+
+you can use `set spell` to check your spelling.  
+`]S` will go to the next spell error,  
+`[S` moves to the previous spell error,  
+`z=` will give a list of words as a suggestion for the error  
+`zg` can identify the word under cursor as a `good word`
+`zw` will mark a word as `wrong word`
+
+>`[``]` + `s` will go next error word or rare word.
+
+
+### Tab and space
+
+`:set expandtab` will convert tab into corresponding spaces  
+`:set softtab=4` will transfer tab into 4 spaces  
+`retab` will convert all exists tabs in a file into spaces according to your tab-space setting.  
+`set ai` will enable autoindent
+
+
+### Command Line
+
+`vim -b binaryfile` can be used to edit binary files.  
+`vim -R file` or `view file` will open file in read-only mode  
+And `vim -r` will list all swap file in current directory.  
+By using ` vim -c '<command 1>' -c '< command 2>' file`,  
+you can execute single or multiple vim commands to files once you open it.  
+You can use `vim -w record_file target_file` to store those commands when you editing target\_file into record\_file.  
+And later you can use `vim -s record_file another_file` to execute record_file as a vim script,  
+using all the command stores in it by time order on another\_file.  
+
+
+### Tabs
+
+By using `vim -p file1 file2 file3`, you'll open multiple files in different sequential tabs,  
+Then you can use command belong to deal with them:  
+
+    :tabedit(tabe) file     # open another file in current vim sessionjjjj
+    :tabs                   # list all tabs
+    :tabn N                 # go to Nth tab
+    :tabclose(tabc)         # close current tab
+    :tabdo CMD              # Execute a command in all tabs
+    :tabn                   # Go to next tab
+    :tabp                   # Go to previous tab
+
+
+### Sessions
+
+Vim can save your `Buffers`, `Custom Options`, `Windows size`, `current directory` in a session.  
+
+Use `:mksession` to save current file in default `Session.vim` file.  
+In each directory there is only 1 `Session.vim` file.  
+And later you can use `vim -S` to read the session in default `Session.vim` file.  
+
+You can also use `:mksession my_session_file` to specify a session file.  
+And use `vim -S my_session_file` to load it.
+
+
+### Vimdiff
+Using `vim diff -o file1 file2` to do horizontal file visual comparison.  
+When you are inside a vim session, you can use `:diffsplit file2` or `:vert diffsplit file2` to open file2 for comparison.  
+`[c` and `]c` was used to go to next and previous change.  
+
+
+### Directory Navigation
+
+You can use `vim directory_name` to navigate a directory.  
+You use `<ENTER>` to open a file or gointo a directory in current window,  
+and `o` to open a new window to show it.  
+Press `D` to delete file under the cursor,  
+Press `R` to rename the file,  
+
+When you are in a vim session, you can use `Ex` to open a vim file explorer for current directory.  
+Or `Ex /specific/directory` to open a new file explorer split for specific directory.  
+`Sex` and `Vex` are used to open `Horizonal` or `Vertical` split for file explorer.  
+Meanwhile `Tex` will open a new tab for current file explorar.  
+
+
+### Multiple files
+
+To open another file in current vim session, use `:e another_file`  
+`:ls` is used to list all current editing files  
+`:e #N` can go to the Nth file listed by `:ls`.  
+`:next` is used to go to next file.  
+`:previous` is used to go to previous file.  
+
+
+### Pattern search
+`[I` will show all lines contain the word under the cursor,  
+and `]I` will show lines cotains matched keyword after current position.  
+
+`??` or `//` can repeat previouse reverse or forward pattern searching.  
+`*` and `#` will go next/previous match for the word under the cursor,  
+while `g*` and `g#` will search for partial matching for current word.  
+
+
+### Line motion
+
+`fX` will go to character X within a line in forward direction,  
+while `FX` will do it in reverse direction.  
+`tX` and `TX` does the samething, but they go to previous position of searched character.  
+`;` will repeat last `f/F/t/T` command in forward direction,  
+`,` does it in backward direction.  
+
+
+### Command mode motion
+
+`CTRL-B` will back to the beginning.  
+`CTRL-E` will go to the end.  
+`CTRL-U` will delete all content before the cursor.  
+`CTRL-R` + `Register_name` can paste the content of specified register into command-line.  
+`CTRL-W` will delete the word before the cursor.  
+`SHIFT-left/right` can move around by words.  
+`Up/Down` will search the previous and next command.  
+`CTRL-P` and `CTRL-N` will do the same job as `Up/Down`  
+`CTRL-D` will do the command mode auto-completion.  
+`CTRL-C` will quit the command mode.  
+
+### Auto-completion
+
+Pressing `CTRL + N` to do forward completion and `CTRL + P` to do backward completion for a word mentioned in the file.  
+When in inserting mode, press `CTRL-X CTRL-L`, you can auto-complete a line with the beginning words.  
+`CTRL-X CTRL-F` works for file name auto-completion in current directory.  
+`CTRL-X CTRL-K` will help you to spell a word with your dictionary file.  
+`CTRL-X CTRL-T` will invoke a Thesaurus word searching if you set a thesaurus dict in your vimrc.  
+
+
+### Folding
+
+In vim, you can fold lines to simplify navigation.  
+`:range fold` can fold lines in the specific range.  
+`zf<Navigation>` will fold the lines of Navigation moves by.  
+`zd` will delete(unfold) a fold under the current cursor,  
+`za` will toggle the fold below the cursor.  
+`zR` will unfold all folds,  
+`zM` will fold everything back.  
+
+### Vimgrep
+
+You can use `:vimgrep pattern * ` to search pattern in all files of current directory,  
+and jump to the first file which contains match pattern.  
+`:cn` and `:cN` are used to jump to next and previous match patterns.  
+`:clist` will list all lines in all files which match the pattern.  
+To do recursive search, you can use `:vimgrep pattern **/*file_type `  
+
+
+### Tricks
+
+Press `ga` to view the decimal, hex and octal value of the character in ASCII.
+
+
+Ex mode was using for continuous command execution.  
+Type `gQ` or `Q` to enter it, `vi` or `visual` to exit it.  
+Compare to `Q`, `gQ` support command-line motion and completion.  
+
+You can use `:digraphs` to view special codes, then in insert mode, type `CTRL-K` plus `its digraph-code` to type it.
+
+`:changes` can show all changes in current file.
+
+`gqap` seems can format a paragraph in a mysterious way, you can try use `:h gqap` for some details.
+
+To add a `#` before selected lines, first you use `CTRL-V` to select the beginning of these lines,  
+Then press `I`, add `#` in the first line
+
+`:set incsearch` will search the pattern once you type your first letter.
+
+`s/pattern/new\_word/g [number]` will only substitute pattern in the next `[number]` lines beginning from current line.
+
+`:X` can save and encrypt current file, interesting, though breakable.
+
+To do full word substituion, use `:s^\<word\>^new_word^g`  
+when doing a global confirmation substituion use `:%s/pattern/word/gc`,  
+`a` will confirm all substitution, while `l` will subsitute current word as the last substituion then terminate the confirmation.  
+
+To open a file in same window, type `gf` when your cursor is on that filename.  
+To open a file in a new window, type `CTRL-W f`  
+To open a file in a new tab, type `CTRL-W gf`  
+
+`@:` can repeat last command line
+
+using `:[number] split` or `:[number] vsplit` to open a split with `[number]` columns
+
+Like `w`, `up`(update) can also write file, but it only write when content changes,  
+this can avoid meaninglessly change the file modify-time.
+
+Put your cursor on a number, press `CTRL-A` will add 1 to it, and `CTRL-X` to decrease the number by 1
+
+view advance line info, you can use `g CTRL-G`, which is slightly powerful than `CTRL-G`
+
+If your vim version is greater than or equal `7.0`  
+You can sort the content of a file by using `:sort`  
+You can sort part of a file by using visual select plus `sort`  
+`:1,8sort` also sort line from 1 to 8 as intended.  
+`:sort i` will ignore the case  
+`:sort!` will sort in reverse order  
+meanwhile `:sort u` will remove duplicate lines.  
+All these flags can be combined, such as `:sort! ui`  
+What a built-in `sort` utility!
+
+To fixing typos like "thnik", you use `xp` on the first character
+
+
+### Unknown for now
+
+`burfdo` can used to modify buffer content  
+`vim --noplugin file` can edit a file without load plugins  

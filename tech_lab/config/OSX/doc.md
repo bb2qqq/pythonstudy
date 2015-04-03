@@ -1,6 +1,19 @@
 # Where to buy a mac?
     http://www.appletuan.com
 
+
+# Add vim dict
+
+    Move the file `spanish` in current directory to /usr/share/dict/
+
+    # get thesaurus dict
+    http://www.gutenberg.org/dirs/etext02/mthes10.zip
+    mv mthesaur.txt to /usr/share/dict
+
+    Add these to vimrc:
+    set dictionary+=/usr/share/dict/Spanish
+    set thesaurus+=/usr/share/dict/mthesaur.txt
+
 # Install perl interactive shell
     perl -d -e 1                                # A quick interactive shell
     http://www.sukria.net/perlconsole.html      # Following INSTALL using sudo, install modules with cpan

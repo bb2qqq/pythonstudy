@@ -89,6 +89,11 @@ git rev-parse tag_name                                          # Show the SHA-1
 
 ###################         OTHERS          ###########################
 
+Apply a change info in a particular commit to current branch:
+
+    git cherry-pick d42c389f
+
+
 Apply a particular stash to current working directory, reapply the stage status, too.
 
     git stash apply stash@{3} --index

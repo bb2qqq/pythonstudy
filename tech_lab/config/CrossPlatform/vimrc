@@ -3,11 +3,16 @@
 "set paste
 
 " Abbreviation
-ab pa set paste
-ab tlg TlistToggle
-ab vres vertical resize
-ab rd r!date
-ab rp r!pbpaste
+
+ca csp set spell
+ca ncsp set nospell
+ca pa set paste
+ca tlg TlistToggle
+ca vres vertical resize
+ca rd r!date
+ca rp r!pbpaste
+" Turn PEP8 80 char highlight off
+ca 80off match OverLength /\%8000v.\+/
 filetype plugin on
 
 
@@ -23,25 +28,26 @@ syntax enable
 set title
 set autochdir
 syntax on
+" This will influence the spell error checking result
+set spelllang=en,es,cjk
+set dictionary+=/usr/share/dict/words
+set dictionary+=/usr/share/dict/spanish
+set thesaurus+=/usr/share/dict/mthesaur.txt
+
 
 " allow auto complete only in currrent file
 set complete-=i
 
-
-
-" Obsolete ctag config
-
-" ctags optimization
-"set tags=./tags; /media/sf_zen/genesis/backend/
-"noremap <Leader>t :!ctags-proj.sh<CR>
-
-
-
+" Incremental search will search when you type the first letter
+set incsearch
 
 
 
 " KEY REMAP
 
+" optimize visual select indent
+vnoremap < <gv
+vnoremap > >gv
 "vnoremap <C-c> "*y
 nnoremap <C-e> 2<C-e>
 nnoremap <C-y> 2<C-y>
@@ -53,12 +59,11 @@ nnoremap <C-L> <C-W><C-L>
 nnoremap <C-H> <C-W><C-H>
 
 " resize current buffer by +/- 5
-" <F1> requries map to disable help popout
-map <F1> :vertical resize -5<cr>    
-imap <F1> :vertical resize -5<cr>    
-nnoremap <F2> :resize +5<cr>
-nnoremap <F3> :resize -5<cr>
-nnoremap <F4> :vertical resize +5<cr>
+" This is miming h,j,k,l behaviour
+nnoremap <F7> :vertical resize -5<cr>
+nnoremap <F8> :resize +5<cr>
+nnoremap <F9> :resize -5<cr>
+nnoremap <F10> :vertical resize +5<cr>
 
 
 
@@ -73,13 +78,12 @@ filetype on
 autocmd BufNewFile,BufRead *.md setlocal filetype=markdown
 
 
-
-
 " PYTHON CONFIG
 " hight-light characters greater than 80
 " hight-light trailing white space with grey
 "autocmd FileType python highlight OverLength ctermbg=red ctermfg=white guibg=#592929
 
+autocmd FileType txt set spell
 autocmd FileType python highlight OverLength ctermbg=red ctermfg=white guibg=red
 autocmd FileType python match OverLength /\%80v.\+/
 autocmd FileType python highlight ExtraWhitespace ctermbg=grey guibg=grey
