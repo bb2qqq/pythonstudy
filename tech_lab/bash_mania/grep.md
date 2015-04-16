@@ -1,5 +1,8 @@
 ### GREP ###
 
+* grep for utf-8 character in a file
+    grep --color='auto' -P -n '[^\x00-\x7F]' your_file
+
 * list file names only for files contain patterns
 
     grep -l pattern *

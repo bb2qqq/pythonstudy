@@ -1,5 +1,8 @@
 ### Others
 
+None greedy version for `.*`
+    .\{-}
+
 Increment 1 to the first number in the specified line-range:
     :4,8s/\d\+/\=submatch(0) + 1/
 

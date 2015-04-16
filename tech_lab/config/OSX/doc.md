@@ -1,6 +1,10 @@
 # Where to buy a mac?
     http://www.appletuan.com
 
+# Install MPlayerX as an alternative of QuickTime
+    http://mplayerx.org/download.html#sthash.G87N4t4Y.AplIDo4Z.dpbs
+    # To change MPlayerX as default player, do this:
+    Get the menu of a file -> Get Info -> Open with -> Choose app, change all
 
 # Add vim dict
 
@@ -75,9 +79,15 @@
 
 # Iterm config.
 
+*Download the latest super awesome nightly version of iterm2(with the most advancing features, like resize split size)*
+   https://iterm2.com/nightly/latest
+
 *Map alt + f/b key in iterm2*
 
     http://stackoverflow.com/questions/81272/is-there-any-way-in-the-os-x-terminal-to-move-the-cursor-word-by-word
+    # The result looks like
+    Option+b    Send ^[ B
+    Option+f    Send ^[ f
 
 *Enable system clipboard(lot of more convinient)*
 
@@ -87,11 +97,20 @@
 
     Iterm > Preference > Appearance > Dim inactive split panes X
 
-
 *solve iterm-vim select text problem*
 
     add set   mouse=nichr   to your .vimrc
     when you want selecting texts, press OPTION key and then drag your mouse on screen
+
+*Change shortcut of split/tab motion*
+    Preference -> Keys -> Global Shortcut Keys -> +
+    map Command + h,j,k,l to Select Split Pane Left/Below/Above/Right
+    map Command + Shfit + h,l to select previous/next tab
+
+*Hide title bar*
+    Preference -> Appearance -> Panes/Screen
+    Desactivate Show title bar option
+
 
 # install ctags on OS X
     brew install ctags-exuberant
@@ -129,7 +148,7 @@
 
         Preference -> Profiles -> Window                    # Change Window Transparency
 
-# Adobe Reader 
+# Adobe Reader
 
     install abode reader:
         http://get.adobe.com/reader/

@@ -1,3 +1,30 @@
+### 一句话反转字典键值对
+    inv_map = {v:k for k,v in my_dict.items()}
+
+### 简单粗暴解决各类utf-8编码问题
+
+    # coding: utf-8
+    import sys
+    reload(sys)
+    sys.setdefaultencoding("utf-8")
+
+
+### 查看当前python进程使用的内存大小
+    import resource
+    mem_usage = resource.getrusage(resource.RUSAGE_SELF)
+    print mem_usage.ru_maxrss
+
+    # OSX 下的单位是byte, 而Linux下的单位是kilobyte
+    # 将RUSAGE_SELF 换成 RUSAGE_CHILDREN 来查看子进程的内存占用
+
+### 判断一个对象的大小
+    # 方法1
+    import sys
+    sys.getsizeof(object[, default])
+
+    # 方法2
+    object.__sizeof__()
+
 ### 判断一个对象是否是iterable
     if hasattr(my_obj, '__iter__')
 
