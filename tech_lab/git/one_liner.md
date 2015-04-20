@@ -1,5 +1,4 @@
-#############           LOG         #####################
-
+#############           LOG         ##################### 
 git log --pretty=oneline                                        # show commit message and HEAD only
 
 git log --pretty=format:'%h  %ar %<(13) %an "%s"'               # git log one-liner
@@ -18,7 +17,7 @@ git log --before='2013-12-01' --no-merges                       # Show git commi
 
 git show --name-only commit-head                                # Show the changed file during a commit
 
-
+git diff $start_commit..$end_commit -- path/to/file             # Compare same file between 2 commits.
 
 ###################         REMOTE          ###########################
 

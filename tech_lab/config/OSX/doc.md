@@ -1,12 +1,54 @@
-# Where to buy a mac?
+### Where to buy a mac?
     http://www.appletuan.com
 
-# Install MPlayerX as an alternative of QuickTime
-    http://mplayerx.org/download.html#sthash.G87N4t4Y.AplIDo4Z.dpbs
-    # To change MPlayerX as default player, do this:
-    Get the menu of a file -> Get Info -> Open with -> Choose app, change all
+### Install your needed softwares in softwares.md
+    see infos in softwares.md
 
-# Add vim dict
+### Install Homebrew
+    Official sites:
+        http://brew.sh/
+
+    update vim to vim74:
+        brew install vim
+
+    Change bashrc:
+        vim='/usr/bin/vim'
+
+    install python3:
+        brew install python3
+
+### Install GNU utilities on mac!
+    brew install coreutils --with-default-names
+
+> http://apple.stackexchange.com/questions/69223/how-to-replace-mac-os-x-utilities-with-gnu-core-utilities
+
+### Install perl interactive shell
+    perl -d -e 1                                # A quick interactive shell
+    http://www.sukria.net/perlconsole.html      # Following INSTALL using sudo, install modules with cpan
+    http://www.cpan.org/modules/INSTALL.html    # A perl module manager, choose sudo mode to install packages.
+    Try Devel::REPL, another perl module.       # Using cpan in root mode.
+    When met trouble with installing readline, saw below link(saved in evernote):
+    https://coderwall.com/p/kk0hqw/perl-install-term-readline-gnu-on-osx
+
+> Perhaps you should just install GNU-readline, and then use `perl -d -e 1` to use interactive perl shell.
+
+### Install and config Virtual Box
+    install an Ubuntu on virtualbox
+    initial your git project in shared folder
+    Do most of your job in this shared file.
+    share the clipboard, net-card
+
+### chrome config
+    Stop stupid chrome helper eating memory and cpu:
+        Preferences -> Show advanced settings -> Privacy -> Content Settings -> Plug-ins -> Click to play
+
+
+# VIM CONFIG
+### Vim clipboard config
+*share clipboard with system*
+    add "set clipboard=unnamed" to your vimrc
+
+### Add vim dict
 
     Move the file `spanish` in current directory to /usr/share/dict/
 
@@ -18,67 +60,20 @@
     set dictionary+=/usr/share/dict/Spanish
     set thesaurus+=/usr/share/dict/mthesaur.txt
 
-# Install perl interactive shell
-    perl -d -e 1                                # A quick interactive shell
-    http://www.sukria.net/perlconsole.html      # Following INSTALL using sudo, install modules with cpan
-    http://www.cpan.org/modules/INSTALL.html    # A perl module manager, choose sudo mode to install packages.
-    Try Devel::REPL, another perl module.       # Using cpan in root mode.
-    When met trouble with installing readline, saw below link(saved in evernote):
-    https://coderwall.com/p/kk0hqw/perl-install-term-readline-gnu-on-osx
+### Install ctags on OS X
+    brew install ctags-exuberant
 
-> Perhaps you should just install GNU-readline, and then use `perl -d -e 1` to use interactive perl shell.
+### Switch Esc and Cap in mac
+    http://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x
 
-# Install Picture Documentation tool
+### Install TagList on OS X
+    http://www.vim.org/scripts/script.php?script_id=273
 
-    https://www.yinxiang.com/skitch/
-
-# Install Mou
-    http://25.io/mou
-
-# chrome config
-    Stop stupid chrome helper eating memory and cpu:
-        Preferences -> Show advanced settings -> Privacy -> Content Settings -> Plug-ins -> Click to play
+### Install python `if else` jump plugin
+    http://www.vim.org/scripts/script.php?script_id=386
 
 
-# Install GNU utilities on mac!
-    brew install coreutils --with-default-names
-
-> http://apple.stackexchange.com/questions/69223/how-to-replace-mac-os-x-utilities-with-gnu-core-utilities
-
-# Install ulysses-iii
-    search "ulysses" in your bookmark manager
-
-# Install Calibre to convert epub
-    http://www.calibre-ebook.com/download_osxf
-
-
-# Homebrew
-
-    Official sites:
-        http://brew.sh/
-
-    update vim to vim74:
-        brew install vim
-
-    Change bashrc: 
-        vim='/usr/bin/vim'
-
-    install python3:
-        brew install python3
-
-# Virtual Box
-    install an Ubuntu on virtualbox
-    initial your git project in shared folder
-    Do most of your job in this shared file.
-    share the clipboard, net-card
-
-# VIM
-*share clipboard with system*
-
-    add "set clipboard=unnamed" to your vimrc
-
-# Iterm config.
-
+# ITERM CONFIG
 *Download the latest super awesome nightly version of iterm2(with the most advancing features, like resize split size)*
    https://iterm2.com/nightly/latest
 
@@ -112,27 +107,11 @@
     Desactivate Show title bar option
 
 
-# install ctags on OS X
-    brew install ctags-exuberant
+# SYS CONFIG
+### Regularly backup use timemachine
+    EXEC YOUR TIMEMACHINE
 
-# Switch Esc and Cap in mac
-    http://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x
-
-
-# install TagList on OS X
-    http://www.vim.org/scripts/script.php?script_id=273
-
-# install python `if else` jump plugin
-    http://www.vim.org/scripts/script.php?script_id=386
-
-
-# install Xmind on OS X
-    http://www.xmind.net/download/mac/
-
-# Regularly backup use timemachine
-    EXEC YOUR TIMEMACHINE    
-
-# Config Color
+### Config Color
 
     Calibrate screen color temparature:
         System Preference -> Color -> Calibrate (勾选 expert mode) 
@@ -148,27 +127,12 @@
 
         Preference -> Profiles -> Window                    # Change Window Transparency
 
-# Adobe Reader
-
-    install abode reader:
-        http://get.adobe.com/reader/
-
-    color set:
-        Preferences -> Accessibility -> Document Colors Options -> Replace Document Colors -> ( Background: light-grey, Font: deep dark brown, like black )
-
-    enable scrolling:
-        View -> Page Display -> Enable Scrolling
-
-    memorize last view page:
-        Preferences -> Documents  -> Restore last view setting when reopening documents √
-
-# Change time from number to clock
+### Change time from number to clock
 
     click the time button -> View As Analog √
 
-# Change cursor blink rate when editing
+### Change cursor blink rate when editing
 
     defaults write -g NSTextInsertionPointBlinkPeriodOn -float 200 (200 is 200ms)
     Restore Default:
         defaults delete -g NSTextInsertionPointBlinkPeriodOn
-
