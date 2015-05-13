@@ -1,3 +1,8 @@
+### 快速打印格式化的当前年月日和时分秒
+    import time
+    time.strftime('%F %T')
+    # %F 是年月日在time模块里的快捷表示，%T是时分秒的快捷表示
+
 ### 一句话反转字典键值对
     inv_map = {v:k for k,v in my_dict.items()}
 

@@ -9,4 +9,4 @@ cp ~/.vimrc ~/zen/pythonstudy/tech_lab/config/OSX/vimrc
 cp ~/.vim/plugin/* /Users/zen1/zen/pythonstudy/tech_lab/vim_skill/my_plugin
 
 # Universal code
-cp /Users/zen1/zen/automation/General/new_system/gadget/* /Users/zen1/zen/pythonstudy/tech_lab/my_work/zen_system/
+cp /Users/zen1/zen/automation/General/new_system/general_gadget/* /Users/zen1/zen/pythonstudy/tech_lab/my_work/zen_system/

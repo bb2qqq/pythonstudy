@@ -1,4 +1,6 @@
 # coding: utf-8
+""" 一些常用的小工具 """
+
 from datetime import datetime
 
 import jieba
@@ -6,8 +8,40 @@ import jieba
 # short alias
 dft = datetime.fromtimestamp
 
+def convert_str_to_num(target_str, round_flag=False, float_flag=False, int_flag=False):
+    """ 转换浮点或整数形式的字符串到数字。
+        如果输入参数本身是就数字直接返回该值，不予转换。
+        round_flag设为True开启四舍五入
+        float_flag为True返回浮点数
+        int_flag为True返回整数部分
+        如果int_flag和float_flag同时开启，返回字符的整数部分。
+    """
+    if isinstance(target_str, int) or isinstance(target_str, float):
+        return target_str
+
+    if '.' in target_str:
+        result = float(target_str)
+        str_type = 'float'
+    else:
+        result = int(target_str)
+        str_type = 'int'
+
+    if round_flag and str_type == 'float':
+        result = round(result)
+
+    if float_flag:
+        result = float(result)
+
+    if int_flag:
+        result = int(result)
+
+    return result
+
+
 def rank_word(file_, limit_word_num=None):
-    """ 将中文文本里出现的词语按频率从高到低排序"""
+    """ 将中文文本里出现的词语按频率从高到低排序, limit_word_num决定打印出来的词语个数。
+        本函数需要使用jieba模块进行分词预处理。
+    """
     agent_list = []
     agent_dict = {}
     for line in file_:

@@ -16,7 +16,8 @@ def logging_bug():
             debug_log.write('%s\n' % line)
 
 # Example
-try:
-    fuck
-except:
-    logging_bug()
+if __name__ == '__main__':
+    try:
+        fuck
+    except:
+        logging_bug()

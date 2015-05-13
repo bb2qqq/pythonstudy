@@ -12,6 +12,7 @@ LOSING_MAP = {'S': 'R', 'P': 'S', 'R': 'P'}
 
 player_record = {'win': 0, 'lose': 0, 'draw': 0}
 
+CHOICE_PROMPT = 'Rock, Paper or Scissors?'
 
 class Robot(object):
     """ R is short for Rock, S is short for Scissors, P is short for paper."""
@@ -21,15 +22,6 @@ class Robot(object):
         self.short_memory = []
         self.SHORT_MEMORY_LIMIT = 20
         self.match_history = {'win': 0, 'lose': 0, 'draw': 0}
-
-    def think(self):
-        # Simple thinking based on short_memory
-        if self.short_memory:
-            predict_user_choice = random.choice(self.short_memory)
-            decision = LOSING_MAP[predict_user_choice]
-        else:
-            decision = random.choice(['R', 'S', 'P'])
-        return decision
 
     def record(self, robot_choice, user_choice):
         result = compare(robot_choice, user_choice)
@@ -47,19 +39,42 @@ class Robot(object):
         save_file.write('robot_cache=%r' % saving_data)
         save_file.close()
 
+    def think(self):
+        # Simple thinking based on short_memory
+        if self.short_memory:
+            decision = self.probability_guess()
+#            decision = self.most_frequent()
+        else:
+            decision = random.choice(['R', 'S', 'P'])
+        return decision
 
-def fight():
-    user_choice = ''
+    def most_frequent(self):
+        """ pick the most frequent choice in short memory """
+        candidates = ['R', 'S', 'P']
+        frequency_list = sorted(candidates, key = lambda x: self.short_memory.count(x))
+        predict_user_choice = frequency_list[0]
+        return LOSING_MAP[predict_user_choice]
 
-    user_choice = raw_input('Rock, Paper or Scissors?')
+    def probability_guess(self):
+        predict_user_choice = random.choice(self.short_memory)
+        return LOSING_MAP[predict_user_choice]
+
+
+def fight(user_choice=None, print_sig=True):
+    """ 战斗主逻辑，print_sig默认为True, 改为False后不打印战斗结果 """
+
+    if not user_choice:
+        user_choice = raw_input(CHOICE_PROMPT)
     # 如果输入退出命令，则退出比赛界面
     if user_choice in EXIT_COMMANDS:
         return False
 
     # 无效输入需重新输入，将来需补充提示信息
     while user_choice not in VALID_INPUTS:
-        user_choice = raw_input('Rock, Paper or Scissors?')
+        print "INVALID INPUTS!"
+        user_choice = raw_input(CHOICE_PROMPT)
 
+    # 将各类人类输入转化成统一编码
     user_choice = choice_convert(user_choice)
 
     robot_choice = robot.think()
@@ -72,16 +87,18 @@ def fight():
     else:
         player_record['lose'] += 1
 
-    print 'Robot gives ' + robot_choice + ', ' + 'you ' + result + '!'
+    if print_sig:
+        print 'Robot gives ' + robot_choice + ', ' + 'you ' + result + '!'
     return True  # 继续下一轮比赛
 
 
 def choice_convert(choice):
-    if choice[0] in ['r', 'R']:
+    """ 将人类输入转化为机器能理解的统一代码 """
+    if choice[0] in ['r', 'R', 'Rock', 'rock', '石头', '石子', '锤子', '锤']:
         choice = 'R'
-    if choice[0] in ['p', 'P']:
+    if choice[0] in ['p', 'P', 'Paper', 'paper', '布', '包袱']:
         choice = 'P'
-    if choice[0] in ['s', 'S']:
+    if choice[0] in ['s', 'S', 'Scissors', 'scissors', '剪刀', '剪子', '剪']:
         choice = 'S'
     return choice
 
@@ -121,4 +138,4 @@ if __name__ == '__main__':
     except:
         robot = Robot()
 
-go_battle()
+    go_battle()

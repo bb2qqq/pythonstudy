@@ -1,8 +1,13 @@
-### Stash
+* Stash
+  * <a href='#stash_save'> save </a>
 
+
+### Stash
+<a id ='stash_save' >
 uisng `git stash` or `git stash save` to save current working directory status into stash  
-You can add a message after `git stash save`  as a reminder, such as:
+You can add a message after `git stash save`  as a reminder, such as:  
 `git stash save "git guidebook half-way, till the stash part"`
+</a>
 
 `git stash list` can list out all your stashes
 

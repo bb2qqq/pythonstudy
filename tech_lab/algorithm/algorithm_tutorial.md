@@ -1,3 +1,7 @@
+> Resources for algorithm practice:  
+> https://projecteuler.net/archives  
+> https://leetcode.com/  
+
 
 Algorithm, I'm coming to you know.
 

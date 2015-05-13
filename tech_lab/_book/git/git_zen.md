@@ -1,7 +1,6 @@
 P1   ****************************************************************************************
 
 
-
 working area, stage area, and git area are 3 separated file systems.
 
 For example:

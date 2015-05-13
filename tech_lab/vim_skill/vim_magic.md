@@ -1,5 +1,8 @@
 ### Others
 
+Replace pattern with pattern + newline (using \r instead of \n)
+    s/pattern/pattern\r/
+
 None greedy version for `.*`
     .\{-}
 

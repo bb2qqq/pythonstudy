@@ -1,6 +1,9 @@
 ### Where to buy a mac?
     http://www.appletuan.com
 
+### Transfer your data from old mac to new mac
+    Using Migration Assistant
+
 ### Install your needed softwares in softwares.md
     see infos in softwares.md
 
@@ -99,8 +102,8 @@
 
 *Change shortcut of split/tab motion*
     Preference -> Keys -> Global Shortcut Keys -> +
-    map Command + h,j,k,l to Select Split Pane Left/Below/Above/Right
-    map Command + Shfit + h,l to select previous/next tab
+    map Control + Shift + h,j,k,l to Select Split Pane Left/Below/Above/Right
+    map Option + h,l to select previous/next tab
 
 *Hide title bar*
     Preference -> Appearance -> Panes/Screen

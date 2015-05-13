@@ -1,5 +1,8 @@
 ### SYSTEM ###
 
+Find release version of your Linux system:
+    cat /etc/*release
+
 Send email to address:
 
     echo 'I love you' | mail -s 'LOVE' address@domain.com
@@ -94,6 +97,10 @@ View exit status of the most recent command
 
 
 ### FILE & DIRECTORIES ###
+
+* compress files one by one into new file and delte, and delete original file once it have been compressed.
+
+    tar -zcvf my_log.tar.gz *.log --remove-files
 
 * Two ways of set sticky bit for a file
 

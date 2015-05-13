@@ -1,14 +1,22 @@
 ### Others
+
+Replace pattern with pattern + newline (using \r instead of \n)
+    s/pattern/pattern\r/
+
+None greedy version for `.*`
+    .\{-}
+
+Increment 1 to the first number in the specified line-range:
+    :4,8s/\d\+/\=submatch(0) + 1/
+
+
 Show current\_line info
     <ctrl> + G
-
 
 Write something into register, here we use `"2`
     :let @2 = "scooter"
 
-
 Repeat last executed command-line
-
     @:                  #  : refers to ": register here
 
 

@@ -89,9 +89,10 @@ alias cl='crontab -l'
 alias t='ipython -i  ~/zen/pythonstudy/tech_lab/script/zen_py_tool.py'
 alias web='pushd /Users/zen1/zen/pythonstudy/creation/web_co_editor'
 alias sys='pushd /Users/zen1/zen/pythonstudy/creation/systematized_work'
+alias gtl='git log --pretty=format:"%h %<(13) %cn %ci  %d     %s  "'
 # MASTER
 alias pro='vim /Users/zen1/zen/pythonstudy/book/notebook/pro_程序员日记'
-
+alias zb='pushd ~/zen/zenblog'
 
 # nginx
 
