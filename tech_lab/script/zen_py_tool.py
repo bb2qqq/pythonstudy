@@ -8,6 +8,33 @@ import jieba
 # short alias
 dft = datetime.fromtimestamp
 
+def yahoo_exchange_rate(pair='USDCNY'):
+    """ 打印所查询的货币组合的实时汇率相关信息，并以浮点数形式返回汇率。
+        汇率参数形式是"货币1缩写货币2缩写", 默认的汇率参数是美元对人民币。
+        查询货币组合汇率不存在返回None。
+        此接口为yahoo免费实时汇率的url接口，每月使用限制次数不详，有Url变动风险。
+        更多yahoo汇率api信息，请移步:
+        http://stackoverflow.com/questions/3139879/how-do-i-get-currency-exchange-rates-via-an-api-such-as-google-finance/16408368#16408368
+    """
+    import urllib
+    import xml.etree.ElementTree as ET
+    target_url = 'http://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20yahoo.finance.xchange%20where%20pair%20in%20%28%22{currency_pair}%22%29&env=store://datatables.org/alltableswithkeys'
+    url = urllib.urlopen(target_url.format(currency_pair=pair))
+    result = url.read()
+    root = ET.fromstring(result)
+    query_rate = None
+
+    for child in root:
+        for grandson in child:
+            for great_grandson in grandson:
+                tag_name = great_grandson.tag
+                tag_value = great_grandson.text
+                print tag_name, tag_value
+                if tag_name == 'Rate' and tag_value != 'N/A':
+                    query_rate = tag_value
+
+    return float(query_rate)
+
 
 def convert_str_to_num(target_str, round_flag=False, float_flag=False, int_flag=False):
     """ 转换浮点或整数形式的字符串到数字。

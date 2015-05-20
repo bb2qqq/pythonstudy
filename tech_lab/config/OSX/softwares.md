@@ -42,3 +42,6 @@
 # Adobe Reader Color Config
     BackGround: Mercury, Front: blue-116 red-0 green-0
     Front font color: R-104, G-208, B-245
+
+# Build git-sites with gitlab
+    https://about.gitlab.com/downloads/
