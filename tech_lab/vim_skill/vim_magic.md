@@ -1,3 +1,6 @@
+### Solve buftype no write issue(make a file writable)
+    set buftype=
+
 ### Others
 
 Replace pattern with pattern + newline (using \r instead of \n)

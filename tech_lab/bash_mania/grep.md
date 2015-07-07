@@ -1,4 +1,19 @@
-### GREP ###
+## GREP ##
+
+### Print pattern only in result
+    grep -o pattern files
+
+### Don't print file name in result
+    grep -h pattern *
+
+### Print serveral lines around pattern
+* Print 3 lines above pattern
+    grep -A 3 pattern files
+* Print 3 lines below pattern
+    grep -B 3 pattern files
+* Print 3 lines both above and below pattern
+    grep -C 3 pattern files
+
 
 * grep for utf-8 character in a file
     grep --color='auto' -P -n '[^\x00-\x7F]' your_file

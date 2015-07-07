@@ -1,3 +1,19 @@
+### 让一个python文件打印自己的所有内容！
+    print open(__file__).read()
+
+### 快速将字符串解析成datetime对象
+    from dateutil import parser
+    datetime_obj = parser.parse(datetime_str, fuzzy=True)
+
+> fuzzy=True会开启模糊模式，忽略一些parser不能识别的字符
+
+### 在cent-OS上给python安装mysql模块
+    # First you shall install mysql-devel, such as:
+    yum install mysql-devel
+    # Then install mysql module in python
+    pip install mysql
+
+
 ### 快速打印格式化的当前年月日和时分秒
     import time
     time.strftime('%F %T')

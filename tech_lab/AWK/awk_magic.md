@@ -1,4 +1,23 @@
+
 # AWK简易使用手册
+
+
+
+
+
+
+## 其他黑魔法
+
+### 获得两个pattern之间的所有行
+
+包括含有pattern的行：
+    awk '/abc/{a=1} a; /mno/{a=0}' file
+    awk '/abc/{a=1}/mno/{print;a=0}a' file
+
+不包括含有pattern的行：
+    awk '/abc/{flag=1;next}/mno/{flag=0}flag' file
+
+> 源地址: http://stackoverflow.com/questions/17988756/how-to-select-lines-between-two-marker-patterns-which-may-occur-multiple-times-w
 
 最棒的awk tutorial是 [这个][1]， 强力推荐阅读
 

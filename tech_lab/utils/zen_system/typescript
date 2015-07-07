@@ -1,0 +1,879 @@
+Script started on Mon Jul  6 16:52:55 2015
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/utils/zen_system]1;..ls/zen_system[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/utils/zen_system[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=lls[?1l>
+]2;ls -F]1;lsdebug_log  error_handler.sh  logging_bug.py  record_time.sh  typescript
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/utils/zen_system]1;..ls/zen_system[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/utils/zen_system[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=ccd ..[?1l>
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/utils]1;..ech_lab/utils[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/utils[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=lls[?1l>
+]2;ls -F]1;lsconfig_system/			 get_several_days_mysql_data_log.sh  time_compare.py
+err_log_system/			 nginx_log_filter.py		     zen.py
+genius_fitler_first_charger.py*  readme.md			     zen_system/
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/utils]1;..ech_lab/utils[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/utils[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=ccd sc_sc   c  ttec[?1l>
+]2;pushd ~/zen/pythonstudy/tech_lab]1;tec~/zen/pythonstudy/tech_lab ~/zen/pythonstudy/tech_lab/utils ~/zen/pythonstudy/tech_lab/utils/zen_system
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab]1;..tudy/tech_lab[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=ccd script[1m/[0m[0m [?1l>
+]2;cd script]1;cd[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/script]1;..ch_lab/script[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=lls[?1l>
+]2;ls -F]1;lsalg_tool.py   find_table_name.py	 zen_advance.py   zen_tool.py
+crontab_list  shell_tool.sh		 zen_basic.py
+fabfile.py    synchronise_mac_config.sh  zen_py_tool.pyc
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/script]1;..ch_lab/script[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=vvim zen_basic.py[1m [0m[0m [?1l>
+]2;/usr/local/bin/vim zen_basic.py]1;vim[?1000h[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H[1;46r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[46;1H"zen_basic.py" 52L, 1356C[38;5;74m[48;5;16m[>c[27m[m[38;5;74m[48;5;16m[H[2J[1;1H[1m[38;5;130m[48;5;16m# coding: utf-8[m[38;5;74m[48;5;16m
+[37m[48;5;16m""" 一些常用的小工具 """[m[38;5;74m[48;5;16m
+
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m importlib
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m sys
+[38;5;182m[48;5;16mfrom[m[38;5;74m[48;5;16m datetime [38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m datetime
+
+[1m[38;5;130m[48;5;16m# short alias[m[38;5;74m[48;5;16m
+dft = datetime.fromtimestamp
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mreload_module_import_all[m[38;5;74m[48;5;16m(module_name):
+    mod = [1m[38;5;132m[48;5;16mreload[m[38;5;74m[48;5;16m(sys.modules[[37m[48;5;16m'module_name'[m[38;5;74m[48;5;16m])
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m().update(mod.__dict__)
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mimport_all_from_module[m[38;5;74m[48;5;16m(module_name):
+    agent = importlib.import_module(module_name)
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m().update([1m[38;5;132m[48;5;16mvars[m[38;5;74m[48;5;16m(agent))
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mfrom_module_import_alias[m[38;5;74m[48;5;16m(module_name, var_name, alias):
+    [37m[48;5;16m""" equal to from module import a as b """[m[38;5;74m[48;5;16m
+    agent = importlib.import_module(module_name)
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m()[alias] = [1m[38;5;132m[48;5;16mvars[m[38;5;74m[48;5;16m(agent)[var_name]
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mconvert_str_to_num[m[38;5;74m[48;5;16m(target_str, round_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m, float_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m, int_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m):
+    [37m[48;5;16m""" 转换浮点或整数形式的字符串到数字。
+        round_flag设为True开启四舍五入
+        float_flag为True返回浮点数
+        int_flag为True返回整数部分
+        如果int_flag和float_flag同时开启，返回字符的整数部分。
+    """[m[38;5;74m[48;5;16m
+    target_str = [1m[38;5;132m[48;5;16mstr[m[38;5;74m[48;5;16m(target_str)[36;5H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m [37m[48;5;16m'.'[m[38;5;74m[48;5;16m [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_str:[37;9Hresult = [1m[38;5;132m[48;5;16mfloat[m[38;5;74m[48;5;16m(target_str)[38;9Hstr_type = [37m[48;5;16m'float'[m[38;5;74m[48;5;16m
+    [1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[40;9Hresult = [1m[38;5;132m[48;5;16mint[m[38;5;74m[48;5;16m(target_str)[41;9Hstr_type = [37m[48;5;16m'int'[m[38;5;74m[48;5;16m[43;5H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m round_flag [1m[38;5;173m[48;5;16mand[m[38;5;74m[48;5;16m str_type == [37m[48;5;16m'float'[m[38;5;74m[48;5;16m:[44;9Hresult = [1m[38;5;132m[48;5;16mround[m[38;5;74m[48;5;16m(result)]2;zen_basic.py (~/zen/pythonstudy/tech_lab/script) - VIM[1;1H[?12l[?25h[?1000l[?1002h
+
+
+
+
+
+
+
+
+[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[10;45r[m[38;5;74m[48;5;16m[10;1H[L[1;46r]2;zen_basic.py + (~/zen/pythonstudy/tech_lab/script) - VIM[10;1H[?12l[?25h[?25l[11;45r[11;1H[L[1;46r[11;1H[?12l[?25h[46;1H[K[11;1H[?25l[?12l[?25h[10;1H
+[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[11;1H[?12l[?25h[?25l[12;45r[m[38;5;74m[48;5;16m[12;1H[L[1;46r[12;1H[?12l[?25h[?25ld[?12l[?25h[?25le[?12l[?25h[?25l[1m[33m[48;5;16mdef[?12l[?25h[?25l[m[38;5;74m[48;5;16m [?12l[?25h[?25l[1m[38;5;132m[48;5;16mc[?12l[?25h[?25lu[?12l[?25h[?25lt[?12l[?25h[?25l_[?12l[?25h[?25ll[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25lt[?12l[?25h[?25l_[?12l[?25h[?25l[m[38;5;74m[48;5;16m[12;13H[K[12;13H[?12l[?25h[?25l[12;12H[K[12;12H[?12l[?25h[?25l[12;11H[K[12;11H[?12l[?25h[?25l[12;10H[K[12;10H[?12l[?25h[?25l[12;9H[K[12;9H[?12l[?25h[?25l[12;8H[K[12;8H[?12l[?25h[?25l[12;7H[K[12;7H[?12l[?25h[?25l[12;6H[K[12;6H[?12l[?25h[?25l[12;5H[K[12;5H[?12l[?25h[?25l[1m[38;5;132m[48;5;16mm[?12l[?25h[?25la[?12l[?25h[?25lk[?12l[?25h[?25le[?12l[?25h[?25l_[?12l[?25h[?25ls[?12l[?25h[?25lu[?12l[?25h[?25lb[?12l[?25h[?25ll[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25lt[?12l[?25h[?25l[m[38;5;74m[48;5;16m([?12l[?25h[?25lr[?12l[?25h[?25la[?12l[?25h[?25lw[?12l[?25h[?25l_[?12l[?25h[?25ll[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25lt[?12l[?25h[?25l,[?12l[?25h[?25l [?12l[?25h[?25lr[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25lg[?12l[?25h[?25l[1m[38;5;132m[48;5;16mrange[?12l[?25h[?25l[m[38;5;74m[48;5;16m)[12;17H[38;5;255m[48;5;34m([15C)[?12l[?25h[m[38;5;74m[48;5;16m[46;1H[K[12;33H[?25l[?12l[?25h[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[12;33H[?12l[?25h[?25l[m[38;5;74m[48;5;16mrang)[38;5;255m[48;5;34m )[m[38;5;74m[48;5;16m[12;33H[K[12;32H[?12l[?25h[?25l)[38;5;255m[48;5;34m )[m[38;5;74m[48;5;16m[12;32H[K[12;31H[?12l[?25h[?25l)[38;5;255m[48;5;34m )[m[38;5;74m[48;5;16m[12;31H[K[12;30H[?12l[?25h[?25l)[38;5;255m[48;5;34m )[m[38;5;74m[48;5;16m[12;30H[K[12;29H[?12l[?25h[46;1H[K[12;28H[?25l[12;17H([11C)[?12l[?25h[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[m[38;5;74m[48;5;16m[12;17H[38;5;255m[48;5;34m([11C)[?12l[?25h[?25l[m[38;5;74m[48;5;16m:[12;17H([11C):[?12l[?25h[?25l[13;45r[13;1H[L[1;46r[13;1H[?12l[?25h[46;1H[K[13;1H[?25l[?12l[?25h[12;1H
+[12;1H[?25l[13;45r[13;1H[L[1;46r[13;5Hsliced_list = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)]    [?12l[?25h[12;5H[?25l[12C[38;5;255m[48;5;34m([11C)[12;17H[?12l[?25h[?25l[m[38;5;74m[48;5;16m([11C)[12;18H[?12l[?25h[8C,[?25ll[?12l[?25h[?25lr):[12;30H[K[12;27H[?12l[?25h[?25l[12;17H[38;5;255m[48;5;34m([10C)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[12;17H([10C)[?12l[?25h[?25li[?12l[?25h[?25l[46;1H/\<target_list\>[1m[38;5;160m[48;5;16msearch hit BOTTOM, continuing at TOP[m[38;5;74m[48;5;16m[1m[38;5;254m[48;5;16mE486: Pattern not found: \<target_list\>[12;27H[?12l[?25h[?25l[m[38;5;74m[48;5;16mn[?12l[?25h[13;27H[12;1H
+    [?25lliced_list = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;75H[K[13;5H[?12l[?25h[?25liced_list = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;74H[K[13;5H[?12l[?25h[?25lced_list = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;73H[K[13;5H[?12l[?25h[?25led_list = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;72H[K[13;5H[?12l[?25h[?25ld_list = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;71H[K[13;5H[?12l[?25h[?25l_list = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;70H[K[13;5H[?12l[?25h[?25l[1m[38;5;132m[48;5;16mlist[m[38;5;74m[48;5;16m = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;69H[K[13;5H[?12l[?25h[?25list = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;68H[K[13;5H[?12l[?25h[?25lst = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;67H[K[13;5H[?12l[?25h[?25lt = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;66H[K[13;5H[?12l[?25h[?25l = [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;65H[K[13;5H[?12l[?25h[?25l= [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;64H[K[13;5H[?12l[?25h[?25l [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;63H[K[13;5H[?12l[?25h[?25l[46;1H[1m[38;5;254m[48;5;16m--8 INSERTt --n[m[38;5;74m[48;5;16m[46;13H[K[13;5H[?12l[?25h[?25lr [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)]    r[?12l[?25h[?25le [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;7H[?12l[?25h[?25lt [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;8H[?12l[?25h[?25lu [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;9H[?12l[?25h[?25lr [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;10H[?12l[?25h[?25l[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m [ raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;11H[?12l[?25h[46;1H[K[13;10H[?25l[?12l[?25h[1C[?25l [38;5;255m[48;5;34m[[55C][13;12H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[[55C][13;13H[?12l[?25h r[?25lraw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)][13;68H[K[13;13H[?12l[?25hraw_lis[?25lt[38;5;255m[48;5;34m[[m[38;5;74m[48;5;16mi:i+n[38;5;255m[48;5;34m][13;21H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[i:i+n][?12l[?25hi:i+[?25l[38;5;255m[48;5;34m[[m[38;5;74m[48;5;16mi:i+n[38;5;255m[48;5;34m][?12l[?25h[?25l[m[38;5;74m[48;5;16m[i:i+n][?12l[?25h [1C[1C[1C i [1C[1C [1C[1C[1C[1C[?25l[1C[38;5;255m[48;5;34m([22C)[13;43H[?12l[?25h[?25l[m[38;5;74m[48;5;16m([22C)[13;44H[?12l[?25h[1C[1C[?25l[1C[38;5;255m[48;5;34m([8C)[13;47H[?12l[?25h[?25l[m[38;5;74m[48;5;16m([8C)[13;48H[?12l[?25hraw_lis[?25l[13;47H[38;5;255m[48;5;34m([8C)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[13;47H([8C)[?12l[?25h, step= [?25l[13;43H[38;5;255m[48;5;34m([22C)[?12l[?25h[?25l[13;12H[[m[38;5;74m[48;5;16m[30C([22C)[38;5;255m[48;5;34m][?12l[?25h[?25l[m[38;5;74m[48;5;16m[13;12H[[30C[38;5;255m[48;5;34m([22C)[m[38;5;74m[48;5;16m][?12l[?25h[?25l[46;1H:[?12l[?25hw[?25l[?12l[?25h[?25l"zen_basic.py" 57L, 1457C written]2;zen_basic.py (~/zen/pythonstudy/tech_lab/script) - VIM[13;66H[?12l[?25h[?25l[13;43H([22C)[12;29H[?12l[?25h[11;1H[10;1H[9;28H[8;13H[7;1H[6;29H
+[8;13H[9;28H
+
+[12;29H[?25l[13;43H[38;5;255m[48;5;34m([22C)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[13;43H([22C)
+[?12l[?25h
+[16;42H[?25l[17;17H[38;5;255m[48;5;34m([26C)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[17;17H([26C)[18;21H[38;5;255m[48;5;34m([12C)[?12l[?25h[?25l[17;17H([26C)[m[38;5;74m[48;5;16m[18;21H([12C)[17;44H[?12l[?25h[?25l[17;17H([26C)[16;42H[?12l[?25h[15;1H[14;1H[?25l[13;43H[38;5;255m[48;5;34m([22C)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[13;43H([22C)[12;29H[?12l[?25h[11;1H[10;1H[9;28H[8;13H[7;1H[6;29H[5;10H[4;16H[3;1H[2;24H[1;15H[2;24H
+[4;16H[5;10H[6;29H
+[8;13H[9;28H
+
+[12;29H[?25l[13;43H[38;5;255m[48;5;34m([22C)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[13;43H([22C)
+[?12l[?25h
+[16;42H[?25l[17;17H[38;5;255m[48;5;34m([26C)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[17;17H([26C)[16;42H[?12l[?25h[15;1H[14;1H[?25l[13;43H[38;5;255m[48;5;34m([22C)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[13;43H([22C)[12;29H[?12l[?25h[11;1H[10;1H
+[?25l[1;45r[1;1H[12M[1;46r[34;9Hstr_type = [37m[48;5;16m'int'[m[38;5;74m[48;5;16m[36;5H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m round_flag [1m[38;5;173m[48;5;16mand[m[38;5;74m[48;5;16m str_type == [37m[48;5;16m'float'[m[38;5;74m[48;5;16m:[37;9Hresult = [1m[38;5;132m[48;5;16mround[m[38;5;74m[48;5;16m(result)[39;5H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m float_flag:[40;9Hresult = [1m[38;5;132m[48;5;16mfloat[m[38;5;74m[48;5;16m(result)[42;5H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m int_flag:[43;9Hresult = [1m[38;5;132m[48;5;16mint[m[38;5;74m[48;5;16m(result)[45;5H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m result[46;1H[K[45;5H[?12l[?25h[44;1H[43;5H[42;5H[41;1H[40;5H[39;5H[?25l[1;45r[1;1H[12L[1;46r[1;1H[1m[38;5;130m[48;5;16m# coding: utf-8[m[38;5;74m[48;5;16m
+[37m[48;5;16m""" 一些常用的小工具 """[m[38;5;74m[48;5;16m
+
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m importlib
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m sys
+[38;5;182m[48;5;16mfrom[m[38;5;74m[48;5;16m datetime [38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m datetime
+
+[1m[38;5;130m[48;5;16m# short alias[m[38;5;74m[48;5;16m
+dft = datetime.fromtimestamp
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mmake_sublist[m[38;5;74m[48;5;16m(raw_list,n):[1;1H[?12l[?25h
+
+
+
+
+
+
+
+
+[?25l[46;1H"zen_basic.py" line 10 of 57 --17%-- col 1[10;1H[?12l[?25h
+
+[?25l[46;1H[K[46;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[?1002l]2;Thanks for flying Vim[46;1H[K[46;1H[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/script]1;..ch_lab/script[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=vim zen_basic.py[?1l>
+]2;/usr/local/bin/vim zen_basic.py]1;vim[?1000h[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H[1;46r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[46;1H"zen_basic.py" 57L, 1457C[38;5;74m[48;5;16m[>c[27m[m[38;5;74m[48;5;16m[H[2J[1;1H[1m[38;5;130m[48;5;16m# coding: utf-8[m[38;5;74m[48;5;16m
+[37m[48;5;16m""" 一些常用的小工具 """[m[38;5;74m[48;5;16m
+
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m importlib
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m sys
+[38;5;182m[48;5;16mfrom[m[38;5;74m[48;5;16m datetime [38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m datetime
+
+[1m[38;5;130m[48;5;16m# short alias[m[38;5;74m[48;5;16m
+dft = datetime.fromtimestamp
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mmake_sublist[m[38;5;74m[48;5;16m(raw_list,n):
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m [raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)]
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mreload_module_import_all[m[38;5;74m[48;5;16m(module_name):
+    mod = [1m[38;5;132m[48;5;16mreload[m[38;5;74m[48;5;16m(sys.modules[[37m[48;5;16m'module_name'[m[38;5;74m[48;5;16m])
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m().update(mod.__dict__)
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mimport_all_from_module[m[38;5;74m[48;5;16m(module_name):
+    agent = importlib.import_module(module_name)
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m().update([1m[38;5;132m[48;5;16mvars[m[38;5;74m[48;5;16m(agent))
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mfrom_module_import_alias[m[38;5;74m[48;5;16m(module_name, var_name, alias):
+    [37m[48;5;16m""" equal to from module import a as b """[m[38;5;74m[48;5;16m
+    agent = importlib.import_module(module_name)
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m()[alias] = [1m[38;5;132m[48;5;16mvars[m[38;5;74m[48;5;16m(agent)[var_name]
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mconvert_str_to_num[m[38;5;74m[48;5;16m(target_str, round_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m, float_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m, int_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m):
+    [37m[48;5;16m""" 转换浮点或整数形式的字符串到数字。
+        round_flag设为True开启四舍五入
+        float_flag为True返回浮点数
+        int_flag为True返回整数部分
+        如果int_flag和float_flag同时开启，返回字符的整数部分。
+    """[m[38;5;74m[48;5;16m
+    target_str = [1m[38;5;132m[48;5;16mstr[m[38;5;74m[48;5;16m(target_str)[41;5H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m [37m[48;5;16m'.'[m[38;5;74m[48;5;16m [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_str:[42;9Hresult = [1m[38;5;132m[48;5;16mfloat[m[38;5;74m[48;5;16m(target_str)[43;9Hstr_type = [37m[48;5;16m'float'[m[38;5;74m[48;5;16m
+    [1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[45;9Hresult = [1m[38;5;132m[48;5;16mint[m[38;5;74m[48;5;16m(target_str)]2;zen_basic.py (~/zen/pythonstudy/tech_lab/script) - VIM[1;1H[?12l[?25h[?1000l[?1002h
+
+
+
+
+
+
+[1;1H
+
+
+
+
+[5;1H[4;1H[3;1H[2;1H[1;1H[?25l[46;1HAlready at oldest change[1;1H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h
+
+
+
+
+
+
+
+[8;1H[7;1H[6;1H[5;1H[4;1H[3;1H[2;1H[1;1H[?25l[46;1H[K[46;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[?1002l]2;Thanks for flying Vim[46;1H[K[46;1H[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/script]1;..ch_lab/script[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=lls -lhrt[?1l>
+]2;ls -F -lhrt]1;lstotal 40K
+-rw-r--r-- 1 zen1 staff  569 May 26 11:11 synchronise_mac_config.sh
+-rw-r--r-- 1 zen1 staff   91 May 26 11:11 crontab_list
+-rw-r--r-- 1 zen1 staff  137 May 26 11:50 shell_tool.sh
+-rw-r--r-- 1 zen1 staff 2.3K May 26 17:36 fabfile.py
+-rw-r--r-- 1 zen1 staff 1.2K Jun  1 15:23 find_table_name.py
+-rw-r--r-- 1 zen1 staff  652 Jun  2 16:51 alg_tool.py
+-rw-r--r-- 1 zen1 staff 3.6K Jul  2 21:28 zen_py_tool.pyc
+-rw-r--r-- 1 zen1 staff 3.3K Jul  3 16:04 zen_tool.py
+-rw-r--r-- 1 zen1 staff 2.4K Jul  3 16:54 zen_advance.py
+-rw-r--r-- 1 zen1 staff 1.5K Jul  6 16:54 zen_basic.py
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/script]1;..ch_lab/script[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=vvim zen_basic.py[1m [0m[0m [?1l>
+]2;/usr/local/bin/vim zen_basic.py]1;vim[?1000h[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H[1;46r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[46;1H"zen_basic.py" 57L, 1457C[38;5;74m[48;5;16m[>c[27m[m[38;5;74m[48;5;16m[H[2J[1;1H[1m[38;5;130m[48;5;16m# coding: utf-8[m[38;5;74m[48;5;16m
+[37m[48;5;16m""" 一些常用的小工具 """[m[38;5;74m[48;5;16m
+
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m importlib
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m sys
+[38;5;182m[48;5;16mfrom[m[38;5;74m[48;5;16m datetime [38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m datetime
+
+[1m[38;5;130m[48;5;16m# short alias[m[38;5;74m[48;5;16m
+dft = datetime.fromtimestamp
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mmake_sublist[m[38;5;74m[48;5;16m(raw_list,n):
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m [raw_list[i:i+n] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), step= n)]
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mreload_module_import_all[m[38;5;74m[48;5;16m(module_name):
+    mod = [1m[38;5;132m[48;5;16mreload[m[38;5;74m[48;5;16m(sys.modules[[37m[48;5;16m'module_name'[m[38;5;74m[48;5;16m])
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m().update(mod.__dict__)
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mimport_all_from_module[m[38;5;74m[48;5;16m(module_name):
+    agent = importlib.import_module(module_name)
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m().update([1m[38;5;132m[48;5;16mvars[m[38;5;74m[48;5;16m(agent))
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mfrom_module_import_alias[m[38;5;74m[48;5;16m(module_name, var_name, alias):
+    [37m[48;5;16m""" equal to from module import a as b """[m[38;5;74m[48;5;16m
+    agent = importlib.import_module(module_name)
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m()[alias] = [1m[38;5;132m[48;5;16mvars[m[38;5;74m[48;5;16m(agent)[var_name]
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mconvert_str_to_num[m[38;5;74m[48;5;16m(target_str, round_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m, float_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m, int_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m):
+    [37m[48;5;16m""" 转换浮点或整数形式的字符串到数字。
+        round_flag设为True开启四舍五入
+        float_flag为True返回浮点数
+        int_flag为True返回整数部分
+        如果int_flag和float_flag同时开启，返回字符的整数部分。
+    """[m[38;5;74m[48;5;16m
+    target_str = [1m[38;5;132m[48;5;16mstr[m[38;5;74m[48;5;16m(target_str)[41;5H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m [37m[48;5;16m'.'[m[38;5;74m[48;5;16m [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_str:[42;9Hresult = [1m[38;5;132m[48;5;16mfloat[m[38;5;74m[48;5;16m(target_str)[43;9Hstr_type = [37m[48;5;16m'float'[m[38;5;74m[48;5;16m
+    [1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[45;9Hresult = [1m[38;5;132m[48;5;16mint[m[38;5;74m[48;5;16m(target_str)]2;zen_basic.py (~/zen/pythonstudy/tech_lab/script) - VIM[1;1H[?12l[?25h[?1000l[?1002h
+
+
+[3;1H[2;1H[?25l[46;1H"zen_basic.py" line 2 of 57 --3%-- col 1[2;1H[?12l[?25h[?25l[46;1H[K[46;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[?1002l]2;Thanks for flying Vim[46;1H[K[46;1H[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/script]1;..ch_lab/script[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=ccp c  ccp ~/git_test[1m/[0m[0m/py
+[J[1;31mpy_code[0m/  [J[1;31mpython[0m/ [J[A[0m[27m[24m[3Ccp ~/git_test/py[Kthon[1m/[0m[0m/zen
+[J[A[27C_basic.pyc[1m [0m[0m 
+[J[0malg_tool.py                shell_tool.sh              zen_py_tool.pyc          
+crontab_list               synchronise_mac_config.sh  zen_tool.py              
+fabfile.py                 zen_advance.py                                      
+[Jfind_table_name.py         [Jzen_basic.py               [J                         [4A[0m[27m[24m[3Ccp ~/git_test/python/zen_basic.pyc[K[1C c[1m [0m[0m 
+[J[0malg_tool.py                shell_tool.sh              zen_py_tool.pyc          
+crontab_list               synchronise_mac_config.sh  zen_tool.py              
+fabfile.py                 zen_advance.py                                      
+[Jfind_table_name.py         [Jzen_basic.py               [J                         [4A[0m[27m[24m[3Ccp ~/git_test/python/zen_basic.pyc[K[1C  ./[?1l>
+[J]2;cp ~/git_test/python/zen_basic.py ./]1;cpcp: cannot stat ‘/Users/zen1/git_test/python/zen_basic.py’: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/script]1;..ch_lab/script[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=ccp ~/Library[1m/[0m[0m/
+[1;31mAccounts[0m/                   [1;31mFonts[0m/                      [1;31mPubSub[0m/                   
+[1;31mAlipay[0m/                     [1;31mFonts\ Disabled[0m/            [1;31mSafari[0m/                   
+[1;31mApplication\ Support[0m/       [1;31mGameKit[0m/                    [1;31mSaved\ Application\ State[0m/
+[1;31mAssistants[0m/                 [1;31mGoogle[0m/                     [1;31mScreen\ Savers[0m/           
+[1;31mAudio[0m/                      [1;31mGroup\ Containers[0m/          [1;31mServices[0m/                 
+[1;31mAutosave\ Information[0m/      [1;31mIdentityServices[0m/           [1;31mSounds[0m/                   
+[1;31mCaches[0m/                     [1;31mInput\ Methods[0m/             [1;31mSpelling[0m/                 
+[1;31mCalendars[0m/                  [1;31mInternet\ Plug-Ins[0m/         [1;31mSyncedPreferences[0m/        
+[1;31mColorPickers[0m/               [1;31mKeyboard\ Layouts[0m/          [1;31mTime\ Sink[0m/               
+[1;31mColorSync[0m/                  [1;31mKeychains[0m/                  [1;31mVirtualBox[0m/               
+[1;31mColors[0m/                     [1;31mLanguageModeling[0m/           [1;31mVoices[0m/                   
+[1;31mCompositions[0m/               [1;31mLaunchAgents[0m/               [1;31mWebKit[0m/                   
+[1;31mContainers[0m/                 [1;31mLogs[0m/                       [1;31mXMind[0m/                    
+[1;31mCookies[0m/                    [1;31mMail[0m/                       [1;31mcom.apple.nsurlsessiond[0m/  
+[1;31mDeveloper[0m/                  [1;31mMessages[0m/                   [1;31miMovie[0m/                   
+[1;31mDictionaries[0m/               [1;31mPreferencePanes[0m/            [1;31miTunes[0m/                   
+[1;31mFavorites[0m/                  [1;31mPreferences[0m/                                          
+[J[1;31mFontCollections[0m/            [J[1;31mPrinters[0m/                   [J                          [18A[0m[27m[24m[3Ccp ~/Library/[Kq    
+[J[A[13C[10D          [10Dccp /Library[1m/[0m[0m/pPython[1m/[0m[0m/s 2.7[1m/[0m[0m/site-packages[1m/[0m[0m/
+[J[1;31mCrypto[0m/                                             
+[1;31mFabric-1.10.1-py2.7.egg-info[0m/                       
+[1;31mFlask-0.10.1-py2.7.egg-info[0m/                        
+[1;31mIPython[0m/                                            
+[1;31mJinja2-2.7.3-py2.7.egg-info[0m/                        
+[1;31mMarkupSafe-0.23-py2.7.egg-info[0m/                     
+[1;31mMySQL_python-1.2.5-py2.7.egg-info[0m/                  
+[1;31mMySQLdb[0m/                                            
+README                                              
+[1;31mWerkzeug-0.10.1-py2.7.egg-info[0m/                     
+[1;32m_mysql.so[0m*                                          
+_mysql_exceptions.py                                
+_mysql_exceptions.pyc                               
+[1;32m_psutil_osx.so[0m*                                     
+[1;32m_psutil_posix.so[0m*                                   
+[1;31mastroid[0m/                                            
+[1;31mastroid-1.3.2.dist-info[0m/                            
+[1;31mbackports[0m/                                          
+[1;31mbackports.ssl_match_hostname-3.4.0.2-py2.7.egg-info[0m/
+[1;31mcertifi[0m/                                            
+[1;31mcertifi-14.05.14-py2.7.egg-info[0m/                    
+[1;31mcertifi-2015.04.28.dist-info[0m/                       
+[1;31mcolorama[0m/                                           
+[1;31mcolorama-0.3.3-py2.7.egg-info[0m/                      
+easy-install.pth                                    
+[1;31mecdsa[0m/                                              
+[1;31mecdsa-0.11-py2.7.egg-info[0m/                          
+[1;31met_xmfile[0m/                                          
+[1;31mfabfile[0m/                                            
+[1;31mfabric[0m/                                             
+[1;31mflask[0m/                                              
+[1;31mgevent[0m/                                             
+[1;31mgevent-1.0.1-py2.7.egg-info[0m/                        
+[1;31mgnureadline-6.3.3.dist-info[0m/                        
+[1;32mgnureadline.so[0m*                                     
+[1;31mgreenlet-0.4.6-py2.7.egg-info[0m/                      
+[1;32mgreenlet.so[0m*                                        
+[1;31mhttp[0m/                                               
+[1;31mhttp-0.02-py2.7.egg-info[0m/                           
+[1;31mipython-2.3.1.dist-info[0m/                            
+[1;31mitsdangerous-0.24-py2.7.egg-info[0m/                   
+itsdangerous.py                                     
+itsdangerous.pyc                                    
+[1;31mjdcal-1.0-py2.7.egg-info[0m/                           
+[Jjdcal.py                                            [J
+jdcal.pyc                                           [J
+[1;31mjieba[0m/                                              [J
+[1;31mjinja2[0m/                                             [J
+[1;31mlogilab[0m/                                            [J
+logilab_common-0.63.2-py2.7-nspkg.pth               [J
+[1;31mlogilab_common-0.63.2-py2.7.egg-info[0m/               [J
+[1;31mmarkupsafe[0m/                                         [J
+[1;31mmysql-0.0.1-py2.7.egg-info[0m/                         [J
+[1;31mopenpyxl[0m/                                           [J
+[1;31mopenpyxl-2.2.1-py2.7.egg-info[0m/                      [J
+[1;31mparamiko[0m/                                           [J
+[1;31mparamiko-1.15.2.dist-info[0m/                          [J
+[1;31mpathlib-1.0.1-py2.7.egg-info[0m/                       [J
+pathlib.py                                          [J
+pathlib.pyc                                         [J
+[1;31mpep8-1.6.2.dist-info[0m/                               [J
+pep8.py                                             [J
+pep8.pyc                                            [J
+[1;31mpip-6.0.3-py2.7.egg[0m/                                [J
+[1;31mpsutil[0m/                                             [J
+[1;31mpsutil-2.2.1-py2.7.egg-info[0m/                        [J
+[1;31mpycrypto-2.6.1-py2.7.egg-info[0m/                      [J
+[1;31mpylint[0m/                                             [J
+[1;31mpylint-1.4.0.dist-info[0m/                             [J
+[1;31mreadline-6.2.4.1-py2.7-macosx-10.7-intel.egg[0m/       [J
+readline.py                                         [J
+readline.pyc                                        [J
+[1;31mredis[0m/                                              [J
+[1;31mredis-2.10.3-py2.7.egg-info[0m/                        [J
+[1;31mtests[0m/                                              [J
+[1;31mthefuck[0m/                                            [J
+[1;31mthefuck-1.46.dist-info[0m/                             [J
+[1;31mtornado[0m/                                            [J
+[1;31mtornado-4.2-py2.7.egg-info[0m/                         [J
+[1;31mvboxapi[0m/                                            [J
+vboxapi-1.0-py2.7.egg-info                          [J
+[1;31mwerkzeug[0m/                                           [J
+[1;31mxlrd[0m/                                               [J
+[1;31mxlrd-0.9.3-py2.7.egg-info[0m/                          [J
+zen_basic.py                                        [J
+zen_py_tool.py                                      [J
+[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  cp /Library/Python/2.7/site-packages/[KCrypto[1m/[0m
+[7mCrypto/                                             [0m[K
+[1;31mFabric-1.10.1-py2.7.egg-info[0m/                       [K
+[1;31mFlask-0.10.1-py2.7.egg-info[0m/                        [K
+[1;31mIPython[0m/                                            [K
+[1;31mJinja2-2.7.3-py2.7.egg-info[0m/                        [K
+[1;31mMarkupSafe-0.23-py2.7.egg-info[0m/                     [K
+[1;31mMySQL_python-1.2.5-py2.7.egg-info[0m/                  [K
+[1;31mMySQLdb[0m/                                            [K
+README                                              [K
+[1;31mWerkzeug-0.10.1-py2.7.egg-info[0m/                     [K
+[1;32m_mysql.so[0m*                                          [K
+_mysql_exceptions.py                                [K
+_mysql_exceptions.pyc                               [K
+[1;32m_psutil_osx.so[0m*                                     [K
+[1;32m_psutil_posix.so[0m*                                   [K
+[1;31mastroid[0m/                                            [K
+[1;31mastroid-1.3.2.dist-info[0m/                            [K
+[1;31mbackports[0m/                                          [K
+[1;31mbackports.ssl_match_hostname-3.4.0.2-py2.7.egg-info[0m/[K
+[1;31mcertifi[0m/                                            [K
+[1;31mcertifi-14.05.14-py2.7.egg-info[0m/                    [K
+[1;31mcertifi-2015.04.28.dist-info[0m/                       [K
+[1;31mcolorama[0m/                                           [K
+[1;31mcolorama-0.3.3-py2.7.egg-info[0m/                      [K
+easy-install.pth                                    [K
+[1;31mecdsa[0m/                                              [K
+[1;31mecdsa-0.11-py2.7.egg-info[0m/                          [K
+[1;31met_xmfile[0m/                                          [K
+[1;31mfabfile[0m/                                            [K
+[1;31mfabric[0m/                                             [K
+[1;31mflask[0m/                                              [K
+[1;31mgevent[0m/                                             [K
+[1;31mgevent-1.0.1-py2.7.egg-info[0m/                        [K
+[1;31mgnureadline-6.3.3.dist-info[0m/                        [K
+[1;32mgnureadline.so[0m*                                     [K
+[1;31mgreenlet-0.4.6-py2.7.egg-info[0m/                      [K
+[1;32mgreenlet.so[0m*                                        [K
+[1;31mhttp[0m/                                               [K
+[1;31mhttp-0.02-py2.7.egg-info[0m/                           [K
+[1;31mipython-2.3.1.dist-info[0m/                            [K
+[1;31mitsdangerous-0.24-py2.7.egg-info[0m/                   [K
+itsdangerous.py                                     [K
+itsdangerous.pyc                                    [K
+[1;31mjdcal-1.0-py2.7.egg-info[0m/                           [K
+[Jjdcal.py                                            [J[J[45A[0m[27m[24m[3Ccp /Library/Python/2.7/site-packages/Crypto[1m/[0m[K
+[7mCrypto/                                             [0m[7mCrypto/                                             [0m[A[0m[27m[24m[3Ccp /Library/Python/2.7/site-packages/Crypto[1m/[0m[KFabric[0m-1.10.1-py2.7.egg-info[1m/[0m
+[1;31mCrypto[0m/                                             [1B[7mFabric-1.10.1-py2.7.egg-info/                       [0m[A[A[0m[27m[24m[3Ccp /Library/Python/2.7/site-packages/Fabric-1.10.1-py2.7.egg-info[1m/[0m[K[28Dlask-0[P[21C 
+[1B[1;31mFabric-1.10.1-py2.7.egg-info[0m/                       [1B[7mFlask-0.10.1-py2.7.egg-info/                        [0m[3A[0m[27m[24m[3Ccp /Library/Python/2.7/site-packages/Flask-0.10.1-py2.7.egg-info[1m/[0m[K[28DIPython[1m/[0m                   [0m [20D
+[2B[1;31mFlask-0.10.1-py2.7.egg-info[0m/                        [1B[7mIPython/                                            [0m[4A[0m[27m[24m[3Ccp /Library/Python/2.7/site-packages/IPython[1m/[0m[K
+[J[A[48C[0m        ff  comlogilab_common-0.63.2-py2.7                           zen_basic.py[1m [0m[0m ./[?1l>
+[J]2;cp /Library/Python/2.7/site-packages/zen_basic.py ./]1;cp[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/script]1;..ch_lab/script[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=lls[?1l>
+]2;ls -F]1;lsalg_tool.py   find_table_name.py	 zen_advance.py   zen_tool.py
+crontab_list  shell_tool.sh		 zen_basic.py
+fabfile.py    synchronise_mac_config.sh  zen_py_tool.pyc
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/script]1;..ch_lab/script[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=vvim zen_basic.py[1m [0m[0m [?1l>
+]2;/usr/local/bin/vim zen_basic.py]1;vim[?1000h[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H[1;46r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[46;1H"zen_basic.py" 50L, 1354C[38;5;74m[48;5;16m[>c[27m[m[38;5;74m[48;5;16m[H[2J[1;1H[1m[38;5;130m[48;5;16m# coding: utf-8[m[38;5;74m[48;5;16m
+[37m[48;5;16m""" 一些常用的小工具 """[m[38;5;74m[48;5;16m
+
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m importlib
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m sys
+[38;5;182m[48;5;16mfrom[m[38;5;74m[48;5;16m datetime [38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m datetime
+
+[1m[38;5;130m[48;5;16m# short alias[m[38;5;74m[48;5;16m
+dft = datetime.fromtimestamp
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mreload_module_import_all[m[38;5;74m[48;5;16m(module_name):
+    mod = [1m[38;5;132m[48;5;16mreload[m[38;5;74m[48;5;16m(sys.modules[[37m[48;5;16m'module_name'[m[38;5;74m[48;5;16m])
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m().update(mod.__dict__)
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mimport_all_from_module[m[38;5;74m[48;5;16m(module_name):
+    agent = importlib.import_module(module_name)
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m().update([1m[38;5;132m[48;5;16mvars[m[38;5;74m[48;5;16m(agent))
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mfrom_module_import_alias[m[38;5;74m[48;5;16m(module_name, var_name, alias):
+    [37m[48;5;16m""" equal to from module import a as b """[m[38;5;74m[48;5;16m
+    agent = importlib.import_module(module_name)
+    [1m[38;5;132m[48;5;16mglobals[m[38;5;74m[48;5;16m()[alias] = [1m[38;5;132m[48;5;16mvars[m[38;5;74m[48;5;16m(agent)[var_name]
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mconvert_str_to_num[m[38;5;74m[48;5;16m(target_str, round_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m, float_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m, int_flag=[1m[38;5;132m[48;5;16mFalse[m[38;5;74m[48;5;16m):
+    [37m[48;5;16m""" 转换浮点或整数形式的字符串到数字。
+        round_flag设为True开启四舍五入
+        float_flag为True返回浮点数
+        int_flag为True返回整数部分
+        如果int_flag和float_flag同时开启，返回字符的整数部分。
+    """[m[38;5;74m[48;5;16m
+    target_str = [1m[38;5;132m[48;5;16mstr[m[38;5;74m[48;5;16m(target_str)[34;5H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m [37m[48;5;16m'.'[m[38;5;74m[48;5;16m [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_str:[35;9Hresult = [1m[38;5;132m[48;5;16mfloat[m[38;5;74m[48;5;16m(target_str)[36;9Hstr_type = [37m[48;5;16m'float'[m[38;5;74m[48;5;16m
+    [1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[38;9Hresult = [1m[38;5;132m[48;5;16mint[m[38;5;74m[48;5;16m(target_str)[39;9Hstr_type = [37m[48;5;16m'int'[m[38;5;74m[48;5;16m[41;5H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m round_flag [1m[38;5;173m[48;5;16mand[m[38;5;74m[48;5;16m str_type == [37m[48;5;16m'float'[m[38;5;74m[48;5;16m:[42;9Hresult = [1m[38;5;132m[48;5;16mround[m[38;5;74m[48;5;16m(result)[44;5H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m float_flag:[45;9Hresult = [1m[38;5;132m[48;5;16mfloat[m[38;5;74m[48;5;16m(result)]2;zen_basic.py (~/zen/pythonstudy/tech_lab/script) - VIM[1;1H[?12l[?25h[?1000l[?1002h
+[1;1H[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[1;45r[m[38;5;74m[48;5;16m[1;1H[L[1;46r]2;zen_basic.py + (~/zen/pythonstudy/tech_lab/script) - VIM[1;1H[?12l[?25h[?25l[2;45r[2;1H[L[1;46r[2;1H[?12l[?25h[?25l[3;45r[3;1H[L[1;46r[3;1H[?12l[?25h[?25l[4;45r[4;1H[L[1;46r[4;1H[?12l[?25h[46;1H[K[4;1H[?25l[?12l[?25h[3;1H[2;1H[1;1H[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[1;1H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[1m[38;5;130m[48;5;16m#[?12l[?25h[?25l [?12l[?25h[?25lc[?12l[?25h[?25lo[?12l[?25h[?25ld[?12l[?25h[?25li[?12l[?25h[?25ln[?12l[?25h[?25lg[?12l[?25h[?25l:[?12l[?25h[?25l [?12l[?25h[?25lu[?12l[?25h[?25lt[?12l[?25h[?25lf[?12l[?25h[?25l-[?12l[?25h[?25l8[?12l[?25h[m[38;5;74m[48;5;16m[46;1H[K[1;15H[?25l[?12l[?25h
+
+[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[3;1H[?12l[?25h[?25l[m[38;5;74m[48;5;16md[?12l[?25h[?25le[?12l[?25h[?25l[1m[33m[48;5;16mdef[?12l[?25h[?25l[m[38;5;74m[48;5;16m [?12l[?25h[?25l[1m[38;5;132m[48;5;16mm[?12l[?25h[?25la[?12l[?25h[?25lk[?12l[?25h[?25le[?12l[?25h[?25l_[?12l[?25h[?25ls[?12l[?25h[?25lu[?12l[?25h[?25lb[?12l[?25h[?25l_[?12l[?25h[?25ll[?12l[?25h[?25li[?12l[?25h[?25l[m[38;5;74m[48;5;16m[3;15H[K[3;15H[?12l[?25h[?25l[3;14H[K[3;14H[?12l[?25h[?25l[3;13H[K[3;13H[?12l[?25h[?25l[1m[38;5;132m[48;5;16ml[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25lt[?12l[?25h[?25l[m[38;5;74m[48;5;16m([?12l[?25h[?25lr[?12l[?25h[?25lw[?12l[?25h[?25la[?12l[?25h[?25l[3;20H[K[3;20H[?12l[?25h[?25l[3;19H[K[3;19H[?12l[?25h[?25la[?12l[?25h[?25lw[?12l[?25h[?25l_[?12l[?25h[?25ll[?12l[?25h[?25li[?12l[?25h[?25ls[?12l[?25h[?25lt[?12l[?25h[?25l,[?12l[?25h[?25l [?12l[?25h[?25ln[?12l[?25h[?25l)[3;17H[38;5;255m[48;5;34m([11C)[?12l[?25h[?25l[4;45r[m[38;5;74m[48;5;16m[4;1H[L[1;46r[3;17H([11C)
+[?12l[?25h[?25l    [?12l[?25h[?25lr[?12l[?25h[?25le[?12l[?25h[?25lt[?12l[?25h[?25lu[?12l[?25h[?25lr[?12l[?25h[?25l[1m[33m[48;5;16mreturn[?12l[?25h[?25l[m[38;5;74m[48;5;16m [?12l[?25h[?25l[[?12l[?25h[?25l][38;5;255m[48;5;34m[][?12l[?25h[m[38;5;74m[48;5;16m[46;1H[K[4;13H[?25l[?12l[?25h[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[4;13H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[38;5;255m[48;5;34m [m[38;5;74m[48;5;16m] [38;5;255m[48;5;34m][?12l[?25h[?25l [m[38;5;74m[48;5;16m] [38;5;255m[48;5;34m][?12l[?25h[?25l [m[38;5;74m[48;5;16m] [38;5;255m[48;5;34m][?12l[?25h[?25l [m[38;5;74m[48;5;16m] [38;5;255m[48;5;34m][?12l[?25h[?25l [m[38;5;74m[48;5;16m] [38;5;255m[48;5;34m][?12l[?25h[?25l [m[38;5;74m[48;5;16m] [38;5;255m[48;5;34m][?12l[?25h[?25l [m[38;5;74m[48;5;16m] [38;5;255m[48;5;34m][?12l[?25h[m[38;5;74m[48;5;16m[46;1H[K[4;19H[?25l[4;12H[[7C][?12l[?25h[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[4;13H[?12l[?25h[?25l[m[38;5;74m[48;5;16mr       ][4;14H[?12l[?25h[?25la       ][4;15H[?12l[?25h[?25l[46;4H[1m[38;5;254m[48;5;16mKeyword completion (^N^P) -- Searching...[m[38;5;74m[48;5;16m[4;15Hw_list       ][46;1H[1m[38;5;208m[48;5;16mScanning tags.[m[38;5;74m[48;5;16m[1m[38;5;254m[48;5;16mp[m[38;5;74m[48;5;16m[46;15H[K[46;1H[1m[38;5;254m[48;5;16m--[m[38;5;74m[48;5;16m[1m[38;5;208m[48;5;16ma[m[38;5;74m[48;5;16m[1m[38;5;254m[48;5;16m Keyword completion (^N^P) The only match[4;21H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;1H[K[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[m[38;5;74m[48;5;16m[4;21H[       ][4;21H[38;5;255m[48;5;34m[[7C][4;22H[?12l[?25h[?25l[m[38;5;74m[48;5;16mi      [38;5;255m[48;5;34m [m[38;5;74m[48;5;16m][4;21H[[7C [4;23H[?12l[?25h[?25l,       ][4;24H[?12l[?25h[?25l[7C ][4;25H[?12l[?25h[?25li       ][4;26H[?12l[?25h[?25l+       ][4;27H[?12l[?25h[?25ln       ][4;28H[?12l[?25h[46;1H[K[4;27H[?25l[?12l[?25h[?25l i+n       ][4;35H[K[4;23H[?12l[?25h [?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[4;23H[?12l[?25h[?25l[m[38;5;74m[48;5;16m  i+n       ][4;24H[?12l[?25h[?25l: i+n       ][4;25H[?12l[?25h[46;1H[K[4;24H[?25l[?12l[?25h[?25l: i+n       ][4;36H[K[4;23H[?12l[?25h:[?25li+n       ][4;35H[K[4;24H[?12l[?25hi+n[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[4;28H[?12l[?25h[?25l[m[38;5;74m[48;5;16m     ][4;34H[K[4;27H[?12l[?25h[?25l:      ][4;28H[?12l[?25h[?25ln      ][4;29H[?12l[?25h[?25l]      ][4;21H[38;5;255m[48;5;34m[[7C][?12l[?25h[?25l[m[38;5;74m[48;5;16m       ][4;21H[[7C] [?12l[?25h[?25lf      ][4;32H[?12l[?25h[?25lo      ][4;33H[?12l[?25h[?25l[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m      ][4;34H[?12l[?25h[?25l       ][4;35H[?12l[?25h[?25li      ][4;36H[?12l[?25h[?25l       ][4;37H[?12l[?25h[?25li      ][4;38H[?12l[?25h[?25l[1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m      ][4;39H[?12l[?25h[?25l       ][4;40H[?12l[?25h[?25lr      ][4;41H[?12l[?25h[?25la      ][4;42H[?12l[?25h[?25ln      ][4;43H[?12l[?25h[?25lg      ][4;44H[?12l[?25h[?25l[1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m      ][4;45H[?12l[?25h[?25l(      ][4;46H[?12l[?25h[?25l)      ][4;45H[38;5;255m[48;5;34m()[?12l[?25h[m[38;5;74m[48;5;16m[46;1H[K[4;46H[?25l[?12l[?25h[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[4;46H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[38;5;255m[48;5;34m0[m[38;5;74m[48;5;16m)      ][4;46H[38;5;77m[48;5;16m0[m[38;5;74m[48;5;16m[38;5;255m[48;5;34m)[?12l[?25h[?25l,[m[38;5;74m[48;5;16m)      ][4;47H,[38;5;255m[48;5;34m)[?12l[?25h[?25l [m[38;5;74m[48;5;16m)      ][4;48H [38;5;255m[48;5;34m)[?12l[?25h[?25ll[m[38;5;74m[48;5;16m)      ][4;49Hl[38;5;255m[48;5;34m)[?12l[?25h[?25le[m[38;5;74m[48;5;16m)      ][4;50He[38;5;255m[48;5;34m)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[1m[38;5;132m[48;5;16mle[m[38;5;74m[48;5;16m[1m[38;5;255m[48;5;34mn[m[38;5;74m[48;5;16m)      ][4;51H[1m[38;5;132m[48;5;16mn[m[38;5;74m[48;5;16m[38;5;255m[48;5;34m)[?12l[?25h[?25l([m[38;5;74m[48;5;16m)      ][4;45H([7C[38;5;255m[48;5;34m)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[1C)      ][4;45H[38;5;255m[48;5;34m([m[38;5;74m[48;5;16m[6C()[38;5;255m[48;5;34m)[?12l[?25h[m[38;5;74m[48;5;16m[46;1H[K[4;53H[?25l[4;45H([6C[38;5;255m[48;5;34m()[m[38;5;74m[48;5;16m)[?12l[?25h[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[4;53H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[38;5;255m[48;5;34mr[m[38;5;74m[48;5;16m))      ][4;53Hr[38;5;255m[48;5;34m)[?12l[?25h[?25la[m[38;5;74m[48;5;16m))      ][4;54Ha[38;5;255m[48;5;34m)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;4H[1m[38;5;254m[48;5;16mKeyword completion (^N^P) -- Searching...[m[38;5;74m[48;5;16m[4;55H[38;5;255m[48;5;34mw[m[38;5;74m[48;5;16m_list))      ][46;1H[1m[38;5;208m[48;5;16mScanning tags.[m[38;5;74m[48;5;16m[1m[38;5;254m[48;5;16mp[m[38;5;74m[48;5;16m[46;15H[K[46;1H[1m[38;5;254m[48;5;16m--[m[38;5;74m[48;5;16m[1m[38;5;208m[48;5;16ma[m[38;5;74m[48;5;16m[1m[38;5;254m[48;5;16m Keyword completion (^N^P) [m[38;5;74m[48;5;16m[1m[38;5;208m[48;5;16mmatch 1 of 2[4;61H[m[38;5;74m[48;5;16m[4;52H(raw[5;52H[38;5;254m[48;5;238m raw_list       [m[38;5;74m[48;5;16m[6;52H[38;5;254m[48;5;16m range          [4;61H[?12l[?25h[m[38;5;74m[48;5;16m[46;1H[K[4;60H[?25l[46;1H[1m[38;5;254m[48;5;16m-- Keyword completion (^N^P) [m[38;5;74m[48;5;16m[1m[38;5;208m[48;5;16mmatch 1 of 2[m[38;5;74m[48;5;16m[46;1H[K[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[m[38;5;74m[48;5;16m[46;1H[K[5;52H[K[6;52H[K[4;60H[?12l[?25h[?25l[4;52H[38;5;255m[48;5;34m([8C)[?12l[?25h[?25l[4;45H([m[38;5;74m[48;5;16m[6C([8C)[38;5;255m[48;5;34m)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[4;62H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[38;5;255m[48;5;34m,[m[38;5;74m[48;5;16m)      ][4;62H,[38;5;255m[48;5;34m)[?12l[?25h[?25l [m[38;5;74m[48;5;16m)      ][4;63H [38;5;255m[48;5;34m)[?12l[?25h[?25ln[m[38;5;74m[48;5;16m)      ][4;64Hn[38;5;255m[48;5;34m)[?12l[?25h[m[38;5;74m[48;5;16m[46;1H[K[4;64H[?25l[4;45H([19C)[?12l[?25h[?25l[4;45H[38;5;255m[48;5;34m([19C)[?12l[?25h[?25l[m[38;5;74m[48;5;16m[4;45H([19C)[?12l[?25h[?25l     ][4;72H[K[4;66H[?12l[?25h[?25l    ][4;71H[K[4;66H[?12l[?25h[?25l   ][4;70H[K[4;66H[?12l[?25h[?25l  ][4;69H[K[4;66H[?12l[?25h[?25l ][4;68H[K[4;66H[?12l[?25h[?25l[4;12H[38;5;255m[48;5;34m[[53C][m[38;5;74m[48;5;16m[4;67H[K[4;66H[?12l[?25h[?25l[46;1H:[?12l[?25hw[?25l[?12l[?25h[?25l"zen_basic.py" 55L, 1469C written]2;zen_basic.py (~/zen/pythonstudy/tech_lab/script) - VIM[4;66H[?12l[?25h[?25l[3;17H[38;5;255m[48;5;34m([11C)[m[38;5;74m[48;5;16m[4;12H[[53C][3;29H[?12l[?25h[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[m[38;5;74m[48;5;16m[46;13H[K[3;30H[?12l[?25h[?25l:[3;17H([11C)]2;zen_basic.py + (~/zen/pythonstudy/tech_lab/script) - VIM:[?12l[?25h[46;1H[K[3;30H[?25l[?12l[?25h[?25l[46;1H:[?12l[?25hw[?25l[?12l[?25h[?25l"zen_basic.py" 55L, 1470C written]2;zen_basic.py (~/zen/pythonstudy/tech_lab/script) - VIM[3;30H[?12l[?25h[4;30H[?25l[4;21H[38;5;255m[48;5;34m[[7C][?12l[?25h[?25l[m[38;5;74m[48;5;16m[4;21H[[7C][?12l[?25h[?25ln] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([38;5;77m[48;5;16m0[m[38;5;74m[48;5;16m, [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), n)][4;66H[K]2;zen_basic.py + (~/zen/pythonstudy/tech_lab/script) - VIM[4;27H[?12l[?25h[?25l[38;5;255m[48;5;34m[[m[38;5;74m[48;5;16mi:i+n[38;5;255m[48;5;34m][m[38;5;74m[48;5;16m [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m([38;5;77m[48;5;16m0[m[38;5;74m[48;5;16m, [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(raw_list), n)][4;65H[K[4;27H[?12l[?25h[?25l[46;1H[K[46;1H:[?12l[?25hw[?25l[?12l[?25h[?25l"zen_basic.py" 55L, 1468C written]2;zen_basic.py (~/zen/pythonstudy/tech_lab/script) - VIM[4;27H[?12l[?25h[?25l[i:i+n]
+[?12l[?25h[?25l[4;21H[38;5;255m[48;5;34m[[m[38;5;74m[48;5;16mi:i+n[38;5;255m[48;5;34m][?12l[?25h[?25l[m[38;5;74m[48;5;16m[i:i+n][?12l[?25h
+[4;28H
+[6;15H[1;15H
+
+
+
+[9;16H[10;10H[11;29H
+[13;13H[14;28H
+[16;42H[?25l[46;1H[K[46;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[?1002l]2;Thanks for flying Vim[46;1H[K[46;1H[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/script]1;..ch_lab/script[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=lls[?1l>
+]2;ls -F]1;lsalg_tool.py   find_table_name.py	 zen_advance.py   zen_tool.py
+crontab_list  shell_tool.sh		 zen_basic.py
+fabfile.py    synchronise_mac_config.sh  zen_py_tool.pyc
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/script]1;..ch_lab/script[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/script[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=ccd ~[?1l>
+]2;cd ~]1;cd[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~]1;~[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~[00m[31m|[00m[36m⇒[00m  [K[?1h=ttec[?1l>
+]2;pushd ~/zen/pythonstudy/tech_lab]1;tec~/zen/pythonstudy/tech_lab ~ ~/zen/pythonstudy/tech_lab/script ~/zen/pythonstudy/tech_lab/utils ~/zen/pythonstudy/tech_lab/utils/zen_system
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab]1;..tudy/tech_lab[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=lls[?1l>
+]2;ls -F]1;lsAWK/	    MacOS/	_book/	     git/	  node_modules/  script/
+Blackhore/  Pycharm/	algorithm/   javascript/  other/	 tmux/
+C/	    README.md	bash_mania/  markdown/	  perl/		 utils/
+English/    SUMMARY.md	book.json    math/	  python_mania/  vim_skill/
+General/    Spanish/	config/      my_work/	  redis/	 zsh/
+Linux/	    Xlab/	frame/	     nginx/	  regex/
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab]1;..tudy/tech_lab[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=ccd -yt   -y  python_mania[1m/[0m[0m/
+[1;31mbad_usage_examples[0m/  [1;31mmodule[0m/              [1;31mtest_in_python[0m/                         
+[J[1;31mdata_type[0m/           [J[1;31mpractice_work[0m/       [J[1;31mtornado[0m/             [J                   [A[A[0m[27m[24m[3Ccd python_mania/[K
+[J[A[19C[16D                [16Dppmp  ttec[?1l>
+[J]2;pushd ~/zen/pythonstudy/tech_lab]1;tec~/zen/pythonstudy/tech_lab ~ ~/zen/pythonstudy/tech_lab/script ~/zen/pythonstudy/tech_lab/utils ~/zen/pythonstudy/tech_lab/utils/zen_system
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab]1;..tudy/tech_lab[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=ccd math[1m/[0m[0m [?1l>
+]2;cd math]1;cd[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/math]1;..tech_lab/math[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/math[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=lls[?1l>
+]2;ls -F]1;lschaos.py  combination.py  combination.pyc  magico.md  power.py
+[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/math]1;..tech_lab/math[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/math[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=vvim combination.py[?1l>
+]2;/usr/local/bin/vim combination.py]1;vim[?1000h[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H[1;46r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[46;1HE325: ATTENTION
+Found a swap file by the name ".combination.py.swp"
+[10Cowned by: zen1   dated: Wed Jul  1 18:48:21 2015
+[9Cfile name: ~zen1/zen/pythonstudy/tech_lab/math/combination.py
+[10Cmodified: YES
+[9Cuser name: zen1   host name: MacBook-Pro-de-Mario.local
+[8Cprocess ID: 13085
+While opening file "combination.py"
+[13Cdated: Mon Jul  6 16:40:23 2015
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r combination.py"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".combination.py.swp"
+    to avoid this message.
+[?1000l
+Swap file ".combination.py.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort:[?12l[?25h[?1000h[46;1H[K[?25l[46;1H"combination.py" 100L, 3277C[38;5;74m[48;5;16m[>c[27m[m[38;5;74m[48;5;16m[H[2J[1;1H[1m[38;5;130m[48;5;16m# coding: utf-8[m[38;5;74m[48;5;16m
+[38;5;182m[48;5;16mfrom[m[38;5;74m[48;5;16m math [38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m factorial
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m itertools
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mmake_tuple[m[38;5;74m[48;5;16m(objects, attributes):
+    [37m[48;5;16m""" 传入两个包含若干元素的iterator, 将该两组元素所有可能的交叉组合的tuple以list形式返[7;1H回  """[m[38;5;74m[48;5;16m
+    tuple_list = []
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m obj [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m objects:[10;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m attr [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m attributes:[11;13Htuple_list.append((obj, attr))
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m tuple_list
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombinate[m[38;5;74m[48;5;16m(elements, unit_range):
+    [37m[48;5;16m""" 根据elements里的元素，返回不重复的所有unit_range个元素的组合 """[m[38;5;74m[48;5;16m
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mfind_tuple_combinations[m[38;5;74m[48;5;16m(objects, attributes, n):
+    [37m[48;5;16m""" 有若干个单位，每个单位有若干种状态，用若干个单位做成一个组，在不重复遍历的情况下[m[38;5;74m[48;5;16m[1m[38;5;254m[48;5;16m>>[m[38;5;74m[48;5;16m[20;1H[37m[48;5;16m将所有组合找出来 """[m[38;5;74m[48;5;16m
+    [1m[38;5;130m[48;5;16m# 将问题转换成x个元素y个一组有多少种组合方式的问题[m[38;5;74m[48;5;16m
+    all_elements = find_tuple_combinations(objects, attributes)
+    tuple_combinations =  combinate(all_elements, n)
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombination_checker[m[38;5;74m[48;5;16m(item_nums, com_range):
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m factorial(item_nums) / (factorial(com_range)*factorial(item_nums-com_range))
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mdefault_combination_checker[m[38;5;74m[48;5;16m(iterable, r):
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(itertools.combination(iterable, r))
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombine_5[m[38;5;74m[48;5;16m(elements):
+    [37m[48;5;16m"""Find all combinations in elements with range 5"""[m[38;5;74m[48;5;16m
+    temp_list = []
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements:[37;9Hcur_index = elements.index(i)[38;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m j [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[39;13Hcur_index = elements.index(j)[40;13H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m k [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[41;17Hcur_index = elements.index(k)[42;17H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m n [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[43;21Hcur_index = elements.index(n)[44;21H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m m [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[45;25Htemp_list.append((i,j,k,n,m))]2;combination.py (~/zen/pythonstudy/tech_lab/math) - VIM[1;1H[?12l[?25h[?1000l[?1002h[?25l[27m[m[38;5;74m[48;5;16m[H[2J[1;13H[1m[33m[48;5;16mpass[m[38;5;74m[48;5;16m[2;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[3;13H[1m[33m[48;5;16mpass
+
+def[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16myield_n[m[38;5;74m[48;5;16m(elements, r, cur_index=-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, temp_list=[]):
+    [37m[48;5;16m""" 自己实现从n个元素中以r个一组，找出所有的独特组合 """[m[38;5;74m[48;5;16m
+    result = []
+    r -= [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m
+    target_list = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ][11;5H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_list:[12;9Hcur_index = elements.index(i)
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mofficial_combination[m[38;5;74m[48;5;16m(iterable, r):
+    [37m[48;5;16m""" official python combination realization """[m[38;5;74m[48;5;16m
+    pool = [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(iterable)
+    n = [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(pool)
+    [1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m r > n:[19;9H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m
+    indices = [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(r)
+    [1m[33m[48;5;16myield[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(pool[i] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m indices)
+    [1m[38;5;173m[48;5;16mwhile[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mTrue[m[38;5;74m[48;5;16m:[23;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mreversed[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(r)):[24;13H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m indices[i] != i + n  - r:[25;17H[1m[33m[48;5;16mbreak[m[38;5;74m[48;5;16m[26;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[27;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m[28;9Hindices[i] += [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m[29;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m j [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(i+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, r):[30;13Hindices[j] = indices[j-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m] + [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m[31;9H[1m[33m[48;5;16myield[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(pool[i] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m indices)
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombine_n[m[38;5;74m[48;5;16m(elements, r, cur_index=-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, L=[]):
+    [37m[48;5;16m"""Find all combinations in elements with range n"""[m[38;5;74m[48;5;16m
+    r -= [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m
+    target_list = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_list:[39;9HL.append(i)[40;9Hcur_index = elements.index(i)[41;9H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m r > [38;5;77m[48;5;16m0[m[38;5;74m[48;5;16m [1m[38;5;173m[48;5;16mand[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(target_list) > [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m:[42;13HL.extend(combine_n(elements, r, cur_index))[43;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m L[44;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[45;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m L[45;13H[?12l[?25h[44;13H[43;13H[42;13H[41;13H[40;13H[39;13H[38;13H[39;13H[40;13H[41;13H[42;13H[?25l[9;27H[38;5;255m[48;5;34m[[14C][?12l[?25h[?25l[m[38;5;74m[48;5;16m[9;27H[[14C][45;13H[?12l[?25h[44;13H[43;13H[42;13H[43;13H[44;13H[45;13H[44;13H[43;13H[42;13H[41;13H[40;13H[39;13H[38;13H[?25l[46;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[?1002l]2;Thanks for flying Vim[46;1H[K[46;1H[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/math]1;..tech_lab/math[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/math[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=vim combination.py[?1l>
+]2;/usr/local/bin/vim combination.py]1;vim[?1000h[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H[1;46r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[46;1HE325: ATTENTION
+Found a swap file by the name ".combination.py.swp"
+[10Cowned by: zen1   dated: Wed Jul  1 18:48:21 2015
+[9Cfile name: ~zen1/zen/pythonstudy/tech_lab/math/combination.py
+[10Cmodified: YES
+[9Cuser name: zen1   host name: MacBook-Pro-de-Mario.local
+[8Cprocess ID: 13085
+While opening file "combination.py"
+[13Cdated: Mon Jul  6 16:40:23 2015
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r combination.py"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".combination.py.swp"
+    to avoid this message.
+[?1000l
+Swap file ".combination.py.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort:[?12l[?25h[?1000h[46;1H[K[?25l[46;1H"combination.py" 100L, 3277C[38;5;74m[48;5;16m[>c[27m[m[38;5;74m[48;5;16m[H[2J[1;1H[1m[38;5;130m[48;5;16m# coding: utf-8[m[38;5;74m[48;5;16m
+[38;5;182m[48;5;16mfrom[m[38;5;74m[48;5;16m math [38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m factorial
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m itertools
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mmake_tuple[m[38;5;74m[48;5;16m(objects, attributes):
+    [37m[48;5;16m""" 传入两个包含若干元素的iterator, 将该两组元素所有可能的交叉组合的tuple以list形式返[7;1H回  """[m[38;5;74m[48;5;16m
+    tuple_list = []
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m obj [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m objects:[10;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m attr [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m attributes:[11;13Htuple_list.append((obj, attr))
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m tuple_list
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombinate[m[38;5;74m[48;5;16m(elements, unit_range):
+    [37m[48;5;16m""" 根据elements里的元素，返回不重复的所有unit_range个元素的组合 """[m[38;5;74m[48;5;16m
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mfind_tuple_combinations[m[38;5;74m[48;5;16m(objects, attributes, n):
+    [37m[48;5;16m""" 有若干个单位，每个单位有若干种状态，用若干个单位做成一个组，在不重复遍历的情况下[m[38;5;74m[48;5;16m[1m[38;5;254m[48;5;16m>>[m[38;5;74m[48;5;16m[20;1H[37m[48;5;16m将所有组合找出来 """[m[38;5;74m[48;5;16m
+    [1m[38;5;130m[48;5;16m# 将问题转换成x个元素y个一组有多少种组合方式的问题[m[38;5;74m[48;5;16m
+    all_elements = find_tuple_combinations(objects, attributes)
+    tuple_combinations =  combinate(all_elements, n)
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombination_checker[m[38;5;74m[48;5;16m(item_nums, com_range):
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m factorial(item_nums) / (factorial(com_range)*factorial(item_nums-com_range))
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mdefault_combination_checker[m[38;5;74m[48;5;16m(iterable, r):
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(itertools.combination(iterable, r))
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombine_5[m[38;5;74m[48;5;16m(elements):
+    [37m[48;5;16m"""Find all combinations in elements with range 5"""[m[38;5;74m[48;5;16m
+    temp_list = []
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements:[37;9Hcur_index = elements.index(i)[38;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m j [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[39;13Hcur_index = elements.index(j)[40;13H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m k [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[41;17Hcur_index = elements.index(k)[42;17H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m n [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[43;21Hcur_index = elements.index(n)[44;21H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m m [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[45;25Htemp_list.append((i,j,k,n,m))]2;combination.py (~/zen/pythonstudy/tech_lab/math) - VIM[1;1H[?12l[?25h[?1000l[?1002h[?25l[27m[m[38;5;74m[48;5;16m[H[2J[1;13H[1m[33m[48;5;16mpass[m[38;5;74m[48;5;16m[2;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[3;13H[1m[33m[48;5;16mpass
+
+def[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16myield_n[m[38;5;74m[48;5;16m(elements, r, cur_index=-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, temp_list=[]):
+    [37m[48;5;16m""" 自己实现从n个元素中以r个一组，找出所有的独特组合 """[m[38;5;74m[48;5;16m
+    result = []
+    r -= [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m
+    target_list = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ][11;5H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_list:[12;9Hcur_index = elements.index(i)
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mofficial_combination[m[38;5;74m[48;5;16m(iterable, r):
+    [37m[48;5;16m""" official python combination realization """[m[38;5;74m[48;5;16m
+    pool = [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(iterable)
+    n = [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(pool)
+    [1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m r > n:[19;9H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m
+    indices = [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(r)
+    [1m[33m[48;5;16myield[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(pool[i] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m indices)
+    [1m[38;5;173m[48;5;16mwhile[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mTrue[m[38;5;74m[48;5;16m:[23;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mreversed[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(r)):[24;13H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m indices[i] != i + n  - r:[25;17H[1m[33m[48;5;16mbreak[m[38;5;74m[48;5;16m[26;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[27;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m[28;9Hindices[i] += [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m[29;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m j [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(i+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, r):[30;13Hindices[j] = indices[j-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m] + [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m[31;9H[1m[33m[48;5;16myield[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(pool[i] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m indices)
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombine_n[m[38;5;74m[48;5;16m(elements, r, cur_index=-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, L=[]):
+    [37m[48;5;16m"""Find all combinations in elements with range n"""[m[38;5;74m[48;5;16m
+    r -= [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m
+    target_list = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_list:[39;9HL.append(i)[40;9Hcur_index = elements.index(i)[41;9H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m r > [38;5;77m[48;5;16m0[m[38;5;74m[48;5;16m [1m[38;5;173m[48;5;16mand[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(target_list) > [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m:[42;13HL.extend(combine_n(elements, r, cur_index))[43;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m L[44;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[45;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m L[45;13H[?12l[?25h[?25l
+:[?12l[?25hq[?25l[?12l[?25h[?25l[?1002l]2;Thanks for flying Vim[46;1H[K[46;1H[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/math]1;..tech_lab/math[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/math[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=vim combination.py[?1l>
+]2;/usr/local/bin/vim combination.py]1;vim[?1000h[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H[1;46r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[46;1HE325: ATTENTION
+Found a swap file by the name ".combination.py.swp"
+[10Cowned by: zen1   dated: Wed Jul  1 18:48:21 2015
+[9Cfile name: ~zen1/zen/pythonstudy/tech_lab/math/combination.py
+[10Cmodified: YES
+[9Cuser name: zen1   host name: MacBook-Pro-de-Mario.local
+[8Cprocess ID: 13085
+While opening file "combination.py"
+[13Cdated: Mon Jul  6 16:40:23 2015
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r combination.py"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".combination.py.swp"
+    to avoid this message.
+[?1000l
+Swap file ".combination.py.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort:[?12l[?25h[?1000h[46;1H[K[?25l[46;1H"combination.py" 100L, 3277C
+Using swap file ".combination.py.swp"
+Original file "~/zen/pythonstudy/tech_lab/math/combination.py"
+E308: Warning: Original file may have been changed
+Recovery completed. You should check if everything is OK.
+(You might want to write out this file under another name
+and run diff with the original file to check for changes)
+You may want to delete the .swp file now.
+
+
+[38;5;74m[48;5;16m[>c[m[38;5;74m[48;5;16m[38;5;121mPress ENTER or type command to continue[?12l[?25h[?1000l[?1002h[27m[m[38;5;74m[48;5;16m[H[2J[?25l[1;1H[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mmake_tuple[m[38;5;74m[48;5;16m(objects, attributes):
+    [37m[48;5;16m""" 传入两个包含若干元素的iterator, 将该两组元素所有可能的交叉组合的tuple以list形式返[3;1H回  """[m[38;5;74m[48;5;16m
+    tuple_list = []
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m obj [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m objects:[6;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m attr [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m attributes:[7;13Htuple_list.append((obj, attr))
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m tuple_list
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombinate[m[38;5;74m[48;5;16m(elements, unit_range):
+    [37m[48;5;16m""" 根据elements里的元素，返回不重复的所有unit_range个元素的组合 """[m[38;5;74m[48;5;16m
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mfind_tuple_combinations[m[38;5;74m[48;5;16m(objects, attributes, n):
+    [37m[48;5;16m""" 有若干个单位，每个单位有若干种状态，用若干个单位做成一个组，在不重复遍历的情况下[m[38;5;74m[48;5;16m[1m[38;5;254m[48;5;16m>>[m[38;5;74m[48;5;16m[16;1H[37m[48;5;16m将所有组合找出来 """[m[38;5;74m[48;5;16m
+    [1m[38;5;130m[48;5;16m# 将问题转换成x个元素y个一组有多少种组合方式的问题[m[38;5;74m[48;5;16m
+    all_elements = find_tuple_combinations(objects, attributes)
+    tuple_combinations =  combinate(all_elements, n)
+
+[1m[38;5;254m[48;5;16m~                                                                                        [22;1H~                                                                                        [23;1H~                                                                                        [24;1H~                                                                                        [25;1H~                                                                                        [26;1H~                                                                                        [27;1H~                                                                                        [28;1H~                                                                                        [29;1H~                                                                                        [30;1H~                                                                                        [31;1H~                                                                                        [32;1H~                                                                                        [33;1H~                                                                                        [34;1H~                                                                                        [35;1H~                                                                                        [36;1H~                                                                                        [37;1H~                                                                                        [38;1H~                                                                                        [39;1H~                                                                                        [40;1H~                                                                                        [41;1H~                                                                                        [42;1H~                                                                                        [43;1H~                                                                                        [44;1H~                                                                                        [45;1H~                                                                                        ]2;combination.py + (~/zen/pythonstudy/tech_lab/math) - VIM[1;1H[?12l[?25h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[19;1H[18;1H[17;1H[15;1H[14;1H[13;1H[12;1H[11;1H[10;1H[9;1H[8;1H[7;1H[6;1H[5;1H[4;1H[2;1H[1;1H[20;1H[?25l[46;1H[m[38;5;74m[48;5;16m:[?12l[?25hq[?25l[?12l[?25h[?25l[1m[38;5;254m[48;5;16mE37: No write since last change (add ! to override)[20;1H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;1H[K[46;1H:[?12l[?25hq[?25l[?12l[?25h![?25l[?12l[?25h[?25l[?1002l]2;Thanks for flying Vim[46;1H[K[46;1H[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/math]1;..tech_lab/math[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/math[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=vim combination.py[?1l>
+]2;/usr/local/bin/vim combination.py]1;vim[?1000h[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H[1;46r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[46;1HE325: ATTENTION
+Found a swap file by the name ".combination.py.swp"
+[10Cowned by: zen1   dated: Wed Jul  1 18:48:21 2015
+[9Cfile name: ~zen1/zen/pythonstudy/tech_lab/math/combination.py
+[10Cmodified: YES
+[9Cuser name: zen1   host name: MacBook-Pro-de-Mario.local
+[8Cprocess ID: 13085
+While opening file "combination.py"
+[13Cdated: Mon Jul  6 16:40:23 2015
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r combination.py"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".combination.py.swp"
+    to avoid this message.
+[?1000l
+Swap file ".combination.py.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort:[?12l[?25h[?1000h[46;1H[K[?25l[46;1H"combination.py" 100L, 3277C[38;5;74m[48;5;16m[>c[27m[m[38;5;74m[48;5;16m[H[2J[1;1H[1m[38;5;130m[48;5;16m# coding: utf-8[m[38;5;74m[48;5;16m
+[38;5;182m[48;5;16mfrom[m[38;5;74m[48;5;16m math [38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m factorial
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m itertools
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mmake_tuple[m[38;5;74m[48;5;16m(objects, attributes):
+    [37m[48;5;16m""" 传入两个包含若干元素的iterator, 将该两组元素所有可能的交叉组合的tuple以list形式返[7;1H回  """[m[38;5;74m[48;5;16m
+    tuple_list = []
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m obj [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m objects:[10;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m attr [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m attributes:[11;13Htuple_list.append((obj, attr))
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m tuple_list
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombinate[m[38;5;74m[48;5;16m(elements, unit_range):
+    [37m[48;5;16m""" 根据elements里的元素，返回不重复的所有unit_range个元素的组合 """[m[38;5;74m[48;5;16m
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mfind_tuple_combinations[m[38;5;74m[48;5;16m(objects, attributes, n):
+    [37m[48;5;16m""" 有若干个单位，每个单位有若干种状态，用若干个单位做成一个组，在不重复遍历的情况下[m[38;5;74m[48;5;16m[1m[38;5;254m[48;5;16m>>[m[38;5;74m[48;5;16m[20;1H[37m[48;5;16m将所有组合找出来 """[m[38;5;74m[48;5;16m
+    [1m[38;5;130m[48;5;16m# 将问题转换成x个元素y个一组有多少种组合方式的问题[m[38;5;74m[48;5;16m
+    all_elements = find_tuple_combinations(objects, attributes)
+    tuple_combinations =  combinate(all_elements, n)
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombination_checker[m[38;5;74m[48;5;16m(item_nums, com_range):
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m factorial(item_nums) / (factorial(com_range)*factorial(item_nums-com_range))
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mdefault_combination_checker[m[38;5;74m[48;5;16m(iterable, r):
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(itertools.combination(iterable, r))
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombine_5[m[38;5;74m[48;5;16m(elements):
+    [37m[48;5;16m"""Find all combinations in elements with range 5"""[m[38;5;74m[48;5;16m
+    temp_list = []
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements:[37;9Hcur_index = elements.index(i)[38;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m j [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[39;13Hcur_index = elements.index(j)[40;13H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m k [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[41;17Hcur_index = elements.index(k)[42;17H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m n [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[43;21Hcur_index = elements.index(n)[44;21H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m m [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[45;25Htemp_list.append((i,j,k,n,m))]2;combination.py (~/zen/pythonstudy/tech_lab/math) - VIM[1;1H[?12l[?25h[?1000l[?1002h[?25l[27m[m[38;5;74m[48;5;16m[H[2J[1;13H[1m[33m[48;5;16mpass[m[38;5;74m[48;5;16m[2;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[3;13H[1m[33m[48;5;16mpass
+
+def[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16myield_n[m[38;5;74m[48;5;16m(elements, r, cur_index=-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, temp_list=[]):
+    [37m[48;5;16m""" 自己实现从n个元素中以r个一组，找出所有的独特组合 """[m[38;5;74m[48;5;16m
+    result = []
+    r -= [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m
+    target_list = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ][11;5H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_list:[12;9Hcur_index = elements.index(i)
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mofficial_combination[m[38;5;74m[48;5;16m(iterable, r):
+    [37m[48;5;16m""" official python combination realization """[m[38;5;74m[48;5;16m
+    pool = [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(iterable)
+    n = [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(pool)
+    [1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m r > n:[19;9H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m
+    indices = [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(r)
+    [1m[33m[48;5;16myield[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(pool[i] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m indices)
+    [1m[38;5;173m[48;5;16mwhile[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mTrue[m[38;5;74m[48;5;16m:[23;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mreversed[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(r)):[24;13H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m indices[i] != i + n  - r:[25;17H[1m[33m[48;5;16mbreak[m[38;5;74m[48;5;16m[26;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[27;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m[28;9Hindices[i] += [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m[29;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m j [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(i+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, r):[30;13Hindices[j] = indices[j-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m] + [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m[31;9H[1m[33m[48;5;16myield[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(pool[i] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m indices)
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombine_n[m[38;5;74m[48;5;16m(elements, r, cur_index=-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, L=[]):
+    [37m[48;5;16m"""Find all combinations in elements with range n"""[m[38;5;74m[48;5;16m
+    r -= [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m
+    target_list = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_list:[39;9HL.append(i)[40;9Hcur_index = elements.index(i)[41;9H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m r > [38;5;77m[48;5;16m0[m[38;5;74m[48;5;16m [1m[38;5;173m[48;5;16mand[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(target_list) > [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m:[42;13HL.extend(combine_n(elements, r, cur_index))[43;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m L[44;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[45;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m L[45;13H[?12l[?25h[44;13H[43;13H[42;13H[41;13H[40;13H[39;13H[38;13H[37;13H[?25l[46;1H[1m[38;5;254m[48;5;16m-- INSERT --[37;14H[?12l[?25h[?25l[m[38;5;74m[48;5;16mast = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]]2;combination.py + (~/zen/pythonstudy/tech_lab/math) - VIM[37;15H[?12l[?25h[?25last = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ][37;16H[?12l[?25h[?25lst = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ][37;44H[K[37;15H[?12l[?25h[?25lst = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ][37;43H[K[37;14H[?12l[?25h[46;1H[K[37;13H[?25l[?12l[?25h[36;11H[35;13H[34;13H[35;13H[36;11H[35;8H[34;8H[33;1H[32;1H[31;8H[30;8H[29;8H[28;8H[27;8H[26;8H[25;8H[?25l[46;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[1m[38;5;254m[48;5;16mE37: No write since last change (add ! to override)[25;8H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;1H[K[46;1H:[?12l[?25hq[?25l[?12l[?25h![?25l[?12l[?25h[?25l[?1002l]2;Thanks for flying Vim[46;1H[K[46;1H[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                         ]2;zen1@localhost: ~/zen/pythonstudy/tech_lab/math]1;..tech_lab/math[0m[27m[24m[J[35mzen1[00m[36m@[00m[33mlocalhost[00m[31m:[00m[36m~/zen/pythonstudy/tech_lab/math[00m[31m|[00m[00m[32mloquita[33m⚡[00m[00m
+[36m⇒[00m  [K[?1h=bbash[?1l>
+]2;bash]1;bash[?1034h[01;34mzen1@localhost[00;33m~/zen/pythonstudy/tech_lab/math[32m (loquita)[00m$ vim combination.py
+[?1000h[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H[1;46r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[46;1HE325: ATTENTION
+Found a swap file by the name ".combination.py.swp"
+[10Cowned by: zen1   dated: Wed Jul  1 18:48:21 2015
+[9Cfile name: ~zen1/zen/pythonstudy/tech_lab/math/combination.py
+[10Cmodified: YES
+[9Cuser name: zen1   host name: MacBook-Pro-de-Mario.local
+[8Cprocess ID: 13085
+While opening file "combination.py"
+[13Cdated: Mon Jul  6 16:40:23 2015
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r combination.py"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".combination.py.swp"
+    to avoid this message.
+[?1000l
+Swap file ".combination.py.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort:[?12l[?25h[?1000h[46;1H[K[?25l[46;1H"combination.py" 100L, 3277C[38;5;74m[48;5;16m[>c[27m[m[38;5;74m[48;5;16m[H[2J[1;1H[1m[38;5;130m[48;5;16m# coding: utf-8[m[38;5;74m[48;5;16m
+[38;5;182m[48;5;16mfrom[m[38;5;74m[48;5;16m math [38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m factorial
+[38;5;182m[48;5;16mimport[m[38;5;74m[48;5;16m itertools
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mmake_tuple[m[38;5;74m[48;5;16m(objects, attributes):
+    [37m[48;5;16m""" 传入两个包含若干元素的iterator, 将该两组元素所有可能的交叉组合的tuple以list形式返[7;1H回  """[m[38;5;74m[48;5;16m
+    tuple_list = []
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m obj [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m objects:[10;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m attr [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m attributes:[11;13Htuple_list.append((obj, attr))
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m tuple_list
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombinate[m[38;5;74m[48;5;16m(elements, unit_range):
+    [37m[48;5;16m""" 根据elements里的元素，返回不重复的所有unit_range个元素的组合 """[m[38;5;74m[48;5;16m
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mfind_tuple_combinations[m[38;5;74m[48;5;16m(objects, attributes, n):
+    [37m[48;5;16m""" 有若干个单位，每个单位有若干种状态，用若干个单位做成一个组，在不重复遍历的情况下[m[38;5;74m[48;5;16m[1m[38;5;254m[48;5;16m>>[m[38;5;74m[48;5;16m[20;1H[37m[48;5;16m将所有组合找出来 """[m[38;5;74m[48;5;16m
+    [1m[38;5;130m[48;5;16m# 将问题转换成x个元素y个一组有多少种组合方式的问题[m[38;5;74m[48;5;16m
+    all_elements = find_tuple_combinations(objects, attributes)
+    tuple_combinations =  combinate(all_elements, n)
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombination_checker[m[38;5;74m[48;5;16m(item_nums, com_range):
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m factorial(item_nums) / (factorial(com_range)*factorial(item_nums-com_range))
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mdefault_combination_checker[m[38;5;74m[48;5;16m(iterable, r):
+    [1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(itertools.combination(iterable, r))
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombine_5[m[38;5;74m[48;5;16m(elements):
+    [37m[48;5;16m"""Find all combinations in elements with range 5"""[m[38;5;74m[48;5;16m
+    temp_list = []
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements:[37;9Hcur_index = elements.index(i)[38;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m j [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[39;13Hcur_index = elements.index(j)[40;13H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m k [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[41;17Hcur_index = elements.index(k)[42;17H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m n [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[43;21Hcur_index = elements.index(n)[44;21H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m m [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]:[45;25Htemp_list.append((i,j,k,n,m))]2;combination.py (~/zen/pythonstudy/tech_lab/math) - VIM[1;1H[?12l[?25h[?1000l[?1002h[?25l[27m[m[38;5;74m[48;5;16m[H[2J[1;13H[1m[33m[48;5;16mpass[m[38;5;74m[48;5;16m[2;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[3;13H[1m[33m[48;5;16mpass
+
+def[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16myield_n[m[38;5;74m[48;5;16m(elements, r, cur_index=-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, temp_list=[]):
+    [37m[48;5;16m""" 自己实现从n个元素中以r个一组，找出所有的独特组合 """[m[38;5;74m[48;5;16m
+    result = []
+    r -= [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m
+    target_list = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ][11;5H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_list:[12;9Hcur_index = elements.index(i)
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mofficial_combination[m[38;5;74m[48;5;16m(iterable, r):
+    [37m[48;5;16m""" official python combination realization """[m[38;5;74m[48;5;16m
+    pool = [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(iterable)
+    n = [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(pool)
+    [1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m r > n:[19;9H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m
+    indices = [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(r)
+    [1m[33m[48;5;16myield[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(pool[i] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m indices)
+    [1m[38;5;173m[48;5;16mwhile[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mTrue[m[38;5;74m[48;5;16m:[23;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mreversed[m[38;5;74m[48;5;16m([1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(r)):[24;13H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m indices[i] != i + n  - r:[25;17H[1m[33m[48;5;16mbreak[m[38;5;74m[48;5;16m[26;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[27;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m[28;9Hindices[i] += [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m[29;9H[1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m j [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mrange[m[38;5;74m[48;5;16m(i+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, r):[30;13Hindices[j] = indices[j-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m] + [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m[31;9H[1m[33m[48;5;16myield[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mtuple[m[38;5;74m[48;5;16m(pool[i] [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m indices)
+
+
+[1m[33m[48;5;16mdef[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mcombine_n[m[38;5;74m[48;5;16m(elements, r, cur_index=-[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m, L=[]):
+    [37m[48;5;16m"""Find all combinations in elements with range n"""[m[38;5;74m[48;5;16m
+    r -= [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m
+    target_list = elements[cur_index+[38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m : ]
+    [1m[38;5;173m[48;5;16mfor[m[38;5;74m[48;5;16m i [1m[38;5;173m[48;5;16min[m[38;5;74m[48;5;16m target_list:[39;9HL.append(i)[40;9Hcur_index = elements.index(i)[41;9H[1m[38;5;173m[48;5;16mif[m[38;5;74m[48;5;16m r > [38;5;77m[48;5;16m0[m[38;5;74m[48;5;16m [1m[38;5;173m[48;5;16mand[m[38;5;74m[48;5;16m [1m[38;5;132m[48;5;16mlen[m[38;5;74m[48;5;16m(target_list) > [38;5;77m[48;5;16m1[m[38;5;74m[48;5;16m:[42;13HL.extend(combine_n(elements, r, cur_index))[43;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m L[44;9H[1m[38;5;173m[48;5;16melse[m[38;5;74m[48;5;16m:[45;13H[1m[33m[48;5;16mreturn[m[38;5;74m[48;5;16m L[45;13H[?12l[?25h[44;13H[45;13H[44;10H[1C[1C[1C[?25l
+
+[1m[38;5;254m[48;5;16m-- INSERT --[44;13H[?12l[?25h[?25l[m[38;5;74m[48;5;16melsei:]2;combination.py + (~/zen/pythonstudy/tech_lab/math) - VIM[?12l[?25h[?25li:[?12l[?25h[?25l[44;15H[K[45;1H:[45;13H[K[45;1H[?12l[?25h[?25l[1;45r[45;1H
+[1;46r[44;1H[K[45;1H:[?12l[?25h[?25l[1;45r[45;1H
+[1;46r[44;1H[K[45;1H:[?12l[?25h[?25l[1;45r[45;1H
+[1;46r[44;1H[K[45;1H:[?12l[?25h[?25l[1;45r[45;1H
+[1;46r[44;1H[K[45;1H:[?12l[?25h[?25l[1;45r[45;1H
+[1;46r[44;1H[K[45;1H:[?12l[?25h[?25l[1;45r[45;1H
+[1;46r[44;1H[K[45;1H:[?12l[?25h[?25l[1;45r[45;1H
+[1;46r[44;1H[K[45;1H:[?12l[?25h[?25l[1;45r[45;1H
+[1;46r[44;1H[K[45;1H:[?12l[?25h[46;1H[K[45;1H[?25l[?12l[?25h[44;1H[43;1H[?25l
+
+
+[1m[38;5;254m[48;5;16mrecording[43;1H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;1H[K[43;1H[?12l[?25h[?25l
+
+
+[1m[38;5;254m[48;5;16mrecording[43;1H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;1H[K[43;1H[?12l[?25h[?25l
+
+
+[1m[38;5;254m[48;5;16mrecording[43;1H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;1H[K[43;1H[?12l[?25h[?25l
+
+
+[1m[38;5;254m[48;5;16mrecording[43;1H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;1H[K[43;1H[?12l[?25h[?25l
+
+
+[1m[38;5;254m[48;5;16mrecording[43;1H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;1H[K[43;1H[?12l[?25h[?25l
+
+
+[1m[38;5;254m[48;5;16mrecording[43;1H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;1H[K[43;1H[?12l[?25h[?25l
+
+
+:[?12l[?25hq[?25l[?12l[?25h[?25l[1m[38;5;254m[48;5;16mE37: No write since last change (add ! to override)[43;1H[?12l[?25h[?25l[m[38;5;74m[48;5;16m[46;1H[K[46;1H:[?12l[?25hq[?25l[?12l[?25h![?25l[?12l[?25h[?25l[?1002l]2;Thanks for flying Vim[46;1H[K[46;1H[?1l>[?12l[?25h[?1049l[01;34mzen1@localhost[00;33m~/zen/pythonstudy/tech_lab/math[32m (loquita)[00m$ 

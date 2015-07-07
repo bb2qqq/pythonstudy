@@ -1,0 +1,132 @@
+" Disable auto add hash when copy from texts
+" !!! CAUTION !!! set paste will disable abbreviation setting! don't know why
+"set paste
+
+" Abbreviation
+
+ca csp set spell
+ca ncsp set nospell
+ca pa set paste
+ca tlg TlistToggle
+ca vres vertical resize
+ca rd r!date
+ca rp r!pbpaste
+" Turn PEP8 80 char highlight off
+ca 80off match OverLength /\%8000v.\+/
+filetype plugin on
+
+
+colorscheme mario
+"colorscheme elflord
+syntax enable
+"set background=dark
+"colorscheme solarized
+
+"set hlsearch
+"set autoindent
+"set number
+set title
+set autochdir
+syntax on
+" This will influence the spell error checking result
+set spelllang=en,es,cjk
+set dictionary+=/usr/share/dict/words
+set dictionary+=/usr/share/dict/spanish
+set thesaurus+=/usr/share/dict/mthesaur.txt
+
+
+" allow auto complete only in currrent file
+set complete-=i
+
+" Incremental search will search when you type the first letter
+set incsearch
+
+
+
+" KEY REMAP
+
+" optimize visual select indent
+vnoremap < <gv
+vnoremap > >gv
+"vnoremap <C-c> "*y
+nnoremap <C-e> 2<C-e>
+nnoremap <C-y> 2<C-y>
+
+" vsplit switch optimization
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
+
+" resize current buffer by +/- 5
+" This is miming h,j,k,l behaviour
+nnoremap <F7> :vertical resize -5<cr>
+nnoremap <F8> :resize +5<cr>
+nnoremap <F9> :resize -5<cr>
+nnoremap <F10> :vertical resize +5<cr>
+
+
+
+
+
+" General Identation
+set expandtab | set tabstop=8 | set shiftwidth=4 | set softtabstop=4
+
+
+" Make vim understand that .md is short for .markdown
+filetype on
+autocmd BufNewFile,BufRead *.md setlocal filetype=markdown
+
+
+" PYTHON CONFIG
+" hight-light characters greater than 80
+" hight-light trailing white space with grey
+"autocmd FileType python highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+
+autocmd FileType txt set spell
+autocmd FileType python highlight OverLength ctermbg=red ctermfg=white guibg=red
+autocmd FileType python match OverLength /\%80v.\+/
+autocmd FileType python highlight ExtraWhitespace ctermbg=grey guibg=grey
+" match can only be use once in vimrc, you need use 2match, 3match, [n]match for later match
+autocmd FileType python 2match ExtraWhitespace /\s\+$/
+
+" MARKDOWN CONFIG
+autocmd FileType markdown highlight ExtraWhitespace ctermbg=blue guibg=blue
+autocmd FileType markdown match ExtraWhitespace /\s\+$/
+autocmd FileType markdown set shiftwidth=2
+autocmd FileType markdown colorscheme elflord | set spell
+
+
+" OTHERS
+highlight ExtraWhitespace ctermbg=grey guibg=grey
+match ExtraWhitespace /\s\+$/
+
+
+" MAC CONFIG
+
+set clipboard=unnamed
+
+" ******** file encode ********
+" unix or dos file
+set fileformats=unix,dos
+" euc-cn is alias to gb2312
+" set vi inside coding, must be set when you use gbk or utf-8
+set encoding=utf-8
+" actual file encoding, will set as it except fileencodings load other
+" set fileencoding=gb2312
+set fileencodings=utf-bom,utf-8,gbk,gb2312,gb18030,cp936,latin1
+" terminal encoding
+" even if you set utf-8 in ssh client
+set termencoding=utf-8
+
+" Fix copy paste issues on iterm
+set mouse=nichr
+
+" Allow backspacing everything in insert mode
+" Type   :help backspace   to view details
+set backspace=indent,eol,start
+
+
+" Disable auto insert hash when type newline after a comment line
+" Type   :help fo-table   to view details
+set formatoptions-=cro

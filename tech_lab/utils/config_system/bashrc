@@ -1,0 +1,48 @@
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+        . /etc/bashrc
+fi
+
+# Source code environment paramteres
+if [ -f /home/admin/local_env_config.py]; then
+     source /home/admin/local_env_config.py
+fi
+
+# Zen
+shopt -s extglob
+
+alias plog='tail -f '$CODE_PATH'*'
+alias nlog='pushd /data/sites/nginx/logs'
+alias c='pushd '$CODE_PATH
+alias py='python'
+alias ipy='ipython -i'
+alias pys='pushd /Users/zen1/zen/pythonstudy'
+alias dream='pushd ~/zen/pythonstudy/MAKE_MY_DREAM_COME_TRUE'
+alias dt='. ~/.bashrc'
+alias vb='vim ~/.bashrc'
+alias ls='ls -F'
+alias k='cd ..'
+alias cl='crontab -l'
+# sc is short for trailing whitespace check
+alias sc='ggrep -Enr --color "\s+$" ./'
+
+#Zcomment#    alias grep='grep --color=auto'
+    alias grep='GREP_COLOR="1;33;40" LANG=C grep --color=auto'
+    alias fgrep='fgrep --color=auto'
+    alias egrep='egrep --color=auto'
+
+
+
+##########  FUNCTIONS  ##########
+
+# Search functions
+function f { find ./ -name "*"$*"*"; }
+export -f f
+
+function bs { grep "$1" ~/.bashrc ;}
+export -f bs
+
+function gf { grep -Fnr "$*" --exclude={"local_config.py","pay_info.txt"} ./; }
+export -f gf

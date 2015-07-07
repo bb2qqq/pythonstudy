@@ -1,3 +1,31 @@
+### unzip f.tar.gz type file
+    tar -zxvf f.tar.gz
+> z: unzip, x: extract, v: verbose, f: forcefully done
+
+
+### Forbid prompt message when openning new terminal window 
+    touch ~/.hushlogin
+
+
+### Source file without output on screen
+    source ~/.bashrc > /dev/null 2>&1
+
+
+### Change System default shell
+    sudo chsh -s /path/to/shell username
+
+
+## DATE & TIME
+
+### fastly get current time in readable format
+    time.strftime('%F %T')
+
+### synchronize local date with remote server
+    ntpdate cn.pool.ntp.org
+
+
+
+
 ### SYSTEM ###
 
 Find release version of your Linux system:
@@ -15,7 +43,9 @@ View exit status of the most recent command
 
     echo $?
 
+View network status
 
+    iftop
 
 
 ### FIND ###
@@ -152,7 +182,7 @@ View exit status of the most recent command
 
 * copy file structures with particular file size restriction
 
-	  rsync -a --min-size 1k --max-size 1m original_path /new_destination/
+	  rsync -a --min-size 1 --max-size 1m original_path /new_destination/
 
 * request confirmation before delete a file, and -i option override any previous -f option, but and override -f after -i
 

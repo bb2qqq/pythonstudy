@@ -1,3 +1,28 @@
+1. 尝试为任何的经常性操作找到简便方法
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### General Principle ###
     Emotions and relationship is the essence of a good life,
     and intelligence makes it better.

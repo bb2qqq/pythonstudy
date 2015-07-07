@@ -1,3 +1,34 @@
+### 将url中特殊字符(% + alphanum表示的那些字符)进行转换
+    import urllib
+    converted_str = urllib.unquote(raw_url_str)
+
+### 将一个大列表以n的跨度切割成若干小列表
+    new_list = [raw_list[i:i+n] for i in range(0, len(raw_list), n)]
+
+### 使用文件名字符进行from m import *操作
+    agent = importlib.import_module(module_name)
+    globals().update(vars(agent))
+
+### 将一个python数据转换成json格式
+    import json
+    converted_json_data = json.dumps(raw_python_data)
+
+### 让一个python文件打印自己的所有内容！
+    print open(__file__).read()
+
+### 快速将字符串解析成datetime对象
+    from dateutil import parser
+    datetime_obj = parser.parse(datetime_str, fuzzy=True)
+
+> fuzzy=True会开启模糊模式，忽略一些parser不能识别的字符
+
+### 在cent-OS上给python安装mysql模块
+    # First you shall install mysql-devel, such as:
+    yum install mysql-devel
+    # Then install mysql module in python
+    pip install mysql
+
+
 ### 快速打印格式化的当前年月日和时分秒
     import time
     time.strftime('%F %T')

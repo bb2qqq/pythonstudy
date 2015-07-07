@@ -6,101 +6,109 @@ PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
 
 
 shopt -s extglob
-alias 1='vim /Users/zen1/zen/pythonstudy/1'
-alias logics='vim /Users/zen1/zen/shared/genesis/backend/logics/'
-alias models='vim /Users/zen1/zen/shared/genesis/backend/models'
-alias views='vim /Users/zen1/zen/shared/genesis/backend/views'
-alias utils='vim /Users/zen1/zen/shared/genesis/backend/lib/utils'
-alias core='vim /Users/zen1/zen/shared/genesis/backend/lib/core'
-alias db='vim /Users/zen1/zen/shared/genesis/backend/lib/db'
-alias statistics='vim /Users/zen1/zen/shared/genesis/backend/lib/statistics'
 
-#alias gologics='pushd /Users/zen1/zen/shared/genesis/backend/logics/'
-#alias gomodels='pushd /Users/zen1/zen/shared/genesis/backend/models'
-#alias goviews='pushd /Users/zen1/zen/shared/genesis/backend/views'
-alias goutils='pushd /Users/zen1/zen/shared/genesis/backend/lib/utils'
-alias gocore='pushd /Users/zen1/zen/shared/genesis/backend/lib/core'
-alias godb='pushd /Users/zen1/zen/shared/genesis/backend/lib/db'
-alias gostatistics='pushd /Users/zen1/zen/shared/genesis/backend/lib/statistics'
+# Toys
+alias huge='eval $(thefuck $(fc -ln -1)); history -r'
+alias HUGE='huge'
+
+# Personal directory
+alias utils='pushd /Users/zen1/zen/pythonstudy/tech_lab/utils'
 alias dl='pushd /Users/zen1/zen/shared/download'
-alias ba='. .bashrc'
-alias upload='expect /home/zen/lab/scripts/upload.sh'
-alias gogb='pushd /Users/zen1/zen/shared/genesis/backend'
-alias go_oldtw='pushd /Users/zen1/zen/Abroad_genesis/chaojiyingxiong_fanti'
-alias govt='pushd /Users/zen1/zen/shared/code_port/backend_vietnam'
-alias gotw='pushd /Users/zen1/zen/shared/code_port/backend_taiwan'
-alias gotl='pushd /Users/zen1/zen/shared/code_port/backend_thailand'
-alias goen='pushd /Users/zen1/zen/shared/code_port/backend_english'
-alias goport='pushd /Users/zen1/zen/shared/code_port/'
-alias teleport='sh ~/lab/teleport.sh'
-alias ca='xmodmap $HOME/.speedswapper'
 alias gzd='pushd ~/zen/pythonstudy/creation/zen_dict'
 alias mc='pushd ~/zen/pythonstudy/creation/zen_dict/mcwiki'
 alias alg='pushd ~/zen/pythonstudy/tech_lab/algorithm'
 alias gcien='pushd ~/zen/pythonstudy/grocery/literatura/master_obra'
+alias au='pushd /Users/zen1/zen/automation'
+alias be='pushd ~/zen/pythonstudy/Brain_extension'
+alias gpm='pushd /Users/zen1/zen/pythonstudy/creation/project_manager'
+alias web='pushd /Users/zen1/zen/pythonstudy/creation/web_co_editor'
+alias sys='pushd /Users/zen1/zen/pythonstudy/creation/systematized_work'
+alias zb='pushd ~/zen/zenblog'
+alias mybook='pushd /Users/zen1/zen/pythonstudy/creation/my_book'
+alias m='pushd /Users/zen1/zen/pythonstudy/tech_lab/my_work'
+alias nl='pushd /Users/zen1/zen/new_life/newer_life/normaldocuments' 
+alias book='pushd ~/zen/pythonstudy/book'
+alias cap='pushd /Users/zen1/zen/pythonstudy/Capitalist'
+alias lib='pushd ~/zen/shared/library'
+alias doc='pushd /Users/zen1/zen/shared/doc/normaldocuments'
+
+# COMMANDS
 alias py='python'
 alias ipy='ipython -i'
-alias tec='pushd ~/zen/pythonstudy/tech_lab'
+alias gr='grep'
+alias pd='pushd'
+alias pbc='pwd | pbcopy'
+alias pbp='pbpaste'
+alias ls='ls -F'
+alias gbs='gitbook serve .'
+alias vim='/usr/local/bin/vim'
+alias cl='crontab -l'
+alias k='cd ..'
+alias grep='GREP_COLOR="1;33;40" LANG=C grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+# git
 alias ga='git add'
 alias gb='git branch '
 alias gc='git checkout '
-alias gl='git log'
 alias gd='git diff'
 alias gpl='git pull'
 alias gps='git push'
 alias gs='git status '
 alias gcm='git commit '
-alias py='python'
-alias ipy='ipython -i'
-alias pys='pushd /Users/zen1/zen/pythonstudy'
-alias dream='pushd ~/zen/pythonstudy/MAKE_MY_DREAM_COME_TRUE'
+
+
+# FILE MANIPULATION
+alias 1='vim /users/zen1/zen/pythonstudy/1'
 alias cien='vim ~/zen/pythonstudy/grocery/literatura/master_obra/cien'
-alias bm='pushd /Users/zen1/zen/pythonstudy/tech_lab/bash_mania'
-alias pm='pushd /Users/zen1/zen/pythonstudy/tech_lab/python_mania'
-alias vs='pushd /Users/zen1/zen/pythonstudy/tech_lab/vim_skill'
-alias au='pushd /Users/zen1/zen/automation'
-alias dt='. ~/.bashrc'
-alias vb='vim ~/.bashrc'
-alias be='pushd ~/zen/pythonstudy/Brain_extension'
 alias phi='vim ~/zen/pythonstudy/Brain_Extension/Some_times_I_am_philosophical'
+alias vb='vim ~/.bashrc'
 alias ct='cat ~/zen/pythonstudy/tree_hole'
 alias crt='cat ~/zen/pythonstudy/reasonable_tree_hole'
 alias cj='cat ~/zen/pythonstudy/joke'
-alias gr='grep'
-alias pd='pushd'
-alias gpm='pushd /Users/zen1/zen/pythonstudy/creation/project_manager'
-alias m='pushd /Users/zen1/zen/pythonstudy/tech_lab/my_work'
-alias cap='pushd /Users/zen1/zen/pythonstudy/Capitalist'
+alias dt='. ~/.bashrc'
 alias pyc='vim /Users/zen1/zen/pythonstudy/tech_lab/Pycharm/mac_note.md'
 alias mem='vim /Users/zen1/zen/pythonstudy/Brain_extension/memo'
-alias nl='pushd /Users/zen1/zen/new_life/newer_life/normaldocuments' 
-alias pbc='pwd | pbcopy'
-alias pbp='pbpaste'
 alias zen='vim ~/zen/pythonstudy/book/zen_book/zen.md'
-alias book='pushd ~/zen/pythonstudy/book'
-alias gbs='gitbook serve .'
-alias ls='ls -F'
-alias vim='/usr/local/bin/vim'
-alias lib='pushd ~/zen/shared/library'
-alias r='open ~/zen/shared/library/reading/*'
 alias raw='vim /Users/zen1/zen/pythonstudy/Brain_extension/raw'
 alias fun='vim /Users/zen1/zen/pythonstudy/Brain_extension/fun'
-alias cl='crontab -l'
+
+
+# local code directory
+alias go_oldtw='pushd /Users/zen1/zen/Abroad_genesis/chaojiyingxiong_fanti'
+alias govt='pushd /Users/zen1/zen/shared/code_port/backend_vietnam'
+alias gotw='pushd /Users/zen1/zen/shared/code_port/backend_taiwan'
+alias gotl='pushd /Users/zen1/zen/shared/code_port/backend_thailand'
+alias goen='pushd /Users/zen1/zen/shared/code_port/backend_english'
+alias goab='pushd /Users/zen1/zen/shared/code_port/backend_abstract'
+alias goport='pushd /Users/zen1/zen/shared/code_port/'
+alias gogb='pushd /Users/zen1/zen/shared/genesis/backend'
+alias pys='pushd /Users/zen1/zen/pythonstudy'
+alias dream='pushd ~/zen/pythonstudy/MAKE_MY_DREAM_COME_TRUE'
+alias bm='pushd /Users/zen1/zen/pythonstudy/tech_lab/bash_mania'
+alias pm='pushd /Users/zen1/zen/pythonstudy/tech_lab/python_mania'
+alias vs='pushd /Users/zen1/zen/pythonstudy/tech_lab/vim_skill'
+
+
+# REMOTE HOST
+alias tec='pushd ~/zen/pythonstudy/tech_lab'
+alias old_tec='pushd ~/zen/pythonstudy/old_tech_lab'
+# abroad
+
+
+# Unknown
+alias upload='expect /home/zen/lab/scripts/upload.sh'
+alias ca='xmodmap $HOME/.speedswapper'
+
+
+# Utilities
+alias r='open ~/zen/shared/library/reading/*'
 alias t='ipython -i  ~/zen/pythonstudy/tech_lab/script/zen_py_tool.py'
-alias web='pushd /Users/zen1/zen/pythonstudy/creation/web_co_editor'
-alias sys='pushd /Users/zen1/zen/pythonstudy/creation/systematized_work'
-# MASTER
+alias gl='git log --pretty=format:"%h %<(13) %cn %ci  %d     %s  "'
 alias pro='vim /Users/zen1/zen/pythonstudy/book/notebook/pro_程序员日记'
-alias zb='pushd ~/zen/zenblog'
-
-# nginx
-
-
-#Zcomment#    alias grep='grep --color=auto'
-    alias grep='GREP_COLOR="1;33;40" LANG=C grep --color=auto'
-    alias fgrep='fgrep --color=auto'
-    alias egrep='egrep --color=auto'
-
+alias d='ipython -i /Users/zen1/zen/pythonstudy/creation/decision_maker.py'
+# sc is short for trailing whitespace check
+alias sc='ggrep -Enr --color "\s+$" ./'
 
 
 # Alias definitions.
@@ -125,6 +133,10 @@ git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
 
 PS1='\[\033[01;34m\]\u@\h\[\033[00;33m\]\w\[\033[32m\]$(parse_git_branch)\[\033[00m\]\$ '
+
+# 在当前文件夹下搜索含有关键词的文件或子文件夹
+function f { find ./ -name "*"$*"*"; }
+export -f f
 
 function pme {
                if [ -n "$1" ]
@@ -171,6 +183,9 @@ export -f dea
 export -f dss
 export -f des
 export -f dec
+
+function gf { grep -Fnr "$*" --exclude={"local_config.py","pay_info.txt"} ./; }
+export -f gf
 
 function wk { w3m  "http://en.wikipedia.org/wiki/$*"; }
 export -f wk

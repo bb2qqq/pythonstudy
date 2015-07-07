@@ -15,8 +15,23 @@ ca rp r!pbpaste
 ca 80off match OverLength /\%8000v.\+/
 filetype plugin on
 
+" Load different color them for different types of files
+function! MyColors()
+    if &filetype == ""
+        colorscheme white_mario | set spell
+    elseif &filetype == "markdown"
+        colorscheme white_mario
+    else
+        colorscheme mario
+    endif
+ endfunction
 
-colorscheme mario
+ augroup colors
+     autocmd!
+     autocmd BufNewFile,BufEnter * call MyColors()
+ augroup END
+
+
 "colorscheme elflord
 syntax enable
 "set background=dark
@@ -94,6 +109,7 @@ autocmd FileType python 2match ExtraWhitespace /\s\+$/
 autocmd FileType markdown highlight ExtraWhitespace ctermbg=blue guibg=blue
 autocmd FileType markdown match ExtraWhitespace /\s\+$/
 autocmd FileType markdown set shiftwidth=2
+
 
 
 
