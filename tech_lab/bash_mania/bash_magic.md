@@ -1,3 +1,34 @@
+### Use default value if specified value doesn't exists
+    command ${1:-"default_value"}
+    command ${1:-$2$3}
+
+
+## OUTPUT REDIRECT
+
+### Get input from a file
+    command < input_source
+> For example: `sort < b > a` will sort the content of b and redirect the output to a.
+
+### Redirect error to file
+    command 2> err_log
+
+### Redirect output to one file, and error to another
+    command 2> err_log 1> output
+
+### redirect stderror and stdout together to a file
+
+    command > err_and_output 2>&1  # Method 1
+    command &> err_and_output         # Method 2, for recent version bash
+
+### Print output, errors, and redirect them to file at the same time
+    command |& tee err_and_output
+    command 2>&1 | tee err_and_output
+
+> 2 denotes standard error, while 1 denote standard out, & act as special descriptor
+
+### Get unique(nearly) identifier for Linux machine
+    hostid
+
 ### unzip f.tar.gz type file
     tar -zxvf f.tar.gz
 > z: unzip, x: extract, v: verbose, f: forcefully done
@@ -48,64 +79,7 @@ View network status
     iftop
 
 
-### FIND ###
-
-* find file among special time range
-      find -newermt '2015-01-23'    #  find files newer than the 2015-01-23, include 2015-01-23
-      find ! -newermt '2015-01-23'  #  Here the "!" means "NOT", so, this will find files earlier than 2015-01-23, and not include '2015-01-23', since its the reverse supplement of the previous command.
-      find  -newermt '2015-01-23' ! -newermt '2015-01-24'   # This command will find the file modified just in '2015-01-23'
-
-> if a file is created on "2015-03-01 00:00:00", find -newermt '2015-03-01' won't get it(On Unix find, Linux find untested).
-
-
-* Search file modified between 12-05 08:00:00 to 12-06 00:00:00, with the file size greater than 10MB and samller than 20MB, containing word "quirk" in the file name
-
-	  find -newermt '2014-12-05 8' ! -newermt '2014-12-06' -size +10M -size -20M -name "*quirk*"
-
-* Find files with word "dwarf" in file name and list them out by last modify time
-
-	  find -name "*dwarf*" -exec stat -c "%y %n" {} \;
-
-> ! NEED IMPROVEMENT  this will list all the content while the found file is in
-
-
-* Find file files with particular size print out their total disk usage
-
-	  find -type f -size +5M -exec du {} \; | awk '{total += $1} END {print total}'
-
-
-* Find file files with particular size and delete them
-
-	  find -type f -size +5M -delete
-	  find -type f -size 0k -delete     # delete all empty files
-
-
-* Find file cotains "*pinche*" only on the first level
-
-	  find -name "*pinche*" -maxdepth 1
-
-
-* Find something does not match the option, at here name not contains master, but could be other options
-
-  	  find -! -name "*master*"
-
-
-* Find directory with name containling config in all directories of system
-
-	  find / -type d -name '*config*'
-
-
-* Find files in target directories and mv them to a new directory
-
-	  find *dir_pattern* -type f -name "*" -exec mv {} /path/to/new_dir \;
-	  find . -type d -name "*dir_pattern*" -exec bash -c 'mv "{}"/* /path/to/new_dir' \;
-
->	bash -c treat the string afterwards as a command, here {} is the result of the find command
-
-
-
 ### SED ###
-
 
 
 * find line of file contains keyword and del it
@@ -163,6 +137,7 @@ View network status
 
 	  rsync -chavzP --stats user@remote.host:/path/to/copy /path/to/local/storage
 
+> To copy recursively, add -r flag  
 >	-c for checksum, -v for verbose, -P for progress, -h for human readable format, -z for compress, -a for archive mode  
 >  Be careful!  -c option can check file diffs more exact, but the cost is this could slow the transfer significantly when transferring huge files.  
 
@@ -403,11 +378,6 @@ set +o noclobber                                            # Enable   >
 
 	  date +"%Y%-m%d"
 
-* redirect stderror content to where stdout content goes
-
-	command somefile > target_doc 2>&1
-
-> 2 denotes standard error, while 1 denote standard out, & act as special descriptor
 
 
 * generate ssh key

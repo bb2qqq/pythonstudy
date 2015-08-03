@@ -1,3 +1,31 @@
+
+### Make incremental list or decremental list easily
+    raw data: 0 0
+    command: qa0CTRL-AwCTRL-Xyypq5@a
+    result:
+            1 -1
+            2 -2
+            3 -3
+            4 -4
+            5 -5
+            6 -6
+            6 -6
+
+### Unfold all
+    zR
+
+### Change a file into python list data
+    :%s/^/"/g | %s/$/",/g | 1s/^/[/ | $s/$/]/
+
+### Multiple command abbreviations
+    ca multi_abbr command1 <bar> command2 <bar> command3
+
+### substitue content of last line
+    $s/pattern/result/g
+> .   current line    :.w single.txt  
+> .+1,$   line after current line to end    :.+1,$s/old/new/g
+> .,.5    same (.5 is interpreted as .+5) :.,.5s/old/new/g
+
 ### Solve buftype no write issue(make a file writable)
     set buftype=
 

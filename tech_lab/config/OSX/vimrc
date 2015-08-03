@@ -3,6 +3,12 @@
 "set paste
 
 " Abbreviation
+" wrap all cuurent file datas with python list formats
+
+" wrap all current file datas with python list formats
+" For more discussion between <bar> and |, visit:
+" http://stackoverflow.com/questions/31427172/why-my-multiple-command-vim-command-mode-abbreviation-will-be-executed-automatic/31427473?noredirect=1#comment50827919_31427473
+ca ml %s/^/"/g <bar> %s/$/",/g <bar> 1s/^/[/ <bar> $s/$/]/
 
 ca csp set spell
 ca ncsp set nospell
@@ -20,7 +26,7 @@ function! MyColors()
     if &filetype == ""
         colorscheme white_mario | set spell
     elseif &filetype == "markdown"
-        colorscheme white_mario
+        colorscheme mario
     else
         colorscheme mario
     endif

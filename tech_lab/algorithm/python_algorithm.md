@@ -1,4 +1,4 @@
-> Resources for algorithm practice:  
+I> Resources for algorithm practice:  
 > https://projecteuler.net/archives  
 > https://leetcode.com/  
 

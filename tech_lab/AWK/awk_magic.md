@@ -482,6 +482,7 @@ awk里除了一些常规内置变量，还有一些内置函数，以下是常�
 
       awk 'BEGIN {total=0} {$total+=$1} END {print $total}' file/pipe_stin
 
+> 此范例有问题，待测试查找(Fri Jul 31 10:58:38 CST 2015)
 > 作为编程语言，awk可以声明变量，并为其赋值， 此处我们声明了一个total变量，并将每行第一列的值与其相加，在最后打印total的值。
 
 [1]: http://www.grymoire.com/Unix/Awk.html#uh-1

@@ -1,5 +1,9 @@
 ## GREP ##
 
+### Non greedy search
+    grep -P 'a*?b+?c??'
+> By default, grep doesn't support non greedy search, and -P means enable the Perl style regex, which support non greedy search.
+
 ### Print pattern only in result
     grep -o pattern files
 
