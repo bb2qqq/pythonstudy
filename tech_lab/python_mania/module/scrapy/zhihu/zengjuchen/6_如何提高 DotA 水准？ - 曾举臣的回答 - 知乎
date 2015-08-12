@@ -1,0 +1,1013 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>如何提高 DotA 水准？ - 曾举臣的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/13886700">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/19950401/answer/13886700">
+<meta id="znonce" name="znonce" content="6e7740b4aca64214803e1794ef10a274">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/19950401" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19550994"
+data-tip="t$b$19550994" data-token="19550994" data-topicid="253">
+游戏
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19563447"
+data-tip="t$b$19563447" data-token="19563447" data-topicid="4391">
+DotA
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19575365"
+data-tip="t$b$19575365" data-token="19575365" data-topicid="8391">
+角色扮演游戏（RPG）
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/19950401">如何提高 DotA 水准？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="160139" data-action="/question/detail">
+
+<div class="zm-editable-content">不知道知乎里面有DOTA爱好者没呢？</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>1 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="160139" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/19950401" class="zg-link-litblue">查看全部 45 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="674650"
+data-atoken="13886700"
+data-collapsed="0"
+data-created="1329664294"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-674650"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">6</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zengjuchen"
+class="zm-item-link-avatar"
+href="/people/zengjuchen">
+<img src="http://pic2.zhimg.com/5acfa84d9_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic2.zhimg.com/5acfa84d9_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zengjuchen" href="/people/zengjuchen">曾举臣</a>，<strong title="世界和我想的不一样" class="zu-question-my-bio">世界和我想的不一样</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="6">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$plato-plato" href="http://www.zhihu.com/people/plato-plato" class="zg-link" title="Plato Plato">Plato Plato</a>、</span><span class="user-block"><a data-tip="p$t$sui-feng-er-xing-53" href="http://www.zhihu.com/people/sui-feng-er-xing-53" class="zg-link" title="随风而行">随风而行</a>、</span><span class="user-block"><a data-tip="p$t$nai-mao" href="http://www.zhihu.com/people/nai-mao" class="zg-link" title="奶猫">奶猫</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="160139" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">玩1万把，追求胜利地玩，提升了水平之后马上去和更高水平的人玩，不要留恋虐菜。<br><br><br>不过从我个人的经历来说，不希望你花那么多时间在上面。Have fun是最重要的，很多人迷失了，我曾经算一个。<br><br>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="674650-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2012-02-19" target="_blank" href="/question/19950401/answer/13886700">编辑于 2012-02-19</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="3034428"
+data-atoken="19634292"
+data-collapsed="False"
+data-created="1382722426"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="70">70</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">70</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$ekooooooo" href="/people/ekooooooo">Ekooooooo</a>，<strong title="屁都不会" class="zu-question-my-bio">屁都不会</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="70">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$hao-jia-huo-72" href="http://www.zhihu.com/people/hao-jia-huo-72" class="zg-link" title="林森">林森</a>、</span><span class="user-block"><a data-tip="p$t$chen-guan-jie-14" href="http://www.zhihu.com/people/chen-guan-jie-14" class="zg-link" title="陈冠杰">陈冠杰</a>、</span><span class="user-block"><a data-tip="p$t$zhida-sun" href="http://www.zhihu.com/people/zhida-sun" class="zg-link" title="子清">子清</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="160139" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">用屠夫，站在上路树林后，对对面打字说：宙斯你个开挂的垃圾！<br>然后宙斯打字回骂时，T+R+D，收钱走人。<br>2分钟后，站在中路树林后对对面打字说：宙斯你个开挂的垃圾！<br>然后影魔切屏去关注队友宙斯是否再次上当时，T+R+D，收钱走人。。<br><br>============================================<br>来知乎不久，不清楚知乎的精神，后来知晓了，自感答案不能帮到题主，有些惭愧，特意来补充一下。<br>先提示下，我是6.2X至6.48时候的高强度玩家（每天持续N小时），6.48过后，跳刀改版后就逐渐减少了，差不多有两年多没玩过了，可能很多改动是我不知道的，我就按照自己知道的版本说吧，虽然细节不同，但思路都是相同的。<br><br>首先你要明白，这个游戏里，<b>拆掉对方老家＞总体战术＞团战＞GANK与反GANK＞线上杀人于被杀＞线上压制与反压制＞补刀打野。</b><br>至于补刀，技能释放之类的，随着你玩，总会熟练，既然要提高，必定是要突破瓶颈，有些瓶颈不是练习多少的问题，是思路的问题。<br>比如好几年前跟基友玩，我方阵容偏前期，没有后期的核心C，对方阵容有一个强力后期C，对手的C也是个高手，对方通过逐渐熟练的配合，在中后期逐渐扭转了劣势，他们的核心C大件一个又一个，我们团战总是最终倒在他的手下，异常无奈。<br>眼看团战毫无胜算，我方的小Y毅然决定最后一搏，把正要出的羊刀换成了刷新，加上之前有的A仗，已经是A+刷的配置了<br>然后我们四人洋装推进上路，对手由于团战有明显优势了，主动出击迎战，我方四人洋装逃跑太慢，一个接一个的边跑边送人头，连送了3个，此时小Y已经把兵线带上了下路高地，下路的塔在之前已经被我们破掉，小Y飞奔到对方基地下面顶住塔放下了2捆蛇棒，疯狂的A对方的塔。此时发现情况不妙的对手，迫于已经追出来很远，有TP的几个人急忙TP回城，我们的跳刀潮汐突然跳出，一个大招，打断了TP，最终潮汐被速度干翻，但他们基地也被干翻了。<br><br>你打多少钱固然越多越好，但一切基础都是为了更上层的目标服务的，你的技能加点顺序，你的出装选择等等，不应该固化，而应为了更上层的目标去准备最合适的搭配，比如能秒掉对方一个棘手的家伙，团战就会赢，但爆发技能不够，即使是蚂蚁出个达贡之神力也可以。比如对方AOE很强，在开团的第一瞬间把你们打成死血，团队需要一个能及时赶到的回复支援，如果有了MEK的回血就可以反打赢，但无奈总是对方潮汐先跳大，你们的MEK携带者无法及时开启，那么就可以考虑让敌法出MEK，开团时他在后面，第一任务就是跳进去开MEK，因为让别人出没有用，让敌法出反而有奇效。<br><br>最后建议你多了解一下DOTA的“冷知识”，因为很多往往很有效果，比如对方有一个恶心的全能，团战开打后，一个大招就让本方束手无策，但狂战斧的溅射效果是无视全能大招的，也就是说一个出了辉耀大炮的近战C，不如出两个狂战，因为他A的那个英雄虽然不掉血，但旁边被溅射到的是会掉血的，如果是这样的情况，就可以让本方的黑暗游侠打辅助，让MAG打主C，因为MAG出了2个狂战，再加上自身的提高攻击力，一个大招又能把人拉到一起，可以在很大程度上费掉对方恶心的全能。<br>有时候一个冷知识可以改变战术，战术得到了正确的改变，就可以把"被人恶心”变成“恶心别人”，从而打乱对方节奏，奠定胜势。<br>如果你是黑暗游侠，你疯狂打钱，出装备，最终还起不到作用，不如主动交出老大位置给MAG。前提是你对于这个5个人配合的游戏的理解，把它当做5个人到游戏玩，而不是1个人的游戏，否则你永远不会甘心让位的。<br>举例可能不算恰当，你能理解主要思路就好了。精简成一句话就是，<b>不断提高你对DOTA这个游戏的理解，理解的境界越高，你苦练的基本功才能发挥更大的作用。</b><br><br>对了，屠夫那个是真的，当年VS还没人去玩的时候，跟基友在HF上海1房打拼，那时候一有外挂就会迅速泛滥，没人监管，大家对于开挂也很敏感，这招屡试不爽，如果对手没上当，我就再打几遍提醒他........喂，宙斯，说你呢 先别补了，回答我！！。。。。。。fresh meat~~~
+<a href="/question/19950401/answer/19634292" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="3034428-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-10-26" target="_blank" href="/question/19950401/answer/19634292">编辑于 2013-11-16</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>11 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="1556304"
+data-atoken="16067715"
+data-collapsed="False"
+data-created="1359612683"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="74">74</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">74</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$luo-chang-18" href="/people/luo-chang-18">罗畅</a>，<strong title="@百词斩" class="zu-question-my-bio">@百词斩</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="74">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$chen-guan-jie-14" href="http://www.zhihu.com/people/chen-guan-jie-14" class="zg-link" title="陈冠杰">陈冠杰</a>、</span><span class="user-block"><a data-tip="p$t$zhang-tai-wei-39-58" href="http://www.zhihu.com/people/zhang-tai-wei-39-58" class="zg-link" title="張泰維">張泰維</a>、</span><span class="user-block"><a data-tip="p$t$zheng-xu-67" href="http://www.zhihu.com/people/zheng-xu-67" class="zg-link" title="郑旭">郑旭</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="160139" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">我是这样提升DOTA的：<br><br>1、 基本功： 所有人都知道的是补刀，但是怎样练习补刀呢？怎样在补刀的同时控好线呢？怎样能最快的熟悉英雄弹道呢？---单机选SF，不加点不买装备出门，走中路，10分钟50刀，就算一个合格的选手了。这也是当年老版本dota战队招人的基础入门条件。而选英雄裸体不加点单中的另一个好处，就是你想10分钟50刀，还必须会控线，否则你一直A兵，推线，在塔下，你裸体SF是基本不可能补到兵的，这样每天练习3-5局，2周以后，你补刀和控线的感觉会提升一个档次，刻苦练习一个月，基本就出师了。（途中可更换各种弹道让你蛋碎的英雄，比如CM之类）<br><br>2、 对局感觉（gank时机、节奏、什么时候团、如何放技能、hit&amp;run）： 这里没有技巧，我说一个，我们当时练习技术的方式。在VS新建一个账号，从低级房开始打起，1-7级，都手选QOP、pom、sf之类既能前期杀人，又能后期DPS的英雄，走中路，一直打到7级。（我基本是手到9级左右（当时VS1房是13级），每个英雄起码连续打2周到一个月），这样的好处是能保证你很快的熟悉节奏、深刻的理解每一个英雄，你要去思考，前期劣势怎么出装备，前期优势怎么打，前期你优势队友劣势怎么打，坏处是，你会缺乏一些团队能力和团队思维；然后7级以后，手选辅助类英雄CM、ES、LICH之流，主动买J眼，变鸟，从另一个角度去理解DOTA，好处是你的大局观和对团战的理解会上升很多，坏处是，基本功会极速下降。<br><br>3、 大局观和细节：这是区分一个还不错的路人选手和一个有实力的路人选手的核心点，没有其他，跟着好基友或一个线上组织，多打CW，你就会明白，原来路人里的那些坏习惯，有多坑爹。什么对拼之前偷偷吃一棵树，可能就会赢啊；什么打团之前要先算自己的mana啊；什么打野的时候要看时间，可以多拉一波，经济会快很多啊；慢慢的，就能养成良好的习惯。<br><br>4、 习惯和反应速度：很多人佩服PIS在自己视频里秀的各种手速和极限反应，这个除了天分以外，其实也是有办法练习的。比如，以前的SF练习图，队里5人混战，什么时候用技能，什么时候躲阴影，对于你个人的操作会有很多的帮助；另外有一张我们队练习最爱的RPG图，我忘记名字了，就是几个忍者互相丢技能的图，你可以躲避技能，可以隐身过去偷袭，这纯粹拼的就是反应速度和提前判断，这个图对于提升你的反应速度和养成良好的操作习惯十分有帮助。<br><br>5、 找到一群好基友：这个是核心，以上所有，没有基友，早就打GG了。<br><br>以上。
+<a href="/question/19950401/answer/16067715" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="1556304-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-01-31" target="_blank" href="/question/19950401/answer/16067715">编辑于 2013-01-31</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>22 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/19950401" class="zg-link-litblue">查看全部 45 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:19950401}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="160139">关注问题</button>
+
+264
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="9c03606cf175b72043dc498742655c13" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="曾举臣"
+data-tip="p$t$zengjuchen"
+class="zm-item-link-avatar"
+href="/people/zengjuchen">
+<img src="http://pic2.zhimg.com/5acfa84d9_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$zengjuchen" href="http://www.zhihu.com/people/zengjuchen" class="zg-link" title="曾举臣">曾举臣</a></h2>
+
+<div class="zg-big-gray">世界和我想的不一样</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/zengjuchen/followers" class="zg-link-gray-normal">3476 关注者</a>
+/
+<a target="_blank" href="/people/zengjuchen/asks" class="zg-link-gray-normal">183 提问</a>
+/
+<a target="_blank" href="/people/zengjuchen/answers" class="zg-link-gray-normal">158 回答</a>
+/
+<a target="_blank" href="/people/zengjuchen" class="zg-link-gray-normal">7398 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:19950401}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/19950401/answer/13886700/collections">2</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1401872616">
+<h2 class="zm-item-title ">
+<a href="/collection/37525462">An</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/ban-pu-jiang-jun-25" data-tip="p$t$ban-pu-jiang-jun-25" class="zg-link-litblue"> 班普将军 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37525462/followers">2 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1385120862">
+<h2 class="zm-item-title ">
+<a href="/collection/29520389">好的</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/qi-ping" data-tip="p$t$qi-ping" class="zg-link-litblue"> 齐平 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/29520389/followers">0 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20223843">DotA 的魅力在哪？</a> <span class="num">78 个回答</span><meta itemprop="followerCount" content="289" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20554707">如何提高玩「魔兽世界」的水准？</a> <span class="num">34 个回答</span><meta itemprop="followerCount" content="89" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21142651">为什么dota这么重要？</a> <span class="num">9 个回答</span><meta itemprop="followerCount" content="13" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21348405">怎么打好dota？</a> <span class="num">9 个回答</span><meta itemprop="followerCount" content="25" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20357363">DotA 是否有速成法？</a> <span class="num">21 个回答</span><meta itemprop="followerCount" content="47" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19665205">DotA 的魅力究竟在哪？</a> <span class="num">101 个回答</span><meta itemprop="followerCount" content="352" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20676560">DotA 是如何设计出新英雄的？</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="85" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19818893">Dota 2 和英雄联盟的前景哪个比较好？为什么？</a> <span class="num">73 个回答</span><meta itemprop="followerCount" content="233" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21193986">为什么那么多人玩DOTA？</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="9" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20281028">Dota和WoW是什么关系？有什么区别？</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="11" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2012-02-19</span>
+</p>
+<p>
+所属问题被浏览 <strong>22309</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:19950401}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439369001000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":160139,"urlToken":19950401,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="6e7740b4aca64214803e1794ef10a274">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="3f2cd7efa1abc748a7dc350f9dc407b3"/>
+</body>
+</html>

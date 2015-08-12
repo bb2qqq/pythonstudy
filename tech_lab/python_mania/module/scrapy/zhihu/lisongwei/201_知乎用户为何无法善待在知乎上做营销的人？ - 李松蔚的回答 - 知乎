@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>知乎用户为何无法善待在知乎上做营销的人？ - 李松蔚的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/29166324">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/24830946/answer/29166324">
+<meta id="znonce" name="znonce" content="f90cdf27f05546aa9e61e791bb96f8ef">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/24830946" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19550887"
+data-tip="t$b$19550887" data-token="19550887" data-topicid="220">
+知乎社区
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19551432"
+data-tip="t$b$19551432" data-token="19551432" data-topicid="404">
+心理学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19551536"
+data-tip="t$b$19551536" data-token="19551536" data-topicid="439">
+知乎用户
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19690996"
+data-tip="t$b$19690996" data-token="19690996" data-topicid="47054">
+营销心理
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/24830946">知乎用户为何无法善待在知乎上做营销的人？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="2114359" data-action="/question/detail">
+
+<div class="zm-editable-content">为何明明知乎已经提供了“不感兴趣”和“取消关注”这两个功能，还是有人摆着这两个功能不用，屡屡做出攻击性行为？<br><br>再说，看一条营销问答又不会掉根毛，就算你不想看，你怎么知道别人也不想看？<br><br>为什么不能只管自己？</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>23 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="2114359" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/24830946" class="zg-link-litblue">查看全部 74 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="7049740"
+data-atoken="29166324"
+data-collapsed="0"
+data-created="1407943240"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-7049740"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">201</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic3.zhimg.com/7b0114ec2_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lisongwei" href="/people/lisongwei">李松蔚</a>，<strong title="欢迎关注微信公众号：therapistlsw" class="zu-question-my-bio">欢迎关注微信公众号：therapistlsw</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="201">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$oface-ace" href="http://www.zhihu.com/people/oface-ace" class="zg-link" title="oface ace">oface ace</a>、</span><span class="user-block"><a data-tip="p$t$yicong-65" href="http://www.zhihu.com/people/yicong-65" class="zg-link" title="一骢">一骢</a>、</span><span class="user-block"><a data-tip="p$t$four-may" href="http://www.zhihu.com/people/four-may" class="zg-link" title="four may">four may</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="2114359" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">知乎的产品设计决定了用户关系中的一对矛盾动力：<br><br>一方面，知乎的社交媒介属性致力于让用户与用户的关系变得更近，促成来自不同地域、不同身份、不同职业背景，和不同阶层的用户进行直接对话。人与人之间的界限被打破了。而「问答」这种表达方式，跟写文章不同，本身带有极强的互动属性，客观上消弭了用户之间的身份鸿沟。回答问题代表着一种对提问者的关注，每当看到各行各业的大牛耐心细致地解答那些看似初级的问题，为了素不相识的人们的好奇心，甘愿付出那么多时间精力的时候，除了让我感叹世界之大，往往还会感动莫名。而赞同、感谢和评论的机制，也让我感受到能与这些答案的创作者产生直接的关系。最初上知乎时，真有「我靠，原来跟他们的距离可以这么近」的惊喜，就像最初在《独唱团》看到「所有人问所有人」那个栏目时的兴奋。我一直认为这是互联网社交，尤其是知乎最迷人的地方之一。<br>但是请允许我指出，这种越来越近的人际关系，本质上还摆脱不了网络社交的属性，仍然属于一种「弱联结」。弱联结的特点是追求关系的快速建立，广阔交游。情绪表达停在表面，有时口无遮拦，不顾他人感受。对于任何一段关系，彼此都是对方的过客，没那么重视，也重视不过来。凡是网上的社交，无论人人、微博、朋友圈，发展到一定程度时，都会有这种及时行乐的酒肉气。比如有的人在网上随口骂人「脑残」，其实换到现实生活中，说起话来唯唯诺诺；又或者在网上随意发信约炮，但现实中遇到喜欢的女生，就没胆子表现出那份猥琐。——总之，一上网就不在乎，想说就说，反正你也不认识我是谁，得罪就得罪了，你能拿我怎么样？拜拜，说话的对象还多得很。<br><br>而另一方面，「认真」作为知乎一直极力推崇的精神品质，某种程度上在试图突破「弱联结」的关系限制。认真意味着深入，当人们认真思考，认真提问，认真回答，认真点赞，以及认真讨论的时候，我们的关系开始走向严肃，默契，相互有了共鸣。我本人就在知乎上结交了好几段这样的关系，这是在其它社交网络从未有过的体验。素未谋面的知友，一见如故，长谈到深夜也不会困倦。这也是知乎特别有魅力的一点，认真的人在这里气味相投，真诚相待，竟可以向「强联结」转化。<br>但是这种偏向深入的关系，本质上与前一种及时行乐的交游难以兼容。「弱联结」是乱哄哄你方唱罢我登场，「强联结」则是平淡如水的君子之交。两者相遇，彼此都会消化不良。就好像一帮醉醺醺的，浑身散发着荷尔蒙气息的浪荡子，抱着去夜店呼朋引伴痛饮狂欢的心态参加了一个PARTY，打开门却是一个安静的沙龙，人们在那里坦诚分享，友好交流，彼此守礼而秩序井然。受这种氛围影响，浪荡子多半会采取两种行动之一，或者大呼小叫地吹着口哨一通乱赞，或者啐一口痰：<br>「我呸！」他们说，「不就是为了约炮吗，装得那么人模狗样干嘛？」<br>我翻译一下这两种行动的意思，其实都是在说：<br>「<b>你们这么认真，搞得我差点觉得不属于这里了。这样不好，希望大家像我一样放开点。</b>」<br><br>前段时间，我遇到一个以前的同学，他对我说：我看了知乎，你现在很能写啊！<br>我说：哪里哪里，随便写着玩的。<br>他一听，赶紧摇头：怎么能是写着玩的？觉得你花了很多时间啊！<br>然后他询问我的工作情况，最近在忙什么，当他得知其实我很忙所以是各种挤出时间在知乎上写东西的时候，他很有把握地说：其实这也是一个打广告的办法，可以拉不少生意，对吧？<br>我只好说：对对对，确实有很多人看了这些东西来找我。<br>这时候，我很清楚地观察到，有那么一刹那，他露出了一种如释重负的表情。<br>他好像是松了一口气，说：我就知道，我就知道。<br>他那一瞬间如释重负的表情，现在还映在我脑子里。在那之前，他跟我说话时一直有种紧张和不自然，好像我和他之间隔了什么东西。多少带着一丝不理解吧，我猜。但我说完那句话之后他就放松了。他的心理活动应该是：还好还好，只是打广告，<b>这个人的行为我可以理解了</b>。<br>我觉得，很多人对「营销」的敏感，本质上起到的是同样的一个功能。<br><br>如果一个人想在知乎上做营销又不想被骂，只要做一件事就好了：<br>在每篇回答和文章前面，加一段利益申报，或者直截了当地说：看好了，我在做广告。<br>相信我，这样反而不会有多少人介意你的营销行为，说不定还会赞你坦诚。因为你大方地承认了：我就是别有用心的。我来知乎是出于私利，不是为了什么认真啊，分享啊，发现更大的世界啊……于是在酒肉快活的人眼里，你跟他们并不矛盾，你的行为动机可以被理解了，干杯。<br>——只要你别跟我提认真，我们听不懂，我们觉得那太假了。<br>真正让这些用户生气的，是那种拒不承认营销的「营销」。你说不是营销，那是什么？难不成你一点都不为私利吗？总是有利可图的吧？还敢不承认？嘴硬！当我们是傻子？……<br>抓不住把柄的时候，他们暗暗不爽，反复猜疑。<br>一旦抓住了把柄，那就没什么好说了：打，吊着打。<br>这样就好了嘛，吐吐槽，灌灌水，聊天打屁，屁完走人。谁也不认识谁，这样多轻松多自在，有什么好认真的呢？你笑我是段子手，我说你是营销狗。大家都是屁，谁也别装逼。<br>这背后隐藏着一种动力：弱联结的用户总在尝试用自己的框架去解构强联结的用户行为，试图把他们拉回到自己能理解的范畴。他们需要待在一个自己可以理解的环境里，这样会玩得更安心。这种理解越困难，他们越会绞尽脑汁地去挖掘「隐秘的真相」，同时怒气暗生。这方面，就算是卷入不深的用户如我，也已经不知道多少次被要求自证清白。我为什么来知乎答题呢？博眼球，装逼，秀优越感，这是最通常的解释。好在我没有为任何产品做广告。但是，我总为自己做了广告吧？我反复提到自己是个心理咨询师，又在心理咨询这个话题下骗了那么多赞，我的目的不是很明显么。<br>所以这种反营销的情绪发展到极致就是：所有大V都在营销，至少他们在卖自己。鄙视他们。<br><br>当然了，两种关系碰撞的结果可想而知：弱联结毫无疑问地会成为赢家。<br>你坐在咖啡馆正跟朋友聊天呢，一个醉汉嘻嘻笑着凑到你身边：营销狗！来打营销狗！<br>你不知道他到底想说什么，你也不会解释你为什么不是营销狗，唯一的反应只能是站起身。<br><b>时间到了，该离开了。</b><br><br>抱歉，原本应该说得更平和些。但是目睹了昨天的事，实在有点做不到。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="7049740-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-08-13" target="_blank" href="/question/24830946/answer/29166324">编辑于 2014-08-13</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>30 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7037069"
+data-atoken="29134404"
+data-collapsed="False"
+data-created="1407894662"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="186">186</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">186</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$aton" href="/people/aton">苏莉安</a>，<strong title="kanzhihu.com，答案精选" class="zu-question-my-bio"><a href="http://kanzhihu.com" class="internal"><span class="invisible">http://</span><span class="visible">kanzhihu.com</span><span class="invisible"></span></a>，答案精选</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="186">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$four-may" href="http://www.zhihu.com/people/four-may" class="zg-link" title="four may">four may</a>、</span><span class="user-block"><a data-tip="p$t$zhong-ba-80" href="http://www.zhihu.com/people/zhong-ba-80" class="zg-link" title="钟巴">钟巴</a>、</span><span class="user-block"><a data-tip="p$t$deviluvatar" href="http://www.zhihu.com/people/deviluvatar" class="zg-link" title="白浪巅儿">白浪巅儿</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2114359" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">知乎的群众运动最近愈演愈烈了。<br>每次的理由都很冠冕堂皇：这样下去会毁了知乎，所以我们要干掉它。<br><br>起先是反对抖机灵，结果呢？从微博搬段子的、讲不好玩的笑话的仍然到处都是，反而是一些精辟的一句话答案，甚至2011、12年的旧答案，都被折叠了起来。<br>感觉就像文革时大家昨天还一团和气，今天就把其中一位揪出来游街：「你二十年前批评过毛主席！」<br><br>然后又搞出一次反对讲故事。<br>反对就反对吧，结果仍然有好多讲故事的，只是不像以前那样动辄赞同几千而已，架不住仍然有人喜欢有人爱看。<br>被伤及的仍然是一大堆老故事帖，有的被折叠了，有的挨了一堆反对跑到底下去了。<br><br>最近又开始打击营销，没错，我以前也打击过，但那种很low的、僵尸号互相点赞的方式本来就该打击，连许多人看不上的微博也在打击。<br>但只要提及品牌名就是广告、稍作推荐就肯定是收了钱，这样的诛心是不是过了？<br><br>包括以前群起而攻刘念、吴遇安时也是，他们的营销low不low、产品差不差先放在一边，这种群众狂欢式的落井下石我就很反感。<br>但还是避免不了，因为人性总是有这种看出殡不怕殡大的地方，特别是以前越风光，看人家倒霉就越开心。<br><br>真正成功的营销哪这么容易被看出来呢。<br><br>想到《黄金时代》里说，<br>「那里的人习惯于把一切不是破鞋的人说成破鞋，而对真的破鞋放任自流。」<br>「大家对这种明火执杖的破鞋行径是如此的害怕，以致连说都不敢啦。」<br><br><br>再加一句，在葛巾心灰意冷走掉之后，大家又开始怒喷两个本次事件的始作俑者，以至于将他们两位也逼走。<br><b>这种「骆驼被压死了，把最后那根稻草千刀万剐」式的群众狂欢我也很讨厌。</b>
+<a href="/question/24830946/answer/29134404" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7037069-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-08-13" target="_blank" href="/question/24830946/answer/29134404">编辑于 2014-08-14</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>17 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7037160"
+data-atoken="29134612"
+data-collapsed="False"
+data-created="1407895045"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="469">469</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">469</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$tao-zi-de-tao" href="/people/tao-zi-de-tao">我桃桃渡河而来</a>，<strong title="人无趣不可与交" class="zu-question-my-bio">人无趣不可与交</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="469">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$four-may" href="http://www.zhihu.com/people/four-may" class="zg-link" title="four may">four may</a>、</span><span class="user-block"><a data-tip="p$t$kai100" href="http://www.zhihu.com/people/kai100" class="zg-link" title="KAI100">KAI100</a>、</span><span class="user-block"><a data-tip="p$t$jiang-yong-hang" href="http://www.zhihu.com/people/jiang-yong-hang" class="zg-link" title="蒋甬杭">蒋甬杭</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2114359" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">这个问题，刚刚在TL看到并关注的时候，还有些奇怪，然后顺着TL继续往下看，呵呵，明白了。<br><br>废话不多说，咱们把这道题分为三个部分吧。<br><br>（本篇回答不可避免会夹带私货，即有私人情感部分，请随意点反对+没有帮助，还是那个问题——我没有专栏，但又想说话。想看与本题有关的答案的话，请看最后。）<br><br><b>1、您所认为做了营销的人，真的做了营销？在对您认为做了营销的人反感与口诛笔伐之前，可否确认事实？可否多方取证？您不是理智又理性的知乎er吗？</b><br><br><img src="http://pic4.zhimg.com/c0908bbcfed7f2d10ab03c9c1b0f2033_b.jpg" data-rawwidth="791" data-rawheight="402" class="origin_image zh-lightbox-thumb" width="791" data-original="http://pic4.zhimg.com/c0908bbcfed7f2d10ab03c9c1b0f2033_r.jpg"><br>被怀疑者立刻就上来解释了。<br><br><img src="http://pic3.zhimg.com/ff59cd9777c0469768d89d844f5a773e_b.jpg" data-rawwidth="665" data-rawheight="172" class="origin_image zh-lightbox-thumb" width="665" data-original="http://pic3.zhimg.com/ff59cd9777c0469768d89d844f5a773e_r.jpg"><br>请注意时间。<br><br><b>2、被推荐产品真的那么差劲？</b><br><br>其实昨天关于刀的那篇专栏我看到得很早，但当时想了一想，没想出来是指哪一位，所以没有继续追后文。现在那篇专栏也已经删了，我也只能记得那篇专栏中摘取了不少淘宝知乎er的差评，比如刀砍了骨头卷刃之类，老实说，挺可笑的，因为我们家从来不用菜刀砍骨头，<b>我还以为这是常识</b>。<br><br>咱们一起来看看。<br><br>在该店销量最好的商品下，有1357条评论，追评72条。<br><br>72条追评的内容比例如下：<br>缺口3<br>钝2<br>刀侧面沾菜1<br>锈6<br>刀太小太轻1<br>刀柄不上档次、改进把手材质2<br>广告2<br>砍冻肉崩裂1<br>剩余54条好评，占全部追评2/3以上，其中包含自己满意老妈满意丈母娘满意以及抱怨太锋利切到手让大家务必担心若干。<br><br>差评中，缺口、钝、锈、崩裂是直接与菜刀本身品质有关。<br><br>比如这是出现在专栏里被作为例证截图的那位——<br><img src="http://pic3.zhimg.com/4714f666e44454759a50d1a5bc28f7d6_b.jpg" data-rawwidth="498" data-rawheight="487" class="origin_image zh-lightbox-thumb" width="498" data-original="http://pic3.zhimg.com/4714f666e44454759a50d1a5bc28f7d6_r.jpg">是哥的问题还是刀的问题，很明显吧。<br>切肉能切成这样？这么大的一个缺口？什么肉比不锈钢还硬？<br>（顺便一说，这位顾客是冲着店里的奖品去买的，不是来自知乎。）<br><br>所以昨天有知乎用户如此说——<br><img src="http://pic1.zhimg.com/f9a6802bad9c0ed44388808e1a6734b0_b.jpg" data-rawwidth="660" data-rawheight="197" class="origin_image zh-lightbox-thumb" width="660" data-original="http://pic1.zhimg.com/f9a6802bad9c0ed44388808e1a6734b0_r.jpg"><br>切（砍）猪脚那位小哥，您为何不买这一把？<br><img src="http://pic1.zhimg.com/43052eebe2929043e91eb9e64f69405c_b.jpg" data-rawwidth="251" data-rawheight="392" class="content_image" width="251">我就不盖LOGO了，认为我也收钱了的，请随意。<br><br><br>对于缺口情况，店家也解释过——<br><img src="http://pic4.zhimg.com/6d878f57d9042ca90359bbcf0ea2e90b_b.jpg" data-rawwidth="503" data-rawheight="640" class="origin_image zh-lightbox-thumb" width="503" data-original="http://pic4.zhimg.com/6d878f57d9042ca90359bbcf0ea2e90b_r.jpg">店家解释了为何会缺口。<br>店家表示可以免费修理。<br>店家承诺修好后照样好用。<br><br>还有这一种——<br><img src="http://pic4.zhimg.com/63b88a91c3bd7eb56ea6265fa1c54abb_b.jpg" data-rawwidth="508" data-rawheight="129" class="origin_image zh-lightbox-thumb" width="508" data-original="http://pic4.zhimg.com/63b88a91c3bd7eb56ea6265fa1c54abb_r.jpg">哪怕没有缺口，店家也提醒<b>不要切冻肉</b>。<br><br>当然还是有人非要跟刀过不去——<br><img src="http://pic3.zhimg.com/9d47cd741c14d05e0df6234ad3171322_b.jpg" data-rawwidth="394" data-rawheight="82" class="content_image" width="394"><br>请问这怪谁呢？<br><br>（砍冻肉，危险动作，小朋友不要模仿）<br><br><br>另外一类差评，就是表示刀生了锈。<br><img src="http://pic4.zhimg.com/e990ec40fabb41f98401b6dba5eaa56b_b.jpg" data-rawwidth="338" data-rawheight="86" class="content_image" width="338"><img src="http://pic4.zhimg.com/1a52cce194149d1bb526f401823636c7_b.jpg" data-rawwidth="199" data-rawheight="95" class="content_image" width="199">对此，请看：<br><br><a href="http://www.china-chuwei.com/zhishi/20121209/2368.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">不锈钢也会生锈，浅谈刀具保养技巧<i class="icon-external"></i></a><br><blockquote><p><strong>不锈钢为何会生锈？</strong></p><p>        生锈会在钢材上留下污点，并使刀具状态欠佳。熔炼时在钢材中加入铬，并降低碳的含量，就可以使其成为“不锈钢”。有些专家认为，不锈钢的表现具有矛盾性：增多铬减少碳能增强抗锈能力，但也使刀刃更难于打磨锋利，刀锋持久性也会降低。反之，增加炭含量减少铬会使刀更锋利，但其防锈性能又大大折扣。所以在日常使用过程中对刀具的保养显得非常重要！</p></blockquote><a href="http://www.loulong.com/xinwen/show.asp?i=44" class=" wrap external" target="_blank" rel="nofollow noreferrer">刀具制作材料不锈钢也会生锈?<i class="icon-external"></i></a><br><blockquote>用来制刀的不锈钢并非真正意义上的不锈钢,刀具不管是哪一种钢材, 都必须加以保养, 更不要说工具钢等本来就会生锈的钢材. 否则一旦生锈就会影响刀子的使用及寿命。</blockquote><br>关于锈的问题，店家对此也有回应：<br><img src="http://pic3.zhimg.com/7477e67dd2de5194a2254ffc6d417546_b.jpg" data-rawwidth="508" data-rawheight="152" class="origin_image zh-lightbox-thumb" width="508" data-original="http://pic3.zhimg.com/7477e67dd2de5194a2254ffc6d417546_r.jpg"><br>刀，除了屠龙刀以外的任何刀，都是需要保养的，我以为这也是常识。<br><br>而且在追评中就已经有顾客指出了这一点——<br><img src="http://pic1.zhimg.com/192ac28165531175cbcaa29c2e6ea4b0_b.jpg" data-rawwidth="494" data-rawheight="100" class="origin_image zh-lightbox-thumb" width="494" data-original="http://pic1.zhimg.com/192ac28165531175cbcaa29c2e6ea4b0_r.jpg">很显然这位顾客比一般顾客更懂得使用菜刀。<br><br><br>店家详细解释了钝、缺口和锈的问题，我不知道截差评图的那位为什么没看到。<br><br>差评中，除了缺口和锈的问题之外，有说刀侧面会沾菜，我不知道这位是不是来卖萌的，就不评价了；太小太轻属于习惯问题；刀柄改进属于建议。72条追评里，再没有其他。<br><br>看完后我觉得我可以去买一把了。<br><br>还有什么问题吗？<br><br>叫着说打脸的各位，到底在打谁的脸？<br><br>大家不是一直以理性著称吗？<br><br>为什么到这种事情上就抛掉您最引以为豪的理性、客观、求真、求知了呢？<br><br>昨天的事情里，有两位，包括最初专栏发布者和今天专栏道歉者我都关注了。我欣赏所有能够提供好答案的知乎用户。可是写到这里，有一瞬间我不明白，到底这里还是不是我所喜欢的那个知乎。<br><br>我还是很爱这个地方，可是，我又真的很失望。<br><br><img src="http://pic4.zhimg.com/632da62db29e910bc68467bc5cf9f6b3_b.jpg" data-rawwidth="792" data-rawheight="329" class="origin_image zh-lightbox-thumb" width="792" data-original="http://pic4.zhimg.com/632da62db29e910bc68467bc5cf9f6b3_r.jpg"><br><br><b>※※ 私货预警 ※※</b><br><br>或许我应该庆幸昨晚知乎抽风，没有让我看到葛巾一条条删除答案那一幕。<br>因为几个月前的一天晚上，我看着这位删光他所有回答的时候，心里的难受，难以言喻。<br><img src="http://pic3.zhimg.com/fd0f45f7b2b89aca36ca5950781f7652_b.jpg" data-rawwidth="786" data-rawheight="330" class="origin_image zh-lightbox-thumb" width="786" data-original="http://pic3.zhimg.com/fd0f45f7b2b89aca36ca5950781f7652_r.jpg"><br>对于知乎，我一贯秉持的态度是——只要你能提供好答案，你就是好用户，你所提供的好答案越多，能给予大家的帮助越多，我就可以给你我最高的敬重。<br><br>我一直是信奉这一条的——不管你本人是个怎样的人。<br><br>佐藤君的离开是我第一次亲身经历知乎高质量用户的出走，而他对我意义非同小可，因为我正是在微博看到他的回答，才来知乎的。<br><br>在那之后，我挽留过的人有安雨宁，yol叔。<br><br>甚至对于像猫不群这样的用户再次出现我都认为，只要他肯好好写答案，只要他可以帮助别人，他就有留在知乎的理由。<br><br>可能在您看来我很没原则，但其实我不是没原则，只是跟您的不太一样而已。<br><br>然后到了今天，我看到最后一根稻草压垮了葛巾。<br><br>佐藤君让我来到知乎，但是，是他们俩的答案让我留在这里的。他们俩都是让我觉得这个地方真美好的人。而现在他们全都走了。<br><br>赶走大牛，这感觉太舒爽了，有没有？<br><br>我不知道此时此刻我还能说什么。心里百味杂陈。<br><br>我只想问一句话：<br><br>我们，为什么，不能<br>对<br>帮过我们和别人的人<br>心存——<br>不要说感激，哪怕只是一点点的<br><b>善念</b>？<br><br>善念意味着什么？<br>在知道这件事的时候，先别忙着反感，可否先问一问，为什么，到底怎么回事，对方是如何想的，可否给对方一个说话和解释的机会？可否多问问其他人的看法？<br><br>如果没办法，或者实在不想联系本人，而又确实忍不住，很想一吐为快，那么，可不可以在搜集来的例证上，功夫做得全面一点——要打倒一个人，起码要用全面十足的证据，而非一面之词或诛心之论吧，知乎提倡理性不是吗？让我们把打倒别人这件事做得更理性一点！^_^<br><br><br>3、<br><b>最后的最后，我想说，我不反感做营销，我只反感拙劣营销。</b><br><b>就像，我不反感段子，只反感拙劣段子。</b><br><b>（再注：葛巾没有做过任何营销，她犯不着。）</b><br><br>知乎本身都要做营销，何况是相当于自媒体的各位用户？<br><br><b>营销，ok，但前提有二：</b><br>1，所推荐的东西，人也好物也好答案也好，的确有价值<br>2，要么隐晦得让人看不见，要么直接说明我就是在推销东西<br><br>这方面，我觉得 <a data-hash="1c3369bbd58b14ed815011effaf0895c" href="http://www.zhihu.com/people/1c3369bbd58b14ed815011effaf0895c" class="member_mention" data-tip="p$b$1c3369bbd58b14ed815011effaf0895c">@李嫑嫑</a> 老师的做法非常让我欣赏。<br>他在发现一位用户有自我营销嫌疑的时候，主动私信沟通，然后做出判断。<br>当时我心里也存有些许反感，但听到了解释后，我觉得我可以接受。<br>真正有价值的答案，不应该为其营销行为否定。<br>同理可及其他。
+<a href="/question/24830946/answer/29134612" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7037160-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-08-13" target="_blank" href="/question/24830946/answer/29134612">编辑于 2014-08-13</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>123 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/24830946" class="zg-link-litblue">查看全部 74 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:24830946}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="2114359">关注问题</button>
+
+497
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="4055a09d55538f79261cb7143f6a09f3" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="李松蔚"
+data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$lisongwei" href="http://www.zhihu.com/people/lisongwei" class="zg-link" title="李松蔚">李松蔚</a></h2>
+
+<div class="zg-big-gray">普通的心理学工作者</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/lisongwei/followers" class="zg-link-gray-normal">165329 关注者</a>
+/
+<a target="_blank" href="/people/lisongwei/asks" class="zg-link-gray-normal">5 提问</a>
+/
+<a target="_blank" href="/people/lisongwei/answers" class="zg-link-gray-normal">136 回答</a>
+/
+<a target="_blank" href="/people/lisongwei" class="zg-link-gray-normal">229524 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:24830946}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/24830946/answer/29166324/collections">47</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1368598739">
+<h2 class="zm-item-title ">
+<a href="/collection/20185125">值得仔细想想</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20185125/followers">14130 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1405940344">
+<h2 class="zm-item-title ">
+<a href="/collection/38407655">前方高能预警</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhu-nong-19" data-tip="p$t$zhu-nong-19" class="zg-link-litblue"> 知了 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/38407655/followers">5942 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1381942515">
+<h2 class="zm-item-title ">
+<a href="/collection/27310562">理想主义</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/fei-niao-bing-he" data-tip="p$t$fei-niao-bing-he" class="zg-link-litblue"> 飞鸟冰河 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/27310562/followers">1565 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1378303760">
+<h2 class="zm-item-title ">
+<a href="/collection/25974625">心理</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/25974625/followers">3 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1415931787">
+<h2 class="zm-item-title ">
+<a href="/collection/41173450">涨姿势</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhou-ying-2-95" data-tip="p$t$zhou-ying-2-95" class="zg-link-litblue"> 周莹 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/41173450/followers">2 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20998017">自问自答式的营销行为在知乎应该得到抑制吗？</a> <span class="num">14 个回答</span><meta itemprop="followerCount" content="52" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20123358">知乎为何有很多人自问自答？</a> <span class="num">14 个回答</span><meta itemprop="followerCount" content="34" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20232096">知乎用户的主要特征是什么？</a> <span class="num">33 个回答</span><meta itemprop="followerCount" content="253" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19821267">知乎新用户怎样得到更多的关注？</a> <span class="num">24 个回答</span><meta itemprop="followerCount" content="376" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20760240">有哪些知乎用户答案精彩但是却很少有人关注？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="170" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19801336">知乎用户 Veajot 是谁？</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="104" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19737851">知乎上获得赞同票最多的用户是谁？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="111" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20380773">作为知乎初级用户，自知水平有限，应该要怎样使用知乎？</a> <span class="num">20 个回答</span><meta itemprop="followerCount" content="328" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19559077">知乎上回答数量最多的用户是谁？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="224" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19646337">「知乎发现」中的每日热门问答和热门用户是如何产生的？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="205" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-08-13</span>
+</p>
+<p>
+所属问题被浏览 <strong>23131</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:24830946}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439382083000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":2114359,"urlToken":24830946,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="f90cdf27f05546aa9e61e791bb96f8ef">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="365f5d97e3ce6331638b8d92d46d2803"/>
+</body>
+</html>

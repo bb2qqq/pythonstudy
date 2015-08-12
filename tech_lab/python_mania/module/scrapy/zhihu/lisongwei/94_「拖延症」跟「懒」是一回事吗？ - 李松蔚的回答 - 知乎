@@ -1,0 +1,1058 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>「拖延症」跟「懒」是一回事吗？ - 李松蔚的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/16651113">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/20929172/answer/16651113">
+<meta id="znonce" name="znonce" content="47d1b92aaca94190809e97da0ef605f1">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/e827b73d8f25a233cbeeeb9421baeddb.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/20929172" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551432"
+data-tip="t$b$19551432" data-token="19551432" data-topicid="404">
+心理学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19552685"
+data-tip="t$b$19552685" data-token="19552685" data-topicid="823">
+拖延现象
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19557781"
+data-tip="t$b$19557781" data-token="19557781" data-topicid="2537">
+生活习惯
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/20929172">「拖延症」跟「懒」是一回事吗？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="552169" data-action="/question/detail">
+
+<div class="zm-editable-content">由<a href="http://www.zhihu.com/question/20929126/answer/16634448" class="internal">拖延现象（拖延「症」）的成因有哪些？如何应对？</a>下回答延伸想到。</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>7 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="552169" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20929172" class="zg-link-litblue">查看全部 72 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="1792348"
+data-atoken="16651113"
+data-collapsed="0"
+data-created="1365567170"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1792348"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">94</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic3.zhimg.com/7b0114ec2_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lisongwei" href="/people/lisongwei">李松蔚</a>，<strong title="欢迎关注微信公众号：therapistlsw" class="zu-question-my-bio">欢迎关注微信公众号：therapistlsw</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="94">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$qing-ling-zhi" href="http://www.zhihu.com/people/qing-ling-zhi" class="zg-link" title="卿伶直">卿伶直</a>、</span><span class="user-block"><a data-tip="p$t$yu-ling-er-70" href="http://www.zhihu.com/people/yu-ling-er-70" class="zg-link" title="Elissa">Elissa</a>、</span><span class="user-block"><a data-tip="p$t$peter-pan-15" href="http://www.zhihu.com/people/peter-pan-15" class="zg-link" title="Peter Pan">Peter Pan</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="552169" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">回答是或否都是有理由的，各有不同的心理意义，这个话题值得好好说说。<br><br>首先说定义，这两个词其实都是在描述现象的基础上，建立起来的概念。它们共同描述的一种现象就是：不干活。从这个意义上，可以认为它们是对同一类现象的两种概括方式。<br>——当然，如果硬要区分，也可以从两个概念中找到一些差异，比如懒一定会拖延，而拖延不一定是懒，拖延是中性词，懒带有贬义，拖延更接近于行为，而懒更接近于特质，等等。<br>但这些定义的界限其实是没有那么分明的，大部分时候，拖延和懒就是同义反复。<br><br>但可以说拖延就等于懒吗？<br>如果你真心想改变拖延，我不建议你把它们之间划等号。因为这两个概念背后代表了不同的动机。「你到底是拖延，还是懒？」在我咨询的很多拖延案例中，这是一个转折性的问题。<br>在我们的日常语境里，「懒」听起来像是一种客观存在的东西，一种自己无能为力，难以自控的禀赋。所以在把「拖延」转化成「懒」的过程中，本质上是把自己的责任推卸了。<br>有太多人觉得自己的主要问题是「懒」了，既然我是一个懒人，拖延对我来说就合情合理，不可避免，除非「有人」帮我拔除这根懒虫。而如果没有这样的人，那我就只好哀怨。所以作为心理咨询师，常常是会遇到一些来访者，来讨教「治懒」秘诀的。——而咨询师当然拿不出好办法。<br>因为懒这个东西，不是基因，不是生理，不是人格特质，就仅仅是你现在的行为概括而已。你不是因为「懒」才不做事，而是因为不做事才被定义为「懒」。你要想改变懒，唯一的办法做是做事。<br><br>所以「拖延」和「懒」在心理层面最重要的区别，就是你是否相信这一切都是可以自控的。如果做一个类比，说拖延是因为「懒」，约等于说「没钱」是因为「穷命」。说错了吗？倒也没错，但就无法控制了。<br><br>同样的道理，如果你打算接受自己的拖延（我一直在强调，这样也是人生的一个选择，不是不可以的），那干脆就把自己定义为一个「懒人」。多好，说不定比那些「勤快」的人还幸福长寿些。正如你不打算挣钱的时候，就把自己定义成「穷命」一样。是不是会轻松很多？你们感受一下。<br><br>要想安于自己的选择，这个世界上有的是好说法。执行力低，缺乏意志力，毅力不足，等等都在此列。另据我的观察，当「拖延」变成「拖延症」，这一字之差的「症」字，似乎也正开始承担类似的功能。所以我在努力地普及这个观念：<b>没有拖延症，也没有懒，只是你自己不情愿做事</b>。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1792348-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-04-10" target="_blank" href="/question/20929172/answer/16651113">编辑于 2013-04-10</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>15 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="1793839"
+data-atoken="16654766"
+data-collapsed="False"
+data-created="1365590048"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="200">200</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">200</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$hibreeze" href="/people/hibreeze">高地清风</a>，<strong title="每周治好一例拖延症，微信zhantuohui" class="zu-question-my-bio">每周治好一例拖延症，微信zhantuohui</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="200">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$laura-lau" href="http://www.zhihu.com/people/laura-lau" class="zg-link" title="laura lau">laura lau</a>、</span><span class="user-block"><a data-tip="p$t$wu-bin-31-19" href="http://www.zhihu.com/people/wu-bin-31-19" class="zg-link" title="武斌">武斌</a>、</span><span class="user-block"><a data-tip="p$t$Jwan327" href="http://www.zhihu.com/people/Jwan327" class="zg-link" title="Jwan">Jwan</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="552169" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">我的观点是：“拖延症”跟“懒”可能有交集，但通常说的不是一回事儿。<br><br>目前我们常说的“拖延症”，指的是后果消极、本可避免的推迟行为；而“懒”则是个生活化的词，而且不同文化里对懒惰的理解也不同。考虑到“懒”这个词的定义也有些模糊，这其实是道开放性的问题，我从三个角度来说一下个人看法：<br><br><b>1.“拖延症”跟“懒”有交集但不重合：</b><br><br>加拿大卡尔加里大学的皮尔斯·斯蒂尔教授是“拖延症”领域的研究权威之一，他有个广为接受的“拖延公式”：U=EV/ID，确定了跟大多数人的大多数拖延最有关系的4个因素，翻译过来可以理解成：信心不足、动力缺失、冲动分心和回报遥远。如果借用中文维基百科里的定义，把“懒”归为懈怠、好逸惡勞、缺乏行动的欲望等，主要是原动力缺乏，那么它的确符合公式里的“动力缺失”的标准。<br><br>但缺少做某事的动力，甚至因此而推迟做某事，并不必然是拖延，有时反而是一种自我保护。只有当这件事是不得不做、及时做更有利时，“懒”造成的推迟才能算是拖延。更多时候，“懒”人们可能是自得其乐的。<br><br>另外，拖延的原因绝不限于“懒”，情绪问题、分心问题以及延迟问题（即：回报遥远），都可能引发拖延。所以不分青红皂白，直接判定“什么拖延症？不过是懒”的说法，是武断生硬的。<br><br>下图示意：<br><br><img src="http://pic2.zhimg.com/a47fee18c16816e21da2c36c5f9f14fd_b.jpg" data-rawwidth="1024" data-rawheight="768" class="origin_image zh-lightbox-thumb" width="1024" data-original="http://pic2.zhimg.com/a47fee18c16816e21da2c36c5f9f14fd_r.jpg"><br><b>2.“瞎忙拖”跟“宅拖”都很难算是懒：</b><br><br>"瞎忙拖"和“宅拖”是我们战拖社区中的一对描述性概念，最早应该是<a class="member_mention" data-editable="true" data-title="@我要好起来" data-hash="a80fc2366832e7b7fff190ba544e8f64" href="http://www.zhihu.com/people/a80fc2366832e7b7fff190ba544e8f64" data-tip="p$b$a80fc2366832e7b7fff190ba544e8f64">@我要好起来</a> 提出的。前者指那种忙了很多次要的任务，看起来风风火火、一刻也不停，其实最重要的任务却拖着不做的状况；后者则是那种外观很平静，只是困在原地不动的状况，内心往往有很多冲突和纠结。<br><br>“瞎忙拖”和“宅拖”是两种很有代表性的拖延风格，但这两种恐怕都无法等同于“懒”。<br><br>“瞎忙拖”本身可能做事迅速、节奏快，有不少瞎忙拖还有工作狂倾向，甚至属于成人多动症（ADHD）人群，这让人很难把他们跟“懒”联系起来，而且很多人外表看起来很成功、很干练，只有他们自己知道自己在最重要的事情上一直拖延。<br><br>“宅拖”后来经好起来本人修订，建议更改为“冲突型拖延”。引用精神分析家霍妮的经典比喻吧：“（神经症患者）就像在开车时同时踩住了油门和刹车，结果是外表毫无动弹，内心早已精疲力竭。”<b>不是缺乏动力，而是动力很大阻力也很大</b>，所以内心才如此痛苦。“宅拖”们也许看起来有点“懒”，但他们内心很难认同自己是“懒”。甚至，他们会常常羡慕只是“懒”的人，因为觉得懒人没那么痛苦。<br><br>以上定义请<a class="member_mention" data-editable="true" data-title="@我要好起来" data-hash="a80fc2366832e7b7fff190ba544e8f64" href="http://www.zhihu.com/people/a80fc2366832e7b7fff190ba544e8f64" data-tip="p$b$a80fc2366832e7b7fff190ba544e8f64">@我要好起来</a> 指正。<br><br><b>3.“懒”背后的道德攻击性：</b><br><br>最后一定要说的是：“懒”这个词背后有道德攻击性。这就是我为什么旗帜鲜明地反对“拖延症就是懒”的说法。<br><br>根据我在微博上的观察，那些“拖延症只是懒”的说法，可能是被过分对号入座的现象，激发出来的反弹情绪。因为历史原因，“拖延症”一词的定义一向很混乱（我的定义参考这里：<a href="http://www.zhihu.com/question/20929123/answer/16652669" class="internal">从专业角度，应当如何定义拖延「症」？</a> ）不少人给自己贴上“拖延症”的标签，未必是为了改善拖延，甚至未必真属于拖延者，而只是图个好玩、凑个热闹，有时还会说“反正我是拖延症，所以……”。（背后原因，参考我的另一个回答：<a href="http://www.zhihu.com/question/20873103/answer/16461577" class="internal">为什么人们都喜欢说自己有拖延症？</a>）这<b>在另外一些人看来，难免觉得矫情，甚至是在推卸责任，自然会有“得了吧！你只是懒”的反击</b>。<br><br>但我想强调：这种反击是从一个极端走到另一个极端，会伤害无辜。很多拖延状况严重的人，其实是承受着巨大的痛苦，而他们根本不属于“懒”。中文维基百科里提到，“在许多社会和宗教里，懒惰往往被视为道德上的罪恶”。而严重的拖延者当中，也有很多人会把“懒”看作道德问题（虽然我个人已经不再这样认为），并且因此加剧了自我谴责。而<b>自责不但无助于改善拖延，反而会导致恶化</b>。这方面，国外的研究也提供了证据：<a href="http://www.spring.org.uk/2010/05/procrastinate-less-by-forgiving-yourself.php" class=" wrap external" target="_blank" rel="nofollow noreferrer">Procrastinate Less By Forgiving Yourself<i class="icon-external"></i></a><br><br>现在抑郁症的概念已经得到了普及，大部分人都不会认为确诊了的抑郁症患者是在无病呻吟。其实，<b>很多严重的拖延者，在痛苦程度上是不亚于抑郁症患者的</b>，只因为拖延症不是个医学上的诊断名词（参考：<a href="http://www.zhihu.com/question/20929123/answer/16652669" class="internal">从专业角度，应当如何定义拖延「症」？</a>），他们无法得到大夫们的支持。如果连用个“拖延症”的说法都要被奚落，未免也太残忍、太不人道了。这方面，我们豆瓣组里的很多老成员都感同身受，我自己也是从那个灾难深重的阶段走出来的，所以一定要鸣不平。<br><br>还有，如果只是平常聊天，说“拖延症”还是“懒”，可能还只是个好玩的问题，但<b>要是你领导/老板认定了你是“懒”，就一点也不好玩了</b>。很多领导/老板把“懒”看成<b>态度问题</b>，肯定不会满意你这么“懒”。如果大家都盲目地以为“没有拖延症，只有懒”，认为拖延行为都是出于懒，必然造成很多误伤。要特别提醒的是：不要轻易跟老板说你有“拖延症”，更不要在工作不给力时用它开脱。一类成因复杂的症状，目前没有一致而清晰的诊断标准，也无法从医生那里开到证明，到了只嫌事多不嫌事少的老板那儿：他能不怀疑你的“态度”吗？<br><br>------<br>最后想说，“拖延症是不是懒”这个问题，可能是我这几年来回答得最“不厌其烦”的一个：拖友问，记者问，朋友也问，就连我妈也问过我 -_-||| 。这次借知乎圆桌，算是做个总结。<br><br>我们发现，<b>凡是对“拖延症”有过认真体会的人，基本不会觉得拖延等于懒</b>。哪怕是只读过一本《拖延心理学》书的人，也不会觉得拖延等于懒。所以在失去耐心的时候，我们就会说：<br><br><b>“一切分不清‘拖延症’和‘懒’的人，都是麻瓜！”</b>
+<a href="/question/20929172/answer/16654766" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="1793839-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/20929172/answer/16654766">发布于 2013-04-10</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>24 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="1785763"
+data-atoken="16634874"
+data-collapsed="False"
+data-created="1365428092"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="28">28</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">28</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+知乎用户，<strong title="知乎与我皆无尽也。" class="zu-question-my-bio">知乎与我皆无尽也。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="28">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$tan-bo-yi-94" href="http://www.zhihu.com/people/tan-bo-yi-94" class="zg-link" title="谭博艺">谭博艺</a>、</span><span class="user-block"><a data-tip="p$t$zhou-tu-tu-3" href="http://www.zhihu.com/people/zhou-tu-tu-3" class="zg-link" title="周凸凸">周凸凸</a>、</span><span class="user-block"><a data-tip="p$t$zhuo-pin" href="http://www.zhihu.com/people/zhuo-pin" class="zg-link" title="卓品">卓品</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="552169" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"><b>不是</b>，<br><br>懒是有时间，自身不想做，<br>拖延症是想做，自身拖拉、心理因素导致没有时间去做。<br><br>懒没有心理压力，<br>拖延症有deadline的释放和拖延过后的心理疾病（强烈自责情绪，强烈负罪感，不断的自我否定、自我贬低，伴生出焦虑症、抑郁症、强迫症等心理疾病）<br><br><blockquote>单纯的做事拖拉或是懒得去做，只能定义为“拖延”，也仅是一种坏习惯，改正它并不难。 当“拖延”已经影响到情绪，并出现心理疾病，才能称之为“拖延症”。<br><br>高地清风（ 战拖会创始人，拖延主题图书译者）<br>按照个人观点，懒是动力不足，拖延是动力与阻力或偏转力相冲突。<br>事情太多，常常是拥挤型拖延，多为假性拖延。</blockquote><br><br>我就是那个叫做深度拖延者的人，回答这个问题也成为了我拖延的理由，与君共勉
+<a href="/question/20929172/answer/16634874" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="1785763-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-04-08" target="_blank" href="/question/20929172/answer/16634874">编辑于 2013-04-08</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>5 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20929172" class="zg-link-litblue">查看全部 72 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:20929172}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="552169">关注问题</button>
+
+1537
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="4055a09d55538f79261cb7143f6a09f3" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="李松蔚"
+data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$lisongwei" href="http://www.zhihu.com/people/lisongwei" class="zg-link" title="李松蔚">李松蔚</a></h2>
+
+<div class="zg-big-gray">普通的心理学工作者</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/lisongwei/followers" class="zg-link-gray-normal">165076 关注者</a>
+/
+<a target="_blank" href="/people/lisongwei/asks" class="zg-link-gray-normal">5 提问</a>
+/
+<a target="_blank" href="/people/lisongwei/answers" class="zg-link-gray-normal">136 回答</a>
+/
+<a target="_blank" href="/people/lisongwei" class="zg-link-gray-normal">229247 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:20929172}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/20929172/answer/16651113/collections">111</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1342279474">
+<h2 class="zm-item-title ">
+<a href="/collection/19656066">优秀答案</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/wang-ya-bing" data-tip="p$t$wang-ya-bing" class="zg-link-litblue"> 王亚兵 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19656066/followers">5758 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1350519255">
+<h2 class="zm-item-title ">
+<a href="/collection/19726238">我喜欢的</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/baixiaolong" data-tip="p$t$baixiaolong" class="zg-link-litblue"> 白小龙 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19726238/followers">5230 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1418781181">
+<h2 class="zm-item-title ">
+<a href="/collection/42244615">个人管理</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zeng-april" data-tip="p$t$zeng-april" class="zg-link-litblue"> zeng april </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/42244615/followers">2507 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1397569702">
+<h2 class="zm-item-title ">
+<a href="/collection/36476332">O照耀，精要意识</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhang-yi-47-94" data-tip="p$t$zhang-yi-47-94" class="zg-link-litblue"> 张三丰 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/36476332/followers">2062 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1365596972">
+<h2 class="zm-item-title ">
+<a href="/collection/20018719">知乎圆桌 • 第五期：拖延不是「症」</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/keyanzhang" data-tip="p$t$keyanzhang" class="zg-link-litblue"> 张克炎 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20018719/followers">413 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20357585">如何解决严重的拖延症？</a> <span class="num">360 个回答</span><meta itemprop="followerCount" content="20420" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20929126">拖延现象（拖延症）的成因有哪些？如何应对？</a> <span class="num">116 个回答</span><meta itemprop="followerCount" content="5703" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20794095">拖延症有什么好处？</a> <span class="num">52 个回答</span><meta itemprop="followerCount" content="343" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19915717">哪些名人有拖延症？</a> <span class="num">11 个回答</span><meta itemprop="followerCount" content="132" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20293134">古人有拖延症么？</a> <span class="num">38 个回答</span><meta itemprop="followerCount" content="632" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19774544">如何治疗拖延症？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="78" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20242819">某种程度上，强迫症是否可以打败拖延症？</a> <span class="num">43 个回答</span><meta itemprop="followerCount" content="510" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20324739">剩男剩女是拖延症的产物吗？</a> <span class="num">15 个回答</span><meta itemprop="followerCount" content="66" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20012489">拖延症和懒惰有什么区别？ 有什么办法可以克制？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="32" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20089406">拖延症是病吗？</a> <span class="num">11 个回答</span><meta itemprop="followerCount" content="88" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2013-04-10</span>
+</p>
+<p>
+所属问题被浏览 <strong>61534</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:20929172}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439284642000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":552169,"urlToken":20929172,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0f50671d77e9fa87d6ccd7e2fc71de7.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="47d1b92aaca94190809e97da0ef605f1">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="c7f9c1a82d262a83ad2e0c064a937723"/>
+</body>
+</html>

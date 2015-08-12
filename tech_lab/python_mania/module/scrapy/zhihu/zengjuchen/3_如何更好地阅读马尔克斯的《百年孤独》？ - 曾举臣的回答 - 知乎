@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>如何更好地阅读马尔克斯的《百年孤独》？ - 曾举臣的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/32741185">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/19930038/answer/32741185">
+<meta id="znonce" name="znonce" content="69d318ad23ff418a9d7f2640a9a31565">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/19930038" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19550447"
+data-tip="t$b$19550447" data-token="19550447" data-topicid="73">
+小说
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19550564"
+data-tip="t$b$19550564" data-token="19550564" data-topicid="113">
+阅读
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19556423"
+data-tip="t$b$19556423" data-token="19556423" data-topicid="2058">
+文学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19586063"
+data-tip="t$b$19586063" data-token="19586063" data-topicid="11941">
+加夫列尔·加西亚·马尔克斯（Gabriel García Márquez）
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19592407"
+data-tip="t$b$19592407" data-token="19592407" data-topicid="14053">
+百年孤独（小说）
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/19930038">如何更好地阅读马尔克斯的《百年孤独》？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="152054" data-action="/question/detail">
+
+<div class="zm-editable-content">众所周知，太困难了……</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>18 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="152054" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/19930038" class="zg-link-litblue">查看全部 269 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="8482850"
+data-atoken="32741185"
+data-collapsed="0"
+data-created="1414762283"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-8482850"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">3</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zengjuchen"
+class="zm-item-link-avatar"
+href="/people/zengjuchen">
+<img src="http://pic2.zhimg.com/5acfa84d9_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic2.zhimg.com/5acfa84d9_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zengjuchen" href="/people/zengjuchen">曾举臣</a>，<strong title="世界和我想的不一样" class="zu-question-my-bio">世界和我想的不一样</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="3">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$yi-ren-li-53" href="http://www.zhihu.com/people/yi-ren-li-53" class="zg-link" title="呓人李">呓人李</a>、</span><span class="user-block"><a data-tip="p$t$limaocn" href="http://www.zhihu.com/people/limaocn" class="zg-link" title="李懋">李懋</a>、</span><span class="user-block"><a data-tip="p$t$yin-xiao-jie-48" href="http://www.zhihu.com/people/yin-xiao-jie-48" class="zg-link" title="尹小姐">尹小姐</a></span>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="152054" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">Tienes que leer este libro de edición original, recitarlo palabra a palabra, hasta que fundas tú mismo con esta biblia de la literatura española.<br><br>No es una broma, ahora mismo estoy haciendo lo.<br><br>                                                                                                            -----  Mario Luis Garcia.
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="8482850-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-10-31" target="_blank" href="/question/19930038/answer/32741185">编辑于 2014-10-31</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>3 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="5200187"
+data-atoken="24770845"
+data-collapsed="False"
+data-created="1398102709"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="0"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="3300">3300</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">3300</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$daniel-fc" href="/people/daniel-fc">Daniel FC</a>，<strong title="結伴欣賞雪的淚…" class="zu-question-my-bio">結伴欣賞雪的淚…</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="3300">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$zou-wen-18" href="http://www.zhihu.com/people/zou-wen-18" class="zg-link" title="走文">走文</a>、</span><span class="user-block"><a data-tip="p$t$liu-mao-mao-75" href="http://www.zhihu.com/people/liu-mao-mao-75" class="zg-link" title="刘猫猫">刘猫猫</a>、</span><span class="user-block"><a data-tip="p$t$august-handsome" href="http://www.zhihu.com/people/august-handsome" class="zg-link" title="August Handsome">August Handsome</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="152054" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">20世纪备受推崇的小说，很多都是很难让人读下去的；相较之下，马尔克斯的作品，已经是比较业界良心了。您要是不信，可以去抓本《喧哗与骚动》来看看，也可以去抓本《万有引力之虹》来读读；读完之后，您就会发现，马尔克斯老先生，是多么随和亲民啊。<br><br>但我们作为一般的读者，读起《百年孤独》来，还是会觉得比较艰涩难懂。如果要想能顺畅地完成阅读，我们必须先了解清楚，为什么这篇作品会构成阅读障碍。<br><br>解决这个问题之前，咱们先来聊一下外国文学史吧。<br><br>小说兴起的时候，文本的驱动力，是由情节提供的。我们看《鲁滨逊漂流记》，首先，是鲁滨逊这个人进入到我们的视野；然后我们了解他做的事，知道了他的个人背景；接着，鲁滨逊遭遇灾难，我们跟随他的脚步，看他如何化解危机，解决问题；最后，陪伴他荣归故里，衣锦还乡。<br><br>传统的小说与戏剧有着相同的血脉，它通过一个又一个的“起因-冲突-高潮-回落”的结构，驱动文本前进和发展。有时，这种结构是偏于线性的，如卫斯理式的科幻；有时，这种结构则是环状的，如金庸所著的几部长篇。<br><br>有时候，这种血脉表现为另一种形式，它通过悬念，持续地提供文本以动力；并通过悬念的解开，制造出作品的高潮。比如各类的侦探小说即是如此。<br><br>这种以情节为文本主要驱动力的小说，有效地吸引了读者的阅读兴趣，使读者不自觉地跟随文本的脚步进行阅读。<br><br>但以情节为驱动力的文本，面临的是一个自身无法解决的问题：读者为了追逐情节，找出悬念背后的真相，会在阅读中不可止遏地发足狂奔。于是，文本中细节被忽略、被丢弃。作品中着力表现的人物形象、个体特征在读者眼中，都只剩下模糊的轮廓。当读者终于面临作品的高潮，迎来作品的结局之后，就再也提不起精神，重新细品这部作品了。<br><br>如同把佛跳墙，捧给一个饥肠辘辘的食客。果腹之后，不知真味。<br><br>而一个有野心的作者，远远不止满足于此。<br><br>比如卡夫卡，选择的是在一个无止境接近的结局前迂回，在<a href="http://book.douban.com/subject/2036561/" class=" wrap external" target="_blank" rel="nofollow noreferrer">城堡 <i class="icon-external"></i></a>的边缘徘徊；昆德拉，则是通过复调的手法，早早地把结局呈现出来，构建文本的蒙太奇，以探讨<a href="http://book.douban.com/subject/1017143/" class=" wrap external" target="_blank" rel="nofollow noreferrer">不能承受的生命之轻 <i class="icon-external"></i></a>；卡尔维诺，这位<a href="http://book.douban.com/subject/1785999/" class=" wrap external" target="_blank" rel="nofollow noreferrer">寒冬夜行人 <i class="icon-external"></i></a>，则把10本小说都撕得只剩下开头，然后把它们拼在了一起。<br><br>他们通过种种的方式，去消解文本的情节驱动力。所以当我们进行阅读的时候，我们的阅读行为就不仅仅是一直苦苦追逐悬念和高潮；而是能动地挖掘一些潜藏得更深层次的东西，在文本中、在文本外，引发出多一点点的思考和回味。小说不再是一条单程的高速公路，它有了回廊，有了屏风，有了层次。<br><br>他们致力创造的，不再是一本阅完即弃的一次性产品；而是一本能在真正意义上能反反复复地激起读者阅读兴趣的书籍。<br><br>如果这批作家穿越回19世纪，他们的作品一定乏人问津。一部缺乏情节的小说，完全不会引起一个传统的阅读者的兴趣。<br><br>但19世纪的作家，却训练了一批阅读能力更强的读者。这批读者，阅读能力更强的同时，口味也更刁钻。他们能够理解作家的意图，懂得在小说失却驱动力的时候，自主探寻更加丰满的世界。<br><br>20世纪，也长出了一批对作家更加挑剔，但也更加娇纵的文艺批评家。<br><br>于是，作家们，就开始兴致勃勃地写起了那些对初读小说的入门阅读者而言平庸乏味，不知所言；但能使初窥门径的阅读者读得津津有味、阅后绕梁三尺的作品了。<br><br><br>马尔克斯也是其中的一员，他选择的对情节的消解的手法之一，是回环式的时空结构。<br><br>以《百年孤独》的开头为例：<br><br><blockquote>多年以后，奥雷连诺上校站在行刑队面前，准会想起父亲带他去参观冰块的那个遥远的下午。</blockquote><br>如果换成英译本，有更明显的时态变化，可能会更有说服力。<br><br><blockquote>Many years later as he faced the firing squad, Colonel Aureliano Buendía was to remember that distant afternoon when his father took him to discover ice.<br></blockquote><br>作者的观察视点，是立足于某个不确定的“现在”的。以一种预言式的笃定的语态（多年之后、准会）描述未来的情景，而后通过未来的奥雷连诺上校的视角，对过去进行回顾（遥远的下午）。<br><br>这种回环式的视角，在保留了作品的叙事性同时，极大程度消解了作品的戏剧性和悬念。这部小说，从视角到情节，都是非线性的；叙事视角大幅度漂移穿插。所以一个传统的小说阅读者，读到这篇小说的时候，会觉得跟不上作者的视角，进而觉得乏味犯困。<br><br>除此之外，与回环式的叙事相互呼应的另一个问题则是不同角色重复出现的人名。<br><br>小说中人名高度重复，尤其是男性的姓名高度重复。凡是名字相同的角色，其性格特征都相近。作者通过相同的人名，表征这些人群具有相似的特征；但这些相同人名的不同角色，因为经历的不同，其行为模式也各有不同。<br><br>作者通过大量重复使用相同的人名，并且在情节上设置乱伦的情节，消解了人物形象的个体性，刻意让读者对角色身份，形成模糊混乱的认识，使小说呈现的，不仅仅是多个个体的经历，而是一个大家族所共同面临的孤独困境。作品以重复的人名，反复强调家族的整体性。血脉传承百年，孤独也蔓延百年。<br><br>所有的阿尔卡蒂奥都是强壮、重视肉欲、有掌控欲、感性的；所有的奥雷里亚诺都瘦削、执着于追求真理、坚韧、理性的。<br>（奥雷里亚诺第二与阿尔卡蒂奥第二由于是双胞胎，且有疑似被互换身份的经历，因此双方都兼具两个姓名对应的特征，而奥雷里亚诺第二更倾向于属于阿尔卡蒂奥，阿尔卡蒂奥第二更接近于奥雷里亚诺）<br><br>最后，还会对阅读构成障碍的，自然还有这篇小说的叙事特色了。文章中，作者随时都可能用笃定的口吻来叙述一些荒唐离奇的事情。比如载着雷麦黛丝飞上天空的床单：<br><br><blockquote>“俏姑娘雷麦黛丝话刚落音，菲兰达突然发现一道闪光，她手里的床单被一阵轻风卷走，在空中全幅展开。悄姑娘雷麦黛丝抓住床单的一头，开始凌空升起的时候，阿玛兰塔感到裙子的花边神秘地拂动。乌苏娜几乎已经失明，只有她一个人十分镇定，能够识别风的性质——她让床单在闪光中随风而去，瞧见俏姑娘雷麦黛丝向她挥手告别；姑娘周围是跟她一起升空的、白得耀眼的、招展的床单，床单跟她一起离开了甲虫飞红、天竺牡丹盛开的环境，下午四点钟就跟她飞过空中，永远消失在上层空间，甚至飞得最高的鸟儿也迫不上她了。”</blockquote><br>这种亦真亦幻的叙事，成为了文本的一大特色。当你试图刨根究底地去探索什么是真，什么是假的时候，这种特色就会阻碍你的正常阅读；但当你如同空杯一样接纳文本呈现的世界的话，那么你就自然而然地觉得一旦接受了这种设定的话，看起来似乎也变得有点可爱了。<br><br><br><b>简要概述一下常见的阅读障碍：</b><br><br><br><ol><li>情节乏味，使人犯困；</li><li>内容荒诞，不便理解；</li><li>人物繁多，关系复杂，重名角色多。</li></ol><br><br><b>罗列一下克服这些阅读障碍的举措：</b><br><br><br><ol><li>针对“情节乏味，使人犯困”的举措<br><br>这个问题应该不会算特别严重，因为百年孤独本身的叙事节奏已经是比较快的了。<br><br>但如果仍出现这种问题，主要应该是在于阅读者在阅读之前有着与文本不符的预设。认为小说应该是通过情节进行驱动，阅读的目的就是了解情节发展。<br><br>这部分阅读者，应该还不是《百年孤独》的主要受众。他们还没有准备好走进现代小说的世界。与作者的思维相互追逐碰撞，去迎接新的阅读体验。<br><br>如果您是这部分未做好阅读准备的读者的话，您可以尝试先阅读一些中短篇作品：如《没有人给他写信的上校》以及《迷宫里的将军》，以及线索相对较简单的长篇，如<a href="http://www.zhihu.com/question/22519542/answer/24706404" class="internal">《霍乱时期的爱情》</a>。<br><br>或者说先尝试阅读一些其它在艺术创作上先锋性没有如此强烈的作品。比如《1984》《挪威的森林》，甚至更干脆地去读一下《寻秦记》《笑傲江湖》吧。<br><br>每个人，都有自己弥足珍贵的个体阅读体验。小说，本身就是一种我们并没有非读不可的必要的艺术品而已。如果您读得开心，那么不妨继续往下读；如果读得不够愉快，稍微先把它放下，阅读经历和人生经历渐长之后，或许总有一天，你会重新爱上它的。<br><br><br></li><li>针对“内容荒诞，不便理解”的举措<br><br>当您认为它内容荒诞、情节混乱的时候，您不一定已经被它吸引，但您至少获得了第一份作者试图传达给您的阅读体验了。<br><br>请珍惜她！<br><br>作者煞费苦心描述了一个光怪陆离的马孔多，就是为了让你拥有这份异彩纷呈的阅读体验。您不需要逐字逐句去品鉴。只需要囫囵吞枣地把这部小说看下去就好了。看过之后，您或许会记得患了失眠症的马孔多，在全镇贴满了“牛”、“山羊”、“猪”的标签；你或许会记得长有猪尾巴的婴儿奥雷里亚诺；你或许会记得军队用机枪打死一群聚集在车站上的三千多名工人，血水弥漫。<br><br>但您或许不能将这些片段，拼接在一块。<br><br>这正是作者希望达到的效果，这使读者和文本间构建了一种陌生化体验。<br><br>（关于陌生化体验，可以参考：<a href="http://www.zhihu.com/question/22519542/answer/24706404" class="internal">《霍乱时期的爱情》一书中，霍乱本身有什么特殊的含义？书名表示这段爱情与霍乱有什么关系？</a>的第三点，篇(da)幅(zhu)有(tai)限(lan)，恕不展开。）<br><br>建议您在阅读过第一次之后，把您的思绪清空，然后重新读一次。这一次，手边放一支笔、一张纸，按着故事的时间线，梳理出整个故事的重大事件，理清事件发展的逻辑。<br><br>第一次的阅读过程中，我们主要是为了获得感性层面的认知，让小说自然而然地在感性层面与我们相交互；而第二次阅读时，则梳理故事情节、找出故事大纲的方法来使我们对小说的认知，从纯粹感性的层面，走向理性层面，帮助我们厘清人物关系，情节发展。<br><br>这一种分多次重复阅读，并写出故事纲要的阅读方法，其实是非常简单的，但这个习惯，相信对于您之后阅读其它的现代主义小说的尝试，都会很有帮助。<br><br><br></li><li>针对“人物繁多，关系复杂，重名角色多”的举措<br><br>这就是要发大招的节奏了。<br><br>如果您有读过外国文学史之类的科目，有过彻夜不眠，把一大堆一大堆外国人名在一个晚上塞进自己脑袋的经历的话，这个问题应该是难不到您的。<br><br>但一般的青年，谁乐意当个苦逼文青啊。<br><br>所以在这边推荐一个记忆小说人物的方法：<br><br>男性角色是不需要记忆的，他们遵循之前提到的<br>“所有的阿尔卡蒂奥都是强壮、重视肉欲、有掌控欲、感性的；所有的奥雷里亚诺都瘦削、执着于追求真理、坚韧、理性的”<br>这一原则。在阅读的时候，同样人名的，不妨先把他们看作同一个人就行了。<br><br>而女性角色的话，记忆过程中，可以不断地把小说中的人物，和现实中的人物一一做个映射。<br><br>比如老苏尔乌拉，就是隔壁的刘婆婆；俏姑娘雷麦黛丝，则是同专业的蔡蔡。<br><br>这种记忆方法，把未熟悉的东西，和自己已经熟知的人物进行了联系；那么，我们只要想到我们熟知的人物，就能马上回忆起小说中，我们未熟悉的那个角色了。而我们通过这种记忆方法，充分调用了视觉记忆功能。因为激活了多种感官记忆功能，它们之间形成相互刺激，我们记忆的效率会大大提高。因此，应用这种方法其实是能够非常快速地记住一些本来需要费劲记忆的东西的。<br><br>这个记忆方法，百试百灵。本来有点想藏私的，毕竟文学类的话题，关注度比较低，这个答案放到记忆术范畴中，或许更多人能看见。<br><br>但想想大家辛苦看了这么长的文章，不给多点干货给大家，挺对不起的。所以还是写下来了。<br><br>最后，如果大家还是整理不清人物之间的关系的话，可以点开文末的大图：</li></ol><br><br><br><img src="http://pic1.zhimg.com/d8f974428ea6be7f9f5cb6a93ad87f68_b.jpg" data-rawwidth="600" data-rawheight="845" class="origin_image zh-lightbox-thumb" width="600" data-original="http://pic1.zhimg.com/d8f974428ea6be7f9f5cb6a93ad87f68_r.jpg"><br><i>来源：<a href="http://book.douban.com/annotation/22412556/" class=" wrap external" target="_blank" rel="nofollow noreferrer">《百年孤独》的笔记<i class="icon-external"></i></a></i><br><br>（第五代这行当中有小疏漏。由于图不是自己做的，就不作修改了。）<br><br><br>马尔克斯老先生，RIP！<br><br><br><a href="http://www.zhihu.com/people/daniel-fc" class="internal">Daniel FC</a><br><br>2014-04-22<br><br><br>相关问答：<br><a href="http://www.zhihu.com/question/20932168/answer/24708959" class="internal">为什么《霍乱时期的爱情》中女主角一见思慕了几年的爱人后突然不爱他了呢？</a><br><a href="http://www.zhihu.com/question/22519542/answer/24706404" class="internal">《霍乱时期的爱情》一书中，霍乱本身有什么特殊的含义？书名表示这段爱情与霍乱有什么关系？</a>
+<a href="/question/19930038/answer/24770845" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="5200187-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-04-22" target="_blank" href="/question/19930038/answer/24770845">编辑于 2014-07-20</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>138 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright" data-author-avatar="http://pic2.zhimg.com/ab94089d5_m.jpg"> 禁止转载 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7089971"
+data-atoken="29266691"
+data-collapsed="False"
+data-created="1408158998"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1137">1137</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1137</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$aton" href="/people/aton">苏莉安</a>，<strong title="kanzhihu.com，答案精选" class="zu-question-my-bio"><a href="http://kanzhihu.com" class="internal"><span class="invisible">http://</span><span class="visible">kanzhihu.com</span><span class="invisible"></span></a>，答案精选</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1137">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$ni-cai-43-84" href="http://www.zhihu.com/people/ni-cai-43-84" class="zg-link" title="倪猜">倪猜</a>、</span><span class="user-block"><a data-tip="p$t$li-ze-yu-63-99" href="http://www.zhihu.com/people/li-ze-yu-63-99" class="zg-link" title="渡氵赏雪">渡氵赏雪</a>、</span><span class="user-block"><a data-tip="p$t$a-xing-14-15" href="http://www.zhihu.com/people/a-xing-14-15" class="zg-link" title="阿星">阿星</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="152054" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">如果很难读下去，那就……放下它，不要读了。<br><br>我认真的，不是抖机灵，不是开玩笑，也不是讽刺。<br><br>天底下不存在什么不读就终身遗憾的小说，也不存在这样的电影、音乐、戏剧、游戏……<br><br>说到底，阅读是种很私人化的行为，所感受到的内容也与你自身的年龄、经历息息相关。说得更抽象一点，是要讲缘分的。<br><br>40多年前的《百年孤独》最近又在国内掀起热潮，契机之一是去年官方正式授权了中文版，之二则是今年作者去世。有很多人在此前很久就读过，有人最近才接触但一读之下就欲罢不能，但更多的人只是跟风买了书看个开头就扔进了书柜里落灰。这再正常不过了。<br><br>如果是为了信息输出，比如为了在写作中引用、或者作为谈资、作为融入某个圈子的话题、甚至纯粹拿来泡妞，那倒是有个值得硬啃下去的理由；<br>如果只是为了输入的话，那就完全凭自己的心情而定了。<br><br>有人被一本书感动得泪流满面，你完全可能无动于衷；<br>大多数人对一本书反响平平甚至未曾听说，但你就是喜欢到颠来倒去地读，甚至愿意背下来；<br>或许你上个月没啃下去而放弃的一本书，下个月忽然就丝毫没有障碍地沉浸其中；<br>或许十年前扔在书架角落的书，十年后拾起才发现和它如此投缘；<br>也可能终身都没有再看它一眼，但这并不是什么值得遗憾的事。<br><br><br>我从小就读过四大名著其中的三本——三国、水浒、西游，而且兴奋地一翻再翻，原因无他，精彩、刺激、热闹、打打杀杀。唯独红楼，怎么也提不起兴趣，从头看起，几页就放下，从中间看起，几页就放下……直到今天，我仍然没有完整读过一遍红楼梦。<br><br>金庸小说是中学开始痴迷的，从三联版到新修版都读了无数遍；古龙呢？除了小李飞刀楚留香陆小凤绝代双骄这四大名作之外，大多不是草草翻过就是根本没搭理了；温瑞安根本记不太清，零零散散看过几本，有的还只看了中间没看头尾；黄易只读了破碎虚空和寻秦记；至于很会自我宣传的英雄志，模糊记得很久前读过两卷，剩下的都忘了。<br><br>魔戒三部曲读过两遍；哈利波特一本也没看；冰火只翻了第一卷的前半，后半本就在我手边，却完全提不起兴趣去翻。<br><br>国内作家我最喜欢的王小波，黄金青铜黑铁和杂文集都爱不释卷，唯独白银时代，总觉得与里面那股飘忽虚幻的气场不合，试了几次都没读进去，就放弃了；对莫言则是学生时代超爱檀香刑，但所有现代农村背景的都看不下去，他得诺奖后我试图捡起当年看了一半的《生死疲劳》，结果读了几页又合上了书……<br><br>科幻三巨头中，海因莱因出了中文版的每一本我都读过不止一遍，但阿西莫夫和克拉克呢？完全就是随缘了。可能因为某个契机，比如偶尔看到有人提及时忽然来了兴趣，就跑去读完了那本书。感想也是很不错的，但总是没有迸发出那种想把他所有作品全看一遍的执念。<br>许多年前，我买了弗诺·文奇、奥森·卡德等人的一堆科幻作品，有的当时就兴致盎然地看完了，有的翻几页就随手扔在一边，日后想起来再抽出一本来读。就这样，不到十本书，用了七八年才陆陆续续读完。<br><br><br>或许拿我自己做例子会缺乏说服力，但无非是打算告诉你一点：<br>如果读《百年孤独》不是为了工作、为了稿费、为了他人、为了谈资……而纯粹是为了自己的话，一旦读不下去时真的不必硬读，更不必边查人物表边看剧情梗概也要啃完，这样虽然便于理解，但阅读的乐趣也失去了大半。<br>与其这样，还不如先放下，等哪天有心情了再读；<br>也可能会把它扔进书堆，几年后偶尔看到，抖抖灰尘，再翻开第一页；<br>或许你终身没有再碰它，或许尝试过几次都折戟在开头，但这真的不算什么遗憾呀。<br><br>任何一本书都是这样的。<br>任何一首歌曲、一部电影、一本漫画、一款游戏也都是这样的。<br><br>它们为你的人生锦上添花，但没有它也不代表你的人生有了残缺。
+<a href="/question/19930038/answer/29266691" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7089971-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/19930038/answer/29266691">发布于 2014-08-16</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>96 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/19930038" class="zg-link-litblue">查看全部 269 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:19930038}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="152054">关注问题</button>
+
+5020
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="9c03606cf175b72043dc498742655c13" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="曾举臣"
+data-tip="p$t$zengjuchen"
+class="zm-item-link-avatar"
+href="/people/zengjuchen">
+<img src="http://pic2.zhimg.com/5acfa84d9_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$zengjuchen" href="http://www.zhihu.com/people/zengjuchen" class="zg-link" title="曾举臣">曾举臣</a></h2>
+
+<div class="zg-big-gray">世界和我想的不一样</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/zengjuchen/followers" class="zg-link-gray-normal">3476 关注者</a>
+/
+<a target="_blank" href="/people/zengjuchen/asks" class="zg-link-gray-normal">183 提问</a>
+/
+<a target="_blank" href="/people/zengjuchen/answers" class="zg-link-gray-normal">158 回答</a>
+/
+<a target="_blank" href="/people/zengjuchen" class="zg-link-gray-normal">7397 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:19930038}'></div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21132316">怎么评价马尔克斯的小说《没有人给他写信的上校》？</a> <span class="num">10 个回答</span><meta itemprop="followerCount" content="553" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20338897">马尔克斯是谁？有哪些（关于）他的作品值得推荐？</a> <span class="num">10 个回答</span><meta itemprop="followerCount" content="24" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19702981">你认为范晔译的《百年孤独》如何？</a> <span class="num">19 个回答</span><meta itemprop="followerCount" content="68" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19732959">新版《百年孤独》开头感觉不如旧版（高长荣译版）有味，大家有什么看法？</a> <span class="num">14 个回答</span><meta itemprop="followerCount" content="35" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20622927">加西亚·马尔克斯的诸多作品里，都出现了奥雷良诺上校，那么这一形象具有一致性或者说有某种指向吗？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="27" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20388058">梁文道的阅读方式是怎么样的？</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="94" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19890715">加缪与黑塞你们认为谁写局外人写的更好？理由是什么？</a> <span class="num">7 个回答</span><meta itemprop="followerCount" content="144" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20517093">如何评价童话《小王子》？</a> <span class="num">88 个回答</span><meta itemprop="followerCount" content="1797" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20132861">托尔斯泰与陀思妥耶夫斯基孰髙孰低？</a> <span class="num">45 个回答</span><meta itemprop="followerCount" content="530" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19814599">是什么支持着佛罗多（Frodo）「远征」到魔多（Mordor）摧毁魔戒？</a> <span class="num">38 个回答</span><meta itemprop="followerCount" content="353" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-10-31</span>
+</p>
+<p>
+所属问题被浏览 <strong>213647</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:19930038}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439367321000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":152054,"urlToken":19930038,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="69d318ad23ff418a9d7f2640a9a31565">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="40888728b5c332f594ef41b3ac66bb0f"/>
+</body>
+</html>

@@ -1,0 +1,1061 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>人在什么条件下更容易共情？ - 李松蔚的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/15592729">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/20571042/answer/15592729">
+<meta id="znonce" name="znonce" content="178af685de1c4d8192aa3b118bcb96ea">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/e827b73d8f25a233cbeeeb9421baeddb.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/20571042" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551432"
+data-tip="t$b$19551432" data-token="19551432" data-topicid="404">
+心理学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19556937"
+data-tip="t$b$19556937" data-token="19556937" data-topicid="2246">
+情绪
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19631453"
+data-tip="t$b$19631453" data-token="19631453" data-topicid="27164">
+心理测量
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/20571042">人在什么条件下更容易共情？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="408871" data-action="/question/detail">
+
+<div class="zm-editable-content">共情：Empathy，译作共情、投情、神入、同感心、同理心、通情达理、设身处地等等。我发现对于有类似经历的弱势群体我对其中某些更易于产生同理心而对某些则比较淡漠。《路西法效应》里研究好人是如何变成恶魔的。我提这个问题是想探究作为善恶混合体的大众，在什么情况下更容易发挥人性中善的特质。<br></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>6 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="408871" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20571042" class="zg-link-litblue">查看全部 25 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="1365091"
+data-atoken="15592729"
+data-collapsed="0"
+data-created="1352909432"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-1365091"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">202</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic3.zhimg.com/7b0114ec2_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lisongwei" href="/people/lisongwei">李松蔚</a>，<strong title="欢迎关注微信公众号：therapistlsw" class="zu-question-my-bio">欢迎关注微信公众号：therapistlsw</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="202">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$plzhang" href="http://www.zhihu.com/people/plzhang" class="zg-link" title="张沛伦">张沛伦</a>、</span><span class="user-block"><a data-tip="p$t$keithQz" href="http://www.zhihu.com/people/keithQz" class="zg-link" title="keith">keith</a>、</span><span class="user-block"><a data-tip="p$t$lin-xiao-xiao-24-64" href="http://www.zhihu.com/people/lin-xiao-xiao-24-64" class="zg-link" title="七页禾">七页禾</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="408871" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">謝邀。<br><br>共情這詞有兩種含義，性質上有微妙的不同。一種是普通人的共情，亦即“理解他人的情感狀態，設身處地為他人著想”，比如反社會和自戀型人格的人缺乏共情能力。這種共情，有強烈的道德意味，因此提問者提到了“善”與“惡”，共情為“善”，提問者想知道人在什麼條件下更容易變成“善”的人。<br>——我想這是題主的本意，很遺憾，這個問題我也不懂。<br><br>另一種共情就是大家都在說的了，是心理諮詢中要求諮詢師做到的一種狀態。這種共情，沒有道德上的善惡之分，只有諮詢師段位的高低之別。即，高段位的諮詢師比低段位的能夠更好地共情。<br>雖然題主並不關心這種行業內部問題，但各位諮詢師們明顯對此更感興趣……我也願意做個補充：<br><br>妨礙共情的各種可能（前幾天講課正好做過課件）：<br>1，<b>憤怒</b>：你曾經被配偶的婚外情傷害過，現在你很難對另一個婚外情的男子表達共情<br>2，<b>仇恨</b>：有的憤青，在看到比如日本地震的消息時，甚至會感到痛快<br>3，<b>厭惡</b>：某位白人諮詢師一直有種族歧視，導致他沒法對一個黑人來訪者共情<br>4，<b>恐懼</b>：你的老闆威脅要炒了你，你很擔心這份職業，於是你無法共情老闆的不滿<br>5，<b>焦慮</b>：明天要交的論文現在還沒寫！簡直不能理解女朋友為啥還纏著你回她短信<br>6，<b>抑鬱</b>：完全不想跟人交流，更談不上共情了<br>7，<b>自大</b>：這個問題困擾你那麼久？我來告訴你完美的解決方案！（而忘了共情）<br>8，<b>內疚</b>：我虧欠這個人的，我還是離他遠點比較好，實在不敢面對他……<br>…………<br>甚至還包括！（從自我角度出發的）<b>愛</b>：她在哭，這可是個好機會！我應該怎樣安慰她，才能給她留下最睿智的印象？趕緊上微薄，找幾句陸琪的語錄，嗯，背下來然後說給她聽……<br>甚至！（從自我角度出發的）<b>同情</b>：哎呀那條魚一直被泡在水裡，好可憐……<br><br>以上用一句話總結：過度的自我情感喚起（大多是負性情感，有時甚至是正性），就會妨礙共情<br>換句話說，人在不太考慮自己的情況下更容易共情——這句話說了等於沒說，但的確是真理
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="1365091-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2012-11-15" target="_blank" href="/question/20571042/answer/15592729">编辑于 2012-11-15</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>18 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="1408680"
+data-atoken="15700725"
+data-collapsed="False"
+data-created="1354543043"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="227">227</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">227</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$joy-xu" href="/people/joy-xu">Joy Xu</a>，<strong title="Psychiatry . Neuroscience" class="zu-question-my-bio">Psychiatry . Neuroscience</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="227">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$konn95" href="http://www.zhihu.com/people/konn95" class="zg-link" title="桐山魂乃">桐山魂乃</a>、</span><span class="user-block"><a data-tip="p$t$jay-wang-83" href="http://www.zhihu.com/people/jay-wang-83" class="zg-link" title="jay wang">jay wang</a>、</span><span class="user-block"><a data-tip="p$t$zhi-hu-27-68" href="http://www.zhihu.com/people/zhi-hu-27-68" class="zg-link" title="知呼">知呼</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="408871" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"><img src="http://pic1.zhimg.com/265f47d7956c44b8e7282081a1ac9cf4_b.jpg" data-rawwidth="700" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="700" data-original="http://pic1.zhimg.com/265f47d7956c44b8e7282081a1ac9cf4_r.jpg">考虑如下几点，但不仅限于此：<br><br><ul><li>社会交换论（social exchange theory：<a href="http://en.wikipedia.org/wiki/Social_Exchange_Theory" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">en.wikipedia.org/wiki/S</span><span class="invisible">ocial_Exchange_Theory</span><span class="ellipsis"></span><i class="icon-external"></i></a>）</li></ul>　　人们所做的事情源于收益的最大化和成本的最小化，共情的动机也似乎受此影响。<br><br><ul><li>纯粹的动机（empathy-altruism hypothesis：<a href="http://en.wikipedia.org/wiki/Empathy-altruism" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">en.wikipedia.org/wiki/E</span><span class="invisible">mpathy-altruism</span><span class="ellipsis"></span><i class="icon-external"></i></a>）</li></ul>　　当我们对另一个人发生共情时，我们会出于纯粹的利他主义理由来帮助他，无论我们会得到什么。而当我们没有感到共情，那么上面提到的社会交换就开始发挥作用。如果从助人的行为中得不到好处，我们会忽视不见，或是产生助人行为，仅仅是为了得到其他人的赞许。<br><br><img src="http://pic2.zhimg.com/1409c38bae46c91e2eac33ede55cd8bd_b.jpg" data-rawwidth="617" data-rawheight="234" class="origin_image zh-lightbox-thumb" width="617" data-original="http://pic2.zhimg.com/1409c38bae46c91e2eac33ede55cd8bd_r.jpg">共情—利他主义假说（Source:  Batson, 1991.）<br><br><ul><li>安全型依恋 （secure attachment style：<a href="http://en.wikipedia.org/wiki/Attachment_in_adults" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">en.wikipedia.org/wiki/A</span><span class="invisible">ttachment_in_adults</span><span class="ellipsis"></span><i class="icon-external"></i></a>）</li></ul>　　我们知道，在生命早期所建立的联结会影响成年后的关系形态。有着安全型依恋的特点是信任他人、不担心自己会被抛弃，并且认为自己是有价值的，会被他人所喜欢。当面对需要帮助的人时，有着安全型依恋的人，面对他人往往有更高的共情能力。<br><br><ul><li>关系的性质</li></ul>　　大多数的共情能力及助人行为是发生在相互熟悉的人之间，比如家庭成员及朋友。特别是父母与孩子的关系，这让人们极少考虑要得到什么，而主要考虑孩子需要多少帮助。 <br><br><ul><li>积极的心境</li></ul>　　当人们处于好心境时，更容易产生共情，继而帮助他人。同时提升共情能力，帮助他人，也可以延续人们的好心情。<br><br><ul><li>渴望被赞同</li></ul>　　在人类的文化及社会环境下，共情能力高被认为是积极的，对于利他主义者也给予称赞。那些希望获得赞同的个体可能会更乐于实施助人行为，以求可以提升在他人眼中的形象。<br><br><ul><li>助人的榜样</li></ul>　　这是人们，特别是儿童提高共情能力、习得助人行为最直接的方式（在这个问题里有详细的回答： <a href="http://www.zhihu.com/question/20628242" class="internal"><span class="invisible">http://www.</span><span class="visible">zhihu.com/question/2062</span><span class="invisible">8242</span><span class="ellipsis"></span></a> ），同时一个亲社会的行为榜样也是一个提醒者，让人有所意识。<br><br><ul><li>团体的接纳或排斥</li></ul>　　感受到自己被所在的团体排斥，的确会让人不好受。为了能够保护自己，避免这种由排斥所带来的痛苦，我们的机体会暂时关闭情绪通道。但在这一过程中，也会让人们对大多数的事物都缺乏深刻的感受，同时也削弱了我们对于需要帮助的人们的共情能力。<br><br><ul><li>旁观者效应 （bystander effect：<a href="http://en.wikipedia.org/wiki/Bystander_effect" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">en.wikipedia.org/wiki/B</span><span class="invisible">ystander_effect</span><span class="ellipsis"></span><i class="icon-external"></i></a>）</li></ul>　　最著名的例子应该是 Kitty Genovese 被谋杀的事件（
+<a href="http://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">en.wikipedia.org/wiki/M</span><span class="invisible">urder_of_Kitty_Genovese</span><span class="ellipsis"></span><i class="icon-external"></i></a> ）。当人们遇到类似事件时，能运用共情能力并帮助他人，需要满足几个条件（如图所示）：注意到事件、对紧急情况的解读、承担个人的责任、知道如何帮助以及决定施以帮助等等。而随着目击事件的旁观者人数的增加，每个人帮助受害人的可能性就越小。而且，如果旁观者没有达成这五步之中的任何一步，他们的共情能力也不足以使其帮助他人。<img src="http://pic4.zhimg.com/b82c6057c34a26d29b190e58f3dbb92b_b.jpg" data-rawwidth="567" data-rawheight="426" class="origin_image zh-lightbox-thumb" width="567" data-original="http://pic4.zhimg.com/b82c6057c34a26d29b190e58f3dbb92b_r.jpg">旁观者干预决策树（Source: Darley &amp; Latané, 1970.）<br><br><ul><li>所处的环境</li></ul>　　相对生活在小乡镇的人们，生活在人口密集的城市中，人们的共情能力似乎更不容易被激起，也更少的做出助人的行为。据说原因在于，都市的压力会导致人们独善其身以避免负荷过载。<br><br><ul><li>从事志愿服务</li></ul>　　人们自愿参加相关的服务活动，之后的感受不言而喻。<br><br>当然，这其中还有文化的影响、社会责任规范，甚至是宗教的影响，在此不一一展开了。
+<a href="/question/20571042/answer/15700725" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="1408680-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2012-12-03" target="_blank" href="/question/20571042/answer/15700725">编辑于 2014-01-29</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>6 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="4016348"
+data-atoken="22041591"
+data-collapsed="False"
+data-created="1391012852"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="5">5</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">5</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$marlin-31" href="/people/marlin-31">小Ted</a>，<strong title="就差一只甲虫兽了。" class="zu-question-my-bio">就差一只甲虫兽了。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="5">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$sang-ma-75-91" href="http://www.zhihu.com/people/sang-ma-75-91" class="zg-link" title="桑麻">桑麻</a>、</span><span class="user-block"><a data-tip="p$t$danieltt" href="http://www.zhihu.com/people/danieltt" class="zg-link" title="Monkey孙">Monkey孙</a>、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="408871" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"><p>其实，客观地说，我们无法得知任何一个人的想法，我们的共情是基于自己的想象力——「如果我处在那种状态，我会是什么感受？」，这种能力和人们的阅历和思维有关，是可以通过训练得到的。<br>
+题主所说的对某些人更容易共情，对某些人则比较淡漠，其实跟题主共情的能力（设身处地的想象力）无关，而实质上是题主表现出的偏好差异——因为在某时某刻，人的阅历及想象能力是一定的，那么，对于你更感兴趣的人或事，你一定更愿意去设身处地地想象，从而更容易达到共情，而对于不感兴趣的东西，大脑是不愿意去思考的。<br>
+想要更好地理解别人的心理世界，请多去经历，多去感受，多去尝试，不带偏见。</p><p>以上浅见，与君共勉！</p>
+<a href="/question/20571042/answer/22041591" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="4016348-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/20571042/answer/22041591">发布于 2014-01-30</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20571042" class="zg-link-litblue">查看全部 25 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:20571042}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="408871">关注问题</button>
+
+1546
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="4055a09d55538f79261cb7143f6a09f3" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="李松蔚"
+data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$lisongwei" href="http://www.zhihu.com/people/lisongwei" class="zg-link" title="李松蔚">李松蔚</a></h2>
+
+<div class="zg-big-gray">普通的心理学工作者</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/lisongwei/followers" class="zg-link-gray-normal">165011 关注者</a>
+/
+<a target="_blank" href="/people/lisongwei/asks" class="zg-link-gray-normal">5 提问</a>
+/
+<a target="_blank" href="/people/lisongwei/answers" class="zg-link-gray-normal">136 回答</a>
+/
+<a target="_blank" href="/people/lisongwei" class="zg-link-gray-normal">229167 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:20571042}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/20571042/answer/15592729/collections">268</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1341157199">
+<h2 class="zm-item-title ">
+<a href="/collection/19650915">教你怎么人际交往</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19650915/followers">27533 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1340078622">
+<h2 class="zm-item-title ">
+<a href="/collection/19645224">各式各样的精妙回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/Tevlev" data-tip="p$t$Tevlev" class="zg-link-litblue"> Velvet </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19645224/followers">6116 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1342279474">
+<h2 class="zm-item-title ">
+<a href="/collection/19656066">优秀答案</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/wang-ya-bing" data-tip="p$t$wang-ya-bing" class="zg-link-litblue"> 王亚兵 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19656066/followers">5759 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1375611806">
+<h2 class="zm-item-title ">
+<a href="/collection/20822349">学习方法</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/linchaoalive" data-tip="p$t$linchaoalive" class="zg-link-litblue"> linchaoalive </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20822349/followers">4795 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1362117722">
+<h2 class="zm-item-title ">
+<a href="/collection/19906991">随心收</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/renfish" data-tip="p$t$renfish" class="zg-link-litblue"> 翡柏 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19906991/followers">1612 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21047182">什么工作容易让人人格扭曲心理变态？</a> <span class="num">236 个回答</span><meta itemprop="followerCount" content="1404" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20672766">为什么人们反感马太效应，这种心理普遍吗？</a> <span class="num">25 个回答</span><meta itemprop="followerCount" content="409" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20640993">从严肃的心理学角度来看九型人格有道理吗？</a> <span class="num">30 个回答</span><meta itemprop="followerCount" content="781" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20662018">如何判别心理学和伪心理学？</a> <span class="num">26 个回答</span><meta itemprop="followerCount" content="1266" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20446764">心理学研究什么？</a> <span class="num">57 个回答</span><meta itemprop="followerCount" content="1092" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19702518">心理学是否是科学？依据在哪里？</a> <span class="num">41 个回答</span><meta itemprop="followerCount" content="249" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19990792">心理学是一门科学吗？它的可信依据在哪里？</a> <span class="num">22 个回答</span><meta itemprop="followerCount" content="184" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20615466">网上一些所谓「心理学家做了 XXX 实验」解释了 XX 道理，心理学家真的做了这些实验吗？</a> <span class="num">15 个回答</span><meta itemprop="followerCount" content="145" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19706917">哪些心理学理论/学派可以称作科学？</a> <span class="num">22 个回答</span><meta itemprop="followerCount" content="247" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20538480">心理学学科内部怎么评价弗洛伊德的理论？</a> <span class="num">46 个回答</span><meta itemprop="followerCount" content="1432" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2012-11-15</span>
+</p>
+<p>
+所属问题被浏览 <strong>19824</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:20571042}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439263445000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":408871,"urlToken":20571042,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0f50671d77e9fa87d6ccd7e2fc71de7.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="178af685de1c4d8192aa3b118bcb96ea">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="e8187966879bc3dacae3992253e01d63"/>
+</body>
+</html>

@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>胜率代表了什么？ - 曾举臣的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/21070305">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/21757305/answer/21070305">
+<meta id="znonce" name="znonce" content="150fc242c07248e39aed4a0057afe272">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/21757305" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19554091"
+data-tip="t$b$19554091" data-token="19554091" data-topicid="1291">
+数学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19558740"
+data-tip="t$b$19558740" data-token="19558740" data-topicid="2852">
+统计学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19574610"
+data-tip="t$b$19574610" data-token="19574610" data-topicid="8145">
+概率
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19576422"
+data-tip="t$b$19576422" data-token="19576422" data-topicid="8745">
+统计
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19670916"
+data-tip="t$b$19670916" data-token="19670916" data-topicid="40314">
+概率论
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/21757305">胜率代表了什么？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="883928" data-action="/question/detail">
+
+<div class="zm-editable-content">假设有一个无限大的台球馆，里面有无数多个球手在不知疲倦地比赛，任意两人间已进行无数多场比赛。 <br>已知A选手的胜率为60%，B选手的胜率为40%。<br>今AB对决，求A获胜的概率。<br><br>注：这不是原创问题，但求一个能令人信服的答案。无论您认为是60%，100%，或其他，或一个范围，或无解，都请说明下您的理由，多谢！</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>8 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="883928" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/21757305" class="zg-link-litblue">查看全部 23 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="3624815"
+data-atoken="21070305"
+data-collapsed="0"
+data-created="1387785300"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-3624815"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">5</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zengjuchen"
+class="zm-item-link-avatar"
+href="/people/zengjuchen">
+<img src="http://pic2.zhimg.com/5acfa84d9_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic2.zhimg.com/5acfa84d9_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zengjuchen" href="/people/zengjuchen">曾举臣</a>，<strong title="世界和我想的不一样" class="zu-question-my-bio">世界和我想的不一样</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="5">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$zuo-gong-ke-de-marco" href="http://www.zhihu.com/people/zuo-gong-ke-de-marco" class="zg-link" title="做功课的Marco">做功课的Marco</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$lllllustrator" href="http://www.zhihu.com/people/lllllustrator" class="zg-link" title="lllllustrator">lllllustrator</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="883928" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">一个简洁有效的思考方法：<br><br>A的胜率是60%，这是什么意思？<br>请把全体选手想象成一个概念体。<br>那么当A和  全体选手（每场比赛从全部选手中随机选取一个）比赛10亿场的时候。<br>A胜利的场数是6亿场左右，全体选手的胜利场数是4亿场左右<br>如果比赛场数到达15亿场的时候，A胜利的场数是9亿场左右，全体选手的胜利场数是6亿场左右<br><br>B的胜率是40%,<br>那么当B和 全体选手（每场比赛从全体选手中随机选取一个）比赛10亿场的时候。<br>B胜利的场数是4亿场左右，全体选手的胜利场数是6亿场左右<br><br>也就是说A,B分别和全体选手比赛，当全体选手胜利场数达到6亿场时，A的胜利场数是9亿场左右，B的胜利场数是4亿场左右。<br><br><b>因为全体选手的样本量无限大，所以在此处可以认为A和B所面对的全体对手是相同的，且当全体选手胜利场次数为某一较大的固定值时，A和B分别的胜利场数可以作为其一般性实力的反应。两者对战的获胜概率等于其一般性实力的比值。</b><br><br><br><b>所以，在此处，A和B对战的获胜概率 ≈ 9亿/（4+9）亿 = </b><b>0.6923076923 </b>（正好和@猪小宝答案里 Bill James的理论算出来的值相等，我说的这个可能就是他的理论基础）
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="3624815-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/21757305/answer/21070305">发布于 2013-12-23</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="2975083"
+data-atoken="19489282"
+data-collapsed="False"
+data-created="1382141659"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="474">474</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">474</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhuxiaobao" href="/people/zhuxiaobao">猪小宝</a>，<strong title="博士僧 | 一级注册结构工程师" class="zu-question-my-bio">博士僧 | 一级注册结构工程师</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="474">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$zui-ai-yan-quan" href="http://www.zhihu.com/people/zui-ai-yan-quan" class="zg-link" title="最爱是烟圈">最爱是烟圈</a>、</span><span class="user-block"><a data-tip="p$t$zhao-tian-28-90" href="http://www.zhihu.com/people/zhao-tian-28-90" class="zg-link" title="赵天">赵天</a>、</span><span class="user-block"><a data-tip="p$t$bigblackie" href="http://www.zhihu.com/people/bigblackie" class="zg-link" title="大黑">大黑</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="883928" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">举个不那么严谨的、直观的例子，NBA 常规赛，马刺60胜20负，山猫32胜48负，假设两队在第一轮季后赛相遇，问各自的胜率有多少？<br><br><b>第一个问题：</b>已知积累足够多的数据，A 的胜率60%，B 的胜率40%，那么 A 和 B 相遇，一场定生死，则 A 胜出的概率是多少？<br><br>现实中有没有这种实例呢？有！美国职业棒球联盟就是个例子，比赛本身偶然性不是那么的强，数据记录已经延续了几十年。<br><br>通过这些数据的分析，Bill James 提出了用于估算美国职业棒球联赛胜率的 <a href="http://en.wikipedia.org/wiki/Log5" class=" wrap external" target="_blank" rel="nofollow noreferrer">Log5<i class="icon-external"></i></a> 公式。<br><br>A=0.6，B=0.4，则 A 赢的概率是 <img src="http://zhihu.com/equation?tex=%5Cfrac%7BA%5Cleft%28+1-B%5Cright%29+%7D%7BA%2BB-2AB%7D%3D0.692+" alt="\frac{A\left( 1-B\right) }{A+B-2AB}=0.692 " eeimg="1"><br><br>事实上，它的来源是 Bill James 提出的另一个公式 <a href="http://en.wikipedia.org/wiki/Pythagorean_expectation" class=" wrap external" target="_blank" rel="nofollow noreferrer">Pythagorean expectation<i class="icon-external"></i></a>。按照这个公式，A 60胜40负，「能力值」是60除以40等于1.5；B 40胜60负，「能力值」是40除以60，等于0.666。A 赢的概率是 <img src="http://zhihu.com/equation?tex=%5Cfrac%7B1.5%7D%7B1.5%2B0.666%7D+%3D0.692" alt="\frac{1.5}{1.5+0.666} =0.692" eeimg="1"><br><br>通过与这些年联赛数据的对比，Bill James 也在做着相应的修正。但这两个公式起码可以提供一个近似的估算结果，与实际比赛结果也非常接近。<br><br><b>第二个问题：</b>如果 A、B 连续对决多次，采用三局两胜或者七局四胜，结果如何？ <br><br><b>如果比的局次少，输赢的概率按照胜率的相对强弱关系；比的局次足够多，胜率大的那一方总能赢。</b><br><br>只比一局，69.2%；三局两胜，77.42%；五局三胜，82.66%；七局四胜，86.38%；九局五胜，89.15%；十一局六胜，91.27%……17局9胜，95.30%……101局51胜，99.9972%……<br><br><b><u>一局决胜负</u></b>，可能的情况有两种。A，B。按照相对强弱对比，A 概率 69.2%，B 概率 30.8%。这两个概率都远远大于5%，都是大概率事件，所以都有可能发生。A 获胜的概率较大，但并不能保证一定能获胜。<b>比100次单场决胜负，B 大约能赢30次。</b><br><br>有的同学说，不对啊，虽然A胜率60%，B胜率40%，A的胜率比B高，实力也比B强，但<b>万一 A 就是从未赢过 B 呢？没错，的确有这种可能，B 是 A 的苦主。所以，我们说 B 赢的可能性也有 30.8% ，这种情况就完全包含在这 30.8% 里。</b>而且，A 从未赢过 B，不代表这次就不能赢 B。<br><br><u><b>三局两胜</b></u>，结局共有八种，我们用A代表A胜，B代表B胜。这八种情况分别是，AAA，AAB，ABA，ABB，BAA，BAB，BBA，BBB。八种情况的概率分别为 <br><ul><li>AAA 0.692^3=0.331<br></li><li>AAB (0.692^2)*(0.308)=0.147<br></li><li>ABA 0.147<br></li><li>BAA 0.147<br></li><li>ABB (0.308^2)*(0.692)=0.066<br></li><li>BAB 0.066<br></li><li>BBA 0.066<br></li><li>BBB 0.308^3=0.029<br></li></ul>A 最终胜出的情况为前四种，相加为 0.331+0.147+0.147+0.147=0.77<br>B 最终胜出的情况为后四种，相加为 0.066+0.066+0.066+0.029=0.23<br><br>也就是，三局两胜，A 赢的概率上升到 77%，B 赢的概率下降到23%。但是，23%还是大概率事件，依然有可能发生。也就是说，<b>比100次三局两胜，B 依然能赢差不多 23 次</b>。<br><br>同理，我们再考虑<u><b>五局三胜</b></u>的情况。<br>A 最终胜出的情况有<br><ul><li>五局横扫全胜，一种情况：AAAAA，概率为 0.692^5=0.159<br></li><li>赢了其中的四局，五种情况：BAAAA、ABAAA、AABAA、AAABA、AAAAB，总概率为5*(0.692^4)*(0.308)=0.353<br></li><li>赢了其中的三局，十种情况：BBAAA、BABAA……总概率为10*(0.692^3)*(0.308^2)=0.314<br></li></ul>A  胜出的概率为 0.159+0.353+0.314=0.826<br>也就是说，如果五局三胜，A 的胜率上升到82.6%。<b>比100次五局三胜，B 依然能赢差不多17次。</b><br><br>如果我们认为概率小于5%的事件是小概率事件，那么就意外着，A 和 B 至少要进行17局9胜的系列赛，B获胜才是个小概率事件。<br><br><b>现在，你知道为什么 NBA 季后赛要七战四胜、斯诺克世锦赛甚至要35局18胜了吧？</b><br><br>回到我们开头的小例子，马刺60胜20负，胜率0.75，山猫32胜48负，胜率0.4。七局四胜，此时两者的相对强弱对比<img src="http://zhihu.com/equation?tex=x%3D%5Cfrac%7B0.75%5Cleft%28+1-0.4%5Cright%29+%7D%7B0.75%2B0.4-2%5Ctimes+0.75%5Ctimes+0.4%7D+%3D0.818" alt="x=\frac{0.75\left( 1-0.4\right) }{0.75+0.4-2\times 0.75\times 0.4} =0.818" eeimg="1">。马刺赢下季后赛的概率是 97.6%，山猫爆冷上演奇迹的概率是 2.4%。但是，如果不是七局四胜，而是一场定生死，那马刺赢的概率只有81.8%，山猫可是有高达 18.2% 的概率爆冷赢马刺哦。<br><br>我们再来看看AB比赛A获胜的场次情况：<br><ul><li>一局决胜，A 获胜的情况只有1种，A。<br></li><li>三局两胜，A 获胜的情况有 1+3种，全胜AAA这1种，两胜一负AAB、ABA、BAA 这三种。<br></li><li>五局三胜，A 获胜的情况有 1+5+10种……<br></li><li>七局四胜，A 获胜的情况有 1+7+21+35种……<br></li><li>九局五胜，A 获胜的情况有 1+9+36+84+126种……<br></li><li>……</li></ul><b>听说过有个叫帕斯卡三角的东西吗？在我们的中学课本里，它被叫做杨辉三角。现在你知道它的用处和来历了吧？</b>
+<a href="/question/21757305/answer/19489282" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="2975083-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-10-19" target="_blank" href="/question/21757305/answer/19489282">编辑于 2013-10-25</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>68 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="6945707"
+data-atoken="28907198"
+data-collapsed="False"
+data-created="1407413152"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="6">6</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">6</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$looming" href="/people/looming">舒自均</a>，<strong title="别问我怎么知道的" class="zu-question-my-bio">别问我怎么知道的</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="6">
+
+<span class="voters">
+<span class="user-block">知乎用户、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$gnaggnoyil" href="http://www.zhihu.com/people/gnaggnoyil" class="zg-link" title="李永刚">李永刚</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="883928" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">这问题都这么久了,我本来都不想回答,忍了好几次,到底还是忍不住<b>,</b>因为全部的回答都没有答到点子上<b><br><br>只有没学过数学的人才会提这个问题</b><br><br>或者换种说法<br><br><b>只有没学过数学的人才会<u>这样</u>提这个问题</b><br><br>同样:<br><br><b>只有数学学不好的人才会尝试回答<u>这个</u>问题</b><br><br>我举个例子:<br><blockquote>在一给定圆内所有的弦中任选一条弦，求该弦的长度长于圆的内接正三角形边长的概率<br></blockquote>单单把这个问题描述成这样,那这个问题就是没有答案的:<br><a class=" wrap external" href="http://en.wikipedia.org/wiki/Bertrand_paradox_%28probability%29" target="_blank" rel="nofollow noreferrer">Bertrand paradox (probability)<i class="icon-external"></i></a><br><br>概率论的第一章就教我们,<u>提任何概率问题之前,必须明确概率空间</u>,即明确"什么是等概的"<br>返回来看上面举得例子,和题主的这个问题,为什么会不能回答?因为根本没有明确"什么样的事件概率是相等的",提这种问题的人,肯定连概率论第一章都看不懂<br>有些答案说"假设这个问题是在玩剪刀石头布,每个人固定只出一种手势,那么出剪刀的和出石头的胜率都是1/3,他们遇见了之后出剪刀的胜率就是0"其实就是在预设概率空间,我也可以构造出一个概率空间让60%方对40%方的胜率是0%到100%之间任意一个数值.<br>这种做法被一些人批评"附加了前提条件",其实这样的前提条件非加不可,不然根本没有答案,不对,应该说这个"问题"根本无法构成一个严谨的问题.赞同数最高的那个答案,也是预设了概率空间的,只是隐藏在引用的文献当中而已,只是它的结论比较符合你们的"直觉",所以才被顶到了400多赞.如果统计的不是棒球,而是石头剪刀布游戏,肯定不会出现0.692这种结果.
+<a href="/question/21757305/answer/28907198" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="6945707-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/21757305/answer/28907198">发布于 2014-08-07</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>3 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/21757305" class="zg-link-litblue">查看全部 23 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:21757305}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="883928">关注问题</button>
+
+542
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="9c03606cf175b72043dc498742655c13" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="曾举臣"
+data-tip="p$t$zengjuchen"
+class="zm-item-link-avatar"
+href="/people/zengjuchen">
+<img src="http://pic2.zhimg.com/5acfa84d9_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$zengjuchen" href="http://www.zhihu.com/people/zengjuchen" class="zg-link" title="曾举臣">曾举臣</a></h2>
+
+<div class="zg-big-gray">世界和我想的不一样</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/zengjuchen/followers" class="zg-link-gray-normal">3476 关注者</a>
+/
+<a target="_blank" href="/people/zengjuchen/asks" class="zg-link-gray-normal">183 提问</a>
+/
+<a target="_blank" href="/people/zengjuchen/answers" class="zg-link-gray-normal">158 回答</a>
+/
+<a target="_blank" href="/people/zengjuchen" class="zg-link-gray-normal">7398 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:21757305}'></div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/25955932">%d的d代表什么？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="5" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19902283">哥德巴赫猜想证明了吗？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="10" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/25648987">哥德尔定理是否支持了不可知论？</a> <span class="num">5 个回答</span><meta itemprop="followerCount" content="101" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20172625">为什么心理学用希腊字母普赛作为代表符号？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="6" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/26614693">计算物理的英文教材，图中的公式里的字母代表什么函数关系？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="9" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19871305">黎曼猜想终于被证明了？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="8" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22456966">VIM中按键映射&lt;M-？&gt;中的M代表什么？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="5" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19661316">爱因斯坦的成功秘笈W=X +Y +Z，为什么是WXYZ代表，不是其他字母？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="6" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21878568">A、B、C 三人玩斗地主，假设三人技术水平一致，且系统随机发牌和指定地主，那么他们的胜率会是多少？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="5" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19794934">Wolfram|Alpha 使用了哪些核心技术？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="21" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+发布于
+
+<span class="time">2013-12-23</span>
+</p>
+<p>
+所属问题被浏览 <strong>18888</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:21757305}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439368996000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":883928,"urlToken":21757305,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="150fc242c07248e39aed4a0057afe272">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="c7e29a0386365735986c136ad99482a0"/>
+</body>
+</html>

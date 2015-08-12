@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>中医是科学吗？中医和现代医学的区别是什么？ - Pirate Henry 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/12522950">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/19577214/answer/12522950">
+<meta id="znonce" name="znonce" content="07187099a439436b8ac875b72958a28b">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/19577214" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19553148"
+data-tip="t$b$19553148" data-token="19553148" data-topicid="980">
+中医
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19604128"
+data-tip="t$b$19604128" data-token="19604128" data-topicid="18012">
+医学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19612637"
+data-tip="t$b$19612637" data-token="19612637" data-topicid="20858">
+科学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19966420"
+data-tip="t$b$19966420" data-token="19966420" data-topicid="140824">
+中医客观化
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/19577214">中医是科学吗？中医和现代医学的区别是什么？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="10849" data-action="/question/detail">
+
+<div class="zm-editable-content">中医是在科学的范畴之外吗？<br>中医是科学的吗这个问题是不是一个伪命题？<br>中医和西医的区别是不是与信仰和科学的区别相同？ <br><br>相似问题：<a href="http://www.zhihu.com/question/21476991" class="internal">中医是伪科学吗？应该如何看待中医？</a></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>21 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="10849" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/19577214" class="zg-link-litblue">查看全部 258 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="128293"
+data-atoken="12522950"
+data-collapsed="0"
+data-created="1305623477"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-128293"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">140</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$pirate-henry"
+class="zm-item-link-avatar"
+href="/people/pirate-henry">
+<img src="http://pic1.zhimg.com/042299fa4_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic1.zhimg.com/042299fa4_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$pirate-henry" href="/people/pirate-henry">Pirate Henry</a>，<strong title="Mind Hacker，Computational Neuroscience Researcher，爱写知乎夜用加长版答案" class="zu-question-my-bio">Mind Hacker，Computational Neuroscienc…</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="140">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$jack-hu-14-6" href="http://www.zhihu.com/people/jack-hu-14-6" class="zg-link" title="jack hu">jack hu</a>、</span><span class="user-block"><a data-tip="p$t$smart-gong" href="http://www.zhihu.com/people/smart-gong" class="zg-link" title="smart Gong">smart Gong</a>、</span><span class="user-block"><a data-tip="p$t$wu-zhi-min-77-69" href="http://www.zhihu.com/people/wu-zhi-min-77-69" class="zg-link" title="烟台武志民">烟台武志民</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="10849" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"> -------- 题外话 --------<br>1. 赞叹问者的提问，太广太深，这个问题可以写上几本蛋疼的书的。<br>2. 我不淡定从床上坐起。。。不过还是懒得开电脑继续手机码字。。。<br><br>-------- 正文 --------<br>*** 1. 什么是中医 ***<br>中医的中字不仅仅是中国、中华，此中字更多的是中庸，是平衡。<br>中医的理取自周易。阴阳，五行，变化等等穷举不尽，黄帝内经是个好例子。<br>中医的术取自实践。神农尝百草，李时珍如何写出本草的故事，都可以侧面反映这一点。针灸术，望闻问切术都是实践所得。<br><br>*** 2. 什么是科学(近现代科学) ***<br>科学是一种方法，是人们为了生存认知世界一种方法。人们认知世界的方法还有宗教(比如人死后会复活)，还有传奇神话故事(比如某人死后念一个咒语就复活了)，还有想像猜测(比如人死后到了另一个空间) 等等。<br>于是有人产生了问题，当ABC三种解释都存在时，我们应当相信哪一个？<br>答案很简单：你爱相信哪个你相信哪个。<br><br>科学是，无论你相信哪一个我都不能说你对，也不能说你错，大家都只是假设。<br><br>可是现实是残酷的，当认知被逼到需要应用的时候，人们就不得不选择一个可以在现实操作中从不被否定或很少被否定的认知。这时候，有人就开始闲得蛋疼了，比如拿一铅球和一乒乓球球扔一扔看哪个更容易砸碎小明家玻璃。<br><br>科学是，必须要实验。反复提供固定的条件，重复模拟现实中的过程，观察过程和结果，这是实验。<br><br>有了假设和实验，就会有总结哥出来总结这个假设有多可信，是否好用。<br><br>科学是个总结哥。<br><br>又有人蛋疼了，他觉得砸小明家的窗户的事不一定非要反复地实验，通过已有的总结，加上一些新的假设，加上数学和逻辑的推演，他就可以的得出砸小明家玻璃需要什么样的球，多大的力气，什么位置砸，什么角度砸。当然最终这个假设要成为真正的结论还是要让现实说话。<br><br>总结哥现身：科学是提出假设，进行实验证明假设，推演假设，不停进行实验证明假设的，永远不说绝对对，永远不说绝对错，这样一个蛋疼的方法。<br><br>*** 3. 中医是科学吗？ ***<br>有假设吗？有<br>有实验吗？有<br>有总结吗？有<br>所有假设都实验了吗？没有<br>没有实验的也总结了？嗯<br><br>总结哥：中医里部分被现实实验反复重现的假设是科学的结论，但是中医整体的方法并不是科学这个方法。它和科学有同有异，各有风采。他们是有交叉也有不同的两个范畴。<br><br>西医和中医的关系也是这样的。<br><br>*** 4. 科学有用与否 ***<br>这个问题太深了。<br>什么叫有用？<br>如果说是能产生大量的价值，大多数的科学是可以的，也有些在通常场合不可以。不过没有任何物体是没有价值的，在一定的条件，所以东西都有价值，不管是不是科学。<br>如果说是实用，那么既然科学结论大多是现实检验下的最管用的，所以就用吧。不过，科学具有保守性，所以很刻板，选择空间相对猜测要狭小；科学具有超前和简化性，有些结论因为条件苛刻，而暂时很难在现实中被应用。<br><br>问题太深，本人修炼不足，留给牛人。 
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="128293-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/19577214/answer/12522950">发布于 2011-05-17</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>17 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7633291"
+data-atoken="30622005"
+data-collapsed="False"
+data-created="1410874966"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="214">214</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">214</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$wang-wei-62-88" href="/people/wang-wei-62-88">王威</a>，<strong title="撰写过一本《医学史》" class="zu-question-my-bio">撰写过一本《医学史》</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="214">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$yan-zhuang-53" href="http://www.zhihu.com/people/yan-zhuang-53" class="zg-link" title="庄生晓梦">庄生晓梦</a>、</span><span class="user-block"><a data-tip="p$t$lin-pei-jie-83" href="http://www.zhihu.com/people/lin-pei-jie-83" class="zg-link" title="木头">木头</a>、</span><span class="user-block"><a data-tip="p$t$cai-xiao-he-31" href="http://www.zhihu.com/people/cai-xiao-he-31" class="zg-link" title="蔡小鹤">蔡小鹤</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="10849" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"><b>西医有过中医阶段吗，有。</b><br>　　其实各大文明都有最初的原始医学阶段。<br>　　原始医学，其实是好听的说法，难听一点，就是巫术。<br><br>　　我写过一本《<a href="http://www.so.com/s?q=%E5%8C%BB%E5%AD%A6%E7%9A%84%E6%95%85%E4%BA%8B&amp;ie=utf-8&amp;src=se_lighten_quotes_f" class=" wrap external" target="_blank" rel="nofollow noreferrer">医学的故事<i class="icon-external"></i></a>》，将人类各大文明的医学，约略的阐述的一遍。<br>　　埃及医学、希腊医学、古罗马医学、中国医学、阿拉伯医学在他们各自的时代都很伟大。<br><br>　　但是为什么到了现代就不行了呢，连西洋人自家的四元素体液说也被抛弃了。<br>　　道理很简单，近两三百年的医学大发展，发展出来的西医是全球化时代，所有国家一起努力。<br>　　无数天才如星星一样涌现，耗费无尽的人力物力，才达到今天的巅峰状态。<br>　　这不是中医所能抗衡的。<br>　　那相当于以一国之力对抗全球，可能嘛，不可能。现实吗，不现实。<br><br>　　今天的中医有很多的迷梦，大致而言有如下几条：<br>　　一、我是最特殊的，要特别对待。殊不知现代工业，目的只有一个，就是标准化。<br>　　在各个领域，标准化就是一切。<br>　　你无法标准化，你就会被消灭掉。<br>　　你自己搞特殊化了，还想挤进现代科学里头，这就是不讲政治。<br>　　（医学在今天是高度政治化的议题，关注的是民生。已经再不是单纯的医学问题了。这个问题展开很累，暂时不说。）<br><br>　　二、整体论。<br>　　认为中医对待病人最有情，把病人看成是一个整体，而西医则将人机械化，一个部位一个部位的动刀子。<br>　　其实整体论，各大文明的原始医学都有过。结果是导致什么问题都解决不了，因为一病起来，就“整体”了。咋办啊。<br>　　整体论不重要嘛，重要，而且重要的很。<br>　　但是难题的一个个的具体解决了，才能完成整体论的阐述，就像一个小学生，连五千个汉字都没学会，就要研究经典文献，可能嘛，不可能。<br>　　现代的西医也有整体论，现代西医的整体论是建立在几百年来的各种科研攻关之上的。<br>　　只是中医研究者无知罢了。总而言之，西医的整体论的境界不是中医整体论者所能梦见了。<br>　　到现在还一本两千多年前的黄帝内经，研究到便秘，中医还有什么资格谈整体论。<br><br>　　三、中医是有效的。<br>　　有。<br>　　但是各大文明的原始医学都无效嘛，都有那么一点点效。<br>　　是，中医自古以来有很多的验方，到现在都能用。<br>　　但是相比之现代医学，这种“有效”差距实在太大了。<br>　　什么意思呢，就是现代医学的有效，都有很庞大的实验数据支撑着，中医没法做到，也失去做到的可能性了。<br>　　因为现代医学在两三百年，在法治最不严密的时代，都做过很多的实验了，解决了大多数的医学常见病上的难题了。<br><br>　　中医要发展起来，没有别的假设，不可能跳跃性发展，只能先从医学常见病上出发。然后再这个基础上，博大而后精深。<br>　　但是中医目前不可能有这样的机会，未来更不可能有这样的机会，因为最基本的一条，病人是有知情权的。<br>　　你再要拿医学的常见病做实验，病人肯定不答应的。<br>　　看看欧美现在的医学实验都跑到那里去做了，非洲。因为那里无法治，病人也没钱。但是现在非洲人也不干了。<br>　　中国已经富裕起来，没人当药罐了。<br><br><br>　　四，以西医为对立面，为假想敌。<br>　　应该说，中医面对西医，往往有一个错觉，以为西医只是西方的医学。西洋人的医学。<br>　　其实不然，西医之成就今日之巍巍大厦，乃是各种现代学科跨学科交叉合作的成果。<br>　　物理学、化学、生理学、生物学等等，各种学科的无数分支的每一样最微小的进步，往往第一时间就和医学结合起来了。<br>　　而用古老二经作为护身的中医，要去对抗西医，只能说是自不量力，自找死路。<br>　　到今天还有很多中医论者，大谈民族精神，大谈文化传统，更是可笑。<br>　　将中医<a href="http://bbs.tianya.cn/list-50321-1.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">文学<i class="icon-external"></i></a>化浪漫化的运动，大谈山海经，大谈楚辞诗经植物，大谈红楼梦里头医学，都是<a href="http://bbs.tianya.cn/list-50321-1.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">文学<i class="icon-external"></i></a>化、浪漫化的弊病。<br>　　确实也能让民众怜惜之爱护之，但是医学从来不可能靠<a href="http://bbs.tianya.cn/list-50321-1.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">文学<i class="icon-external"></i></a>化浪漫化取得进步。<br>　　医学的进步从来只能来自于无数的死人尸体、活人的苦痛和实验室庞大以亿兆计、冷冰冰的数据。<br><br><br>　　其实中医有可爱可怜之处，但是全球化时代，竞争太无情了。<br>　　所以中医论者就不要再拿那些自欺欺人的伪命题翻来覆去的讲，没意思了都。<br>　　我们现在应当做的是竭力挤进西医体系。<br>　　不要老是以为西医是西洋人的。<br>　　没这回事。<br>　　西医的基础是建立在各国现代科学的基础上的。是没有国籍的。<br><br><br>       中医只是医学一个发展阶段而已。<br>　　讲一个简单的道理吧。中国功夫很牛逼吧，也确实能把人的身体提升到巅峰状态。<br>　　然而到了现代，有什么用，一枪就能把你苦练几十年的金钟罩废了。<br>　　这时候要怎么办呢，买件防弹衣就行了。<br><br>　　医学发展到今天，他的方向已经不是对身体坏掉的东西缝缝补补，而是寻找重生的手段。<br>　　比如你心脏坏了，搞了人工心脏。<br>　　这个心脏甚至可以用细胞培养出来，和原来的身体兼容。<br>　　这是科幻片吗，不是。<br>　　现在各大欧美临床都已经初步实现了。<br><br>　　中医再怎么鼓捣，都只能是维持原来的身体而已。<br>　　你和我说中医有多少年<a href="http://bbs.tianya.cn/list-50337-1.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">历史<i class="icon-external"></i></a>，和我说你学中医有多么苦。<br>　　这没用。<br>　　就和黄飞鸿的无影脚再厉害，最后他的儿子还是给洋枪打死了，有脾气吗。<br><br><br><br><blockquote><p><b>“西医的伟大,就在于用科学的方法来证实中医的奥秘。”</b></p><p>　　此老西医名校毕业，家传中医渊源。至亲身患某种恶疾，屡被国内顶级西医（包括国家功勋荣誉获得者）推出门，幸遇此老，调理经年，已无大碍。同患之病友，经“科学”治疗，或无法脱离药物（进口药物，非常昂贵），或并发他症早夭。</p><p>　　此老名声日久，逢出诊日，挂号者多达百人，常有十年前老客户带新病人前来求诊。与其同在一个诊所的某中医大学一级学院院长，却每每门可罗雀，日诊不过三五。</p><p>　　某偶感小恙，亦循旧例，以此老判疑难杂症洞若观火，对区区腹胀便秘，定当手到擒来。把脉开方，拣药煎汤，苦药穿肠过，病邪腹中留，无奈。良久，家人感心脏不爽，略显脏躁迹象。制甘麦大枣汤救急，为适寒温，汤甫进咽，滑爽津甜，及入腹，胸腹两肋为之一轻，未几，肠鸣而有便意。放狗搜之，见前人有甘麦大枣汤治脾约型便秘者。</p><p>　　尺有所短，寸有所长，此之谓也。</p><p>　　（上述之事，句句亲历，全套病例及药方均妥善保留备查）</p></blockquote><p>　　这个回帖颇为有趣，因此上分说一下哈。</p><p>　　第一，上面病例的病情是西医诊断出来的。</p><p>　　几乎 很有趣的是，几乎中医用来和西医叫板的案例，都是西医先诊断出来的。</p><p>　　西医靠什么诊断，仪器。仪器有误差嘛，有。但可靠性比中医的切脉靠谱多了至少99%。</p><p>　　中医切脉要到神通境界，至少得十年之功，而且还得是天才的医者。</p><p>　　试问中国，这样的中医，一千个能有一个嘛。</p><p>　　而西医不一样正在于此，只要一个智商比较正常的学生，经过现代大学的专科训练，再加上实践。</p><p>　　培养出来的医生，庸医比例极低。</p><p>　　诊断，可是说是军情，知己知彼者胜。西医几百年的发展，首重诊断。</p><p>　　没有准确的诊断，医学就是治好病人，从医学的角度来说，也是没有价值的。</p><p>　　第二个问题，我说过了中医就是原始医学，就是巫术。</p><p>　　巫术在医学上有一个很大的作用，就是信心疗法，如果对西方医学史有所了解的话，整个西欧中世纪流行都是信心疗法。</p><p>　　巫术有用吗，有，圣经上都写了，耶稣能让瘸子走路，盲人复明。</p><p>　　这么神奇的医学为什么被抛弃。</p><p>　　简单，它依赖的病人的本身的精神状态。</p><p>　　科学实验已经证明一点，一个病人如果其精神状态是非常积极的话，是可以调动身体一切，自我医疗的。</p><p>　　如果这时候再遇见一个比较好的精神导师，那么病人的自疗能力更会放大。</p><p>　　说了这么多，这样的病人，其实是特例。他证明了巫术是有效力。</p><p>　　但这个效力因人而异。试问，现代生活，还有多少人的精神状态是无比积极。</p><p>　　有多少人对自己有信心。</p><p>　　有多少人愿意将自己的生命轻信的交给巫师(包括中医）。</p><p>　　也就是说，信心疗法之所以在现代空间很小，不是因为他无效，而是他提出的条件太苛刻，多数人无法接受。</p><p>　　第三，中医在很多的医学常见病上是很有一套的。</p><p>　　就是自古以来流传了五千年的验方，什么叫做验方，就是在长期无数人命试错的基础得到成果。</p><p>　　然后再用中医怪诞的理论迎合这些验方。</p><p>　　这导致一种奇怪的结果，就是正确的结论来证明错误的理论。</p><p>　　而且证明的津津有味，我写性爱国学课，因为要写性医学部分，看了很多中医理论，真是什么鬼话都有。</p><p>　　什么精气神。什么还精补脑之类的，太多了。都是似是而非的理论。</p><p>　　事实上，中医今日在外国接受的部分，都是验方部分。</p><p>　　西洋人也不傻。</p><p>　　但是中医理论，算了吧。看看中医理论是怎么发展起来，他的最基本的观点，就是对称、平衡。</p><p>　　这是典型中国人思维的产物，如果大家对中学课文藤野先生有印象的话，就知道鲁迅对付医学的态度，</p><p>　　是要将人体结构画的好看一点，怎么个好看法，就是对称。</p><p>　　中医无比失败的地方，在于一直到明清，都不能画出一个人体比例比较正常的身体（春宫倒是很强，接近真实的人体了，呵呵）。</p><p>　　这样的医学，连对自身身体的描述都那么糟糕，怎么靠的住呢。</p><p>　　中医之所以在中国发展了五千年，很大部分是因为周边文明太弱，他也不是没有受到外来文明的影响，</p><p>　　比如印度医学、阿拉伯医学对中国影响也很大，但没有带来压倒性的影响，因为印度医学、阿拉伯医学本身也是原始医学。</p><p>　　现代医学之所以不同以往任何文明之原来医学，乃在于他不搞特例，不搞迎合结果的理论。</p><p>　　培养出来的医生，也知之为知之，不知为不知。诚实告诉病人，有些病是现代医学无法解决的。</p><p>　　在给病人动手术前，尽量给不懂的病人讲解自己的治疗方案。</p><p>　　这才是诚实的医学，面向科学的医学。</p>
+<a href="/question/19577214/answer/30622005" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7633291-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-09-16" target="_blank" href="/question/19577214/answer/30622005">编辑于 2015-01-02</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>78 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="188046"
+data-atoken="12672042"
+data-collapsed="False"
+data-created="1307087584"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="22">22</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">22</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$cecily" href="/people/cecily">cecily</a>，<strong title="hello, nice to meet you." class="zu-question-my-bio">hello, nice to meet you.</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="22">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$mu-se" href="http://www.zhihu.com/people/mu-se" class="zg-link" title="虹心">虹心</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$kou-jie" href="http://www.zhihu.com/people/kou-jie" class="zg-link" title="寇捷">寇捷</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="10849" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"> 中医不是科学，<br><br>中医和西医的区别并非信仰，中医是建立在一些古代理论和实践基础上的医疗方法。理论来自阴阳五行思想，对具体医疗实践的总结等。这是一套混合了玄学和有效的治疗经验形成的医疗方法。因为其医疗经验和大规模医疗样本长期的传承，不能说中医无效，但因为缺乏对治病机理以及药物毒副作用的研究，亦不能因为其有治疗效果即视为一种科学的方法。 
+<a href="/question/19577214/answer/12672042" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="188046-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/19577214/answer/12672042">发布于 2011-06-03</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/19577214" class="zg-link-litblue">查看全部 258 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:19577214}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="10849">关注问题</button>
+
+1892
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="f1fd7648e715f83b91bb9cd75e1c07dc" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Pirate Henry"
+data-tip="p$t$pirate-henry"
+class="zm-item-link-avatar"
+href="/people/pirate-henry">
+<img src="http://pic1.zhimg.com/042299fa4_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$pirate-henry" href="http://www.zhihu.com/people/pirate-henry" class="zg-link" title="Pirate Henry">Pirate Henry</a></h2>
+
+<div class="zg-big-gray">Mind Hacker，Computational Neuroscience Researcher，爱写知乎夜用加长版答案</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/pirate-henry/followers" class="zg-link-gray-normal">6389 关注者</a>
+/
+<a target="_blank" href="/people/pirate-henry/asks" class="zg-link-gray-normal">5 提问</a>
+/
+<a target="_blank" href="/people/pirate-henry/answers" class="zg-link-gray-normal">59 回答</a>
+/
+<a target="_blank" href="/people/pirate-henry" class="zg-link-gray-normal">1968 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:19577214}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/19577214/answer/12522950/collections">27</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1379784429">
+<h2 class="zm-item-title ">
+<a href="/collection/26602285">Deep Thought</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/regulusone" data-tip="p$t$regulusone" class="zg-link-litblue"> One Two </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/26602285/followers">2913 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1327047458">
+<h2 class="zm-item-title ">
+<a href="/collection/19587417">有用</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhizhiweizhizhi" data-tip="p$t$zhizhiweizhizhi" class="zg-link-litblue"> 庚午 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19587417/followers">49 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1342451141">
+<h2 class="zm-item-title ">
+<a href="/collection/19656671">常识</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19656671/followers">1 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1404112991">
+<h2 class="zm-item-title ">
+<a href="/collection/38002743">关注</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhi-hu-xiao-tu-dou" data-tip="p$t$zhi-hu-xiao-tu-dou" class="zg-link-litblue"> 知乎小土豆 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/38002743/followers">0 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1429967219">
+<h2 class="zm-item-title ">
+<a href="/collection/55362621">涨姿势</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/li-zhen-37-60-87" data-tip="p$t$li-zhen-37-60-87" class="zg-link-litblue"> 墨子文 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/55362621/followers">0 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/24703309">什么是中医？</a> <span class="num">12 个回答</span><meta itemprop="followerCount" content="98" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22952516">中医是科学吗?</a> <span class="num">21 个回答</span><meta itemprop="followerCount" content="30" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22705575">靠中医确实能治好的病有哪些？</a> <span class="num">75 个回答</span><meta itemprop="followerCount" content="538" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20305352">如何看待中医西医？</a> <span class="num">117 个回答</span><meta itemprop="followerCount" content="750" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20515769">中医不能治什么？</a> <span class="num">76 个回答</span><meta itemprop="followerCount" content="338" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19906367">胃癌可以采用中医治疗吗？</a> <span class="num">28 个回答</span><meta itemprop="followerCount" content="230" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20222576">语欲胜人是一种病？中医是怎么解释的？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="37" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/23013053">中医如何治疗糖尿病？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="20" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20108346">中医的脾虚在现代医学中怎么解释？</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="49" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22510221">痤疮应该看中医还是西医？</a> <span class="num">12 个回答</span><meta itemprop="followerCount" content="47" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+发布于
+
+<span class="time">2011-05-17</span>
+</p>
+<p>
+所属问题被浏览 <strong>239616</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:19577214}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439382768000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":10849,"urlToken":19577214,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="07187099a439436b8ac875b72958a28b">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="657f9e483396ba5c0b902a719b34b2fb"/>
+</body>
+</html>

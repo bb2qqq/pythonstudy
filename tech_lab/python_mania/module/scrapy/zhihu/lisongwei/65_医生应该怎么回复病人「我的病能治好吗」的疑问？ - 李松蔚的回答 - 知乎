@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>医生应该怎么回复病人「我的病能治好吗」的疑问？ - 李松蔚的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/18049894">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/21377748/answer/18049894">
+<meta id="znonce" name="znonce" content="5e4914cc98c04b2f982c43937ea04229">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/21377748" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19563977"
+data-tip="t$b$19563977" data-token="19563977" data-topicid="4571">
+医生
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19588167"
+data-tip="t$b$19588167" data-token="19588167" data-topicid="12639">
+医患关系
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/21377748">医生应该怎么回复病人「我的病能治好吗」的疑问？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="731780" data-action="/question/detail">
+
+<div class="zm-editable-content">帮一个朋友问，每次他都要和病人解释好久，不知道知乎的医生有什么好办法？</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>4 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="731780" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/21377748" class="zg-link-litblue">查看全部 22 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="2360484"
+data-atoken="18049894"
+data-collapsed="0"
+data-created="1374658343"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2360484"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">65</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic3.zhimg.com/7b0114ec2_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lisongwei" href="/people/lisongwei">李松蔚</a>，<strong title="普通的心理学工作者" class="zu-question-my-bio">普通的心理学工作者</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="65">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$li-jing-wei-31" href="http://www.zhihu.com/people/li-jing-wei-31" class="zg-link" title="鸡薇">鸡薇</a>、</span><span class="user-block">知乎用户、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="731780" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">这个问题我和不少医护人员交流过，问题的核心不在于给出怎样的信息，而在于传递怎样的情感，情感的背后则是医生和病人的关系。建立在真诚和信任的医患关系基础上，即便只是拍一下肩膀，一个眼神，一个笑容，不说任何话都可以。但是今天的医患关系是越来越糟了，要让双方都满意就很难。<br>从医生的角度来看，其实只是希望病人老老实实地执行医嘱，不要问那么多。话说得太满了就怕以后承担责任，说得保守又怕病人绝望，要大费口舌解释，又怕影响了治疗态度。这几个怕字背后，其实都是当成了麻烦。麻烦的原因，其实大家在不生病时都能理解，跟医生的道德水平仁爱之心什么的都没关系。每个医生在治疗上都是会尽心尽力的，但是治疗之外，实在也不希望再和病人有更多互动，真的麻烦。<br>从病人的角度看当然就是另一回事，他们恐慌，疑虑，茫然，无助，而且越是重症，越有一种被排挤出正常生活之外的孤独。那时候哪怕有个普通人跟他聊聊病情，分享一下老家的二表婶得过这个病后来是怎么好的，病人都会感到莫大的安慰。你就可以想象他们对医生会有怎样的依赖了。那绝不只是治疗方面的。<br>所以你看，在这个关系中除了治疗的施与和接受之外，医生和病人是错位的，一个想走，一个不放，一个拒绝，一个恐慌，几乎到了针锋相对的地步。讽刺的是，这种情形既是医患对立的结果，也会是进一步加剧医患对立的原因。假如——我是说假如——医生意识到这一点，重新调整自己的位置，站到病人的同一方，他们的互动就会顺畅很多。一个例子是，亲戚或领导介绍来的病人，沟通起来总会感觉容易不少。因为这时双方是互相信任的，对于彼此都没有太多疑虑，更容易把聚焦的中心放到病情本身上。就算问医生能不能治好，回答也自然会带着一些正性情感，病人也就放心了。这种良性的态度还会循环。<br>但是每次讨论到这里，医护人员就笑：道理谁不明白？可是真的不可能对每个病人都这样。因为社会大背景如此，你一个人的力量太难扭转。而且说实话，医生太累了，累到回了家对自己的小孩都没有耐心，光是治病就已经耗竭了全部的心血，你实在不能指望他们再承担心理抚慰那部分的任务……<br>是的，在理想的状态下，后面那部分工作可以有专人承担。在国外的大型医院里，包括香港，都会有医疗社工这种角色，专门为那些身患重症的病人提供心理和社会支持方面的服务，所以也很少遇到医护人员头疼这种「要费很多精力处理病人的焦虑感」的问题。但是大陆确实把这些都压给了可怜的医护人员……<br><br>所以说到最后，就看那位医生到底还能承担多少了。<br>如果他状态还好，愿意体惜病人，希望传递出一种安慰和支持的态度，那么对这种问题比较简单的回答是：「交给我吧，我会尽力。」可以对着镜子练习说这句话，盯着自己的眼睛，找到一种适当的眼神，表情，语调和语速，肢体动作，能最大限度地表达安心和可靠的感觉。但是这很不容易。大部分的时候他可能也不想承担这些，那么就用最简单的方式，把基本的预后信息告诉病人也可以，这没什么可指责的。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2360484-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-07-24" target="_blank" href="/question/21377748/answer/18049894">编辑于 2013-07-24</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>13 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="2361703"
+data-atoken="18052865"
+data-collapsed="False"
+data-created="1374674406"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="91">91</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">91</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$liang-ying-cong" href="/people/liang-ying-cong">梁颖聪</a>，<strong title="专劝没病的人回家等死" class="zu-question-my-bio">专劝没病的人回家等死</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="91">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$tang-li-zi-38" href="http://www.zhihu.com/people/tang-li-zi-38" class="zg-link" title="糖栗子">糖栗子</a>、</span><span class="user-block"><a data-tip="p$t$ren-yan-66" href="http://www.zhihu.com/people/ren-yan-66" class="zg-link" title="人言">人言</a>、</span><span class="user-block"><a data-tip="p$t$lin-lin-66-45" href="http://www.zhihu.com/people/lin-lin-66-45" class="zg-link" title="林琳">林琳</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="731780" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">于我经验，能问这个问题的绝不仅限于患绝症或者预后极差的病人，没有大病的焦虑患者、希望一劳永逸且依从性不一定好的患者照样很喜欢问这个问题。对每种人的回答都不一样，而对每一种里面要怎么说，还要根据病人和家属的性格来定。我不知道提问者的朋友要跟病人解释多久，但每一个能问出这样问题的患者，都不会是三言两语就能保证打发得了的。<br><br>最难缠的肯定会是焦虑的病人。我曾遇到一个老干部，高血压快十年，收缩压到了142mmHg就会非常紧张地觉得全身不舒服，然后从急诊住院；也遇到过经常胸闷胸痛，能做的检查全做过的排除器质性病变的焦虑症患者。他们也会问“我的病能治好吗”，我很想像我个人说明里那样劝他们回家等死，但对于这种人显然不合适。对他们如果正面解答，要花极多的时间解释他们为什么没有严重的病，为什么他们应该放松，为什么不需要过分担心病没法治，简单的办法就是说你的病肯定不是最严重的情况，很可能病不在身体而在心理，需要请心理医生看。然后直接发精神科会诊。<br><br>希望一劳永逸的病人，例如放了支架的冠心病患者、高血压糖尿病病人，看到他们不是一脸焦虑而是嬉皮笑脸地问的时候，必须把后面的事往重了说，劝戒烟减肥绝对不用顾虑病人感受而含糊其辞，直接说不戒烟就是个死，以后不正经吃药就等着把退休金全用来买支架。这种病人以男性为主，数量不少，没见过玻璃心的，话说得不客气都很少会不爽，话不说绝反而会被当做耳边风。<br><br>可能提问者只关注患了重病、绝症的患者，可能还有患者家属。但要知道每一个人/一家人也都不是完全一样的，这一个问题背后可能是不同的话。<br><br>对于患者<br>有脑子很清楚的、明白自己的诊断的、而且希望根据自己的预后决定剩下的日子怎么过的病人，虽少，但肯定有。直说吧，没必要打乱别人的计划。<br>有知道了诊断，也心里有数，希望医生安慰的。这种时候就挑好的方面说，典型的答复是“虽然不能好，但能治，能控制，运气好的话能差不多像正常人一样生活”，怕说得太轻的话就提一下也有失败的可能，但能尽量控制，甚至大概估算个几率告诉病人也行。有同事肯定是怕病情没往重了交待容易给病人过高期望出纠纷，但具体交待时是可以察言观色，在病人过分乐观时适当提醒的，最少我是不忍心为了谨慎而让患者一直情绪低落。此外，有个很重要的保险必须上，就是对患者可以说轻一点，但是对家属必须往重了说。<br>有些患者是知道或者不知道诊断，病可能可以治也可能失去治疗价值，问这个问题是因为心里有放弃治疗来避免给家庭添麻烦的。像是有些主动脉夹层的病人因为担心手术费用的问题不想去做的，或者白血病刚明确诊断的，都可能会问。这一类的人需要从家境、家庭构成，还要从患者家属的谈话态度和患者的性格判断：家里穷，子女多尤其只有少数子女参加病人的陪护，病人以前已经接受过长时间治疗，患者家属和病人都不外向，尤其是态度比较客气的，都得考虑这情况。这种时候我会根据自己心里的判断，跟病人谈也会有一定倾向性，预后没有那么糟糕的我会说明治疗成功的前景，没太大治疗价值的我也会直说，两者之间的我会直接把费用和几率如实告知。谈错了或者谈歪了，可能就是坑了一条人命或者一个家庭。<br>对于不知道诊断，家人要求隐瞒，自己又有所怀疑的那部分病人，没办法，中国的知情同意权是赋予家属而非患者的，所以只能协助隐瞒。往好了说，安慰，忽悠，让病人放宽心，如李松蔚的答复里所教那样去做。但如果看到这帖的人家里不幸出了这样的事，真心希望没特殊原因不要瞒着患者本人。<br><br>对于家属<br>家属是有知情同意权的，而且最重要的一点是，患者在未来去世以后有可能会来打官司的只会是家属，或者是病人就医期间从来没出现过而在半年后突然冒出来的家属。所以，如实告知，巨细靡遗，一切决策只要觉得是重要的一律记在病程而且签字。家属的承受能力一般还是不需要去考虑的，尤其当他们选择隐瞒患者时。医院被告的教训应该到处都有，对文书必须谨慎。<br><br>生死是大事，要答好这一个问题是建立在对临床知识、患者病情以及患者的性格和家庭环境有足够掌握的基础上的。对于他每次都要谈好久，我只能这么回答：做得对，这是应该的。<br><br>=========================================<br><br>对了，借贵宝地抱怨，还有对于那些说手指甲的月牙太少然后问“我的病能治好吗”的朋友，请果断地请他们回家等死！
+<a href="/question/21377748/answer/18052865" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="2361703-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-07-24" target="_blank" href="/question/21377748/answer/18052865">编辑于 2013-07-25</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>29 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="2360003"
+data-atoken="18048724"
+data-collapsed="False"
+data-created="1374653962"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="10">10</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">10</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+知乎用户
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="10">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$yi-hai-wei-47" href="http://www.zhihu.com/people/yi-hai-wei-47" class="zg-link" title="灰色彩虹">灰色彩虹</a>、</span><span class="user-block"><a data-tip="p$t$su-xing-xing" href="http://www.zhihu.com/people/su-xing-xing" class="zg-link" title="苏醒醒">苏醒醒</a>、</span><span class="user-block"><a data-tip="p$t$maigo" href="http://www.zhihu.com/people/maigo" class="zg-link" title="王赟 Maigo">王赟 Maigo</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="731780" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">------<br><br>请看清楚病人的核心诉求。<br><br>不确定性令人恐惧，甚至要甚于对“确定的无法治愈”的恐惧。<br><br>病人去医院治疗，如果连自己治好治不好都不能确定，那心里一定悬着一块石头。有心病，治疗效果也不会太好。医生的模糊化描述真的会让病人内心充满恐惧，这个时候的病人都是很敏感的，细微的“顾左右而言他”都瞒不过他们。<br><br>医生大可以告诉病人这类疾病目前的有效治愈率是多少，都有哪些方法，本医院和本医师都掌握了什么治疗手段。如果想要治好，需要病人做什么样的配合。治愈率确实很低的，就需要把最坏的结果以及一定尽力治疗告诉病人。<br><br>病人在不知道病情的时候比我们想象的要脆弱，同时在知道病情后也比我们想象的要坚强。<br><br>-------
+<a href="/question/21377748/answer/18048724" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="2360003-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/21377748/answer/18048724">发布于 2013-07-24</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>2 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/21377748" class="zg-link-litblue">查看全部 22 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:21377748}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="731780">关注问题</button>
+
+266
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="4055a09d55538f79261cb7143f6a09f3" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="李松蔚"
+data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$lisongwei" href="http://www.zhihu.com/people/lisongwei" class="zg-link" title="李松蔚">李松蔚</a></h2>
+
+<div class="zg-big-gray">普通的心理学工作者</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/lisongwei/followers" class="zg-link-gray-normal">165317 关注者</a>
+/
+<a target="_blank" href="/people/lisongwei/asks" class="zg-link-gray-normal">5 提问</a>
+/
+<a target="_blank" href="/people/lisongwei/answers" class="zg-link-gray-normal">136 回答</a>
+/
+<a target="_blank" href="/people/lisongwei" class="zg-link-gray-normal">229513 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:21377748}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/21377748/answer/18049894/collections">31</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1342279474">
+<h2 class="zm-item-title ">
+<a href="/collection/19656066">优秀答案</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/wang-ya-bing" data-tip="p$t$wang-ya-bing" class="zg-link-litblue"> 王亚兵 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19656066/followers">5758 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1365318339">
+<h2 class="zm-item-title ">
+<a href="/collection/20007699">医药医药与生物</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zombie" data-tip="p$t$zombie" class="zg-link-litblue"> 赵世奇 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20007699/followers">1166 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1383039303">
+<h2 class="zm-item-title ">
+<a href="/collection/28098681">我的收藏</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/28098681/followers">2 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1373559723">
+<h2 class="zm-item-title ">
+<a href="/collection/20480736">指南</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/crystal-8-25" data-tip="p$t$crystal-8-25" class="zg-link-litblue"> VVVvvG </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20480736/followers">1 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1403065387">
+<h2 class="zm-item-title ">
+<a href="/collection/37789552">医学神</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/ca-ka-78" data-tip="p$t$ca-ka-78" class="zg-link-litblue"> ca ka </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37789552/followers">0 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20051759">为什么有的病人手术前要给医生送红包？</a> <span class="num">75 个回答</span><meta itemprop="followerCount" content="484" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20103182">医生抢救病人但无力回天之时，是什么感觉？</a> <span class="num">76 个回答</span><meta itemprop="followerCount" content="1185" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20584582">为什么医生能定论病人还能活多久？</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="18" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19770203">医生给病人开药是不是有提成的？</a> <span class="num">19 个回答</span><meta itemprop="followerCount" content="159" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19979495">作为病人怎样鉴别一个医生的能力？怎样选择合适的医生？</a> <span class="num">16 个回答</span><meta itemprop="followerCount" content="59" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20188471">难道中国现在又流行病人问诊、医生手录了？</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="21" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20529399">医生超长时间工作，全天候为病人及医院工作，为了什么？</a> <span class="num">123 个回答</span><meta itemprop="followerCount" content="1244" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20020877">为什么有些外科医生会在手术时调情？</a> <span class="num">30 个回答</span><meta itemprop="followerCount" content="434" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20981287">当遇到地震等紧急情况时候，医生是否可以抛弃病人自己逃命？</a> <span class="num">37 个回答</span><meta itemprop="followerCount" content="257" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21140984">中国的 ICU 在2010年代病人待遇如何？</a> <span class="num">23 个回答</span><meta itemprop="followerCount" content="198" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2013-07-24</span>
+</p>
+<p>
+所属问题被浏览 <strong>10319</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:21377748}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439377053000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":731780,"urlToken":21377748,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="5e4914cc98c04b2f982c43937ea04229">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="aebd29e932f99a6ca763297c1890db39"/>
+</body>
+</html>

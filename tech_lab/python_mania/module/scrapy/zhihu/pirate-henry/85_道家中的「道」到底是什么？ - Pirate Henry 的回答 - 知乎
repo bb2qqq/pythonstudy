@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>道家中的「道」到底是什么？ - Pirate Henry 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/12873806">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/19586629/answer/12873806">
+<meta id="znonce" name="znonce" content="fb53b3c42b304904b47dcbade60151e5">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/19586629" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551646"
+data-tip="t$b$19551646" data-token="19551646" data-topicid="478">
+哲学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19557039"
+data-tip="t$b$19557039" data-token="19557039" data-topicid="2280">
+道
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19560566"
+data-tip="t$b$19560566" data-token="19560566" data-topicid="3455">
+思想
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19567443"
+data-tip="t$b$19567443" data-token="19567443" data-topicid="5752">
+道家
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19572394"
+data-tip="t$b$19572394" data-token="19572394" data-topicid="7401">
+中国哲学
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/19586629">道家中的「道」到底是什么？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="14610" data-action="/question/detail">
+
+<div class="zm-editable-content">怎么看这个“道” ？这个“道”怎么理解，怎么作用于万物的？</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>9 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="14610" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/19586629" class="zg-link-litblue">查看全部 121 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="268609"
+data-atoken="12873806"
+data-collapsed="0"
+data-created="1310338019"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-268609"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">85</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$pirate-henry"
+class="zm-item-link-avatar"
+href="/people/pirate-henry">
+<img src="http://pic1.zhimg.com/042299fa4_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic1.zhimg.com/042299fa4_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$pirate-henry" href="/people/pirate-henry">Pirate Henry</a>，<strong title="没有纯粹的哲学，正如没有纯粹的非哲学。" class="zu-question-my-bio">没有纯粹的哲学，正如没有纯粹的非哲学。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="85">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$si-si-77-46" href="http://www.zhihu.com/people/si-si-77-46" class="zg-link" title="si si">si si</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$nimukyasa" href="http://www.zhihu.com/people/nimukyasa" class="zg-link" title="泥木加沙">泥木加沙</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="14610" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"> 这个问题好大好深哪～不过问题描述中提到的三道(道家的道，基督的道和科学之道)触动了我的大脑～一堆信息顿时像洪水般汹涌而出～大家驻好堤坝，听我慢慢道来～没有耐心的童鞋可以直接看黑体部分～（我只阐述，不评论，大家心里有自己的秤，孰是孰非，自行定论 ）<br><i><br></i><br>－－－－－－－－－道家之道清净无为的分割线－－－－－－－－－<br><br><b>    道家的道</b>不仅仅是一个道。老子有老子的“非常道”之道，庄子有庄子的“不称”之道，二者既有同也有异。(避免自己跑题跑到不知所道，这里我只谈他们的同，不说他们的异，有兴趣探讨的童鞋我们可以针对这个另开新的问题。) <br><br>在老子《道德经》的《道经•二十五章》有一个定义：<br><blockquote>“有物混成，先天地生。寂兮寥兮，独立不改，周行而不殆，可以为天下母。吾不知其名，强字之曰道，强为之名曰大。”</blockquote><br>庄子也有类似的定义(当然也有区别)，在《庄子•内篇•德充符第五》：<br><blockquote>“ 夫道有情有信，无为无形；可传而不可受，可得而不可见；自本自 根，未有天地，自古以固存；神鬼神帝，生天生地；在太极之先而不 为高，在六极之下而不为深，先天地生而不为久，长于上古而不为老 。 ”</blockquote><br>(不翻译，感兴趣的自己搜索翻译去～) <br><br>老庄所说的“道”，尽管一个说“非常道”，一个说“不称”，但是他们都道了出来，都称了出来。<b>他们口中的“道”有五个属性：1. 客观，2. 永恒，3. 万物起始，4. 独一且没有属性，5. 可得不可知</b> <br><br>前三点都很好理解，第四点——没有属性怎么理解？什么是属性，高矮，胖瘦，大小，长短，生死，祸福，这都是属性。而道是独一的，其它的一切都是道的产物，道是没有并存没有对立的，如果没有比较，人是无法描述道的，无法描述则没有属性。想像一个人，从出生睁眼起一辈子只能在一个完全封闭的屋子里看到一个杯子，没有其它任何东西，他可以评价这杯子是美是丑吗？他可以评价这杯子是大杯子是小杯子吗？他可以评价这杯子是什么材料吗？他能知道这是一个杯子吗？显然不能。<br><br><b>于是老子说：“道这个名称是我为了描述它勉强冠上的名称。”</b>虽然这个道不可知，但是因为我们是它的产物，所以顺藤摸瓜，在我们内心仍然可以找到这个道。 这就是老庄的“道”，基于这个道，针对先秦的人生和社会问题，他们提出：完美的人生完美的社会就是应当像这个道似的，消除属性的区分，没有贵贱，没有善恶。 <br><br><b>道家是如何解释万物成因的？</b>其实老庄的意思是：<b>不知</b>。但是他们又做了比喻：<b>如母亲生子那样</b>。老子更是说：“<b>道生一，一生二，二生三，三生万物</b>。”这句话的解释可谓众说纷纭。<u>个人的倾向</u>：“道”生出统一，但是有了统一就有了对立，于是就有了二，二者既有对立又有统一，于是就有了交叉的状态，就是三。于是万物有三个状态：正，反，或有正有反，唯独“道”和他们都不一样，“道”既没有正，也没有反，它没有属性。<br><br>－－－－－－－－－基督之道苦口婆心的分割线－－－－－－－－－<br><br><b>    基督教的道</b>。《圣经•约翰福音•第一章》<br><blockquote>1 太初有道，道与神同在，道就是神。 2 这道太初与神同在。 3 万物是借着他造 的。凡被造的，没有一样不是借着他造的。 4 生命在他里头。这生命就是人的光。5 光照在黑暗里，黑暗却不接受光。</blockquote><br>很多人会疑惑：这道又与神同在，又是神，这道到底是什么？从不同角度解读圣经的人有不同的答案，圣经新约希腊原文用的词是：λόγος (logos)，有十多种意思。从字面上解读没有公认的答案，但是，在基督教里，这个“道”有一个很简单的公认答案：<b>这道就是耶稣，就是基督，就是神</b>。<br><br>基督教的体系里，神是一个永恒的存在。神的属性就是永恒。神的表现是三位一体（圣父，圣子，圣灵），一个存在三个表现。神是有爱的，尤其独爱祂按自己的形象创造的人类，所以为人类创造了这个世界。看着人类堕入歧途，祂亲自道成肉身到人世间走一遭，做一回完美人类，做一个榜样。于是让人们学习祂的方式去生活，以消除罪恶，可以和神重新和好重修关系。<br><br>－－－－－－－－－科学之道谨言慎行的分割线－－－－－－－－－<br><br>问题描述中提及：<br><blockquote><i>另外 关于牛顿的定律，比如说F=AM这个，它只是对世间现象的描述，没有从任何角度解释是什么样的动因形成这个规则的，和本体不在一个哲学层面上。</i></blockquote><b>    科学的道是：假说+实证</b>。在科学那里，世上没有绝对的正确，只有在一定条件下的正确。而评判真伪的标准，不是靠想象，也不是靠逻辑的推演，逻辑推理只是工具，不是依据。<b>依据只有一个：可以重复的实验</b>。<br><br><b>    科学需不需要解释这个公式背后的动因？需要！但是只在有条件实验的时候才能解释</b>。科学暂时解释不了的于是交给了哲学。而哲学不全是需要实验的，也不是全部可以实验的。于是出现了和各种哲学或神学的交叉，如：不可知论、自然神论、基督教科学派等……<br><br>－－－－－－－－－总结哥倔强的分割线－－－－－－－－－<br><br><b>    总结哥：基于不同的背景和需求，这三个道各有其道。道家的道是抽象的不可知的万物初始；基督教的道是具体的神、耶稣基督；科学的道则是可证则解不可则避的谨慎前行的方法。三者作为不同的人类认知，有同有异。请阅者自酌～多谢耐心阅读～</b> 
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="268609-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2011-07-11" target="_blank" href="/question/19586629/answer/12873806">编辑于 2011-07-11</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>23 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="272171"
+data-atoken="12882619"
+data-collapsed="False"
+data-created="1310462743"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="22">22</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">22</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$JackyZhu" href="/people/JackyZhu">朱松清</a>，<strong title="http://blog.sina.com.cn/jacky3the3blessed" class="zu-question-my-bio"><a href="http://blog.sina.com.cn/jacky3the3blessed" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">blog.sina.com.cn/jacky3</span><span class="invisible">the3blessed</span><span class="ellipsis"></span><i class="icon-external"></i></a></strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="22">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$aaaasjoasjofjas" href="http://www.zhihu.com/people/aaaasjoasjofjas" class="zg-link" title="方士">方士</a>、</span><span class="user-block"><a data-tip="p$t$hy-chen-38-54" href="http://www.zhihu.com/people/hy-chen-38-54" class="zg-link" title="hy chen">hy chen</a>、</span><span class="user-block"><a data-tip="p$t$nuo-guo" href="http://www.zhihu.com/people/nuo-guo" class="zg-link" title="诺果">诺果</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="14610" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"> 这是我中西结合的对道德理解。<br><br>庄子继承、发展了老子的思想，也把“道”看作宇宙的最高本体。“道”是感官不能把握的“非物”，是先于万物而存在的精神本体，一切事物都由它产生<br>。他认为天下一切差别都可以泯灭，万物都可以通而为一。忘“物”忘“我”，“物”“我”不分，与“物”俱化，这就是庄子所谓的“道”的境界，，庄子所追求的绝对自由究竟是什么？《庄子·逍遥游》云：“夫列子御风而行，泠然善也，旬有五日而后反。彼于致福者，未数数然也。此虽免乎行，犹有所待者也。若夫乘天地之正、而御六合之辩、以游无穷者，彼且恶乎待哉！故曰：至人无己，神人无功，圣人无名。”这里，庄子以列子为喻进行描述：列子御风而行，“泠然善也”，能“免乎行”，这说明列子是清净无为的。“彼于致福者，未数数然也”，这说明列子并不汲汲追求功利。但是列子还没有达到绝对自由的境界，因为他还“有所待者”，他必须依赖于风才能行走。在庄子看来“有所待者”就不叫自由。他所追求的自由是“无所待”的，只有“乘天地之正、而御六合之辩、以游无穷者”，才是庄子幻想之中的无所依待、无所凭借的绝对自由。那么，怎样达到这种境界呢？就是要像“至人”、“神人”、“圣人”那种“无己”、“无功”、“无名”，即不仅不孜孜以求功名利禄，不计毁誉，而且要把一切“功名”视为虚幻。不仅功名是虚幻的，而且要把求把自己的形骸也视为虚幻，不执着有“我”，这样就可以与“道”同体，达到绝对自由，即“逍遥游”<br>的最高境界了。。他达不到超脱现实的目的，便采取了虚静心神、不牵挂一切的生活态度及“顺物自然”，。<br>庄子的生死观：“生也死之徒，死也生之始，熟知其纪人之生，气之聚也。聚则为生，散则为死。若死生为徒，吾又何患！故万物一也。……故曰：‘通天下一气耳。’圣人故贵一。”（《庄子·知北游》）<br>后人如张采民先生所言：“庄子并没有因此而走上正确的轨道。他的生死观是以其万物齐一的相对主义理论为基础的，抹杀生死的差别，进而取消了人生的真正含义——活要活得有意义，死要死得有<br>价值。可见，“安时处顺”并不是一种积极的人生态度”。（《忘筌·梦碟·庄子的人生哲学》）。-------他恰恰忘了庄子“无为而治”的基础是 “有神而治“<br>　<br>汉初“无为而治”主要体现在三个方面：一、文化上提倡清静淡薄，宁静致远；二、政治上逐步削弱诸侯藩王的政治势力，对处在北方的匈奴采取无作为的防御与“和亲”政策；三、经济上不采取竭<br>泽而渔政策，提倡勤俭节约，轻徭薄赋，以减轻对劳动人民的剥削，让人民有一个休养生息的社会环境。----这不是我们现在追求的和谐社会吗？<br><br>另外庄子的宇宙观事实上非常连贯，我把<a href="http://www.zhihu.com/question/19726170" class="internal"><span class="invisible">http://www.</span><span class="visible">zhihu.com/question/1972</span><span class="invisible">6170</span><span class="ellipsis"></span></a>里的英文翻译出来了<br><br>1. 承认，宇宙母体，道。<br>“通天下一气耳。”（《庄子》）；<br>”天地与我并生，而万物与我为一。”<br>万物与我不是一个，都是一的一份子。<br>“一与言为二，二与一为三。自此以往，巧历不能得，而况其凡乎？”<br>“一与言为二，二与一为三。”这个思想是从老子《道德经》“道生一，一生二，二生三，三生万物”来的。“一与言为二”，说一个“一”，已经是两个了，等于说，我很客观地告诉你，说个客观，它已经是主观了，有这个观念已经是两个了；“二与一为三，”告诉你这里只有一个，批驳你不要认为是两个，这个“一”是对“二”而言，我讲了这句话，这一句话讲出来中间已经有三个了。同一句话，三个存在。<br><br>【不际之际，际之际者也】。（《庄子》　知北游）《道》是无边无际的、存在实有自然体之间的封界。明确，宇宙本体的阴阳运动存于有封的《道》内；明显，宇宙体无限但有边界；这就是宇宙体存在的先决条件<br><br>2.【有封】体 的形成。<br>【夫道，末始有封】。（《庄子》　知北游）<br>道，从开始到终结，自存于【有封】的空间宇宙有一而来，形成无数的多种的【有封】体 （self-sustainable system ),这些SCS彼此相关，比如拿我当一个SCS，我的内脏也是SCS，我和别人SCS也有关系。个个SCS都有道支撑，渴望与道相通。<br><br>3.每个SCS里面要有阴阳平衡的互动着，<br>【阴阳】易替行为，从开端到终结，自存于一有封《空 虚》---故，一切【易流】必自存于一无穷小或无穷大的【有封】空间之内，称《浑然一体》。浑圆的自然体空间，【其外如鸡子，又似车轮】《太上妙始经》<br>故，大自然与一切自然个体，无限大尺度宇宙体、或无穷小粒子体之内，没有绝对虚空无物的空间。这就是【没有绝对的空间零点】（《反物质》　第65页；《时间》 第99页）； 这就是，【夫易，广矣大矣…；致广大而尽精微】。<br>自然体有封条件下的《阴阳易化》，涵盖着广义无穷大的大自然和宇宙本体，与狭义极精细微的粒子体，这就是【其大无外，其小无内】。<br>理查德?费曼，在轰动全球的《下面还有很多空间》报告文学里（《量子》　第159页）描写了粒子内的空间，是一【无底深渊的空穴】（《反物质》　第65页）；无疑，《量子力学》、《泡利不相容原理》与道家【其小无内】，是古今同曲！<br><a href="http://hi.baidu.com/%B2%BB%D0%E0%B5%C4%D6%D0%B9%FA%D6%C7%BB%DB/blog/item/47d4d3976d0d2d41d0135e26.html" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">hi.baidu.com/%B2%BB%D0%</span><span class="invisible">E0%B5%C4%D6%D0%B9%FA%D6%C7%BB%DB/blog/item/47d4d3976d0d2d41d0135e26.html</span><span class="ellipsis"></span><i class="icon-external"></i></a><br><br>4.所有SCS是由道而来，带彼此中性，能量守恒定律。<br>切因素都是"互系"(correlative)的。这种情形不象西方的"二元主义"。儒家意义的"偶对"(parity)含喻的是两物事的联系，它们各自构成对方的必要条件。从这一意义出发，"阴"总是意味着"成为阳"(becoming-yang)，反之也如是。偶对物事联系的阐释需要对世界作域境化(contextualization)。在域境化的世界中，在严格意义上物事都是互相依赖的。郝大维、安乐哲认为儒家对世界作域境化的阐释其中包括三点：一个内在的宇宙(immanent cosmos)、概念偶对、传统为阐释的域境。<a href="http://www.ica.org.cn/blog/article.php?ac=inlist2&amp;aid=2943&amp;id=29" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://www.</span><span class="visible">ica.org.cn/blog/article</span><span class="invisible">.php?ac=inlist2&amp;aid=2943&amp;id=29</span><span class="ellipsis"></span><i class="icon-external"></i></a><br><br>5.宇宙中千亿个SCS呈现网状关系。<br>【有封】是球面；这就导出，【有封】实有《虚空》的球体，是大自然基态——《道》。基此，《道》，是实存有封《虚空》自然体。【球面】，涵盖着一切自然体和宇宙本体。这就导出，大自然与宇宙本体自存的先决条件：<br><br>空虚球体，其大无外，其小无内，异性流体，流量互动，易替返演，总量守恒。<br><br>【末始有封】，是大自然与宇宙本体万物自存的《空虚》球体构思模型。<br><br>6.重要一点，所有的SCS都渴望得道，天人合一。<br><br>《天道》篇的另一段文字中，庄子又说：“夫明白于天地之道者，此谓之大本大宗，与天和者也；所以均调天下，与人和者也。与人和者，谓之人乐；与天和者，谓之天乐。”这一段文字指出明白天地之德，不违背自然之道，与大自然保持和谐，就会得到“天乐”；用平等的态度对待人，顺应民心办事，自然会得老百姓的拥护，就会得到“人乐”。<br><br>7.宇宙的运行要求有信息的传递。宇宙好像是有机的整体。这也是八卦能通过看到一方面的情况推出另外的情况。<br><br>回到<a href="http://www.zhihu.com/question/19726170" class="internal"><span class="invisible">http://www.</span><span class="visible">zhihu.com/question/1972</span><span class="invisible">6170</span><span class="ellipsis"></span></a><br>原来，这庄子追求的道，就是那太初有道，道与上帝同在，道就是上帝。这道太初与上帝同在。万物是藉着他造的；凡被造的，没有一样不是藉着他造的。生命在他里头，这生命就是人的光。光照在黑暗里，黑暗却不接受光。<br><br>"在佛家看来，人身就像其它物质世界一样“即色即空”，都是四大、五蕴和合而成，永远处在不断地生灭变化之中。人身如此，以人身为载体的尊卑荣辱、成败得失、贫穷财富等更是如此。它们也是因缘和合，相对而相互转化的，所以虚幻不实，转瞬即逝，都不具有恒久和终极的价值，而只有清净的本心，觉悟了的且与本体合一的主体意识才是永恒。这种超越精神在生活中的表现形式也就是平<br>常所指的清心寡欲，物我两忘，勘破利害，勘破生死的旷达心态。-----是不是和庄子走到一块了,原来佛道都是为修炼到一个最高境界，天人合一。<br>所谓的物我两忘，原来是我们所谓的“No-Mind”“无心”，是你通过修炼使思想止息的时候，你经验到一个心智流的中断——一个“无心”的间隙。 当这个间隙发生的时候，你便感觉到一种内在的宁静和和平。这是你感觉与存在合一的自然状态，你得道了！这时，你的意识不但没有丧失，情况正好相反。在这种内在的联系状态之下，你会比在头脑认同状态下更加机警和觉知。你是全然的临在。它同时也提升了我们能量塲的波动频率，它赋予生命给我们的肉体，体会到纯意识的状态了。你在那个状态中感觉自己的临在充满了无比的喜悦和强度。你所有的思考、情感、你的肉体和外在的世<br>界，相较之下变得无足轻重了。不过这是一个无我的状态，并非自私（有我）的状态。它把你带到一个超越过去你所认为的“你的自我”的境界。那个临在实质上就是你，却同时又无以名状地大过于你<br><br>对于道的解释，The Tao of Physics by Fritjof Capra 的描述好像比国人还好<br>He who, dwelling in all things,道存有万有之中<br>Yet is other than all things,道与万有不同<br>Whom all things do not know,万有却不认识他<br>Whose body all things are,道支持万物<br>Who controls all things from within-道从本质里控制万物<br>He is you,but bigger than you。道是你，又大于你，因你是按他的形象造的。<br>The Immortal.道永不止息<br><br>创世纪1章，神说“让我们用自己的形象造人”，原来，我们都有神的形象，心里是个小神，渴望和父神相连。<br><br>为什么这道就是耶稣<br>　　原文:“一阴一阳谓之道，继之者善也，成之者性也。仁者见之谓之仁，知者见之谓之知，百姓日用而不知。”<br>　　译文:“一阴一阳相互变化叫做道。继承道的是善，成就道的是性。仁者见道说道是仁，智者见道说道是智，百姓天天用道却对道茫然无知。”《易经·系辞上传》<br>　　孔子所说的道究竟是什么意思呢？二千多年来，众说纷纭，说法不一，成了不解之谜。而且因为道家思想的流行，以至后人对孔子论道所知甚少。<br>　　孔子在写下了上面那段话之后，紧接着又有这样的话:“阴阳不测谓之神。”可见在孔子看来，道与神乃为一体。<br>在世界历史中，唯有耶稣，他的身份所表现带有:基督的神性（阳）之上穿上了人性（阴）。基督降世为了向世人表明上帝。在基督里我们能看到不可见之父神上帝的形像。撒但在人的心中扭曲的表现<br>了上帝的圣德，基督来就是为了将这些有关上帝形像的错误观念从人心中彻底的除去。人不能直面荣耀的神性而仍能存活，可是基督穿着人性就使人能藉着他而与上帝亲近。耶稣是神人共体的上帝之<br>道，他用神性与天相联，又用人性与人相交，天与地，神与人便在他里面紧密相联了。<br>　　这样的分析使我们看出孔子这里所说的道与神乃是指着耶稣基督而言。 
+<a href="/question/19586629/answer/12882619" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="272171-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2011-07-12" target="_blank" href="/question/19586629/answer/12882619">编辑于 2011-07-13</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>9 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="5988530"
+data-atoken="26685614"
+data-collapsed="False"
+data-created="1402420823"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="59">59</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">59</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$wu-lao-dao" href="/people/wu-lao-dao">武老道</a>，<strong title="是博士不是道士" class="zu-question-my-bio">是博士不是道士</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="59">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$beta-74" href="http://www.zhihu.com/people/beta-74" class="zg-link" title="BETA">BETA</a>、</span><span class="user-block"><a data-tip="p$t$ai-wen-ni-46" href="http://www.zhihu.com/people/ai-wen-ni-46" class="zg-link" title="胡小八">胡小八</a>、</span><span class="user-block"><a data-tip="p$t$tukela" href="http://www.zhihu.com/people/tukela" class="zg-link" title="土坷垃">土坷垃</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="14610" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">单论老子之道，后人添了太多东西上去，实在复杂。<br>以我读道德经的感觉，总结为：<b>道是一切真理的至高集合。</b><br>说白了，就是一切逻辑和超逻辑，主观和客观，矛与盾，能认知和不能认知的，能理解和不能理解的一切，凡存在且正确的，都逃不过这个道。<br>人们讨论的许多“道”的细枝末节，甚至有人被《道德经》中不同、甚至互相矛盾的解释搞糊涂了。其实《道德经》说的只是在给你描述这个本不能被描述的道。所以，不管他怎么描述，那都是道，而且既不是道的全部，也不是全部的道，亦不是道的部分，更不是部分的道。<br>所谓道在屎溺，正是月映万川。<br>题主所说的“道如何解释万物成因”，其实就是“自然”。<br>另外补充一句。老子说“人法地，地法天，天法道，道法自然”。这里很多人认为，道就是大自然，客观规律，其实搞错了，这个“自然”不是自然界的自然，是“自然而然”、“自如其然”的自然。就是“我自然”的自然。
+<a href="/question/19586629/answer/26685614" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="5988530-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-06-11" target="_blank" href="/question/19586629/answer/26685614">编辑于 2014-06-11</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>13 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/19586629" class="zg-link-litblue">查看全部 121 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:19586629}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="14610">关注问题</button>
+
+890
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="f1fd7648e715f83b91bb9cd75e1c07dc" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Pirate Henry"
+data-tip="p$t$pirate-henry"
+class="zm-item-link-avatar"
+href="/people/pirate-henry">
+<img src="http://pic1.zhimg.com/042299fa4_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$pirate-henry" href="http://www.zhihu.com/people/pirate-henry" class="zg-link" title="Pirate Henry">Pirate Henry</a></h2>
+
+<div class="zg-big-gray">Mind Hacker，Computational Neuroscience Researcher，爱写知乎夜用加长版答案</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/pirate-henry/followers" class="zg-link-gray-normal">6389 关注者</a>
+/
+<a target="_blank" href="/people/pirate-henry/asks" class="zg-link-gray-normal">5 提问</a>
+/
+<a target="_blank" href="/people/pirate-henry/answers" class="zg-link-gray-normal">59 回答</a>
+/
+<a target="_blank" href="/people/pirate-henry" class="zg-link-gray-normal">1968 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:19586629}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/19586629/answer/12873806/collections">85</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1328441665">
+<h2 class="zm-item-title ">
+<a href="/collection/19591206">学习的牛人啊</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19591206/followers">2981 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1327047458">
+<h2 class="zm-item-title ">
+<a href="/collection/19587417">有用</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhizhiweizhizhi" data-tip="p$t$zhizhiweizhizhi" class="zg-link-litblue"> 庚午 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19587417/followers">49 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1380413125">
+<h2 class="zm-item-title ">
+<a href="/collection/26781869">立刻再看</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/elvis-92" data-tip="p$t$elvis-92" class="zg-link-litblue"> elvis </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/26781869/followers">1 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1367590915">
+<h2 class="zm-item-title ">
+<a href="/collection/20088718">学</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20088718/followers">1 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1426815044">
+<h2 class="zm-item-title ">
+<a href="/collection/47161213">心理相关</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhang-huan-huan-14" data-tip="p$t$zhang-huan-huan-14" class="zg-link-litblue"> 张欢欢 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/47161213/followers">0 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20998612">《易》是儒家著作还是道家著作？</a> <span class="num">18 个回答</span><meta itemprop="followerCount" content="65" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20144576">民国和道家的“无为”有什么关系？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="11" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20467339">儒家修性，道家修命体现哪些地方？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="4" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19923173">什么是道？</a> <span class="num">0 个回答</span><meta itemprop="followerCount" content="3" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20994498">道家和儒家如何评价对方？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="5" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20374204">在老子的思想中，“道”和“无”是一样的吗？</a> <span class="num">21 个回答</span><meta itemprop="followerCount" content="131" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19851807">李小龙的死因到底是什么？</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="42" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19704272">南怀瑾先生有关道家学说的书有哪些？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="2" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20607399">“道可道 非常道”怎么翻译？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="9" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20470050">哪些道家思想曾經或現在讓你受益良多？</a> <span class="num">0 个回答</span><meta itemprop="followerCount" content="5" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2011-07-11</span>
+</p>
+<p>
+所属问题被浏览 <strong>52547</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:19586629}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439382768000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":14610,"urlToken":19586629,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="fb53b3c42b304904b47dcbade60151e5">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="ef9d5df3af86ed3a71ffd8e8bce0a1bf"/>
+</body>
+</html>

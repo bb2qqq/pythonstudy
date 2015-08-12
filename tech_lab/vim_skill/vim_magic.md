@@ -1,3 +1,31 @@
+### List all search patterns in a file
+With line number:
+    :g/pattern/#
+
+Without line number:
+    :g/pattern/p
+
+
+### Substitute all alphabete to a particular symbol
+    :substitute/\a/*/g
+
+### Enter vim shell(Ex mode)
+    Q
+
+### Execute command expressions
+    :execute "echo 'my command expressions'"
+
+### Make your vim fake death
+    # Fake death for 10 seconds
+    :sleep 10
+
+    # Fake death for 50 milliseconds
+    :sleep 50m
+
+### Open command-line window
+    q:
+
+> when you already in command line, press CTRL-F to enter command window
 
 ### Make incremental list or decremental list easily
     raw data: 0 0

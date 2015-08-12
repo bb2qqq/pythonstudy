@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>为什么有的人在处理自己的事情时完全没有动力，完成别人的请求时却拼尽全力？ - 李松蔚的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/41597810">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/28119124/answer/41597810">
+<meta id="znonce" name="znonce" content="944b5aa69f9b4527a977ad6dac0583b4">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/e827b73d8f25a233cbeeeb9421baeddb.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/28119124" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551432"
+data-tip="t$b$19551432" data-token="19551432" data-topicid="404">
+心理学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19561827"
+data-tip="t$b$19561827" data-token="19561827" data-topicid="3877">
+心理咨询
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19598803"
+data-tip="t$b$19598803" data-token="19598803" data-topicid="16208">
+性格
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19729809"
+data-tip="t$b$19729809" data-token="19729809" data-topicid="60013">
+日常行为分析
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/28119124">为什么有的人在处理自己的事情时完全没有动力，完成别人的请求时却拼尽全力？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="3430195" data-action="/question/detail">
+
+<div class="zm-editable-content">在MBTI性格中有种ESFJ类型的人，这种人为了自己事情完全不上心，无法为了自己的私心而努力，可是，一旦感受到了来自别人对自己“我需要你帮助我完成某事”的意愿时，就会拼尽全力去完成那件事，甚至自己的第一感觉是厌恶，但是还是渐渐忽略掉自己的情感。 <br><br>这样的人格到底是怎样形成的？这种人是不是难以成功，因为没办法为了自己做任何努力？ <br><br>====================== <br><br>感谢各位，有和我相似境遇的，有回答在理的。</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>15 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="3430195" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/28119124" class="zg-link-litblue">查看全部 135 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="12031490"
+data-atoken="41597810"
+data-collapsed="0"
+data-created="1425958814"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-12031490"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">490</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic3.zhimg.com/7b0114ec2_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lisongwei" href="/people/lisongwei">李松蔚</a>，<strong title="欢迎关注微信公众号：therapistlsw" class="zu-question-my-bio">欢迎关注微信公众号：therapistlsw</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="490">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$zuo-ji-ke" href="http://www.zhihu.com/people/zuo-ji-ke" class="zg-link" title="左霁珂">左霁珂</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$xiao-cao-cao-cao-cao" href="http://www.zhihu.com/people/xiao-cao-cao-cao-cao" class="zg-link" title="小草草草草">小草草草草</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="3430195" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">除了 <a data-hash="fb1339246968bdebd53e07885ac47125" href="http://www.zhihu.com/people/fb1339246968bdebd53e07885ac47125" class="member_mention" data-editable="true" data-title="@动机在杭州" data-tip="p$b$fb1339246968bdebd53e07885ac47125">@动机在杭州</a> 老师提到的讨好型人格之外，我再补充另外一个可能： <br><b>一些人无法承担对自己的评价，以及评价所可能产生的羞耻感</b>。<br><br>为了自己的利益而付出努力，可能遭遇的负面评价有：<br>「这个人很贪婪」；<br>「这个人拼起来的姿势好笨拙，聪明人就不用那么拼」；<br>「俗人，功利心重」；<br>「癞蛤蟆想吃天鹅肉」；<br>「谁叫他之前不努力」；<br>「哈哈他都拼成这样了，还是得不到」（个人认为这个最可怕）；<br>……等等等等。<br><br>假如这些评价转移到别人身上，自然不会拿它当回事。<br>说到底，还是爱惜羽毛。——又想吃，又害怕显得吃相难看。然而可惜的是，这些害怕常常与现实不符。有时我们举手投足，都会感觉有假想的观众（perceived audience）盯着自己，如果这个观众过于刻薄和毒舌，我们做事就会束手缚脚，难以放开。这些负面评价不见得存在于现实中，却真真切切地存在于当事人自己心里。他们过度地担忧，自己过于「上进」的形象落在别人眼中，是否就会像芮成钢那样的「好学生」一样可笑可鄙？假想出来的冷笑声，稀释或打消了自己做事的动力。<br><br>想法虽然不是事实，但它对一个人的影响却可能比事实更甚。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="12031490-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-03-10" target="_blank" href="/question/28119124/answer/41597810">编辑于 2015-03-10</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>51 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="12259010"
+data-atoken="42165091"
+data-collapsed="False"
+data-created="1426501537"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1226">1226</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1226</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$feng-dan-tong-53" href="/people/feng-dan-tong-53">冯丹彤</a>，<strong title="精神分析师、长程动力取向心理治疗师" class="zu-question-my-bio">精神分析师、长程动力取向心理治疗师</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1226">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$cyndi-tong" href="http://www.zhihu.com/people/cyndi-tong" class="zg-link" title="cyndi tong">cyndi tong</a>、</span><span class="user-block"><a data-tip="p$t$li-li-91-99" href="http://www.zhihu.com/people/li-li-91-99" class="zg-link" title="李理">李理</a>、</span><span class="user-block"><a data-tip="p$t$ren-hai-gu-hong" href="http://www.zhihu.com/people/ren-hai-gu-hong" class="zg-link" title="人海孤鸿">人海孤鸿</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="3430195" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"><p><b>自尊的管理是一项重要的自我功能</b></p><p>一个人，无论是襁褓中的婴儿、充满活力的青年，还是耄耋老者，每天都要面对同样的问题——“如何活下去”？为了能够活下去，就需要有很多种心理功能，来支持自己完成衣食住行的任务。基础的是感知觉、注意力和身体控制能力，高级一些的是记忆能力、言语交流能力，还有完成复杂任务的逻辑思维、抽象能力和想象力等。正是这些基本的自我功能的有效发挥，保证了我们能够获取生存的必需品、赚到钱，完成照顾自我和家人的一系列复杂的动作。</p><p>此外，为了处理人与人之间爱恨情仇的复杂关系、调节内心的焦虑和愤怒等糟糕情绪，我们还需要发展情绪觉察能力、焦虑调节能力、自尊的调节能力、人际交流能力等等功能。与维持基本生活的能力相比，这些能力不直接影响吃喝拉撒的日常生活，但会极大地影响我们情绪体验和生活质量。比如焦虑调节能力不足，在工作、生活有变动时很容易过度紧张、烦躁，甚至失眠；有的人受挫后惯于指责别人，搞得自己人际关系不好，却难以觉察自己表达方式上的不得体、也难以反思自己的错误。这一类心理功能，可以称为社会性心理功能。</p><p>在社会性的心理功能中，自尊的管理能力非常重要，它会让我们敢于尊重自我的情绪体验、维护自我边界、正视内心的真实需求，通过现实层面的付出，来以获得较高的自我及他人评价、达到自我认可和接纳的生活状态。同样在我们遭受挫折、失败时，能够引导我们客观看待自我的能力，忍受一定程度自尊受伤的崩解感，不会自暴自弃，乃至蒙羞自尽。</p><p><b>不敢满足自我的需求是自尊低下的表现</b></p><p>题主说道的这种人，显然缺乏健康的自尊水平，他们一贯地忽视自我的基本需要、不敢坚持自我的真实需求。反倒是为了别人的需要，他才能克服外界的困难，勇于坚持、突破一些自我的束缚，以没有底线的付出来满足对方。这说明他们其实是<b>有能力在现实中克服困难，缺乏地是在内心把对别人需求的尊重、以同样的态度放在自己身上。</b></p><p>为什么会出现这种感觉能克服外在困难，却面对不了自己的真实需求呢？核心点在于，他觉得别人的需要值得被尊重，而自己的需要想一想就算了、不值得被尊重，更奢谈劳师动众、大费周章地去获得满足。潜台词是，<b>“我值吗？我行吗？我可以吗？”</b></p><p>不敢满足自我的需要的人，有两种动机在发挥影响：一是<b>害怕自己的需要，因为寻求需要的满足曾经给自己（及早年照顾者）带来很大的麻烦</b>，比如孩子渴望弹钢琴，但是父母经济压力大、家里空间小，一旦坚持要买钢琴，会给家人和自己带来巨大的麻烦。于是慢慢内化了这种疏于照顾自我需要的模式，即使在长大后具备条件买钢琴，也会在心里犯嘀咕，“我不会给别人添乱吧”？</p><p>二是<b>如果自己获得了满足，那么内心会有强烈的内疚感</b>。这种情况在个人（及家庭）经受过创伤后更容易出现。比如同样在战地医院，从战场上救下来的战士明显比受伤的老百姓使用的镇痛剂要少，因为战士往往觉得自己能捡条命活着回来，已经比战死沙场的战友幸福太多了。如果我太照顾自己、把自己搞舒坦了，就对不起那帮一起出生入死的兄弟了。越战之后，大量的越战退伍老兵一直生活在社会的下层，极端地甚至会自杀，很多都与这种幸存者内疚有关。
+因为他们<b>面对不了要成功与幸福的渴望，</b>因为这样就要面对“兄弟们都战死他乡，我却独享富贵，太不够义气”的自责感。</p><p><b>病理性利他是自尊低下的人满足自我的曲折方式</b></p><p>当一个人经济能力较好时，把一小部分钱用于环境保护、帮助穷困学生等公益事业是一种健康的利他行为。而上面提到的这种人，在否认与拒绝自己的基本需求后，反而对别人的需要投入大量精力、心思，促成他人需要的满足，虽然也是利他，但前提却是自己否认、拒绝了自己真实的需要，是一种负面方式的利他，即病理性利他。因为他的目的是回避面对自己需要时的复杂情感、回避在意识层面正视这种需要时会唤起的强烈焦虑。</p><p>而这种负面的利他可以起到缓解面对复杂情绪和焦虑的作用，原因在于他把自己内心的需要投射给了对方，自己通过照顾他来比较绕（乃至歪曲）的方式满足自己的需要。这也是为什么命名为“病理性”，如果一个人对这种投射的情况缺乏觉察，一直误以为是别人太需要、而不是自己。这会导致自我和别人的边界不清、自我和别人的内心活动难以被现实检验，导致不断的误解和冲突，甚至走向脱离现实能力的危险。</p><p>听起来是不是有些熟悉？在中国很多家长都会为了孩子舍不得吃、舍不得穿，但是孩子要参加高价培训、要买高档衣服，父母是敢于不计代价地满足孩子的，因为在那个瞬间，花钱的爽快和挥霍感是一样的，而给孩子花钱明显会减少内心的自责、反而体会到道德上的优越感。“我是为了孩子，花再多钱，我也骄傲”。不仅不会伤自己自己的自尊，反而脸上有光、心中有爱，浑身地自在摇摆。殊不知，内心渴望满足的需要在一次次的摇摆中，遗失殆尽。为以后孩子长大不需要自己时，自己怅然若失的空洞感，埋下了伏笔。因为“孩子就是我的生命，我是为了孩子才存在，孩子离开了家，我也就不知道我是谁了”。</p><p><b>自尊管理的问题来自于不健康的家庭氛围</b></p><p>这种听起来有些受虐的性格怎么形成呢？</p><p>他们早年成长的环境往往比较恶劣，<b>一种是需要压制自己的真实感觉、表现的很乖巧才能吸引父母的关注和赞赏。</b>这样的家长往往比较自恋，也需要从孩子的优异表现中得到自恋的满足。小到孔融让梨式的谦让行为，大到孩子优异的成绩、特殊的才艺，都要炫耀和夸奖一番。这样的家长很难看到孩子自然、真实的需求，也无从对孩子的这部分做出有效的回应，结果孩子慢慢也内化了一种别人的需要更重要，别人先被满足后，自己才有糖吃的模式。</p><p>另一种是<b>父母之间有很多冲突、时常争吵，自己反过来要照顾父母的情绪。</b>原因在于，即使付出那么多心血来维持家庭的和谐，至少要比默默忍受家庭的破碎要好得多，潜台词是，”这个家，需要有人输血来拯救，父母都指望不上了，只得我该出手时就出手了”。而往往这样的孩子又被大人、周围的人夸奖为懂事、不给父母添乱。这种一个愿打、一个愿挨模式的循环往复，使得真实的自我需要在看似和谐的氛围中消失殆尽。最可悲的是，不到自己生病难捱、痛苦万分时，这个当事人都不愿去觉察，那么处处隐忍的人原来是自己。</p><p><b>病理性利他可以成功、乃至可以成为榜样</b></p><p>具有病理性利他这种牺牲精神的人，在某些特定的环境中、某些特定的文化里，可以是成功者，乃至是成功的典范。比如几十年前某军队里的小班长，带领一个班的人集体外出劳动，因为道儿远，所以得带饭到那儿吃。不巧，其中一个小同志忘记拿饭盒了。这位班长慷慨地把自己的饭盒给了他，小同志饱餐一顿，自己却饿了一天。可以说，这个班长作为光荣形象是成功的。但是他的动机并不健康，显然有低自尊在作祟、是病理性利他的表现（这个理解不止基于上述行为，也结合了他《XX日记》中提到在旧社会的早年生活）。因为班长如果想帮助一个同志，完全可以号召班里的人一起帮助他，每人少吃一勺，然后大家都吃七八分饱、饿不着，而又共同帮助了一个同志。或者至少是一人半盒，两个人都垫巴点。而不是否认了自己的基本需要，来满足对方（除非你有更险恶的收买人心的动机，这个另当别论）。</p><p>为了自己的需要而能敢于表达、坚持自我需求的正当性，在受到侵犯时敢于据理抗争，是一个人尊重自我、自尊调节功能健全的表现。而不顾自己生活而热心肠好帮忙的人，往往有病理性利他的问题，他们缺乏直面现实问题的勇气，通过不断照顾别人、为别人的权益去争取来找到存在感，也曲折地满足地自我需求。他们的低自尊感状态，倾向于把被照顾的需要投射给了别人，自己满足对方的时候，内心也得到了满足，只是意识层面不愿或不能接受是自己有这种需求。</p><p>为之一叹！</p>
+<a href="/question/28119124/answer/42165091" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="12259010-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/28119124/answer/42165091">发布于 2015-03-16</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>139 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="12031183"
+data-atoken="41597037"
+data-collapsed="False"
+data-created="1425958291"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="71">71</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">71</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$yu-lin-xin-32" href="/people/yu-lin-xin-32">俞林鑫</a>，<strong title="就爱弗洛伊德" class="zu-question-my-bio">就爱弗洛伊德</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="71">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$ma-daisy-98" href="http://www.zhihu.com/people/ma-daisy-98" class="zg-link" title="Ma Daisy">Ma Daisy</a>、</span><span class="user-block"><a data-tip="p$t$ke-yun-zhong-45" href="http://www.zhihu.com/people/ke-yun-zhong-45" class="zg-link" title="柯允中">柯允中</a>、</span><span class="user-block"><a data-tip="p$t$lin-ai-fan-89" href="http://www.zhihu.com/people/lin-ai-fan-89" class="zg-link" title="林艾凡">林艾凡</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="3430195" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">谢谢邀请。<br><br>文化对每个个体都有一种无形的约束。在人的成长过程中，种种来自于本我的愿望一般都会被打压。比如，利己的行为会被责备，而利他的行为则会被赞赏，在集体主义文化中更是如此。人最初是利己的，后来在文化要求下，慢慢地变得‘利他’，但这并非真正意义上的利他。比如题主所说的“完成别人的请求时拚尽全力”，看起来很“友好”，但这只是一种生存策略。有没有真正意义上的利他？有，条件是一个人已经足够强大，种种自恋的、被爱的、安全的需要已经被充分满足了。此时，按心理学家马斯洛的说法，人会进入自我实现的状态，更多的被一种建设性的、创造性的、利他主义的驱力所驱使着。<br><br>所谓成长的过程，便是接受与认同社会要求的过程，这个过程伴随着不断的挫折和痛苦。作为个体的人来说，有两个问题是要不断面对的：我能不能在社会中生存下来？我能不能得到别人的喜欢？当一个人无法对这两个问题有一个明确而自信的回答时，难免会委屈自己讨好别人。讨好别人是对对真实自我的压抑，很多人的苦恼均来源于此。有些人埋头苦干，有些人在单位或学校里煎熬地生活着，明明很想离开过上自由的生活，但却没有充足的胆量与勇气。<br><br>讨好是一种示弱，它也许能唤起别人的保护，或者能防御别人的伤害。但讨好是一种儿童心态，是一个人缺乏独立性与自信心的表现。而一个有独立感与自我确定感的人才是真正意义上的成人（心理上的成人，并非指生理上的）。每个人都曾经是弱小和自卑的，那么成人的过程，便是逐渐走向自信与独立的过程。只有这样的人，才能“成为自己”，才敢于拒绝别人。 <a data-hash="fb1339246968bdebd53e07885ac47125" href="http://www.zhihu.com/people/fb1339246968bdebd53e07885ac47125" class="member_mention" data-editable="true" data-title="@动机在杭州" data-tip="p$b$fb1339246968bdebd53e07885ac47125">@动机在杭州</a>老师引用的管理学大师德鲁克一次拒绝别人要求的话：“如果我说富有成效的秘密之一就是把所有的邀请，比如您的邀请，都扔进一个大大的废纸篓的话，我希望您不要认为我太自以为是或者过于粗鲁。根据我的经验，提高生产效率的方式是不要做任何帮助他人工作的事情，而是把所有时间都用于上帝让你做的事情上，并把它做好”——把所有的时间都用于上帝让你做的事情上，并把它做好......这是多么令人向往的人生境界啊！<br><br>回到题主的问题：这样的人会不会成功？一般不会，即使成功了，往往也会不持久。因为他们无法以一颗平常心面对成功。成功来临时，或者过于激动，或者过于不安，无形中摧毁了成功。当这些人有幸成功时，会时刻生活在强大的心理压力之中，对于这些人而言，成功甚至会让他们短命（那些过劳死的成功者不免会让我有这种猜测）。只有内心强大的人才能成功并保持成功。照此看来，当你觉得自己不够强大时，还是暂时把手头的事情做好，不要老是做成功的美梦吧。而当你内心真的强大时，成功自然会来临。毕竟，内心真正强大的人太少，所以，这样的人怎么可能不成功呢？
+<a href="/question/28119124/answer/41597037" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="12031183-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-03-10" target="_blank" href="/question/28119124/answer/41597037">编辑于 2015-03-10</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>7 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/28119124" class="zg-link-litblue">查看全部 135 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="3430195">关注问题</button>
+
+4588
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="4055a09d55538f79261cb7143f6a09f3" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="李松蔚"
+data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$lisongwei" href="http://www.zhihu.com/people/lisongwei" class="zg-link" title="李松蔚">李松蔚</a></h2>
+
+<div class="zg-big-gray">普通的心理学工作者</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/lisongwei/followers" class="zg-link-gray-normal">165202 关注者</a>
+/
+<a target="_blank" href="/people/lisongwei/asks" class="zg-link-gray-normal">5 提问</a>
+/
+<a target="_blank" href="/people/lisongwei/answers" class="zg-link-gray-normal">136 回答</a>
+/
+<a target="_blank" href="/people/lisongwei" class="zg-link-gray-normal">229363 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/28119124/answer/41597810/collections">262</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1379037697">
+<h2 class="zm-item-title ">
+<a href="/collection/26460588">生活智慧小银行</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/26460588/followers">6407 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1380184274">
+<h2 class="zm-item-title ">
+<a href="/collection/26706184">每天回味下</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/yu-qiu-31" data-tip="p$t$yu-qiu-31" class="zg-link-litblue"> yu qiu </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/26706184/followers">1256 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1400558074">
+<h2 class="zm-item-title ">
+<a href="/collection/37227177">如果我有闲暇，就会仔细阅读…并且归类</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/pimgeek" data-tip="p$t$pimgeek" class="zg-link-litblue"> 吴笛 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37227177/followers">266 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1421235839">
+<h2 class="zm-item-title ">
+<a href="/collection/43414604">马而后看2</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/edmon-46" data-tip="p$t$edmon-46" class="zg-link-litblue"> edmon </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/43414604/followers">263 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1380631716">
+<h2 class="zm-item-title ">
+<a href="/collection/26836183">人生</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/rose-61" data-tip="p$t$rose-61" class="zg-link-litblue"> Rose </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/26836183/followers">38 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20522762">为什么很多问题自己思考很久没有结果，却在询问别人的一瞬间灵光闪现？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="34" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/24542298">恋爱时遇到问题，如何判断是自己处理得不好，还是两个人不合适？</a> <span class="num">11 个回答</span><meta itemprop="followerCount" content="121" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20751203">为什么常常我辩论时很容易想不出话，而写时却完全不一样，有什么办法可以改进？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="66" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20639481">以旁观者的角度评论事情时思绪很清晰；自己的事情很多或者需要处理时思绪很混乱，如何改善？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="46" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/25104154">那些长得好看却成天说自己丑的人什么心态？</a> <span class="num">12 个回答</span><meta itemprop="followerCount" content="24" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20120612">为什么在自己会开车的情况下，当别人开车时自己会感觉特别危险，会很紧张？</a> <span class="num">10 个回答</span><meta itemprop="followerCount" content="22" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20801088">日常生活中，你自己一个人走在路上时，会想些什么？</a> <span class="num">27 个回答</span><meta itemprop="followerCount" content="123" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22847165">哪部电影你自己觉得特别喜欢，推荐给别人，可是别人却觉得不好看？</a> <span class="num">20 个回答</span><meta itemprop="followerCount" content="40" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22723850">当别人的行为困扰到你时，应该怎样表达才不显得没礼貌？</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="77" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21615013">怎样快速提高自己的反应能力和接别人话茬的能力？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="13" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2015-03-10</span>
+</p>
+<p>
+所属问题被浏览 <strong>270340</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439335510000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":3430195,"urlToken":28119124,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0f50671d77e9fa87d6ccd7e2fc71de7.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="944b5aa69f9b4527a977ad6dac0583b4">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="3097ef7be724612a7e6b9e2f95ea6596"/>
+</body>
+</html>

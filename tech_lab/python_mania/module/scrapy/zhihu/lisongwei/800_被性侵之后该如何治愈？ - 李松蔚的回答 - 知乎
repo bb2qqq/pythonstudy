@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>被性侵之后该如何治愈？ - 李松蔚的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/23100870">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/22130143/answer/23100870">
+<meta id="znonce" name="znonce" content="4b57fa8cee354b339482ea168dc65a69">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/e827b73d8f25a233cbeeeb9421baeddb.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/22130143" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551432"
+data-tip="t$b$19551432" data-token="19551432" data-topicid="404">
+心理学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19552474"
+data-tip="t$b$19552474" data-token="19552474" data-topicid="756">
+心理治疗
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19635114"
+data-tip="t$b$19635114" data-token="19635114" data-topicid="28402">
+性侵犯
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19682620"
+data-tip="t$b$19682620" data-token="19682620" data-topicid="44237">
+强奸
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19754358"
+data-tip="t$b$19754358" data-token="19754358" data-topicid="68196">
+精神康复学
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/22130143">被性侵之后该如何治愈？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="1032906" data-action="/question/detail">
+
+<div class="zm-editable-content">一直逃避，没有谁知道这个事情。到现在已经不知道是怎样的感受去理解这件事。那是还小却有意识到这是什么事的年纪。阴影越来越大，看书，看到早安陌生人里面一个被强奸的女孩的治愈过程。24重人格。电影熔炉。越来越大后，发现其实很多人跟我有一样的痛苦。这样的羞耻，在于再怎么痛苦也说不出口，和谁当面。第一次说出来，因为都是陌生人。如果可以宽慰一些也好。<br>  我隔了很多天。才敢回复。看到这个问题被越来越多的人关注，只要点开知乎，这个事情就要再重复。仔细看了每个回答，也为曾经遇到和我一样不幸的女孩祝福，希望早日能够轻易的忽略这个经历。虽然，实在是太不容易了。我的年纪不大，但是这个事情发生了，随着年龄增长，疑虑 焦躁  低落 在想起来的时候，很难平复心情。看到类似的电影，书，甚至强奸这个词语，都会晃神很久。我没有为自己遇到了这样的事情感到命运不公，只是与人建立了很深的友谊关系后，再三思索，也无法说出口。尤其是自己真的很难承担的时候，很想跟爸妈说。还是不能。说了既不能改变事实，也会让他们跟我一样痛苦。<br>  我已经记不起是谁。每年都要回到那个地方。甚至当我意识到这个事情的严重性的时候，已经隔了几年。我不厌弃自己，但是害怕被人厌弃。总是纠结在怎么忘记，还是要开始新的生活。<br>真的非常感谢大家的关心和理解，希望所有的女孩都不要遇到这种事情。这是埋藏在心底心底的事情，难以启齿。平时，我没有社交障碍，他人眼里乐观无虑。只是每次想起这样正面的形象和不敢说出来的自己的对比，有点悲哀吧。<br>我会努力，希望你们也一样。一段艰难经过，痛快告别吧。<br> 很多人都想感谢，你们说的每一句。</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>89 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="1032906" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/22130143" class="zg-link-litblue">查看全部 365 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="4455758"
+data-atoken="23100870"
+data-collapsed="0"
+data-created="1393935586"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4455758"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">800</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic3.zhimg.com/7b0114ec2_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lisongwei" href="/people/lisongwei">李松蔚</a>，<strong title="欢迎关注微信公众号：therapistlsw" class="zu-question-my-bio">欢迎关注微信公众号：therapistlsw</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="800">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$sushsh" href="http://www.zhihu.com/people/sushsh" class="zg-link" title="sushsh">sushsh</a>、</span><span class="user-block"><a data-tip="p$t$zhang-xiao-23-77" href="http://www.zhihu.com/people/zhang-xiao-23-77" class="zg-link" title="张潇">张潇</a>、</span><span class="user-block"><a data-tip="p$t$guo-shao-yu-34" href="http://www.zhihu.com/people/guo-shao-yu-34" class="zg-link" title="郭绍宇">郭绍宇</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1032906" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">谢邀，很久没答过专业题了。<br>性侵是彻底的噩梦，不过，噩梦也有等级。有一些情况尤为棘手，主要体现在初次发生性侵的年龄越小，遭受性侵的次数越多，施害者和自己的关系越近，这段经历对受害者来说就越是恐怖。这里涉及到一个创伤的分型。偶发的，成年之后遭遇来自陌生人的强暴（I型创伤），相比于一个孩子在成长过程中，持续不断地遭遇来自熟人的侵害（II型创伤），要稍微好处理一些。<br>但这也是相对而言的，其实仍然是非常重大的心理伤害，最好交给专业人士。<br>另外，还要看受害者所处的环境，对他是否给予了足够的支持。我处理过有不少案例，明明是受害，却反而横遭批判和攻击，这点听上去匪夷所思，但居然可以是事实。比如，鼓足勇气告诉妈妈，妈妈的回应却是不信任（你肯定你记错了，不可能吧？），指责（谁叫你穿成那样，苍蝇不叮无缝的蛋），甚至辱骂（丢人败德的贱货！），这已经不是伤口上撒盐了，这是伤口上补刀。<br>我也听过一些来自这种父母的痛哭和忏悔。可是大错已经铸成，还有什么用？<br><br>扯远了，从简单一点的情况（I型创伤）开始说吧。<br>I型创伤的主要后果，是一些神经症水平的症状：闪回，失眠，过度警觉，噩梦，恐惧，回避社交，常见创伤后应激障碍（PTSD）和抑郁的诊断。处理要点首先是重建安全感，确信自己已经脱险，逐步恢复对世界的信任，回归正常生活。有一种非常实用的治疗手段，叫做暴露疗法（exposure therapy），主旨是在确保安全和稳定的前提下，重新接触和创伤有关的记忆，例如用叙事的方式，对知觉型的记忆碎片进行重组，还原当初的所见所感，起因经过结果，形成条理并储存到自己的外显记忆中。有时还会用故地重游（现场暴露，vivo exposure）的方式加强效果。还可以将这段叙事做成录音，交给受害者反复听，巩固对整件事的概念组织。研究证明，对事件的有序组织可以有效减少闪回和噩梦的发生。——所有这些过程当然不是一步到位的，期间可能会出现多次的阻抗，反复，剧烈的情感爆发。所以最好是在心理治疗中进行，由有经验的治疗师悉心照护，可以在保证安全的前提下逐步引导完成，并处理过程中可能的一些意外状况。暴露的治疗效果是非常理想的。这方面目前最主流的治疗方案，叫聚焦创伤的认知行为治疗（TF-CBT），感兴趣且英文好的同学可以看这个网站：<a href="http://tfcbt.musc.edu/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Trauma-Focused Cognitive Behavior Therapy<i class="icon-external"></i></a> ，提供了不少的免费学习资源。<br>治疗时间不长也不短，以一周一次而论，需要几个月到一年的时间都有可能。<br>要强调的是：虽然对一些较轻的情况，这种治疗是可以自助完成的（例如，经历了轻度的性骚扰，感觉有点恶心）。但是大部分状况中，这个治疗过程是非常精细，也需要格外慎重的！不可以轻易尝试自己实施，也不要交给不合格的心理治疗师。切记！在做创伤方面的心理治疗之前，务必详细了解这个心理治疗师的受训背景，是否具有创伤治疗的资质，以及在治疗伦理上是否经得起考验。不要做网络治疗，也不要贪便宜，宁可多花一点钱，一定要当面考察清楚。如果感觉这个人不对劲，赶紧走。某种意义上你是把手术刀交到这个人的手中，弄不好是反而会有危险的。我听说过有半吊子的治疗师，汶川地震之后没几天，就逼着年纪幼小的受灾者「回忆」父母亲遇难时的场景。这太恐怖了，是足以让人情感崩溃的。显然他学过暴露治疗的一点皮毛知识，可根本不会把握治疗的节奏，也不懂对情绪的稳定化。如果还是用手术打比方的话，相当于动刀子却完全不给人打麻药。<br><br>然后是II型创伤，很可能题主就是这种情况。这比前面的过程远远更复杂……<br>II型创伤的主要后果，比单纯的创伤后应激反应要严重得多，抑郁症或双相都还算是轻的，更棘手的后果包括解离障碍——解离性身份识别障碍（DID，你一定熟悉它的另一个称呼：多重人格），物质滥用与依赖（酒精或毒品成瘾），以及造成长期性格异变的人格障碍（比如反社会人格障碍：黑暗骑士里的小丑；或边缘性人格障碍：骄阳似我里的男主角）。这种程度的创伤如果没得到及时的处理，又是在生命早期形成的阴影，很可能造成一个人的情感模式、人际关系、性关系、基本信念体系、思维特征与行动模式的全方位变异，甚至大脑功能也可能受此影响，产生病理性的改变。受害者可能会用各种方式伤害自己（当然从另一种观点来看，也可能是潜意识地在保护自己），卷入各种匪夷所思的危险的活动与关系（暴食，冒险，滥饮，嗑药，滥交，自残），他们让每一个试图接近自己的人都感到捉摸不定，如履薄冰。他们不可预测，几分钟前后就会判若两人。他们时而激烈得希望毁灭世界，时而又痛苦得想要毁灭自己。时而以泪洗面，痛诉衷肠，时而又将自己重重封锁。在心理治疗的领域，这也算是高精尖的难题，也许难度可以类比于医学领域的神经外科手术。<br>当然，也不是没有治疗的方法，目前相对成熟的疗法叫做眼动脱敏与再加工治疗（EMDR）。<br>但我必须说明，这种治疗技术，一方面经验证据不如前一种治疗那样稳定可重复，另一方面，掌握难度实在太大。目前国内真正能把这种治疗做好，能够胜任II型创伤的高手，乐观地说，我想恐怕也达不到三位数（会打嘴炮的当然是不少）。我自认为在心理治疗方面资质不错，也为这种疗法接受过连续的系统培训，但说句实话，这方面真正成功的治疗经验还几乎没有。所以，这里同样是打打嘴炮而已。这种疗法的核心，是在稳定化的基础上，采用视觉或听觉通道的双侧刺激，加速受害者对创伤经历的加工与整合，激发深层的情感体验和身体症状，最终达到脱敏之效。说来虽然简单，但实际操作起来才知道难度有多大。——也许等我再多几年经验，可以对这个问题谈上更多。<br>另外，这种治疗即便取得效果，耗时也会很长，一年是起码的，三年五载也是常事。<br>有感于这种受害者的治愈之艰辛，又想到，要制造一个这样的受害者却那么容易。一个顶级治疗师成百上千小时殚精竭虑的努力，也难以弥补一个人渣当年随便一脱裤子的兽行……<br>就觉得命运，真是不公平得让人无话可说。<br><br>当然，受害者的疗愈之道，也不见得只能通过特定的疗法寻求。对这个话题，我的师兄徐凯文博士比我更有发言权。他有一句话让我印象深刻：在关系中受到的伤害，只能在关系中得到修复。他的主张是：如果受害者能够和一个客体（治疗师，男友，女友，孩子，甚至一只动物）保持一段长期并且足够稳定的关系，即便不经历专业的治疗，他也有机会在这段关系中，慢慢觉察到自己的一些特点，修通一些压抑的情结，学会一些新的模式，最终修复他在之前关系中所受的创伤。<br>但，这也只是一个理论上的说法。因为大多数人没有办法和这样的受害者建立长期关系，他们最开始也许会投入很多心力，但是很快就会被受害者一些（来自过去关系）的情感和行为模式所影响，然后越来越难以为继，最终以伤害和抛弃收场，沦为过去关系的复制品。真爱虽然无敌，但是真爱确实也太难找。也许还是心理治疗师会专业一些，至少他们有更强的维持关系的能力。<br>关于通过稳定关系来促成疗愈的例子，推荐两部很好的电影，一部叫《骄阳似我》，一部叫《Prozac Nation》（翻译为少女初体验，我也不知道为什么叫这个名字...）。虽然它们讲的也都是心理治疗的故事，但也不排除现实生活中就存在这样的缘分。任何时候，都不要放弃希望。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4455758-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-03-04" target="_blank" href="/question/22130143/answer/23100870">编辑于 2014-03-04</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>59 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="4499351"
+data-atoken="23203174"
+data-collapsed="False"
+data-created="1394184532"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="436">436</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">436</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info " data-votecount="436">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$sushsh" href="http://www.zhihu.com/people/sushsh" class="zg-link" title="sushsh">sushsh</a>、</span><span class="user-block"><a data-tip="p$t$ke-ke-xi-gou" href="http://www.zhihu.com/people/ke-ke-xi-gou" class="zg-link" title="可可西狗">可可西狗</a>、</span><span class="user-block"><a data-tip="p$t$lang-gan-14" href="http://www.zhihu.com/people/lang-gan-14" class="zg-link" title="琅玕">琅玕</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="1032906" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">第一次在知乎发言。我有过一次类似的遭遇，每次看到这样的话题就会觉得非常心痛。很想劝慰一下受过伤害的女孩子又不知道如何说。而且这真的也不是靠劝慰就能痊愈的事情。我能了解你的感受，也明白你所受的伤害有多大。先来讲讲我的经历吧。<br><br>我那时候19岁，八月底的时候我跟家里闹了矛盾，于是在姨妈家住了一段时间。有一天我朋友给我寄的阿狸的绘本和玩偶到了。我接到快递的电话之后就回家了，忘记是什么时间了。然后等我再回姨妈家的时候大概是晚上八点半左右，夏天嘛，那个时间不算晚。但是我姨妈是住在乡下的。城乡结合的一段路没有路灯也几乎没有什么人家。我家人当时是让我不要走的，但是我脾气拧，硬是骑电瓶车走了。<br><br>我根本不知道自己是什么时候被坏人盯上的。当我走在没有路灯地方的时候，身后驶来了一辆汽车，我还往路边让了让。这里要说明一下路况，我当时的位置前方有一座小桥，底下是一条小溪。那辆汽车已经调过头来了，斜斜地挡住路我没法过去。我还很傻逼的根本没有意识到任何危险。那个男人还跟我说，卡住了你等一下。我只好等在路边，直到他给汽车熄了火，并打开车门对我说＂在哪上班啊这么晚才回家＂的时候我才意识到危险来到了身边。<br><br>那时候的我还没有谈过男朋友，对性的认知也只限于模糊的理论。但我非常清楚的感觉到自己遇到了坏人，一个危险的男人。我当时试图从车身旁边的小间隙逃走，刚骑上车子那男人快跑两步一把把我拽倒，连人带车狠狠摔倒在地。他还假惺惺地说：妹妹对不起。我默默地扶起车子，车把已经歪掉了。也并没有感觉到任何疼痛，可能是太紧张注意力在别的地方的原因吧。当时也算冷静的了，已经在脑子里盘算下一步怎么办。我开口尽量用平静的语气说：我车子都歪掉了。他可能没想到我会冒出这么一句话，竟然用腿夹住车轮把车把拧正了。然后远远的听到有车子过来的声音，那男人很紧张，捂着我的嘴一只胳膊箍住我的脖子把我拖进了路旁的小树林。一个十九岁勉强一百斤的女孩和一个三十左右人高马大的男人力量悬殊自不必多说。<br><br>我被拖到小树林里面车子的声音也近了。不是汽车的声音，有点像摩托车三轮车之类的，我双手奋力掰开一点男人的手并咬了一口。他吃痛收手的瞬间我一边用力挣扎一边大叫救命啊。我确定外面的人听到了，那一声求救我用尽力气和希望。男人一只胳膊紧紧围住我的腰一只手试图捂住我的嘴。我几番挣扎尖叫很快重新被控制。呵呵，我以前坐过山车跳楼机什么的从来不会尖叫，我也一直以为自己是不会尖叫的。那晚的尖叫声我自己都吓到的凄厉。<br><br>没有人来救我。没有。回应我的只有黑暗和渐渐远去的车子声音。我至今也不明白，那辆未知的车子是怎么从那座被堵到只剩缝隙的桥上过去的，还是掉头又反回去了呵呵。<br><br>我无暇顾及和去分辨车子远去的方向，因为我被按倒在了地上。坏人骑坐在我身上一只手狠狠地掐住我的脖子，一只手胡乱抚摸并恶狠狠地凑近我亲吻我，我闻到了酒味。我发不出声呼吸也越来越困难。我真的以为自己快死了。终于坏人不再掐我，而是一边污言秽语一边准备脱我裤子。我穿裙子里面是打底裤。裤子很快被拽下，野蛮的插入手指我当时又疼又害怕。<br><br>什么想法都有，我觉得我今天逃不出去了，也没有人来救我，被强奸了之后说不定就被杀了，还想着如果没被杀我也是活不下去了，附近有水库，我就去跳下去。非常绝望和不甘，想着我才19岁，难道这就是我人生最后的一刻吗？带着屈辱死去？<br><br>不行，谁会甘心就这样死去，我不能坐以待毙，我逼自己冷静冷静再冷静。直到那个坏人直起身想解腰带的时候，我尽量用平静的口气说：大哥，这地上太难受了我们去车里行吗？<br><br>许是我运气太好，许是上天最终动了怜悯之心，许是那个坏人喝多酒没作多想，他答应了，起身拉起我。我稍微整理一下衣服，慢慢地跟在后面，渐渐走到车旁边，我看到他拉车门的时候返身跑到电瓶车那里，骑上之后用最快的速度冲了出去。所以事后我也非常感谢当初自己把车子扶起的举动，不然我还是跑不掉的。坏人没有追我，因为跑步显然追不上我，车子再掉头的话非常浪费时间，即使掉头追我我也已经到了村子里面。所以他逃逸了。我也根本没看到车牌，也不认得是什么牌子什么型号的车。<br><br>最后我一路心狂跳，逃回了姨妈家。姨妈当时没在家，她在村里小卖部的门口乘凉闲聊。姨父在另一间屋子睡觉，他是脑血栓病人平常行动不便。他们的孙子和朋友在偏屋里玩电脑。之所以说这些是因为当时没人注意我的异常我也不想让任何人注意到我的异常。所以我想换下衣服穿上睡袍躺床上像平常一样当作什么事也没有，这才发现我第一次摔倒在地的时候胳膊肘擦伤了一大块，沾着泥土砂砾血肉模糊。我不知如何是好，只能草草的用清水洗一下。这过程之中我感觉自己下身温热湿润，脱掉内裤我又发现自己流血了。当下更是心乱如麻。只好又洗洗然后换了内裤用了卫生巾。<br><br>最后我躺在床上，已经忘了是何感想。只是一直感到下身有血流出。出于害怕心理我终于拿起手机，给我嫂子打了电话。简单说了一下情况我嫂子大惊，立即告诉父母并联系了我姐姐姐夫，我哥我嫂我姐姐夫四个人开车把我接回家。没来及跟姨妈解释太多。回到家的时候发现我一个当警察的堂哥也被叫到我家了。我躲进房间不想见人。坐在地上抱着双腿把头放在膝盖上。我堂哥可能是作为职业警察想问一些线索好抓到坏人。又不好当面问，嫂子作为年龄最和我接近的女性小心翼翼地问我一些问题。看到车牌了吗，记得长什么样吗，当问到＂是只用了手指用身体其他部位了吗＂的时候，我感觉到了巨大的耻辱，我艰难地说了一句没有就倒在了地上抽泣。于此同时我嫂子看到了地上的血迹，又是大惊把我扶到卫生间，我妈妈向来胆小，那时候已经六神无主。到卫生间，卫生巾已经浸透了，脱下内裤血就顺着双腿流了下去，我也没有感觉到疼痛，坐在马桶上的时候感到有很大的血块从我下体滑出。腿上是血地上也是血。卫生巾已经不管用了，家人拿了两条毛巾我垫在内裤里，立即去了医院。<br><br>走到医院先是做了一个简单检查，然后就被放到了推床上面挂了个点滴就被推去手术室。手术室里我要脱光衣服，虽然盖了被子仍然发抖。然后是在后背打麻药，不知道是脊椎还是哪里。半麻。躺在手术台上，还是觉得呼吸困难，吸了氧气。终于轻松了一点。<br><br>手术时间不记得多长了。被推入病房的时候抬到病床上的时候，看到有几根管子连在背后，只知道其中一个是镇痛泵。然后插尿管。输血。不能枕枕头。下半身像灌了铅一样沉重。特难受。一整夜我根本无法闭眼睛，闭上眼就浮现那一幕幕。我用被子蒙上头，一是不想别人看到我哭，二是不想让别人看到我脖子上的瘀青和掐印。<br><br>天亮了，我一直呆呆地躺在床上。阳光撒满了病床，我一点也不觉得温暖。住了一个星期院，很多时候都是蒙上被子拼命咬着嘴唇流泪。我不知道自己算不算真正意义上的强暴，但强大的耻辱感一直跟随着我。出院的时候我在医院停车场看到类似的车就会打颤。很长一段时间有陌生的男人靠近我我都会非常紧张，要么走开保持距离要么会低着头用余光注意着他们。一度我也非常愤恨男人。不敢一个人出门，缺乏安全感。也是想到过活着没意义，觉得自己不干净了之类的。<br><br>我今年24岁了，距离那件事已经过去了五年，我已经好多了。有一个相爱的恋人。昨天刚领了结婚证，初八也就是明天办婚礼。写这些是用手机一个一个打出来的，期间中断好几次，因为要控制一下自己的情绪。但还是没忍住流泪。这件事我也一直没有告诉老公，我不知道这样对不对是不是很不坦诚，但我真的真的没有勇气对任何人开口。我想我还是不够勇敢。希望有一天我可以勇敢的拿起手机给我老公看看这个帖子，那时我一定彻底痊愈了，能坦然面对了。<br><br>我每次看到一些帖子里女孩子令人心碎的话语都想当面对着她们大吼：不是那样的！你不能想着去死！不能在受到暴行之后再去做任何伤害自己的事情！你一个人走了夜路、跟男性独处、穿的好看了一点、一切都不应该是你可以被坏人伤害的理由！如果实在是无法改变被伤害的事实，也不要自暴自弃！不要想不开！更不要寻死！不要做任何亲者痛仇者快的事！相反，你要更加好好爱自己，保护好自己，提高警惕和防备之心。<br><br>最后，借用一句我在知乎看到的很喜欢的两句话，送给题主、所有有类似遭遇的人、以及我自己。<br><br>你脚下的地狱只是天堂的倒影，我唇角的故事也是时间的灰烬。<br>所有认真活着的人们上天总会眷顾。<br><br>与君共勉。
+<a href="/question/22130143/answer/23203174" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="4499351-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-03-07" target="_blank" href="/question/22130143/answer/23203174">编辑于 2015-05-02</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>150 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="4445309"
+data-atoken="23075905"
+data-collapsed="False"
+data-created="1393880796"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="408">408</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">408</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$sparks" href="/people/sparks">花火</a>，<strong title="U never know what they’re going through." class="zu-question-my-bio">U never know what they’re going throu…</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="408">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$cao-ying-80-34" href="http://www.zhihu.com/people/cao-ying-80-34" class="zg-link" title="草莺">草莺</a>、</span><span class="user-block"><a data-tip="p$t$he-dan-81-78" href="http://www.zhihu.com/people/he-dan-81-78" class="zg-link" title="何丹">何丹</a>、</span><span class="user-block"><a data-tip="p$t$yao-zhi-da-14" href="http://www.zhihu.com/people/yao-zhi-da-14" class="zg-link" title="姚志达">姚志达</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="1032906" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">看到 <a data-hash="571cfff1708fd4ce632d30d3e3899772" href="http://www.zhihu.com/people/571cfff1708fd4ce632d30d3e3899772" class="member_mention" data-editable="true" data-title="@花样百" data-tip="p$b$571cfff1708fd4ce632d30d3e3899772">@花样百</a> 的回答，先说些有关性侵犯的常识性问题。 <br><br><b>性侵犯是任何非自愿的性行为 ，受到威胁和胁迫，违背自己的意愿或未经同意的任何性接触。</b>包括强奸（强制性交、肛交或口交）、强迫亲吻、猥亵、儿童性虐待或涉及性方式的酷刑等。现在人们普遍认为的性侵犯是指猥亵、强奸未遂、强奸和轮奸。<br><br>尽管大多数性侵犯受害者是女性，也有为数不少的男性沦为性侵犯受害者。据美国司法统计局的统计资料，在美国91%的强奸受害人为女性，9%的受害人为男性。按世界卫生组织的统计，约20%的妇女和5%-10%的男性报告曾在童年时成为性暴力的受害者。<br><br><b>受到性侵犯不仅仅是如同被揍一顿，只会由于社会舆论和道德的影响而显得格外的痛苦。</b>受人的生理和情感因素的影响，产生的影响可以是多方面的。例如：<ul><li><b>遭受强奸的女性受害者有7%的概率致孕。</b>没有当即避孕，流产会对身体造成的损伤，有些女性因为一次流产就此不孕。在不允许或无法堕胎的情况下，这些强奸致孕的女人被迫把孩子生下来，生育和抚养孩子给她们带来巨大的痛苦。抚养被强奸生下的孩子，日夜面对和强奸犯相似的脸庞、身体和性格特征，对一些女性来讲是酷刑般的生活。</li><li><b>引起性功能障碍。</b>性愉悦和性反应是促进生物繁衍的生理设置。即使是强奸也会给受害者带来性愉悦和性反应，无论男女（男性被肛交时，刺激到前列腺会产生性愉悦，勃起或射精）。无论他们内心对强奸有多抗拒，这种性愉悦和性反应仍旧会产生，是远比挨揍更为强烈的痛苦感。<u>经历过性侵犯，性行为就和情感联系在一起，而且会引起身体上的痛苦。</u>害怕性和缺乏性欲或性唤起是最常见的性功能障碍。60%的强奸受害者在其受到性侵犯后至少三年的时间里存在性功能障碍。性虐待的气味、声音、光线、感觉或其他暗示等突然的影响会戏剧性地打断任何积极的情感和性快乐，这些症状和困难对其伴侣来说也难以理解和有效地处理。</li><li><b>其他生理及心理影响。</b>生理方面，患上性病、艾滋病、直肠阴道瘘、生育功能受损或彻底丧失、肛门撕裂或损毁等。心理方面，患上创伤后应激障碍等精神疾病，社交上难以对人建立信任，不能正常的与异性谈恋爱或结婚，受创后性格和性格的改变等。<br></li></ul><br>有以上的影响，性犯罪在司法量刑上不比人身伤害判重些就说不过去了。西方发达国家没有深受女性贞操观的影响，对于性犯罪的量刑尺度和中国相比大体上只重不轻。不受女性贞操观影响的男性受害者，他们所承受的痛苦不见得比女性轻多少。<br><br><b>约会强奸和婚内强奸，也是性侵犯。而不是一种爱的表达，或需要女性去无条件承受的性责任。</b>世界卫生组织的调查显示，全球具有情侣关系的女性中，约有30%曾经遇到由其亲密伴侣实施的身体或性暴力，有些地区这一数字会高出许多。在美国等西方发达国家把约会强奸和婚内强奸这两项纳入刑事犯罪的范畴，虽说遇到取证困难无法定罪的情况，但是确认是强奸后犯罪者会被判刑。国内对于约会强奸，至今尚未纳入中国的立法框架。司法机关对婚内强奸的执行上有分歧，对于发生的类似案情的判决，不同的法院、不同的法官给出了截然不同的判决。<br><br><b>-------------------------------------------------------------言归正题-----------------------------------------------------------------</b><br><br>之前写过一个有关强奸的回答，<a href="http://www.zhihu.com/question/22371043/answer/21161947" class="internal">强奸对女性的伤害有多大？</a>里面罗列一些关于治愈的讯息和提供援助的资源，写的时候已经看到很多人自爆经历，希望提供一些这方面的帮助。因为我清楚经历这一切之后想要痊愈是多么的难。从援助等渠道接触过不少遭受性侵犯的人，女性占绝大多数。各种形式的性骚扰差不多是每个女性都会遇到的情况。遭到猥亵、强奸未遂、强奸等较为严重的性侵犯，幼年遭遇的占多数，我遇到她们的时候大多数的人已经成年，其中部分人仍旧深受影响。不是她们自己、家人、朋友和局外人曾认为的那样，忘掉或当做被揍一顿就可以轻易走出阴霾。<br><br>遭到性侵犯，引起的各方面困扰可轻可重。取决于性侵犯的严重程度、年龄大小，有没有当即处理，是不是被周围人接纳和照顾等因素。在很多西方涉此类事情的资料上写明，所有经历过这些的人是<b>性侵犯的幸存者，</b>从一场灾难中幸存了下来，接下来是如何面对和治疗创伤。从性侵犯造成的创伤中恢复也许需要几个月、几年或更长的时间，对部分人来说是影响终身。去了解性侵犯可能造成的伤害，做些有利的事让自己从中得到恢复，哪怕只是一些小小的改善，都可以减轻现在和将来的痛苦和困扰。不要让自己成为一座孤岛，保守被侵犯的秘密倍感孤独和无助，尽量向亲友或以下提到的专业渠道寻求帮助。<br><br><b>---------</b><b>[ 性侵犯刚发生后怎么处理 ]</b><b>---------------------------------------</b><b>------------------------------</b><b>--------------------</b><br><b><br>在性侵犯当即发生后，最重要的是去一个安全的地方。</b> 无论是自己家、朋友家、或与家人在一起，暂时的安全是最重要的。<br><br>反复跟自己说，<b>发生的事情不是自己的错。</b><br><br>当确保自己感到安全，无论是否决定报警，至关重要的是先要获得<b>医疗上的帮助</b>。检查和治疗可能造成的伤害，即使是不可见的。检测传染性的性病和艾滋病毒，以及接受预防性治疗（能否获得治疗取决于当地的医疗资源）。强奸后事发72小时内服用紧急避孕药，以防意外怀孕。<br><br>还没决定好是否报警，可以先着手<b>收集和保留证据</b>。如有伤痕可以找司法部门取证，搜集DNA的证据（搜集前避免洗澡或淋浴、上厕所、换洗衣服、梳头发、清理犯罪现场或移动任何罪犯可能触及的物品）。写下所有你能记得的关于犯罪者的详细信息。如果怀疑自己被下了迷药，在医院做检查时记得要求保留尿样作为证据。物证的取证范畴可参照<a href="http://www.guokr.com/article/41538/" class=" wrap external" target="_blank" rel="nofollow noreferrer">性侵犯取证：蛛丝马迹现真相<i class="icon-external"></i></a>。<br><br><b>找信任的人陪伴。</b>减少在房间内独处的机会，孤独一人会让你感到不安。即使在他们离开时，也要确保能随时联系到他们。在他们陪伴的初期，让他们看下类似这样指南性质的资料。<a href="http://www.zhihu.com/question/21695988/answer/19107738" class="internal">关于女性被强奸之后，如何劝导？</a>陪同是长期的，至少要维持三个月，并不是一天两天可以帮到自己。陪同的人员可以更替。如果没有合适的条件，尽量通过电话、网络和外界保持联系，也可以拨打24小时危机干预热线或相关的公益热线，确保自己的情绪能恢复到平稳。<br><br>如果想清楚要去报警，再找合适的人陪你去，交流时切记让自己拿主意。无论报警与否不要自责，因为在突发状况下，人的下意识选择是为了最大程度上的自保，<b>尽量照顾自己内心的感受，不要为了别人的想法去责怪自己。</b><br><br>--------------------------------------------------------------------------------------------------------------------------------------------<br>上述提议主要针对成年人。对于未满18周岁的儿童或青少年，建议到安全的地方后第一时间告知家人，或拨打：<br><br><b>青少年维权及心理咨询热线：</b>12355<br><b>北京青少年法律援助与研究中心：</b>(86-10) 63813995/63835845<br><b>红枫妇女心理咨询服务中心：</b>(86-10) 64033383<br><b>全国妇联反家暴热线：</b>12338<br>报警尽量找人陪同前往，或拨打<strong>报警电话：</strong>110<br>--------------------------------------------------------------------------------------------------------------------------------------------<br><br><b>在这一阶段，可能会深受一些情绪的困扰，例如：</b><br><ul><li>过度的自责和自我贬低（把事件的发生归咎于自己，认为自己没价值）</li><li>破碎感（认为自己被弄脏了、损坏了）</li><li>创伤记忆的闪回<br></li><li>与创伤有关的感受随时会涌现出来（声音、气味、与人的接触、场景等都可以是触发的条件）</li><li>持续的焦虑、恐惧或忧郁</li><li>失眠或常做噩梦<br></li><li>高度警觉</li><li>容易发怒和受惊吓</li><li>不愿与人接触，减少或回避社交</li><li>有幻听、幻觉 </li><li>感觉和现实脱离，周围事物都不真切</li><li>想通过自残或自杀，来减轻或摆脱痛苦</li></ul>（最后罗列的三个症状，有幻听和幻觉、感觉和现实脱离，周围事物都不真切是需要向医疗机构寻求帮助，自残或自杀向医疗机构寻求帮助之外，第一时间告知陪护的家人或朋友，引起他们的重视，其次可拨打心理危机干预热线。）<br><br><b>这些都是精神受创所会出现的常规反应。</b>创伤可以让人产生很多问题，比如，会让人对自身和外界的评价产生一定的扭曲，自责和自我贬低，对外界的过于警惕和恐慌，意识不到这些并不是真实的情况。出现这些状况的时候，找外界的帮助和支持。<br><br><b>接下去的日子里，良好的自我护理是一种挑战，也是愈合过程的重要组成部分。</b><br><br><b>首先确保自己：</b><br><ul><li><b>规律饮食。</b>一日三餐，均衡和足量。<br></li><li><b>足够的睡眠。</b>保持每日7-10小时的睡眠时间。容易惊醒和做噩梦时，找人陪伴。不建议使用镇静剂和安眠药物，除非是很严重的失眠，经常处于惊恐中。避免使用兴奋剂，如含咖啡因的饮料和食物。<br></li><li><b>多运动。</b>如无内外伤需要恢复，坚持每周五天运动半小时以上。运动可以帮助减压，消除抑郁、焦虑等负面感受。可以考虑学习一两种防身术，来获取自卫能力和安全感。<br></li><li><b>获得医疗上的照顾。</b></li></ul>（这一部分可以做个列表，监督自己的完成进度）<br><br><b>情绪的自我护理（每个人有不同的情况，大致说下）：</b><br><ul><li><b>到专业机构做心理治疗。</b>创伤后应激障碍（PTSD）是被袭击、性侵犯后容易患上的心理疾病，尽早找专业机构做心理治疗。创伤后应激障碍分急性和慢性，急性PTSD三个月内消除可以避免成为慢性PTSD。急性短暂性的精神分裂也是强奸后可能会发作的疾病，尽早得到治疗，一个月内消除症状不会影响到今后的人生。「那些无法打败你的，会使你变得更强大。」并不总是准确的，有些心理创伤会产生严重的影响，症状可以随着时间推移而恶化，而治疗可以提供帮助和让人变得更大。</li><li><b>获取恢复方面的知识和建议。</b>首推<a href="http://www.rainn.org/" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://www.</span><span class="visible">rainn.org/</span><span class="invisible"></span><i class="icon-external"></i></a>这样的专业性较强的网站。心理治疗的疑问方面，可以看知乎心理咨询和心理医生主题下的相关提问和回答，和<a href="http://www.haodf.com/jibing/yingjizhangai.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">应激障碍，应激障碍的症状、治疗<i class="icon-external"></i></a>下的文章，找名单上的医生做网络咨询。</li><li><b>写日记。</b>记录想法和感受在博客或日记上，有助于受到攻击后管理自己的情绪。在论坛这样的网络社区公开讲述，好处是会得到部分人的支持，副作用是肯定有人会说怪话，这会造成心理上的伤害。处于性侵犯发生后不久，不建议在网上公开讲经历。</li><li><b>冥想或放松练习。</b>性侵犯后情绪不容易放松下来，做这些能有效放松情绪，例如：站着或坐着舒服，双脚平放在地板上，背部挺直。 将手叠放在你的肚脐旁的腿上。 吸气，慢慢地，深入地通过你的鼻子，让你的胃扩张时吸气。 屏住呼吸几秒钟然后呼气，让你的胃紧贴脊椎。 集中在放松你的腹部肌肉，你的呼吸。尽量保持你的身体休息放松，你的肩膀不应该上升和下降，慢慢地呼气和吸气。 在呼气结束时再做一次深呼吸，重复个三四次，能开始感到镇静的效果。可以每次做十组，早晚各做一遍。</li><li><b>转移注意力。</b>有关性侵犯的记忆会在日后闪回，可能会让人长时间或整日陷入性侵犯的回忆，和灾难性联想中不能自拔。每次陷入这种状态，除了放松练习之外做一些可以转移注意力的事情。比如，摆弄身边的小物品、整理东西、洗涤衣物和清理房间。养成习惯会起到一些帮助作用。<br></li><li><b>做一些容易完成的小事。</b>受到打击后，对外界有种失控感，对自己的能力也缺乏过去的自信。陆陆续续做一些小事，议定一些小的计划去完成，哪怕只是日常生活中对自己的照料，也能让自己重获自信和对生活的掌控感。</li></ul><b><br>社交和兴趣方面：</b><br><ul><li><u>鼓励自己与人交往，社交可以让自我感受好起来。</u>优先花时间与家人和朋友在一起，也可以找个性侵犯幸存者的支持小组。（性侵犯幸存者的支持小组国内较少见，存在的也缺乏良好的管理，如果英文不差有国外的公益渠道，可以尝试下）</li><li><u>抽出时间做自己喜欢的事，是自我保健的重要方面。</u>参与一项运动或爱好，加入与其有关的兴趣小组，在人际关系上受欢迎能帮到自己。如果有伴侣，坚持和对方约会。</li></ul>--------------------------------------------------------------------------------------------------------------------------------------------<br><br><b>可能遇到的问题：</b><br><br><b>报警</b>：<br>每个地区和具体机构处理方式和态度很不同，如果担心存在地方保护主义或犯罪者有权有势，报警前可以联系异地的公益机构、公益律师和法律咨讯机构做下法律咨询。在一些农村、城镇和小城市，报警后可能传得满城风雨，被性侵犯的事情一旦公布出来，各方施加的压力让人无法在当地正常的生存下去，可以权衡下利弊再考虑报警。<br><br>如果遭遇的是熟人性侵犯，对方有时会威胁说出去杀了你或你的家人，很可能对方有机会得手不会只性侵犯一次，而是看到你不报警不说出去就一而再，再而三的来性侵犯你。要是对方是家人或亲戚，可能其他家人知情后认为你撒谎或者要求你闭口莫言，无视你的个人安全，任凭性侵犯继续在你身上发生。出现这些情况，报警和找相关机构介入会是个好选择。<br><br>无论选择报警或不报，遵从自己的意愿。<br><br><b>案件的办理：</b><br>可能会出现判决和审理结果不理想，庭审和律师费还要照付的情况。维权是条艰辛之路，无论判断结果怎样，替自己抗争过哪怕失败了，对部分人来说心理上会好过很多。如果判决的结果符合理想，让犯罪者得到应有的惩罚，对心理的恢复有帮助作用。<br><br><b>公益援助：</b><br>和热线或公益组织的工作人员谈不来。不要放弃求助的希望，换一个热线或公益组织的工作人员或机构继续寻求帮助。<br><br><b>社交上需要警惕和注意的地方：</b><br><ul><li>如果谁让你感到疲倦或沮丧、就性侵犯经历去斥责或贬低你，请减少或回避和这些人打交道。<br></li><li>对方是家人的话，减少接触，或者不要单独与对方接触。<br></li><li>对身边的男性倾诉性侵犯的经历，可能会因此再次遭到性侵犯，要谨慎。（倾诉者在倾诉经历的时候，通常显得无助和没有办法去解决性侵犯来的伤害。倾诉的男性有邪念的话，听性侵犯的经历容易产生性联想引起性冲动，并且会认为倾诉者缺乏自我保护的能力，容易得手不说，性侵犯后也不会有报警等让他受到惩罚的自卫举动。）<br></li><li>努力给自己创造一个支持的氛围，并明确自己值得被善待和关心。</li></ul><b><br>社交上被人施压，想要摆脱这种不舒服或糟糕的情况，可以尝试：</b><br><ul><li>提醒自己，<b>发生这种情况不是你的错</b>。你没有做错什么，让你不舒服的人才是需要被责备的。<br></li><li><b>做真实的自己</b>，不要觉得有义务做你不想做任何事情。 “我不想”始终是个足够好的理由。 做你认为对和让你舒服的事。<br></li><li><b>找个贴心的，可以交流这方面感受的家人或朋友。</b>如果你感到不舒服可以给他们打电话或通过网络交流。 如果与他们同时出席的社交场合，有谁让你感到不舒服，你的家人或朋友还可以带你走，或编造借口让你离开。<br></li><li><b>说谎。</b>如果不想伤害别人的感情，编造一个理由离开比留下来感到不舒服、害怕、忧虑、甚至感觉更糟糕来的好。 你可以使用的借口，比如：有什么要紧事需要处理，你必须离开。<br></li><li><b>试想一条退路。</b>你将如何设法走出所在的房间，哪里有门和窗。是否周围有可以帮到你的人，附近有没有警察或保安。<br></li><li><b>拒绝被灌醉或喝过多的酒。</b>找借口或者直接对人说不想因为喝醉做出后悔的举动。</li></ul><br><b>心理治疗（临床心理咨询）：</b><br><br>尽管心理治疗是减轻和消除心理创伤的有效方法，可是目前国内的心理咨询行业尚在起步阶段。能操作心理治疗的医师少（部分是精神科医生，部分是资深心理咨询师）。治疗资源的分布不平均，部分地区没有这方面的医疗资源，持续治疗费用对部分个人和家庭无力承受，咨询关系上也讲究的匹配度......种种条件和因素下，真正能从专业机构和医师处获得帮助的人仍是少数。而获得帮助的这部分人，大多数是找过不同的医师尝试过多次，十里挑一才找到一位合适的医师进行治疗。很多人试了一两个就放弃了，所以开始的时候尽量找对医师和专业机构，继续下去的时候避免半途而废。<br><br>做心理治疗的医师建议找有心理治疗师资质的，比如<a href="http://www.chinacpb.org/" class=" wrap external" target="_blank" rel="nofollow noreferrer">中国心理学会临床与咨询心理学专业机构和专业人才注册系统<i class="icon-external"></i></a>下注册名录中的医师，也可以通过好大夫在线的主题<a href="http://www.haodf.com/jibing/yingjizhangai.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">应激障碍，应激障碍的症状、治疗<i class="icon-external"></i></a>寻找有心理治疗能力的医生。通过网络查找下医师的相关讯息（受训背景、从业资历和专业技能等），可以有个初步了解，然后再考虑面对面的咨询。合适不合适也要看人，双方谈得来后再考虑继续治疗。如果医师在咨询中让你觉得不舒服，相信自己的直觉换一个人来。下面的心理咨询师评估量表仅供参考。<br><br><b>心理咨询师评估量表</b><br><ol><li>和他/她相处我很自在。<br></li><li>和我相处时他/她很自在。<br></li><li>他/她比较随兴，不拘小节，不会拘泥形式、不知变通。<br></li><li>他/她不把我当病人看，不会像对精神病人那样待我，也不会觉得我要崩溃。<br></li><li>他/她很有弹性，很包容意见不同的新想法，不会特别坚持某一种观点。<br></li><li>他/她很幽默，看起来很愉快。<br></li><li>他/她愿意很我沟通他对我的想法和感觉。<br></li><li>他/她对自己不擅长的领域很诚实，不会装出一副什么都懂的样子。<br></li><li>他/她愿意承认自己的错误，也会为犯错或不够体贴而道歉，不会狡辩。<br></li><li>他/她会直接而明确地回答我的问题，而不会只是反问我怎么想。<br></li><li>他/她会谈有关他自己的事，但不会自夸，或对不相关的事情喋喋不休。<br></li><li>他/她鼓励我，希望我能觉得我跟他一样正常、一样好。<br></li><li>他/她表现出只是顾问，不会自以为是想管理和左右我的生活。<br></li><li>他/她鼓励我提出不同意见，而非一旦意见相左就说我拒绝改变。<br></li><li>他/她想要了解和我生活有交集或重要的人，至少表现出愿意如此。<br></li><li>我觉得这位咨询师说的话很有道理。<br></li><li>大体来说接触他/她后，我更能接受自己，也比较乐观了。<br></li></ol><br>评分标准：每题以0－4评分，从不＝0；很少＝1；有时＝2；大多时间＝3；总是＝4。<br>总分超过45：不错的选择；35－44：有待考虑；总分低于35：最好换一个咨询师。<br>（注：量表及评分标准皆转引自乔尔.布拉克著《谁偷了你的信任与自信》。）<br><br>需要注意的是，如果有幻觉、幻听等较为严重的症状，建议先到专科医院的精神科寻求帮助。<u>医师与来访者按医师的职业操守和准则，是不能有超出咨询关系的其他关系，不能和来访者交朋友，也不能谈恋爱或有性接触。</u>如果医师对你有暧昧举动或要求发展成情侣关系，坚决的拒绝之外换位医师。<br><br><b>几种情况下，建议不要尝试处理创伤记忆：</b><br>（心理治疗处理创伤记忆会带来较大的情绪压力，可能会让你心理上不堪重负。）<br><ul><li>没有家庭或收入</li><li>物质成瘾<br></li><li>患有精神分裂症、抑郁症、双相情感障碍或其他需要用到药物的精神疾病</li><li>自残、自杀倾向、饮食失调<br></li><li>暴力或他杀的威胁</li></ul><br><b>实在没条件进行心理治疗，简单的自我调节的方法有几种：</b><br><ul><li>认知行为疗法（CBT）软件<b>MoodGYM</b>，<a href="https://moodgym.anu.edu.au/" class=" wrap external" target="_blank" rel="nofollow noreferrer">MoodGYM: Welcome<i class="icon-external"></i></a>，目前做的较好的CBT在线程序，有中文版。认知行为疗法能在几个月的时间内帮助生活和情绪回到正常状态，但是无法处理和性侵犯有关的自责、孤独等需要靠分析治疗的情绪问题。<br></li><li>《精神创伤后的生活》，罗森·布鲁姆所著。讲了一些创伤后自我调节的办法，情绪处理上比单用认知行为疗法更全面，但是可能会引起阅读理解有误或操作不当等问题。<br></li></ul><br>需要提醒的是，无论哪种自助方式，相比心理治疗还是效果差了些，也有可能因为病况严重、理解有误和操作不当等原因起不了作用，甚至因为理解有误出现其他心理偏差。有条件还是争取找医师做心理治疗，也可以向国内外正规的公益机构获取帮助。<br><br><b>---------</b><b>[ 性侵犯发生多年后怎么处理 ]</b><b>---------------------------------------</b><b>------------------------------</b><b>----------------</b><br><br>见过很多人见过，他们遭遇的性侵犯发生在儿童或青少年时期。对于一个孩子来说，遇到这样的事不敢报警，不敢告诉父母或其他任何人，是可能出现的情况，而且并不少见。<b>学会去接纳过去的自己</b>，<u>明确一个想法：在当时自己还是个孩子，没有成人的判断和自保能力。</u>对于成年人，受惊恐之下做出的反应也会大幅度影响判断和自保能力，不要去责怪自己。没有人是可以允许被性侵犯的。<br><br>事隔多年仍就对犯罪者充满恨意，想惩罚对方。报警可能已经过了有效追溯期，也增加了取证的难度。但是如果犯罪者是持续犯罪，受害者有多名，可以设法联系其他受害者一起报警。这方面的问题，可以联系相关的法律机构和公益组织咨询。利用舆论让犯罪者名誉受损也是个办法，不过公开性侵犯的事是双刃剑，要考虑对自己及身边人的影响。不要因为一时冲动为了报复去实施犯罪行为，会把自己的一生都搭在别人所犯的错误上。<br><br><b>如果当时有损伤、出血或体内的疼痛，事后生殖或肛肠系统有异味或化脓等不适的症状，到医院做相关检查和治疗。</b>看医生时用精简的语言说清楚情况，不要有隐瞒，出于隐私保护可以用匿名的方式或去异地找正规医院检查。<br><br>性侵犯发生多年后，部分人得到恢复，部分人有残留的小症状，另一部分人可能比当即发生时病得更重。病得更重的人患有慢性PTSD、精神分裂症、抑郁症、焦虑症、恐惧症等常见的精神疾病，也会患有边缘性人格障碍等影响人格的疾病，甚至引起性向的转变。持久的感到困扰和痛苦，比如：<br><ul><li>受侵害记忆的闪回<br></li><li>持续的焦虑、恐惧或忧郁<br></li><li>感到无助</li><li>低自尊</li><li>进食障碍，厌食或暴食<br></li><li>情绪的波动较大<br></li><li>冲动行为，突然安排一项活动，或突然辞职或改变生活</li><li>睡眠障碍，失眠或常做噩梦<br></li><li>躯体症状，慢性疼痛（头部、心脏、关节、背部和盆腔等）、高血压、过敏症和压力性肠胃炎</li><li>易怒和容易受惊吓</li><li>高度警觉。感到脆弱，害怕很多东西，无法在任何地方获取安全感或感到平静。</li><li>自闭，不愿与人接触，减少或回避社交</li><li>分离性障碍</li><li>对异性/同性的排斥</li><li>性功能障碍</li><li>物质依赖，比如酗酒或药物滥用等成瘾症</li><li>自我伤害，生理或心理上的自虐或自残</li><li>自杀，有自杀的冲动或实施过自杀行为</li></ul><b>存在这些困扰，尽量寻求外界的帮助和支持，不要让自己默默地去承受痛苦。</b>这样只会让自己持续感到痛苦，不会有任何好的转变。<br><br>如果犯罪者是家人、亲属或经常来往的人，建议早日断绝来往。在情绪稳定和有能力独立生活的情况下，甚至可以脱离让你感到持续有压力、创伤感和潜在风险的环境。离开前落脚点要找好，也要确保自己接下去一阶段有稳定的收入、居住地和周边的支持。<br><br><b>在心理恢复上，起到关键性帮助作用的是专业机构提供的心理治疗。</b>上述提到的疾病和困扰，目前最好的治疗方式仍是心理治疗和时间。每个人的病况不同，如患有精神分裂症、抑郁症、双相情感障碍或其他需要用到药物的精神疾病，在药物治疗把病情控制的较为稳定后再进行心理治疗。事隔多年心理创伤治疗势必会触及创伤记忆，就像把陈旧的伤口切开再治疗一遍，会比当即进行治疗增加更多的痛苦。尽管这个治疗过程很辛苦，坚持做下去也胜过于未经治疗所承受的长期痛苦和种种困扰。因为受精神困扰多年恢复上需要较长的时间，一般要治疗个几年，对医师的要求也更高。有可能经过治疗，无法让人回到未经历过性侵犯时的良好状态，部分人也无法根治或痊愈，多看下有改善的部分，往好的方向一点点的努力。治疗需要一个不短的时期，在这期间的生活重心是如何更好的过好目前的生活。<br><br>完成<b>良好的自我护理</b>，内容和性侵犯刚发生后怎么处理中提到的差不多。兴趣爱好上建议养植物或宠物，照顾其他生命和它们互动有助于精神的恢复。社交方面，设法在生活中找一个能让自己感到暖心的小团体。如果生活中找不到，可以通过网络寻找团体的支持。<br><br><b>---------</b><b>[ 安全防范 ]---------------------</b><b>----------------------------------------------</b><b>------------------------------</b><b>----------------</b><br><br>在现在和以往去过的地方，重新思考和规划处于这些环境下怎么能安全，来确保自己的安全性或只是做一些事让自己感觉更安全。虽然不能完全避免自己免受性侵犯，做一些事可以减少被攻击的风险。<br><ul><li>确保你的手机电源充足，有坐出租车的零钱。<br></li><li>留意你的周围。了解你在哪里，谁是你身边可以帮你的人，如何找到一个方法来摆脱糟糕的情况。</li><li>当你去一个聚会，和一群朋友一起到达，也要确保晚上一起离开。如果他们喝醉或离开，确保他们和你回到安全的地方。</li><li>不要让自己与一个你不认识或不信任的人单独在一起。</li><li>不要让自己的饮料脱离视线，不要从不认识或不信任的人手里接受饮料。如果独自离开回来重新要杯饮料。</li><li>如果怀疑自己或朋友已经服用了迷药，尽快找身边信任的人、警察和保安求助，要求去医院检查。</li><li>在外或与不熟悉、不信任的人在一起，避免自己喝醉或喝太多的酒。</li><li>相信你的直觉，如果一个情况或位置让你感到不安全或不舒服，它可能不是个好的地方。</li><li>避免去一些偏远的地区，如果没有可靠的人在身边更难得到帮助。<br></li><li>有目标的行走。即使你不清楚去哪里，也要显得知道的样子。<br></li><li>外出不要背着大个的，重得能让自己趴下的包袋或行李，因为这样可以让你显得脆弱。<br></li><li>避免在外带着耳机听音乐 ，这可以让你更了解周围的环境，特别是当你独自行走的时候。</li></ul>（其他内容，可以参考<a href="http://www.rainn.org/get-information/sexual-assault-prevention/safety-plan" class=" wrap external" target="_blank" rel="nofollow noreferrer">Safety Planning<i class="icon-external"></i></a>中的建议）<br><br><b>---------</b><b>[ 婚恋及性接触 ]--------------</b><b>----------------------------------------------</b><b>------------------------------</b><b>----------------</b><br><br><b>婚恋关系</b><br>要记住，性侵犯只是一段糟糕的经历，不意味着其他。一个人不会由于性侵犯经历变得失去被爱、被尊重的价值。在婚恋上，对方因为你这段经历表示嫌弃、羞辱和有权支配你，建议果断的离开。要是对方表现的不够体贴和照顾到你的情绪，尝试着与对方沟通，把相关的建议给他看。之前转载过的<a href="http://www.zhihu.com/question/21695988/answer/19107738" class="internal">关于女性被强奸之后，如何劝导？</a>和 <a data-hash="a4b69e19aab6c110ecf6ea9b71ec26c6" href="http://www.zhihu.com/people/a4b69e19aab6c110ecf6ea9b71ec26c6" class="member_mention" data-editable="true" data-title="@李迪" data-tip="p$b$a4b69e19aab6c110ecf6ea9b71ec26c6">@李迪</a> 写的<a href="http://www.zhihu.com/question/21896050/answer/19675910" class="internal">被强暴是否应该告诉男友？</a><br><br><b>性接触</b><br>性功能障碍是个麻烦的后遗症。如果之前有过良好的性爱经历，可以在性接触上要求由你采取主动，用良好的感受来冲淡负面的，来一点点恢复对性的愉悦感。从性启蒙开始便是性侵犯，对性从来没有良好的感受，用以上说的办法之外，接受下性功能障碍方面的心理治疗。<br><br>--------------------------------------------------------------------------------------------------------------------------------------------<br><b>相关的资讯及公益资源</b><br>见「<a href="http://zhuanlan.zhihu.com/findaway/19838990" class="internal">医疗及公益方面的资源 - 寻路 - 知乎专栏</a>」性侵犯分类<br><br><br><b>参考资料：</b><br><a href="http://en.wikipedia.org/wiki/Sexual_assault" class=" wrap external" target="_blank" rel="nofollow noreferrer">Sexual assault<i class="icon-external"></i></a><br><a href="http://en.wikipedia.org/wiki/Sexual_dysfunction" class=" wrap external" target="_blank" rel="nofollow noreferrer">Sexual dysfunction<i class="icon-external"></i></a><br>《我们的性》作者：罗伯特·克鲁克斯、卡拉·鲍尔<br><a href="http://www.rainn.org/" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://www.</span><span class="visible">rainn.org/</span><span class="invisible"></span><i class="icon-external"></i></a>
+<a href="/question/22130143/answer/23075905" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="4445309-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-03-04" target="_blank" href="/question/22130143/answer/23075905">编辑于 2015-04-11</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>38 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/22130143" class="zg-link-litblue">查看全部 365 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:22130143}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="1032906">关注问题</button>
+
+4953
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="4055a09d55538f79261cb7143f6a09f3" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="李松蔚"
+data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$lisongwei" href="http://www.zhihu.com/people/lisongwei" class="zg-link" title="李松蔚">李松蔚</a></h2>
+
+<div class="zg-big-gray">普通的心理学工作者</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/lisongwei/followers" class="zg-link-gray-normal">165126 关注者</a>
+/
+<a target="_blank" href="/people/lisongwei/asks" class="zg-link-gray-normal">5 提问</a>
+/
+<a target="_blank" href="/people/lisongwei/answers" class="zg-link-gray-normal">136 回答</a>
+/
+<a target="_blank" href="/people/lisongwei" class="zg-link-gray-normal">229295 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:22130143}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/22130143/answer/23100870/collections">683</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1361367577">
+<h2 class="zm-item-title ">
+<a href="/collection/19887859">知乎精选（女生版）</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19887859/followers">37078 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1374307170">
+<h2 class="zm-item-title ">
+<a href="/collection/20546608">心理学专业</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/ma-yu-42" data-tip="p$t$ma-yu-42" class="zg-link-litblue"> 马逾 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20546608/followers">17268 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1374767142">
+<h2 class="zm-item-title ">
+<a href="/collection/20585162">关于我大心理的超赞答案XD</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20585162/followers">14377 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1415845644">
+<h2 class="zm-item-title ">
+<a href="/collection/41145332">性学相关</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/41145332/followers">11733 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1374480450">
+<h2 class="zm-item-title ">
+<a href="/collection/20557982">这也是知识</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20557982/followers">10440 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20426910">喜欢这种感觉是如何产生的？表现是什么？这些被喜欢的事物的共同点是什么？</a> <span class="num">10 个回答</span><meta itemprop="followerCount" content="46" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19596042">心理学和性有什么关系？为什么心理学的书和公开课视频里都会提到性？</a> <span class="num">22 个回答</span><meta itemprop="followerCount" content="120" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19694740">在一些网络社区里怕被现实生活中的熟人发现这是一种什么心理？</a> <span class="num">13 个回答</span><meta itemprop="followerCount" content="41" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20134923">小贩卖东西的心理学解释？</a> <span class="num">9 个回答</span><meta itemprop="followerCount" content="40" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20542872">为什么有的精神心理学类研究中，被试的排除标准包括「具有心理学背景」？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="26" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19940359">口吃是生理疾病还是心理疾病？</a> <span class="num">27 个回答</span><meta itemprop="followerCount" content="315" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20474468">病理学、生理学、病理生理学有什么联系和区别？</a> <span class="num">7 个回答</span><meta itemprop="followerCount" content="93" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19845565">看美剧《犯罪心理》的人都是什么心理？</a> <span class="num">164 个回答</span><meta itemprop="followerCount" content="911" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20263867">自嘲出于什么心理？</a> <span class="num">38 个回答</span><meta itemprop="followerCount" content="266" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19783679">心理学怎么入门？</a> <span class="num">82 个回答</span><meta itemprop="followerCount" content="5379" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-03-04</span>
+</p>
+<p>
+所属问题被浏览 <strong>1017532</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:22130143}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439298127000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":1032906,"urlToken":22130143,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0f50671d77e9fa87d6ccd7e2fc71de7.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="4b57fa8cee354b339482ea168dc65a69">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="cea11ae719c0ded428d76713ec8ddc56"/>
+</body>
+</html>

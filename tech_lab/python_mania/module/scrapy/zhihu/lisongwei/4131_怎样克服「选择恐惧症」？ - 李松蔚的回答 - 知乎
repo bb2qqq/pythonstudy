@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>怎样克服「选择恐惧症」？ - 李松蔚的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/31051763">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/20696837/answer/31051763">
+<meta id="znonce" name="znonce" content="368ef8db906c4c01a9f43eec960317d7">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/20696837" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551147"
+data-tip="t$b$19551147" data-token="19551147" data-topicid="307">
+生活
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19551432"
+data-tip="t$b$19551432" data-token="19551432" data-topicid="404">
+心理学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19630424"
+data-tip="t$b$19630424" data-token="19630424" data-topicid="26816">
+选择恐惧症
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/20696837">怎样克服「选择恐惧症」？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="459225" data-action="/question/detail">
+
+<div class="zm-editable-content">大事儿面前有犹豫很正常；<br>有人对于两件同款衬衫具体该选哪个颜色、晚饭到底吃哪家这类小事儿面前也会迟疑，磨磨蹭蹭选了半天 还是会后悔怎么没选另一个！</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>20 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="459225" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20696837" class="zg-link-litblue">查看全部 536 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="7805606"
+data-atoken="31051763"
+data-collapsed="0"
+data-created="1411713748"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-7805606"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">4131</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic3.zhimg.com/7b0114ec2_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lisongwei" href="/people/lisongwei">李松蔚</a>，<strong title="欢迎关注微信公众号: therapistlsw" class="zu-question-my-bio">欢迎关注微信公众号: therapistlsw</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="4131">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$sarin-lee" href="http://www.zhihu.com/people/sarin-lee" class="zg-link" title="Sarin Lee">Sarin Lee</a>、</span><span class="user-block"><a data-tip="p$t$young-z" href="http://www.zhihu.com/people/young-z" class="zg-link" title="Young Z">Young Z</a>、</span><span class="user-block"><a data-tip="p$t$sissi-sham" href="http://www.zhihu.com/people/sissi-sham" class="zg-link" title="sissi sham">sissi sham</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="459225" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">我现在对选择恐惧的理解是：不完全是选择恐惧给生活带来了问题，更像是生活先有了问题，才有了选择恐惧。当人们无处可去的时候，总要给自己找一个交代。譬如一个迷路的人站在岔路口：「这几个方向，我走哪一个更好？」我们当然只能问他：「你要去哪？」而他的回答是：「我怎么知道，我迷路了！」——他给了自己一个交代。但是除非你陪着他一点点地原路返回，或许可以发现究竟哪里出了问题。如果只是站在这个岔路口，试图就地找到正确的出口，永远是无解的。<br><br>选择恐惧的人找答案，就是这样一件无解的事。这方面我接触比较多的是大学生，他们都很聪明，所以选择背后的逻辑，他们一想都很清楚。于是想通过讲道理帮助他们克服这种迷惘，根本没用。在我的经验中，大部分选择恐惧的人纠结痛苦一段时间之后，都足以产生如下认识：<br>1，我明白，让我纠结不定的每个选项，都是利弊参半的，都不完美；<br>2，这就意味着并没有绝对意义上的好选择，也就没有所谓的坏选择，选哪个都不会死，我明白；<br>3，我还明白，现在我选不出哪个更好，再让我纠结一个月，我照样选不出哪个更好；<br>4，我明白，真的，我需要的不是更多的沉思、权衡和比较，我需要勇气、决断、自我担当。<br>——基本上，针对选择恐惧，能讲的道理也超不出这个范围了。但认识到这些又怎么样呢？<br><b>5，可是我特么的还是没法做出选择！！</b><br><br>于是我想起我自己的经验。我本身对于做选择是比较干净利落的，这从我小时候考试就能看出来。每次遇到两个看上去都有可能正确的选项，我的第一反应从来都是在心里快速盘算：「如果我多想一想，能想出来吗」，一旦得到「想了也是白想」这个结论，我会当机立断地随意蒙一个选项，然后立刻把注意力转到下一道题。这是壮士断腕的策略。几乎每次考试，我都第一个交卷。<br>当时我有一个朋友很羡慕我的效率。他每次都会在这种模糊不定的选项上耗费过多的时间。放到今天，他大概就是「选择恐惧症」患者，但当时还没有这样的名词。为了帮他提升做题速度，我苦口婆心地给他讲道理——这个道理很容易讲，对吧？可是他用一句话，轻轻把我顶了回来：<br>「废话，你错得起，我错得起吗。」<br>——我竟无言以对。现在回头去看，他那句话揭示了一个冰冷的真相：我之所以那么果决，并不是因为我在「决断力」之类的属性上分配过更多的技能点（事实上也并没有那种属性），仅仅是因为我成绩好。我心里有把握，知道其它题我答得不错。所以就算错个把两个选择题，也无关大局。就算不是第一，也能排进前五。这样，我就不需要靠一两道题的正误来为我的整体成绩负责。<br>如果他在其它题目上没有遇到问题，要让他放弃这一两道题也会轻松很多。<br>但是当时我还只是似懂非懂，我试图跟他辩论：「可是你反正也不知道怎么选才是对的啊，你纠结半天也没有任何价值啊，你费半天劲选的答案跟随机选一个没有本质区别啊……」<br>对，我说的都对。无法反驳。但我并没有理解他。<br><br>问题跟这一两道题的选择关系不大。问题在于这一两道题之外。<br><br>说回到生活中的选择恐惧。我们有一个幻想：<br><b>仿佛这个选择对我们的生活是至关重要的，重要到足以掩蔽其它一切不满足</b>。<br>幻想的功能，永远是为了掩蔽现实中的不满足。就好像我的那位朋友，在一两道题上反复较劲，用以逃避他因为学习成绩而产生的挫败和无助。回头看我们曾经为某个选择百转千回的关口，假如隔得足够久远，看得足够清晰，我们总可以发现在那个时间点，生活中确有一些具体且巨大的缺失存在。我们很难用更直接的方式处理这些缺失，甚至不敢直面那种痛苦，譬如前面说的迷路之人，在岔路口反复绕圈，是在幻想其中可以有一条路，径直将他带向目的地。——但他怎么可能知道是那一条路呢？于是只好止步不前，卡在路口。而更深层次的动力，<b>在于他可以借着这种迷惘，忘掉自己早就已经迷路的事实</b>。「我还好，我的未来也还好，只是在这个路口遇到一点问题。」生活中除此之外仿佛再没有其它大事。这种令人疲倦的徘徊往复，对他来说反倒成了一次特别的喘息。<br>一个成绩优秀的大学生，选不定毕业后的去向，他反复跟人讨论，怎样才有更光明的前途？他意识不到内心深处对于毕业的恐惧：「我一直用来维持自信的东西将会一钱不值，我会被扔到一个高度竞争的环境，无法再保持高高在上的形象，我也会面临很多的挫折，说不定我会一蹶不振……」不行！他不要接受这部分痛苦，所以他的想法就是：一切问题都是我不知道该出国还是工作。<br>另一个大学生则在辗转反侧该换肾6还是肾6大，他已经纠结了好几天：「小屏有小屏的好，大屏有大屏的好……」而他本该用这几天写论文，本该品味写不好论文时的挫败和焦虑。<br>一个女人在购物的时候陷入纠结，不知道该买黄色的长裙还是蓝色的短裙更美，她试试这件，摸摸那条，花了一个钟头也拿不定主意。她的幻想也许是，选对一条裙子，她的生活就会变得更好一些。自己也许会因此大受欢迎，男人赞美，女人嫉妒，她就不用再去面对自己缺爱的事实。<br>另一个女人在相亲时挑选不定：这个家世很好，但跟我没有共同语言；那个很有趣，但没有房子也没有车；第三个什么都有，但婆婆好像很难相处，选哪个选哪个！……她知道经营一段感情很难，也许超出了她的能力范围。她幻想做出正确的选择，就可以一劳永逸地绕开所有的难关。<br><br>现在，面临未来的工作方向，我也正在选择恐惧中。也开始产生各种幻想和忧惧，试图以此来逃避我生活中的真实困难。我知道这种想法是有危险的。但我终于开始理解当初那个朋友了。<br>「废话，你错得起，我错得起吗。」<br>「你为什么错不起？」<br>「因为我成绩不好啊！」<br>其实要解决这个问题，有一句对症下药的话，虽然说出来未免太残忍：<br><b>——你以为你光是那道题选对了，就能好吗？</b><br><br>现在，你知道自己该从哪里着手了。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="7805606-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-09-26" target="_blank" href="/question/20696837/answer/31051763">编辑于 2014-09-26</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>296 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="1581686"
+data-atoken="16130354"
+data-collapsed="False"
+data-created="1360560356"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1014">1014</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1014</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$guan-yi-89" href="/people/guan-yi-89">关毅</a>，<strong title="人类行为很多时候不过是神经调节+体液调节，舍此空谈心理学都是耍流氓" class="zu-question-my-bio">人类行为很多时候不过是神经调节+体液调…</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1014">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$mei-lin-64-44" href="http://www.zhihu.com/people/mei-lin-64-44" class="zg-link" title="眉林">眉林</a>、</span><span class="user-block"><a data-tip="p$t$liao-chuan-2" href="http://www.zhihu.com/people/liao-chuan-2" class="zg-link" title="张颐">张颐</a>、</span><span class="user-block"><a data-tip="p$t$dimpurr" href="http://www.zhihu.com/people/dimpurr" class="zg-link" title="Cheny Dimpurr">Cheny Dimpurr</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="459225" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">《暗时间》<a href="http://book.douban.com/subject/6709809/" class=" wrap external" target="_blank" rel="nofollow noreferrer">暗时间 (豆瓣)<i class="icon-external"></i></a>中有这样一段话：“有人会因为无法作出决定就推迟决定，然而实际上推迟决定恰恰是最差的决定，在推迟决定期间，时间悄悄流逝，你却没有任何一条路上的积累，白白浪费了时间。如果你有一些钱不知道花在A还是B上，你先不作决定，没问题，因为钱还是你的，但如果你有一些时间，不知道花在A上还是B上，不行，因为过了这段时间，这段时间就不是你的了。”<br><br>很多决定确实会影响你的一生，但这样机会人的一生中平均也就七八次，如果你时时都有这个念头，是不是有些多了呢？很多时候都只是瞎担心罢了，但最坏的打算恰恰是犹豫不决，因为往往你几个不同的决定是意味着将来不同的道路，但是其实每条路都是光明的。 比如说林书豪，就算他不决定进NBA，他可能完成哈佛经济学的学业，成为一名成功的经济学家；如果贝索斯不创立亚马逊，继续做他的对冲基金，也许很多年后他也会能成为第二个索罗斯。<br><br>在《从优秀到卓越中》有个飞轮开门的例子，就是无论你是顺时针转动飞轮还是逆时针转动都能将门打开，但一定要坚持，如果你时而顺时针，时而逆时针，那就无论如何都打不开。所以，贵在坚持，如果你认准了一个选择，就毫不犹豫地坚持下去。<br><br><b>每个人对选择多少都会有些恐惧，因为选择意味着放弃其中的若干选项，而失去的感觉（即使那是个垃圾）总是让人讨厌的。</b>这在营销中叫作购后失调，就是你买了A商品后，会认为B商品更好；反之买了B商品亦然。负性偏差是每个人都难以避免的，也是人类长期进化出来的心理，人对失去的担心远远大过得到的快乐，因为一次没有发现天敌就会让你丧命，而错过食物顶多饿两个小时肚子。 （具体可见2002年诺贝尔经济学奖得主卡尼曼的“前景理论”<a href="http://baike.baidu.com/view/1205091.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">前景理论_百度百科<i class="icon-external"></i></a>）<br><br><u><b>最后，如果一直处于犹豫状态，就会变成布里丹之驴，徘徊在两边的草之间，因为想要两者兼得，最后难逃两者都得不到而饿死的悲惨命运。</b></u><b><u><a href="http://baike.baidu.com/view/812638.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">布里丹毛驴效应<i class="icon-external"></i></a></u></b><br><br><br><b><u>如果已经到了“恐惧症‘的地步，建议最好还是去看心理医生。</u></b>不过就像刚才说的，当你已意识到选择迟疑的危害时，你实际上已经对自己部分使用了认知疗法，这最少是个好的开始，虽然这与专业治疗的认知疗法相比微乎其微。
+<a href="/question/20696837/answer/16130354" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="1581686-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-02-11" target="_blank" href="/question/20696837/answer/16130354">编辑于 2014-10-11</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>30 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7172579"
+data-atoken="29472728"
+data-collapsed="False"
+data-created="1408548032"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="355">355</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">355</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhang-zhi-feng-84" href="/people/zhang-zhi-feng-84">张智丰</a>，<strong title="提供北京本地和远程心理咨询" class="zu-question-my-bio">提供北京本地和远程心理咨询</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="355">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$dindin-mao" href="http://www.zhihu.com/people/dindin-mao" class="zg-link" title="dindin mao">dindin mao</a>、</span><span class="user-block"><a data-tip="p$t$xiao-xiao-64-62-46" href="http://www.zhihu.com/people/xiao-xiao-64-62-46" class="zg-link" title="小小">小小</a>、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="459225" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"><p>很多人选择恐惧，是因为他们极其清醒甚至夸张地意识到选错的危险性，但对如何正确选择却毫无章法。就好像明白水会淹死人（也不是所有水都会淹死人，其实。。），但对如何学习在水中漂浮一无所知，因此当务之急是，学习如何做出选择，就想学习在水中漂浮一样：学习规律和章法，并在“浅池子”里多多练习。</p><br><p>想要做出明智的选择，首要的就是，清楚自己需要什么。这一点往往是选择恐惧的人不擅长的。他们经常面对选择的时候感到这个也好，那个也不错，或者这个有这个的问题，那个也有那个的缺陷，总没有一个完美的解决方案。<u>但世界上哪儿有万无一失的完美选项呢，我们只要选择适合自己当前目标的即可</u>。</p><br><p>但让人抓狂的经常是，选择恐惧的人不了解自己的需要，对自己此时此刻最需要什么，什么是最适合自己的，感到迷惑，或者迷糊。认识自己，认识自己的需要，知道如何取悦自己，小到穿衣吃饭，大到寻找人生伴侣，职业目标。这样才能顺畅选择。</p><br><p>在了解了自己的需要后，要为自己的选择提供一个可参照的标准，订立最重要的优先级，订立几条牢不可破的安全底线，一般不会选错的太离谱。</p><br><p>比如，想买一件衣服，。最看重这件衣服的那些方面，1、2、3排个序，比如自己最看重的是性价比、用途（职业装而非休闲装），舒适感，最不能接受的点是某些颜色。选择前确定最看重的东西，以及自己可接受的底线。触到底线直接pass，在底线以上的，按优先级排序，选择优先级分数最高的选项。</p><br><p>原则是这个原则，但对选择有恐惧的人来讲，光有原则不够，还得练习。从小事开始练习。选择恐惧的人担心失败，担心后悔。<u>但多选几次就会明白，选错了也没啥大不了，谁都有后悔的时候，有跌进沟里的时候，此时不必纠结和矫情，总结经验下次接着选就是了。不断地试错，也是认识自己需要的过程。</u>独立做决策，就像摸着石头过河，谁都有点惴惴，做多了就皮实了。</p><br><p>先从小事练习，积累经验。小事练好了，找到规律了，可以尝试做大点的决策。其实这个过程在小时候就发生了，如果家长给孩子试错和总结经验的机会和体验，允许孩子走弯路，孩子就会积累经验，长大了也能独立自主地做出靠谱的选择。要是小时候做选择大多由家长包办，很少自己蹒跚学步，那很遗憾，你长大了估计确实容易不敢做选择。</p><br><p>不过没关系，想要练习，从来都不算晚。实在太迷糊太纠结了，可以找心理咨询师聊聊，咨询师会启发你逐步认识自我的真实需要，练习上述试错过程，补上小时候没有完成的那一课。</p>
+<a href="/question/20696837/answer/29472728" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7172579-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-08-20" target="_blank" href="/question/20696837/answer/29472728">编辑于 2014-08-21</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>66 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20696837" class="zg-link-litblue">查看全部 536 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:20696837}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="459225">关注问题</button>
+
+9875
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="4055a09d55538f79261cb7143f6a09f3" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="李松蔚"
+data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$lisongwei" href="http://www.zhihu.com/people/lisongwei" class="zg-link" title="李松蔚">李松蔚</a></h2>
+
+<div class="zg-big-gray">普通的心理学工作者</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/lisongwei/followers" class="zg-link-gray-normal">165267 关注者</a>
+/
+<a target="_blank" href="/people/lisongwei/asks" class="zg-link-gray-normal">5 提问</a>
+/
+<a target="_blank" href="/people/lisongwei/answers" class="zg-link-gray-normal">136 回答</a>
+/
+<a target="_blank" href="/people/lisongwei" class="zg-link-gray-normal">229453 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:20696837}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/20696837/answer/31051763/collections">4588</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1362968593">
+<h2 class="zm-item-title ">
+<a href="/collection/19928423">赞同超过1000的回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19928423/followers">51309 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1350186771">
+<h2 class="zm-item-title ">
+<a href="/collection/19721931">我想努力变得更好</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19721931/followers">45411 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1369729534">
+<h2 class="zm-item-title ">
+<a href="/collection/20257299">值得反复看的干货</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhen-zi-wei-jue" data-tip="p$t$zhen-zi-wei-jue" class="zg-link-litblue"> 榛子味觉 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20257299/followers">15269 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1370244299">
+<h2 class="zm-item-title ">
+<a href="/collection/20288797">情商与做人</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/Etisoppo" data-tip="p$t$Etisoppo" class="zg-link-litblue"> Etisoppo </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20288797/followers">10022 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1340507672">
+<h2 class="zm-item-title ">
+<a href="/collection/19647592">需要掌握的能力</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19647592/followers">9210 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19943712">如何克服 presentation 恐惧症？</a> <span class="num">100 个回答</span><meta itemprop="followerCount" content="5845" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19683263">如何克服社交恐惧症？</a> <span class="num">85 个回答</span><meta itemprop="followerCount" content="3614" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19966793">如何克服幽闭恐惧症？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="46" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19909812">怎样克服社交恐惧？</a> <span class="num">63 个回答</span><meta itemprop="followerCount" content="2704" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19763558">如何克服人际交往恐惧症？</a> <span class="num">11 个回答</span><meta itemprop="followerCount" content="653" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20670742">如何克服厌学症？</a> <span class="num">7 个回答</span><meta itemprop="followerCount" content="73" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19667148">如何克服恐高症？</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="46" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20525246">那些奇怪的恐惧症是怎么形成的？</a> <span class="num">20 个回答</span><meta itemprop="followerCount" content="253" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20367785">如何克服对未来的恐惧？</a> <span class="num">17 个回答</span><meta itemprop="followerCount" content="127" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19772219">什么是精神恐惧症（Dementophobia）？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="12" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-09-26</span>
+</p>
+<p>
+所属问题被浏览 <strong>374005</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:20696837}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+
+
+
+
+
+
+
+<div class="wechat-share-tip"></div>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439362001000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":459225,"urlToken":20696837,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="368ef8db906c4c01a9f43eec960317d7">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="bdd6a223fc3de267f5de02c8da0067b2"/>
+</body>
+</html>

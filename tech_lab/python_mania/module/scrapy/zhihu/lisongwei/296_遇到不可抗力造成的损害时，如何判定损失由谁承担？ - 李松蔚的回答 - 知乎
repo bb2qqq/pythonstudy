@@ -1,0 +1,1072 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>遇到不可抗力造成的损害时，如何判定损失由谁承担？ - 李松蔚的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/50680703">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/31096148/answer/50680703">
+<meta id="znonce" name="znonce" content="901beac86f8341d78e1818e8def31fd7">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/e827b73d8f25a233cbeeeb9421baeddb.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/31096148" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19550874"
+data-tip="t$b$19550874" data-token="19550874" data-topicid="215">
+法律
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19551432"
+data-tip="t$b$19551432" data-token="19551432" data-topicid="404">
+心理学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19553727"
+data-tip="t$b$19553727" data-token="19553727" data-topicid="1169">
+韩国
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19560585"
+data-tip="t$b$19560585" data-token="19560585" data-topicid="3462">
+自助游
+</a>
+
+<a class="zm-item-tag"
+href="/topic/20018446"
+data-tip="t$b$20018446" data-token="20018446" data-topicid="158168">
+中东呼吸综合征（MERS）
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/31096148">遇到不可抗力造成的损害时，如何判定损失由谁承担？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="4621044" data-action="/question/detail">
+
+<div class="zm-editable-content">由于 MERS （中东疾病综合症）病情的蔓延，微博上很多已经预定了韩国旅行的乘客正在大批量抗议，要求携程、去哪儿、来来会、发现旅行、凯撒等旅游平台退款。<br><br>为了消费者的生命安全，发现旅行、凯撒、来来会等几个旅游平台主动站出来承诺全额退款，在有担当的同时，也给企业带来了 17 万（发现旅行）到  1000 万（来来会）的损失。携程、去哪儿至今均未表态。<br><br>但其实，这次疫情在国际上尚未达到『官方禁止出入境』的级别，所以法律上并未形成真正的『不可抗力』。网站如果给消费者退款，造成的金钱损失是网站全额承担。所以这些网站也并非有义务给消费者全额退款，而是出于责任心替消费者和政府担当了这部分损失。<br><br>在生活上，这种无法判断责任方的情况也有很多。天灾人祸时，每个人都觉得别人应该担起责任。遇到这种情况时，到底如何判定损失该由谁承担呢？</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>1 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="4621044" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/31096148" class="zg-link-litblue">查看全部 16 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="15672725"
+data-atoken="50680703"
+data-collapsed="0"
+data-created="1433830111"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-15672725"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">296</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic3.zhimg.com/7b0114ec2_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lisongwei" href="/people/lisongwei">李松蔚</a>，<strong title="欢迎关注微信公众号：therapistlsw" class="zu-question-my-bio">欢迎关注微信公众号：therapistlsw</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="296">
+
+<span class="voters">
+<span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$bian-shi-mei" href="http://www.zhihu.com/people/bian-shi-mei" class="zg-link" title="卞世梅">卞世梅</a>、</span><span class="user-block"><a data-tip="p$t$li-wei-si-72" href="http://www.zhihu.com/people/li-wei-si-72" class="zg-link" title="李维斯">李维斯</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="4621044" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><p>谢邀。最近正好身陷不可抗力，深感无力。说说我的想法。</p><p>有人说靠合同。问题是不可抗力多得很，合同解决不完。我早上买个煎饼，发现钱包不见了，这也是不可抗力。摊主从我手里把煎饼收回，我一点脾气没有。具体到韩国这事，也不是所有平台都退款。我一个朋友在某网站订的自由行，正为这事扯皮呢。人家不退款确实也有不退的道理。</p><br><p>但我想扯开一点话题，先说我比较熟悉的领域：</p><p>有一些精神分析师讨论过这么一个情境：如果你和来访者约定了时间见面，你按时出了门，不幸遇到了不可抗力——比如，交通事故——没有按时赶到，让来访者在诊室里白白等候了一个时段，你还会让来访者交钱吗？</p><p>答案似乎很显然：来访者不需要为此付费，毕竟他没有得到应得的服务。何况他浪费了不少时间，还应该获得一点补偿，起码是口头道歉？反正，当我因为不可抗力失约时，我是要道歉的。</p><p>尽管持这一观点的人占绝大多数，仍然有少数精神分析师坚持：可以在设置中规定，来访者需要为这种情况支付费用。听起来真的是很混蛋。</p><p>这意思仿佛是说：「<b>反正你要为咨询买单，你就顺便为不可抗力买单吧。</b>」</p><br><p>这种混蛋的主张也不是毫无道理。让我们考虑这样一件事：来访者用了诊室，这个诊室是有场租的。正常情况下，来访者付咨询费给咨询师，咨询师付场租给诊室（当然，诊室老板可能就是咨询师本人，但逻辑关系不变）。多了诊室这个角色之后，问题变得复杂了：诊室应该收取场租吗？</p><p>似乎没理由让它蒙受这个损失。它毕竟在这个时段被使用了。</p><p>然而，它应该获得的场租收入从哪里来呢？如果来访者不必为这个时段付费，那只好咨询师自己掏腰包。不管是来访者还是咨询师，付这笔钱其实都很冤枉。在极端的情况下，我们假设咨询师不挣钱，来访者支付的咨询费全部都用于场租（有一些实习咨询师确实如此）。那就等于，咨询师因为不可抗力未能提供服务，但他还必须倒贴，用来补贴场地和管理成本。这好像也很不合理。</p><br><p>所以我们总会有道理，用来证明「某一方不承担损失是合理的」。对于损失的补偿，我们大致会遵循这样一个逻辑：<b>谁有责任，谁买单</b>。这里的「责任」，直观来说，就是犯了错的那一方。两人打架，往往是谁先动手谁挨批；汽车追尾，就让后面那辆车赔偿。两口子闹离婚，一方出轨，另一方就大占上风。——都是找得出责任人的例子。上面的情况，如果是咨询师粗心，把时间给记错了，那就没得说：赔吧！咱是过错方。但是说到不可抗力，这办法就不好使了。不可抗力的意思就是：<b>谁都没有责任</b>。这个损失是天灾，是意外，是命。</p><p>「我什么都没有做错，凭什么让我来承担损失？」</p><p>这话听起来，好像也合情合理。但是如果双方或多方都没错，就很麻烦。说回到MERS病毒的事，游客想退团，这显然不是游客的错，但是从平台这边来看，他们的理由也说得过去：这确实就是游客单方面违约，机票和酒店成本我们都付了，为什么由我们承担损失？我们也没做错什么啊。</p><p>所以契约建立得再完善，仍然会有照顾不到的灰色地带。不同的平台可以有不同的做法，这都无可指摘。在游客看来，平台家大业大，出了事有所担当应该是你们份内的义务，没什么了不起。但像损失最惨重的「来来会」，1000万，也绝不是一笔小数目。换到精神分析师的例子，就该破产了。</p><p>他们也没有责任，凭什么要花这么大的代价来买单呢？</p><br><p>其实，「谁有责任，谁买单」这种观念不过是一句美好的祝福，隐含的实质是「我没犯错，就无须承受损失」。这句话听上去很安全，可惜是彻头彻尾的梦幻泡影，没有丝毫成立的依据。没犯错，就真的不必承担损失么？那么沉船算怎么回事？地震算怎么回事？火灾算怎么回事？航班延误算怎么回事？无辜的受害者压根连一点错也没犯，就被莫名其妙地卷入乱七八糟的不可抗力中，搭时间，搭钱，有时连命也搭进去，这种混蛋事每时每刻都在我们身边发生。</p><p>遇到不可抗力造成的损失，我们的第一反应往往是寻找责任人：「他妈的，这事该怪谁？」亲近的人，甚至会有不合情理的内疚，生拉硬拽也非要把悲剧跟自己扯上点关系。沉船事故后，遇难者家属哭诉：「当初我要是劝爸妈不要参加这个团，就不会出事了！」平心而论，这想法完全没道理。但是这么想的背后，实际上是为了重新找回控制感：「一定是有人犯了错！怎么可能没人犯错？」换句话说：「只要不犯错，世界就还是可控的。」才能重新塑造安全感：「世界是可控的，我才可以跟它相安无事。」所以，我们要想生活更平稳一些，就需要替罪羊：「不是世界不可控，而是有人没做好。」像我那位朋友，满心欢喜盼着去韩国，一盆冷水浇下来，拒不退款的平台就成了替罪羊。</p><br><p>然而，这样的教训也自有其价值。就像那些严厉的，少数派的精神分析师，用「只要是不可抗力就该你来买单」的设置，传递了一个态度：世界就是这样一个蛮不讲理的臭流氓，你分明一点没做错，但是啪！事情就撞上门来了。你无力抵抗，防不胜防，只好表达无奈的愤怒：</p><p>滚你大爷的，这蛮不讲理的世界！滚你大爷的，蛮不讲理的MERS！还有这蛮不讲理的沉船和漫天灾难！我带着老婆出了城，吃着火锅唱着歌……</p><p>骂归骂，我还是得掏钱，买单——就是这么无奈。</p><br><p>不可抗力让我们正视人类的脆弱。而脆弱又催生出另一种坚强。</p><p>在这种时刻，人类最大的法宝就是联结。「没有人是一座孤岛」。聚到一起，让苦痛者略觉安慰，让绝望者不至于孤立无援。而我们施以援手的方式，常常是：「来，我知道这世界很操蛋，我愿意替你分担一部分的损失。」</p><p>不应把这看作一种责任，或是契约限定的义务，而是作为人类的一份子，在面对不可抗力时最本能的善意和共鸣。所以对精神分析师的那个问题，我现在的回答仍然是：我不需要来访者付费。即使是来访者一方因为不可抗力而临时失约，我也不需要他付费。我这么做，传递的信息并非「承担这部分损失是我的义务」，而是「<b>我自愿承担这部分损失</b>」，由此为咨询关系注入了一分弹性。</p><p>不可抗力无可抵御，就只能靠弹性稍加化解。我经历过多次航班延误，几乎每次都是冷冰冰的机内广播，只有一次，有一位空姐面红耳赤地向乘客鞠躬。机舱里沸反盈天的怨言立刻降了温。我们何尝不知道，延误并非她的错呢？我们只是希望多一个人站在我们这边，而不是作不可抗力的代言。</p>
+
+人与人的联结织成线，再编成网，最终构筑成一层有弹性的屏障。共同参与到屏障中的，有「来来会」等旅游平台上千万的退款，有灾害后举国募捐的善款，有湖北监利「坚决不收外地人钱」的民间约定，有空姐的一低头，有我要完煎饼发现钱包不见时，摊主的一句「拿着吃」。我们无法控制不可抗力，但我们多少可以控制自己。这是人性中最可贵的一面。面对不可抗力，没有人有责任，这只能称为「正确」。然而无数个没错的人站到一起，默契地相互支持和分担，这就足以称为「高尚」。是人性在不可抗力之下，明知不可抗的对抗。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="15672725-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-06-09" target="_blank" href="/question/31096148/answer/50680703">编辑于 2015-06-09</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>56 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="15729383"
+data-atoken="50821612"
+data-collapsed="False"
+data-created="1433918389"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="16">16</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">16</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$qiu-jie-23-50-75" href="/people/qiu-jie-23-50-75">求解</a>，<strong title="信仰圣光，谨守戒律，持握战槌，执掌正义" class="zu-question-my-bio">信仰圣光，谨守戒律，持握战槌，执掌正义</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="16">
+
+<span class="voters">
+<span class="user-block">知乎用户、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$amberkaka" href="http://www.zhihu.com/people/amberkaka" class="zg-link" title="张三">张三</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="4621044" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">谢 <a data-hash="ec88de797104de9701ce5348e078e80c" href="http://www.zhihu.com/people/ec88de797104de9701ce5348e078e80c" class="member_mention" data-editable="true" data-title="@代静" data-tip="p$b$ec88de797104de9701ce5348e078e80c">@代静</a>邀。<br><br>这是一个蛮有技术含量的问题，如果单纯从司法实践来答，倒也简单：<b>法官倾向于判决遭受不可抗力的违约者不承担责任。</b>但为什么呢？<br><br>传统理论认为：免除遭受不可抗力一方当事人的违约责任是理所当然的，这么做合乎公平，体现诚信，并能与过错责任与意思自治原则保持协调。但经过细致分析就会发现,种种理由很难成立,许多见解是直觉性的、甚至是情绪化的。<br><br><blockquote><u>误识一,不可抗力的免责条款可以与民法上的过错责任原则相协调。因不可抗力而导致的违约,当事人没有过错,所以应当免除他的违约责任。</u><br><br>如果说法律规定不可抗力的免责条款可以与过错责任相协调,那么将违约损失转移到被违约方则恰恰又与过错责任相抵触,因为被违约方同样“没有过错”,甚至“更加没有过错”。实际上,在双方当事人均无过错的情况下,将是否有过错作为归责的依据就没有任何意义。<br><br><br><u>误识二,如果当事人事先预见到不可抗力的发生就不会签订合同,所以不可抗力的免责条款是在还原当事人意图的基础上尊重当事人的意思自治。</u><br><br>德国民法学界一般把不可抗力免责视为合同的默示条款、或认为是当事人签订合同的前提、或认为是当事人法律行为的基础,其见解是,如果当事人事先预见到不可抗力的发生就不会签订合同。这种见解的错误之处在于忽略了“事先”与“事后”的界限,“事先”与“事后”具有经济学意义上的明确界限。比如,有人自愿参加了一次没有欺诈和胁迫的抽彩活动,却没有中彩,他不能以“如果事先知道这个结果就不会参加抽彩”为由来指责这次抽彩不公平。他“事先”的确不知道输的结果,但他却很清楚输的风险。遭受不可抗力的当事人也同样如此,不可抗力最终发生了的结果对他来说的确是“不可预见”的,但这并不意味着不可抗力的风险也是“不可预见”的。<br><br><u>误识三,不可抗力的发生使履行契约在实际上不可能,并且不可抗力给违约方造成的损失比给被违约方造成的损失更大,免责条款可以平衡当事人双方的利益差距,这也符合民法上的诚信原则。</u><br><br>一般说来,不可抗力会给违约方造成很大的损失,如果不免除他的违约责任,的确会使他的境况雪上加霜,但怜悯和同情毕竟不能取代严格的分析。</blockquote><br><br><p>法经济学为我们提供了另外一个思路：<b>“由以较低成本为不可抗力提供保险的一方当事人来承担违约损失”。</b></p><br><br><blockquote>按照法经济学的观点，不可抗力一旦发生，其所造成的损失就已经沉淀，经济学家不关注已经沉淀的损失，而是试图通过合理的制度安排来减轻未来的损失。正因为如此，法经济学将法律视为一种对社会有益的激励系统。将违约损失分配给成本较低的保险人，会给社会创造一种恰当的激励———使当事人以较低成本减轻不可抗力的损失，这一规则显然具有降低社会总成本的作用，还可以被理解为对当事人意图的一种合理重建。如果当事人愿意在合同中对风险分配作出约定，那我们就可以断定，他们肯定会将风险分配给报价较低的当事人，因为这么做符合当事人双方的共同利益。仍然需要强调的是，无论哪方当事人承担风险，对方都要为此支付保险费，<u>保险费可能隐含在价格条款或其他条款之中。</u></blockquote><p>一般来说，经济实力更强大、在商业往来中有更多机会承受类似风险或对不可抗力拥有信息优势的一方当事人往往是成本较低的保险人。<b>在</b><b>MERS </b><b>病情该案例中法官就有理由免除旅游者的违约责任，因为旅游公司更可能是成本较低的保险人。</b>旅游公司可以从其他旅游线路继续获取利润，不可能所有的旅游线路在同一试卷都遭受病情影响。即，旅游公司更有条件将一份合同的违约损失分摊到其他多次安全交易的收益中。旅行、凯撒、来来会等几个旅游平台主动站出来承诺全额退款，也符合这样的一个逻辑。</p><br><blockquote>但这种思路的主要问题在于：对当事人双方的保险成本进行比较，对于法官来说是一个非常复杂的工作，有时甚至是一个巨大的智识挑战，司法过程因此需要支付高昂的信息费用。在缺乏严格数据或可靠资料的情况下，法官必然会利用一些道听途说或者干脆凭借自己的直觉。如果法官的判决被掺杂进太多的主观因素，司法过程就会变得相当不确定。不仅如此，不可抗力发生之后，如果双方当事人都能根据法律比较准确地预测判决结果，诉讼多半就不会发生，因为知道没有胜诉希望的一方当事人是不会愿意去打一场徒劳无益的官司。但在经济学原则支配案件判决的情况下，结果却是难以预测的，这就必然引起诉讼数量的增加，并因此导致整个社会诉讼资源的大量支出。<br></blockquote><br><p>公平的含义在很大程度上则是由主流的公众意见来界定的，而绝大多数人认为免责是理所当然的，相比之下经济分析的作用则是边缘性的。对于难以进行经济学原则进行判断的案件中，<b>法官</b><b>判决遭受不可抗力的违约者不承担责任显然是一个更加容易做的选择。</b></p><br><p>参考文献：《不可抗力的法经济学思考》——桑本谦</p>
+<a href="/question/31096148/answer/50821612" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="15729383-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-06-10" target="_blank" href="/question/31096148/answer/50821612">编辑于 2015-06-10</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>2 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="15651494"
+data-atoken="50627923"
+data-collapsed="False"
+data-created="1433802407"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="13">13</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">13</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$huo-sir" href="/people/huo-sir">霍sir</a>，<strong title="我是一只目不识丁的法盲，请慎邀" class="zu-question-my-bio">我是一只目不识丁的法盲，请慎邀</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="13">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$chen-lin-94-95" href="http://www.zhihu.com/people/chen-lin-94-95" class="zg-link" title="陈lin">陈lin</a>、</span><span class="user-block"><a data-tip="p$t$wang-wei-lin-1" href="http://www.zhihu.com/people/wang-wei-lin-1" class="zg-link" title="王伟麟">王伟麟</a>、</span><span class="user-block"><a data-tip="p$t$mu-mu-68-3-18" href="http://www.zhihu.com/people/mu-mu-68-3-18" class="zg-link" title="mu mu">mu mu</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="4621044" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">泻药。<br>我个人觉得，这不是不可抗力，而是情势变更，不可抗力是客观上不具可履行性，鉴于韩国方面尚未因此病做出封锁国边境禁止出入境，所以客观上来说合同仍可以履行，只是如果继续履行可能会给一方带来损失等而失去了公平性，所以不再履行。<br>不可抗力是违约责任的免责条件之一，当然也会导致合同的解除，是比较客观的存在；情势变更，经双方协商或者起诉、仲裁，也可以解除合同。<br>不可抗力和情势变更，我认为双方都没有过错（排除先迟延履行才遭遇不可抗力、情势变更发生的情况），因此在团费等费用的退还上，应该扣除合理、必要的开支后，退还对方。<br>（民商事法律较渣，错了的话请轻喷）
+<a href="/question/31096148/answer/50627923" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="15651494-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-06-09" target="_blank" href="/question/31096148/answer/50627923">编辑于 2015-06-09</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/31096148" class="zg-link-litblue">查看全部 16 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:31096148}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="4621044">关注问题</button>
+
+231
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="4055a09d55538f79261cb7143f6a09f3" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="李松蔚"
+data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$lisongwei" href="http://www.zhihu.com/people/lisongwei" class="zg-link" title="李松蔚">李松蔚</a></h2>
+
+<div class="zg-big-gray">普通的心理学工作者</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/lisongwei/followers" class="zg-link-gray-normal">165038 关注者</a>
+/
+<a target="_blank" href="/people/lisongwei/asks" class="zg-link-gray-normal">5 提问</a>
+/
+<a target="_blank" href="/people/lisongwei/answers" class="zg-link-gray-normal">136 回答</a>
+/
+<a target="_blank" href="/people/lisongwei" class="zg-link-gray-normal">229195 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:31096148}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/31096148/answer/50680703/collections">84</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1403450951">
+<h2 class="zm-item-title ">
+<a href="/collection/37872375">人跟人之间确实是有能力差距的</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/Reek" data-tip="p$t$Reek" class="zg-link-litblue"> Reek Zhang </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37872375/followers">2617 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1407285969">
+<h2 class="zm-item-title ">
+<a href="/collection/38738811">大学第一课</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/Reek" data-tip="p$t$Reek" class="zg-link-litblue"> Reek Zhang </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/38738811/followers">423 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1404588955">
+<h2 class="zm-item-title ">
+<a href="/collection/38109852">藏完再看</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/Reek" data-tip="p$t$Reek" class="zg-link-litblue"> Reek Zhang </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/38109852/followers">411 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1414838063">
+<h2 class="zm-item-title ">
+<a href="/collection/40833918">女权、善与数学</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/Reek" data-tip="p$t$Reek" class="zg-link-litblue"> Reek Zhang </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/40833918/followers">5 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1392208447">
+<h2 class="zm-item-title ">
+<a href="/collection/31396409">Read Later</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/31396409/followers">2 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20048302">楼上发生火灾，消防队员救火后，楼下被水淹，楼下的损失应该由谁赔偿？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="20" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22297284">有罪还是无罪，到底谁来判定？</a> <span class="num">5 个回答</span><meta itemprop="followerCount" content="13" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22063907">雇凶杀死自己，属于自杀还是他杀？需不需要承担法律责任，谁来承担？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="21" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20932886">张氏叔侄强奸冤案聂海芬检察官及法官各应该承担什么责任？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="8" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20168127">有违法行为就一定要承担法律责任吗？</a> <span class="num">7 个回答</span><meta itemprop="followerCount" content="11" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20227633">性侵害行为属于猥亵还是强奸未遂，法律上如何判定？侵害者会受到怎样的处罚？</a> <span class="num">5 个回答</span><meta itemprop="followerCount" content="88" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21330675">与人合租签订协议表明一起承担违反合约的情况，协议是否有效？</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="16" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19886941">案件的诉讼费是怎么计算的？为什么有的是由被告承担，有的要原、被告一起承担？而且承担的比例依案件不同也不一样？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="10" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/23200527">恋爱阶段男方是不是应该承担所有花费？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="7" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21386223">唐慧被劳教获赔一千元，范冰冰被造谣获赔五万元，精神损害抚慰金是怎么计算的？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="27" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2015-06-09</span>
+</p>
+<p>
+所属问题被浏览 <strong>15340</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:31096148}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439272343000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":4621044,"urlToken":31096148,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0f50671d77e9fa87d6ccd7e2fc71de7.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="901beac86f8341d78e1818e8def31fd7">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="c1c12c6440fea4239d95042e397ff7ea"/>
+</body>
+</html>

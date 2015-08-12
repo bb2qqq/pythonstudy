@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>如何对待一个有自杀倾向的重度抑郁症病人？ - 李松蔚的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/22095601">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/22641645/answer/22095601">
+<meta id="znonce" name="znonce" content="b0694798d476411bbf2321c7e9d6d8cd">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/e827b73d8f25a233cbeeeb9421baeddb.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/22641645" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551432"
+data-tip="t$b$19551432" data-token="19551432" data-topicid="404">
+心理学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19562979"
+data-tip="t$b$19562979" data-token="19562979" data-topicid="4241">
+自杀
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19564862"
+data-tip="t$b$19564862" data-token="19564862" data-topicid="4883">
+抑郁症
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19584600"
+data-tip="t$b$19584600" data-token="19584600" data-topicid="11444">
+安慰技巧
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19617709"
+data-tip="t$b$19617709" data-token="19617709" data-topicid="22549">
+心理疾病
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/22641645">如何对待一个有自杀倾向的重度抑郁症病人？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="1237368" data-action="/question/detail">
+
+<div class="zm-editable-content">患者是我的一个远亲，目前高三，已退学，以前开朗活泼，为什么会抑郁，他自己说想不起来了，所以抑郁的根源无从得知。大概两个月前开始特别严重（曾经目睹一个年轻人自杀，或许对他有一定的刺激），然后送入医院，目前的诊断是患重度抑郁症，有自杀倾向，已经接受专业心理干预一个半月，用电击疗法半个月，药物治疗至今。如今病情有好转，医生同意出院回家休养。<br>现在他在家能偶尔正常与人交流，但是常常觉得生无所恋，觉得人生没有可期待与盼望的东西，我该如何在不刺激他病情的情况下和他交流？我说什么话会刺激他导致他病情严重（如何避开他的雷区？）<br><br>患者已经接受过治疗了！现在回家了！在吃药！已经送过医了！我只想知道除药物治疗外家人能做些什么！现在全家人都很着急，他母亲简直绝望，每天担忧孩子会不会自杀，家人想知道我们应该做什么事，说什么话，才不会刺激到他？</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>19 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="1237368" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/22641645" class="zg-link-litblue">查看全部 155 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="4038000"
+data-atoken="22095601"
+data-collapsed="0"
+data-created="1391269197"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-4038000"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1188</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic3.zhimg.com/7b0114ec2_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$lisongwei" href="/people/lisongwei">李松蔚</a>，<strong title="欢迎关注微信公众号：therapistlsw" class="zu-question-my-bio">欢迎关注微信公众号：therapistlsw</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1188">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$men-tu-qing-teng" href="http://www.zhihu.com/people/men-tu-qing-teng" class="zg-link" title="姜树">姜树</a>、</span><span class="user-block"><a data-tip="p$t$ji-feng-gu-de-zui-ren" href="http://www.zhihu.com/people/ji-feng-gu-de-zui-ren" class="zg-link" title="路之">路之</a>、</span><span class="user-block"><a data-tip="p$t$zhang-jing-shu-62" href="http://www.zhihu.com/people/zhang-jing-shu-62" class="zg-link" title="张婧姝">张婧姝</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1237368" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">谢邀，但是抱歉，你不大可能从这里获得奇迹。<br>要是有几条简单的秘诀，可以教给非专业人士简单地「开导」抑郁症病人的话，抑郁症也就不是个医学问题了。好在病人送过医了，那就相信医生吧，实在担心的话可以再找医生问问情况。<br><br>我不知道你跟他交流是想达到什么目的？如果你是想开导他，那你的期待可能太高了。<br>要说「雷区」，这本身就是雷区之一。抑郁的人对于被「开导」是什么感觉呢？下图摘自一位漫画作者Allie Brosh患抑郁症期间，用漫画记录的感受。感谢新浪微博的@fall_ark汉化：<br><noscript><img src="http://pic3.zhimg.com/e59c9eea636e578e3a68e5ce0b9c5d3e_b.jpg" data-rawwidth="455" data-rawheight="911" class="origin_image zh-lightbox-thumb" width="455" data-original="http://pic3.zhimg.com/e59c9eea636e578e3a68e5ce0b9c5d3e_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="455" data-rawheight="911" class="origin_image zh-lightbox-thumb lazy" width="455" data-original="http://pic3.zhimg.com/e59c9eea636e578e3a68e5ce0b9c5d3e_r.jpg" data-actualsrc="http://pic3.zhimg.com/e59c9eea636e578e3a68e5ce0b9c5d3e_b.jpg"><br><br>你看效果其实是会适得其反的……<br><br>所以我建议你把自己的定位降低一点儿，不如定在「监护」就好。<br>这样的话，你大可以直接了当地承认：我来陪你的目的，就是为了看住你不要自杀。<br>说白了，这件事才是重点，而且至少你这么说的时候很诚实。<br>而非（从他的视角看来）假装特有耐心地听他，「理解」他，「温暖」他，但最终就是为了反驳他：哈哈完全没有你想的那么糟嘛！你那些感受都是小题大做了！振作起来呀少年！<br><br>如果有前面的态度作为基础，就可以多给几条建议：<br>1）不要硬拽着他「快给哥说说你到底怎么想的」，也不要硬拉他出去K歌，打球；<br>2）如果他愿意跟你说话，那就说，如果他主动拉你出去玩就更好（估计不太可能）；<br>3）不要去反驳他，即使你觉得他悲观得莫名其妙，也要试着去尊重别人不同的感受；<br>4）没必要回避自杀这个话题，大大方方地跟他谈；<br>5）只要他不自杀，你该干嘛干嘛，不要把注意力全放在他身上，但也不要故意冷落他；<br>6）从心底里认识到他就是一个普通家人，像对普通家人一样对待他，除了你有一个任务是要看住他之外。这没什么大不了的。就好像放假时你舅舅请你看住小表弟写作业不许碰电脑一样，没必要因此如临大敌……还有，你不会借机给小表弟做思想政治教育吧，所以也不要对他那样；<br>7）抑郁这种病，接受正规的治疗后康复的概率很大，先别搞得特别悲壮和凝重；<br>8）监督他按时服药，这很重要；<br>9）等待，相信时间的力量。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="4038000-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-02-01" target="_blank" href="/question/22641645/answer/22095601">编辑于 2014-02-01</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>80 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7401302"
+data-atoken="30043271"
+data-collapsed="False"
+data-created="1409649496"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="60">60</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">60</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$burun" href="/people/burun">周不润</a>，<strong title="神经科学" class="zu-question-my-bio">神经科学</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="60">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$men-tu-qing-teng" href="http://www.zhihu.com/people/men-tu-qing-teng" class="zg-link" title="姜树">姜树</a>、</span><span class="user-block"><a data-tip="p$t$ye-xin-jia-sc" href="http://www.zhihu.com/people/ye-xin-jia-sc" class="zg-link" title="叶初闻">叶初闻</a>、</span><span class="user-block"><a data-tip="p$t$gillian-zhu-20" href="http://www.zhihu.com/people/gillian-zhu-20" class="zg-link" title="Gillian ZHU">Gillian ZHU</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="1237368" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">现在的绝大多数家庭，包括国内和国外，对抑郁症的态度和看法都是不正确的，认为抑郁症是软弱、是矫情，却不知道他们是实实在在的在生病。所以首要的是去认真学习抑郁症的相关知识，矫正观念。只有对病人的状态有正确的认识，才能开始谈怎么样去对待他/她。不然，你觉得正确的、或者轻描淡写的一句话，都可能是对病人的巨大刺激。<br><br><b>作为抑郁症病人的家人或者好友，你能做什么？首先防自杀是最关键的。</b>如果身边有一个有自杀倾向的抑郁症病人，需要随时注意他/她是不是有自杀的念头。通常以下症状会表现出一个人试图自杀的心理：<br><br><ul><li>平时的言语中提到自杀，比如“我都想去死了”， “我要是从来没有出生就好了”，“如果没有我的话你们会过得更好”；<br></li><li>言语中提到具体的自杀方法，比如跳楼、安眠药之类的；<br></li><li>做一些危险的事情，比如走在快车道上，或者开车变得异常凶猛；<br></li><li>跟外界完全隔离，想要自己一个人呆着；<br></li><li>情绪波动很大，某天可能突然很高兴，隔天又突然很低落；<br></li><li>对任何一件生活小事都会感到手足无措或者绝望，比如失手摔了一个杯子；<br></li><li>吸烟喝酒的量增加；<br></li><li>作息改变，比如吃饭和睡觉的时间发生变化；<br></li><li>在不正常的时间说再见，如晚上睡觉前，或者特意打电话说再见，或者说再见的时候像在永别一样，很难判断，但对已经有自杀倾向的人来说，多注意一下不为过；<br></li></ul><br><b>在关注这些苗头的同时，做好措施随时应对突发状况。</b><br><br>例如：<br><ul><li>发现病人情绪不对，可以直接询问是不是有自杀的计划，突然兴起去自杀的不多，多数是有一定计划的；当你整天忧心忡忡疑神疑鬼，害怕病人自杀的时候，往往直接询问是最好的办法；病人绝不会因为问他/她这个问题而去寻死的，反而让他/她释放一下负面情绪可能会有所帮助；<br></li><li>不要藏着掖着，尽量让亲朋好友了解大致的状况，以便大家及时提供帮助；<br></li><li>保证病人呆在安全的环境里，比如家里的刀、药物之类的要收好；<br></li><li>最好保证家里总有人呆在病人的身边；<br></li><li>随时准备麻烦110；<br></li></ul><br><b>除了关注自杀之外，还可以做什么？</b><br><br><ul><li>鼓励病人按时服药，定期检查治疗；<br></li><li>当病人想说话时，<b>只听就好了，不要给建议，不要说看法，不要自己下判断</b>；<br></li><li>病人总会怀疑自己，贬低自己。这个时候要反复告诉病人他/她的存在价值，和对家庭的重要性。对中国人来说这些话很肉麻，往往难以启齿，但确实有温暖人心的效果；<br></li><li>维持家里原有的环境。有些家庭出现抑郁症病人，甚至有自杀倾向的病人，就天翻地覆，不得安宁。其实这个时候保持家庭的原样如保持干净、按时作息，都会给病人安全感，减轻压力；<br></li><li>鼓励病人跟自己做一些事情，比如一起做家务，一起出门散步，一起做手工等等，但如果病人不愿意的话也不要勉强；<br></li></ul><br><b>最后，千万不要忽视你自己。</b>作为抑郁症病人的家人，一般说来最重要的有几点：<br><br><ul><li>学习抑郁症的知识。不了解的时候，一些无意的话语或者行为可能会伤害病人。对抑郁症了解的越多，就越能帮助病人。<br></li><li>照顾好自己。长期照顾抑郁症病人是一件费神又充满挫败感的事情，自己的情绪也不免低落。所以，平时多注意维持自己的正常生活作息，有做自己喜欢的事的时间，经常运动，不但能维持正常的生活状态，同时也是照顾病人的基础。<br></li><li>耐心。抑郁症可以治疗，病人的状态也会越来越好，但是需要时间。寻找到最合适的治疗方法，可能要走很多弯路。请在这个时间段内保持耐心，这也有助于维持家庭原有的节奏和环境。<br></li><li>不要自责，通常这不是你的问题，也不是谁的错误，你自己也没有能力治好抑郁症。</li></ul>
+<a href="/question/22641645/answer/30043271" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7401302-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-09-02" target="_blank" href="/question/22641645/answer/30043271">编辑于 2014-09-03</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>9 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="4038802"
+data-atoken="22097599"
+data-collapsed="False"
+data-created="1391275456"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="497">497</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">497</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info " data-votecount="497">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$wang-ju-zheng" href="http://www.zhihu.com/people/wang-ju-zheng" class="zg-link" title="王居正">王居正</a>、</span><span class="user-block"><a data-tip="p$t$zhou-yong-90-23" href="http://www.zhihu.com/people/zhou-yong-90-23" class="zg-link" title="周永">周永</a>、</span><span class="user-block"><a data-tip="p$t$wincy-kong" href="http://www.zhihu.com/people/wincy-kong" class="zg-link" title="莉叶">莉叶</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="1237368" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">最近看到不少人关注这个问题，我再补充一些资料供大家参考。<br><br>世上很少有绝对的事情，美丑、好坏、善恶、强弱等等，都有个度，有对比才有评价，并不是非黑即白。<br><br>抑郁一般只是一种情绪，严重了才是抑郁症，看官若是在文中找到些许共鸣，需谨慎判断，勿妄自担忧。<br><br>（以下几段引用翻译自维基百科）<br><blockquote>抑郁是一种陷于消极情绪的状态，能够影响一个人的思想、行为以及幸福感，使人厌恶社交活动。<br>抑郁的人会感到悲伤、焦虑、空虚无力、绝望、担忧、无助、敏感易怒，有时觉得自己没有价值，有负罪感，坐立不安，还对外界刺激敏感，经常觉得自己被伤害。<br>抑郁的人可能会觉得曾经很有意思的活动变得无聊，经常没有食欲，有时却又暴饮暴食，常常难以集中注意力，还容易忘记许多事情的细节，选择困难，经常犹豫不决，有时还会陷入深深的思考中，严重的会想要自杀。<br>抑郁的人还可能失眠，或者嗜睡，感到疲惫，没有精力，心灵痛苦，身体疼痛，还有消化问题。</blockquote>（笔者乱入下：我觉得抑郁症患者的健忘是一种很无奈的自我保护能力，人的求生本能让他必须尽快忘记那些悲伤厌世的负面情绪，同时会忘记许多重要的事情或刚学的知识，健忘应该是抑郁症患者自我保护的副作用。抑郁症患者知道自己经常记不住东西，所以脑子里蹦出什么新的想法或灵感时会忍不住放下当前思考着的事情去追寻新想到的东西，生怕一不小心又忘记了，同时又不敢停下来做记录，因为这些灵感要一气呵成，一停就断了。但现实还是那么残忍，你不记，反而越想越多，分支越来越细，最终索性全都抛掉，什么都留不下，反而浪费了时间，还要安慰自己说想过总归是有好处的，下次遇到就想起来了。且不谈那些奇思妙想到底有没有用，结果却是养成了无法集中注意力的习惯。遇到这种情况应该谨记两个字——勿贪，什么都想要，最终反而得到的最少，能留多少留多少，此刻恰恰是最优解。其实这贪念，或者说完美主义，大概就是抑郁症患者选择困难的原因吧。）<br><blockquote>有抑郁的情绪并不一定患有精神疾病，可能只是对生活中某些事情的正常反应，一种普通的医学症状，或者是药物或其他医疗方式的副作用。<br>不过抑郁的情绪确实也是某些精神综合征的主要或相关特征，比如临床抑郁症。<br><br><b>&lt;抑郁原因&gt;</b><br><ul><li>生活中遇到的事情<br></li></ul>生活中的一些事件或变化可能引起抑郁的情绪，比如分娩、更年期、财政困难、工作问题、诊断出癌症或艾滋病等疾病、被欺辱、失恋、自然灾害、被社会孤立、人际关系处理问题、嫉妒、分居、极大的人身伤害等等。<br>童年遭受精神创伤可能导致抑郁，虽然童年的精神创伤（尤其是性虐）并不一定是成年后抑郁的直接原因，但那可能造成一些心理问题，而这会导致抑郁。<br><ul><li>医疗措施<br></li></ul>已知某些药物可以引起很大比例的患者产生抑郁的情绪。<br><ul><li>非精神疾病<br></li></ul>许多疾病可能引发抑郁的情绪，包括某些传染病、神经疾病以及其他生理问题，比如雄性激素缺乏、爱迪生氏病、莱姆病、多发性硬化、慢性疼痛、中风、糖尿病、癌症、睡眠呼吸中止症、作息规律混乱，抑郁也是甲状腺功能低下的早期症状。<br><ul><li>精神疾病综合征<br></li></ul>许多精神疾病的主要症状就是抑郁情绪。重度抑郁症/临床抑郁症是情绪障碍的一种，患者会至少两个星期无法摆脱抑郁的情绪，同时几乎丧失对任何活动的兴趣；还有一种情绪障碍，患者长期处于抑郁状态，但症状与重度抑郁症患者发病时的症状并不完全相同；双向情感障碍也是情绪障碍的一种，患者时而异常亢奋，精力充沛，认知能力爆棚，时而又会陷入抑郁情绪难以自拔。<br>有些重度抑郁症或双向情感障碍，患者抑郁情绪的产生随季节变化而发生变化，这时也可以把它们叫做季节性情绪障碍。<br><ul><li>过度用药<br></li></ul>抑郁也可能由滥用药物导致。<br><br><b>&lt;抑郁诊断&gt;</b><br>有许多心理学上的诊断方式可以用于判断是否存在抑郁，比如白氏抑郁症量表和儿童抑郁症量表。<br><br><b>&lt;抑郁治疗&gt;</b><br>不同类型的抑郁病情需要不同的治疗方式。<br>对于确诊的重度抑郁症，若患者能够主动参与到一个治疗项目中，会比一般的心理治疗方式有效。<br>好的生活方式有助于摆脱抑郁情绪，如醒悟疗法、光照疗法、保持健康饮食习惯、冥想、运动、戒烟等等。<br><br><b>另外，女性比男性更容易抑郁。</b></blockquote><br>------------------------------------------以上内容为2014.4.29更新----------------------------------------------------<br><br>竟然这么多人关注抑郁症并给我的答案点了赞，为了不辜负这些赞，我再更新一些内容吧。<br><br>今天想写的是尝试分析抑郁症患者选择自杀的原因，并称之为“抑郁者困境”。<br><br>抑郁症患者选择死亡的原因难以准确描述，孤独、负疚、纠结、痛恨、无助、厌世，等等，但我想归根结底是这些导致的痛苦。<br><br>摆脱孤独带来的痛苦是常见的自杀动机。<br><br>如果你不理解这里的孤独是什么意思，我再稍作解释：它当然与简单意义上的寂寞不是一回事，如果你不仅孤独，而且寂寞，那么你可以叫它孤寂，但寂寞不是必要条件，更不是充分条件。<br><br>举个例子，《三体》中的面壁者被赋予了一项权力用于拯救地球，这项权力使面壁者可以调动大量的资源做任何事情而不需要向他人解释原因，甚至为了隐藏面壁者的真实意图以防被敌人窥知，可以用任何语言和行为欺骗他人。对于面壁者，这样做导致的坏的影响是：世界上的人不会像信任一般人一样信任面壁者，他们总会认为面壁者的话可能是战术性欺骗而报以“对面壁者的微笑”。所以面壁者是孤独的，即使面壁者与面壁者之间的对话也可能不是“真话”。面壁者泰勒在尝试与面壁者罗辑交流和倾诉之后的夜晚，选择了自杀。分析自杀的原因，我猜想，孤独应该是必不可少的一项，面壁者无法取得别人的信任，即使是可以获得同为面壁者的罗辑的理解。<br><br>面壁者的孤独与抑郁者的孤独并不一样，但我认为他们因孤独而感受到的痛苦是相似的。<br><br>死亡看起来是抑郁者患者最好的归宿，在抑郁症患者看来，这样做对自己对亲人都是解脱。但抑郁症患者又是善解人意的，所以他知道在爱着自己的非抑郁症患者的眼中，死亡不是最好的结果。他理解这种想法，他为了支持这种想法而艰难地活着。可是，既然已经如此艰难，为什么还要坚持，一是为了报答，二是为了证明——他要用行动证明给世界看：他在理解别人的思想并为之努力，他希望别人看到他努力并寄予同样的回馈，即，理解——这正是他最需要的东西。而这恰恰难以实现，从非抑郁症患者的角度讲，比起得到抑郁症患者的理解和无声的认同，并作出反馈表示理解，非抑郁症患者更愿意看到抑郁症患者对自己的行为作出评判，口若悬河，但这真的很为难。<br><br>抑郁症患者因不被理解而感到孤独，于是循环，这就是他的简单逻辑。<br><br>抑郁症患者厌恶争论，厌恶一切形式的党同伐异。他会想：“热爱生命的人选择生命，不热爱生命的人选择死亡，为什么总有些人要试图改变别人呢？”<br><br>从这个角度讲，抑郁症患者似乎是爱好和平的。但事实上，抑郁症患者与非抑郁症患者一样喜欢胜利和征服的快感，只是非抑郁症患者可以通过口舌之争说服他人来获得，而抑郁症患者不能。这是因为善解人意（即理解他人）是抑郁症患者的“超能力”——这是抑郁症患者在病痛中获得的，并已经成为他思想的一部分——他用尽一切努力诠释什么是“理解”，因为这是他的解药，是他渴求的东西。如果你想要证明自己，去找抑郁症患者吧，他是最好的倾听者。<br><br>生活中充满了矛盾，抑郁症患者更容易陷入其中。<br><br>大概每个人都会思考人生，但抑郁症患者有更多的时间做这件事情，这让他的思想变得深刻。思考人生这样的事情我想是不会有终点的，抑郁症患者无法在这个过程中找到生命的意义，但他会找到一个活下去的理由，比如为了父母，为了爱自己的人，或者为了证明一些事情，而这些是被迫的。如果不幸，某一天他什么都没找到，其实也还有机会，他可能已经在床上待了一个月，懒惰让他不会把自杀付诸行动。<br><br>抑郁症患者厌恶“责任”、“逃避”、“勇敢”这样的字眼，抑郁症患者对“自由”极度渴望。<br><blockquote>我被迫来到这个世界，被迫有了某些身份，扮演了某些角色，被迫要享受某些权利，承担某些责任，被迫要遵循这个世界既定的生存法则。我始终用无声的方式抗争，在世界异样的目光中。<br>但我终究还是会屈服的，我想，只要我活着。<br>不，甚至死亡也无法终结，从来到那一刹那，我便失去了自由。</blockquote><br>-----------------------------------------以上内容为2014.2.3更新----------------------------------------------------<br><br>世界上只有两种人，一种没有患抑郁症的，另一种患抑郁症的。<br><br>抑郁症患者可以有机会理解非抑郁症患者的思想，反之不行。<br><br>抑郁症患者最害怕听到别人对他说：“有什么大不了的，像我一样开开心心活嘛！”因为抑郁症患者最需要的是他人感同身受般的理解，理解他受得折磨，理解他的苦，理解他活着是有多么艰难。但事实却往往不是这样，非抑郁症患者就是理解不了这样的感受，还非要试图说服和改变，而这是最致命的，是在往将被压倒的骆驼身上放草，也许你放的就是最后一根。当然，理智的抑郁症患者却是可以理解非抑郁症患者的行为的。<br><br>抑郁症患者一般不愿意输出自己的价值观，这个价值观中包括了厌世的思想，他希望世界不会受到他的悲观情绪影响。抑郁症患者往往是善良的（在其自身看来），他为了爱他的人的“愚蠢”的“活着比死去好”的思想而被迫在世上苟延残喘，忍受无尽的病痛折磨，但如果严重，他也会撑不下去，就像吸毒者被毒瘾折磨时一样，超过了阈值谁都无法控制。<br><br>抑郁症患者是弱势群体，像夸性别者、失独家庭、同性恋者（这个现在已经好很多了）等一样，需要关爱，<b>但抑郁者患者需要的关爱与一般意义上的关爱不同</b>。不明就里的关爱者认为抑郁症患者被病魔缠绕（这没有错），他的思想出了问题，需要帮助他纠正“错误的思想”，所以往往试图直接劝说和改变抑郁症患者（而这让关爱显得毫无意义）；千万般的照顾（事实上，你的“错误”的照顾方式会加重抑郁症患者的内疚和病情），都比不上一句“我懂你”。而你知道这句“我懂你”是多么难能可贵，因为能让抑郁症患者真正相信这句话的人，他必须也是抑郁症患者。这看起来像个悖论，如果你不是抑郁症患者，呵呵，我相信你是无法理解的。有人说过，想要理解递归，必须先理解递归。<br><br>（以上段落在2014.2.3修改，原内容如下）<br><blockquote>抑郁症患者是弱势群体，像夸性别者、失独家庭、同性恋者（这个现在已经好很多了）等一样，需要关爱，关爱是抑郁症患者最需要而不可得的东西，因为关爱的人往往试图劝说和改变抑郁症患者（这让关爱显得毫无意义），不可得是因为抑郁症患者是负能量的源泉，所有靠近的人都会被或多或少的感染，你只有不试图劝说和改变抑郁症患者的厌世思想这一条路可以真正的帮助到他，而这一旦发生，那么你也就成为了抑郁症患者。所以真正能帮到抑郁症患者的人是要“牺牲”的人，多么难能可贵，这也恰恰是不可得的原因，也是抑郁症患者厌世的根本原因。这看起来像个悖论，如果你不是抑郁症患者，呵呵，我相信你是无法理解的。有人说过，想要理解递归，必须先理解递归。</blockquote><br>（以下一段为2014.2.3补充）<br>抑郁症患者在发病时充满负能量，还会感染身边的人，让人感到厌恶，所以愿意留在抑郁者患者身边的都是真正爱他的人，而如果这些身边的人不懂如何与抑郁症患者相处，或者干脆不知道患者的病情，那后果是很糟糕的。在我看来，抑郁者患者不需要他人在物质上的刻意照顾，他也不奢望身边的人能完全懂得他的想法，他需要的仅仅是陪伴与倾听。抑郁症患者想见到的人，要么是懂抑郁者的人，要么是弱势的不试图改变外界的人。<br><br>抑郁症患者的世界就好像一个很大的玻璃碗，倒着扣在非抑郁症患者的世界里，玻璃很特殊，里面看得清外面，而外面看不清里面。碗里面关着抑郁症患者，孤独，无助；碗外面的人只觉得这只倒着的碗很奇怪，想把它正过来。然而开关在碗里面，只有进去才够得到，碗非常重，根本无法完全抬起来，外面的人努力尝试只会让碗外污浊的气体进入碗里，而加速里面的人死亡。<br><br>（以下内容在2014.2.3删除）<br><blockquote>也有好奇的人，不懈的努力下终于钻了进去，但能不能出来就看他运气够不够好能摸到开关，而一旦进去过，便染了诅咒，即使爬出来也可能会在一觉醒来后发现又进了碗内。</blockquote><br>为何称为弱势群体，因为他们很少被看到，被重视，就好像这个问题下的许多匿名答案，他们其实最具有发言权，但他们往往力量微弱，他们的答案不能吸引眼球，只有看得懂的同志才可能去点个赞。而厌世的抑郁症患者自顾不暇，怎会去关心别人的答案赞不赞呢。<br><br>抑郁症的事情可以说很多，刚才说的也很笼统随性，有空再更新吧，也许根本没人看呢，或者看了也根本不会懂呢。<br><br>题主如果看到的话，提醒一下，抑郁症患者是很会伪装的，就在你自以为是以为你的“劝导”（其实是适得其反的，如果你的目的是让他不想自杀的话）产生效果的时候，他很可能只是在寻找一个契机摆脱你，而摆脱你最根本的方式便是默默离开这个世界，很可能恰是你给了他最后的决心，而你却浑然不知。
+<a href="/question/22641645/answer/22097599" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="4038802-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-02-02" target="_blank" href="/question/22641645/answer/22097599">编辑于 2014-04-30</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>120 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/22641645" class="zg-link-litblue">查看全部 155 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:22641645}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="1237368">关注问题</button>
+
+2420
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="4055a09d55538f79261cb7143f6a09f3" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="李松蔚"
+data-tip="p$t$lisongwei"
+class="zm-item-link-avatar"
+href="/people/lisongwei">
+<img src="http://pic3.zhimg.com/7b0114ec2_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$lisongwei" href="http://www.zhihu.com/people/lisongwei" class="zg-link" title="李松蔚">李松蔚</a></h2>
+
+<div class="zg-big-gray">普通的心理学工作者</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/lisongwei/followers" class="zg-link-gray-normal">164991 关注者</a>
+/
+<a target="_blank" href="/people/lisongwei/asks" class="zg-link-gray-normal">5 提问</a>
+/
+<a target="_blank" href="/people/lisongwei/answers" class="zg-link-gray-normal">136 回答</a>
+/
+<a target="_blank" href="/people/lisongwei" class="zg-link-gray-normal">229152 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:22641645}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/22641645/answer/22095601/collections">730</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1362968593">
+<h2 class="zm-item-title ">
+<a href="/collection/19928423">赞同超过1000的回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19928423/followers">51253 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1374767142">
+<h2 class="zm-item-title ">
+<a href="/collection/20585162">关于我大心理的超赞答案XD</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20585162/followers">14377 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1374966482">
+<h2 class="zm-item-title ">
+<a href="/collection/20615676">不需要解释</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20615676/followers">13320 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1362932260">
+<h2 class="zm-item-title ">
+<a href="/collection/19927695">超有用的答案</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19927695/followers">9570 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1363348375">
+<h2 class="zm-item-title ">
+<a href="/collection/19941745">那些人教我的事</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/shi-wei-hu-bu-gui" data-tip="p$t$shi-wei-hu-bu-gui" class="zg-link-litblue"> 式微 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19941745/followers">7987 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20570905">抑郁症患者的心理是怎样的？真的会抑郁到自杀吗？</a> <span class="num">448 个回答</span><meta itemprop="followerCount" content="6413" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19571126">抑郁症能完全治愈吗？有哪些有效方法？</a> <span class="num">165 个回答</span><meta itemprop="followerCount" content="4611" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20134551">抑郁症为什么导致自杀？</a> <span class="num">301 个回答</span><meta itemprop="followerCount" content="3733" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20772308">觉得自己有了抑郁症怎么克服？</a> <span class="num">45 个回答</span><meta itemprop="followerCount" content="507" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20870432">自杀一定是抑郁症吗？</a> <span class="num">18 个回答</span><meta itemprop="followerCount" content="61" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20414340">抑郁症患者会哭吗？</a> <span class="num">81 个回答</span><meta itemprop="followerCount" content="462" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20374645">如何对待一位患有精神分裂症的女友？</a> <span class="num">31 个回答</span><meta itemprop="followerCount" content="89" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20800157">你的抑郁症经历是什么？</a> <span class="num">542 个回答</span><meta itemprop="followerCount" content="4547" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19954928">如何判断是否可能得了抑郁症？</a> <span class="num">28 个回答</span><meta itemprop="followerCount" content="551" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19929266">你们身边有抑郁症患者么？有没有自杀倾向？你怎么看待这个群体？</a> <span class="num">15 个回答</span><meta itemprop="followerCount" content="99" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-02-01</span>
+</p>
+<p>
+所属问题被浏览 <strong>167067</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:22641645}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439257491000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":1237368,"urlToken":22641645,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0f50671d77e9fa87d6ccd7e2fc71de7.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="b0694798d476411bbf2321c7e9d6d8cd">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="f43022b1ebd54fc9407f27686641ac73"/>
+</body>
+</html>
