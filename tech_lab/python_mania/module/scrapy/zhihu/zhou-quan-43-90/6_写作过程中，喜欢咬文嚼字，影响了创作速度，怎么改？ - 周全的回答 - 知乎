@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>写作过程中，喜欢咬文嚼字，影响了创作速度，怎么改？ - 周全的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/40838324">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/28443507/answer/40838324">
+<meta id="znonce" name="znonce" content="fbe20b2eb88a4be1a7f9d5c61e3ff298">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/28443507" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19552516"
+data-tip="t$b$19552516" data-token="19552516" data-topicid="767">
+写作
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19554741"
+data-tip="t$b$19554741" data-token="19554741" data-topicid="1508">
+作家
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19556630"
+data-tip="t$b$19556630" data-token="19556630" data-topicid="2129">
+编辑
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19615372"
+data-tip="t$b$19615372" data-token="19615372" data-topicid="21767">
+小说创作
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19676958"
+data-tip="t$b$19676958" data-token="19676958" data-topicid="42364">
+写作技巧
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/28443507">写作过程中，喜欢咬文嚼字，影响了创作速度，怎么改？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="3560070" data-action="/question/detail">
+
+<div class="zm-editable-content">在写作过程中，我有个不好的习惯，喜欢咬文嚼字，比如我写完一段话，就会习惯性的去重复读一遍，然后又读第二遍，如果感觉有些不对，就会读第三遍，第四遍，最后把自己给弄得口干舌燥，人都要疯了。<br>这个习惯最初是为了保证自己的文字质量，怕有错字，语句不通，才养成的，现在却变成了一个障碍。<br>请问这个习惯应该如何改？<br>我现在都快要被逼疯了，我写完上面这一段字，就已经读了好多遍，老感觉不对，最后强迫自己不要再读了，管它错字还是语句不通，才打完了这些字。<br>好了，不能再多说了，再说我就忍不住要读了。<br>------------------------------------------------------------------------------------------------------------------------------------------<br>在写作的过程中，我常常会忍不住中断然后审视我刚刚写出来的内容，因为我比较喜欢咬文嚼字，而且总是有一种自己写的不够好的感觉，所以喜欢在写出一小段文字之后马上阅读进行修改。这个习惯最初是为了保证自己的文字质量，担心有错字或者语句不通，或者是觉得自己也许可以写的更好，但是它现在已经成为了一个很严重的写作障碍，因为我总是在不停的重复读已经写下的文字而无法继续动笔，这快要把我逼疯了，就在我写上面这一段字的过程中，我一共中断了五次，对前面的内容进行阅读和修改，总是感觉有些不对但是又不知道应该怎么改，这种微妙的感觉实在是种煎熬。<br>--------------------------------------------------------------------------------------------------------------------------------------------<br>在写作的过程中，我常会忍不住中断，然后审视自己刚写出来的内容，因为我比较喜欢咬文嚼字，总有一种怕自己写不好的感觉，所以喜欢在写出一小段文字之后，就马上进行阅读修改。这个习惯最初是为了保证自己的文字质量，担心有错字，或者语句不通，又或者是觉得自己应该可以写的更好。但它现在已经成为我一个很严重的写作障碍，因为我总是不停的在重复，不断的回头读之前自己刚写下的文字，结果这最终导致我的写作无法继续。这快要把我逼疯了，就在我写下上面这段文字的过程中，我总共中断了五次，并试着对前面的内容进行阅读和修改，但总是感觉还有那里不对，却又不知道该怎么改，这种微妙的感觉实在是一种煎熬。</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>6 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="3560070" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/28443507" class="zg-link-litblue">查看全部 66 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="11727470"
+data-atoken="40838324"
+data-collapsed="0"
+data-created="1425183495"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-11727470"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">6</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhou-quan-43-90"
+class="zm-item-link-avatar"
+href="/people/zhou-quan-43-90">
+<img src="http://pic1.zhimg.com/625501830_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic1.zhimg.com/625501830_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhou-quan-43-90" href="/people/zhou-quan-43-90">周全</a>，<strong title="笔棍/游戏文案/懒蛋/屎尿屁专精" class="zu-question-my-bio">笔棍/游戏文案/懒蛋/屎尿屁专精</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="6">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$er-er-er-19" href="http://www.zhihu.com/people/er-er-er-19" class="zg-link" title="电球爆炸">电球爆炸</a>、</span><span class="user-block"><a data-tip="p$t$zhou-zhe-18-7" href="http://www.zhihu.com/people/zhou-zhe-18-7" class="zg-link" title="周喆">周喆</a>、</span><span class="user-block"><a data-tip="p$t$chen-zi-qian-60" href="http://www.zhihu.com/people/chen-zi-qian-60" class="zg-link" title="陈子骞">陈子骞</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="3560070" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">这都得算洁癖或者轻微强迫症了。从写作角度估计很难解决。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="11727470-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/28443507/answer/40838324">发布于 2015-03-01</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="12108242"
+data-atoken="41789219"
+data-collapsed="False"
+data-created="1426137124"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="44">44</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">44</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhu-ji-yi" href="/people/zhu-ji-yi">朱洁仪</a>，<strong title="微信公众号：弄渠斋偶记 出版业/文化殉道者 INFP天平" class="zu-question-my-bio">微信公众号：弄渠斋偶记 出版业/文化殉道…</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="44">
+
+<span class="voters">
+<span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$huang-yu-qin-67" href="http://www.zhihu.com/people/huang-yu-qin-67" class="zg-link" title="黄裕钦">黄裕钦</a>、</span><span class="user-block"><a data-tip="p$t$wang-da-chui-12-23" href="http://www.zhihu.com/people/wang-da-chui-12-23" class="zg-link" title="王大锤">王大锤</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="3560070" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"><p>过年在爷爷家，战战兢兢地陪老朱老师（爷爷）看我的一篇文章。我之所以斗着胆拿来献丑，是因为朱老师说，写得不错。老朱老师看得很慢很慢，一字一句，间或还给我指出一些词句上需要商榷之处。一篇三千多字的文章，我们看了足有半个多小时。我陪着看，于是便也看得慢。慢了，就发现许多词句可以修改，许多之前没发现的不够顺畅之处也如此突兀地跳了出来，甚为扎眼了。这扎眼二字毫不夸张——好比看惯了甲戊本的红楼，突然来看程甲本的一样。<br></p><br><p>事后，跟朱老师说起这事儿，顺道探讨文章修改之经验。曰：<b>写好了的文章，通览一遍，提刀而立，不做大改。将文章放在抽屉中，搁上几日，将它彻底忘在脑后，过些天再拿出来看，来改。这时，于择词遣句之上，必有进益。久而久之，对文字的驾驭能力，就可更上层楼。</b></p><br><p>朱老师说，这叫冷处理。</p><br><p>用姜文的话说，这叫让文章凉一会儿。</p><br><p><br>（此图版权归姜导所有）</p><br><p>福楼拜说：“你所要表达的，只有一个词是最恰当的，一个动词或一个形容词，因此你得寻找，务必找到它，绝不要来个差不多，别用戏法来蒙混，逃避困难只会更困难，你一定要找到这个词。”</p><br><p>我颇看不上现在那些连载的网文。每日胡编滥造，写完没捂热乎便发于网上。更有作者，干脆按照读者反馈大改其文，错字连篇，文不从字不顺，更惶论什么布局谋篇了。如此“作品”在各大所谓“文学”网站上早已屡见不鲜，亦有许多被印刷成书，不知廉耻地挺立于书店之中，毒害着每一位读者，侵蚀着日渐沦丧的文化——至此，我已不能再供奉“开卷有益”四字了。</p><br><p>我于是与朱老师又谈起，老朱老师看文章看得很慢的事。朱老师不无感慨地说：“这就是他们老派的学术作风。在他们那个年代，能获取的资源很有限，因此一旦有了一本书，就会将其读通读透。”我心中称是，想想即便是爷爷家这样的大户人家，也不是想要什么书都有的。一贯都是少爷做派的爷爷就曾于日里向友人借了《白香词谱》，彻夜抄录，次日归还，可见其书籍之珍贵。而我，想读《白香词谱》时，不过是去书店便手到擒来一本，断断续续，当作参考书来翻看罢了。事事如此，相比之下，我的学问焉能比得上爷爷之万一？</p><br><p>朱老师接着说：“在他们当年那种资源下，他能把学问做到这个份儿上，那真是相当不容易，但同时也培养了他们的一种认真严谨，字字皆求甚解的学术作风和治学态度。”</p><br><p>如今，互联网太过发达，各种资源对于我们来说予取予求，真真是，只有想不到，没有找不到。因此，无意识地，我们就对这些唾手可得的资源信息不甚珍惜。曾有人问：古人写诗做文章引经据典，那得读过多少古籍啊？能记得住吗？可见，这些“笨”功夫在现在的我们眼里是多么不可思议。其实，真正见过认真做学问的人便知这并非天方夜谭。</p><br><p>我曾经跟老朱老师抱怨，中华书局的一本周振甫编著的《诗经译注》谬误、硬伤甚多，太失出版社水准，并随口一问爷爷是否知道周振甫其人。爷爷便让我从书架上拿来一本他编著的讲诗词的书，准确地翻到其中一页，指着上面的一个名字，将他和周振甫的关系道来，顺带如数家珍一般地向我介绍了他从上学到工作的概况。此种情形，自我有记忆起，便时有发生。因而，我总认为老朱老师无所不知——正如他认为我一无所知一样。</p><br><p>换个角度说读书。即使是对治学极为认真的人来说，可读之物也太多，太难抉择，读着红楼，心里还想念书架上的莎翁，谁之过耶？近日总是提倡要“从娃娃抓起”培养国学，因而砍了英语在义务教育中的分量。殊不知，单是数学一门，就足可占去学生的大部分精力，没兴趣的孩子怎还有心情子曰诗云呢？我总以为，国学，并不只是书本上的篇章与表面上的文化，更是骨子里的情怀。而情怀，是在生活中培养而不是在课堂上教育的。</p><br><p>又想起研究《诗经》时候，自以为够踏实，够严谨，为一词一字之义不厌其烦翻阅若干典籍，坚决不依靠网络，桌上总有一大摞诗经相关的典籍资料，只求下笔有据，毫不偷懒。而当我费尽周折淘换到中华书局一版一印的《诗三家义集疏》时，才知自己根本难望古人之项背。那时每日早起便做学问，好处之一在于时常为自己敲响警钟，且保持正能量。古人的学术研究态度是我们无论如何比不了的。凡释义一字，不惜洋洋千言，博引数家之据以正所言。相比之下，我手头就这么几本实在是惭愧之极。如今世上诱惑太多，就连知识的诱惑也太多，让人不能专心——自然这是我们的问题，赖不到知识身上。我见过的最有古人之风的研究者便还是老朱老师，一生醉心古诗词，只研究纳兰一人数十年，非我辈所能及。而现今那种抄袭家，如窃取他人研究成果自封古诗词鉴赏作家的安意如，有辱斯文四个字形容她还真是太轻了。</p><br><p>春晚上，刘欢一首《从前慢》让木心先生的这首诗又火了起来。</p><br><p>从前慢，车马都慢，一生只够爱一人。</p><br><p>从前慢，诗词文章也都慢，一生只够攻一专。</p><br><p>让文章凉一会儿吧。</p><br><br><p>原文地址：<a href="http://mp.weixin.qq.com/s?__biz=MzA5MzM4MjE4OQ==&amp;mid=203647615&amp;idx=1&amp;sn=c02339ff2e3b77e9ed1baf7e3b740fa9#rd" class=" wrap external" target="_blank" rel="nofollow noreferrer">原创丨让文章凉一会儿<i class="icon-external"></i></a></p>
+<a href="/question/28443507/answer/41789219" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="12108242-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-03-12" target="_blank" href="/question/28443507/answer/41789219">编辑于 2015-08-04</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>11 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="12392875"
+data-atoken="42499008"
+data-collapsed="False"
+data-created="1426821313"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="18">18</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">18</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$lakuta" href="/people/lakuta">资深梦游</a>，<strong title="广告人" class="zu-question-my-bio">广告人</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="18">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$yi-gua-yin-36" href="http://www.zhihu.com/people/yi-gua-yin-36" class="zg-link" title="伊瓜因">伊瓜因</a>、</span><span class="user-block"><a data-tip="p$t$shi-liu-70" href="http://www.zhihu.com/people/shi-liu-70" class="zg-link" title="石榴">石榴</a>、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="3560070" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"><b>写作时不思考，思考不写作</b><br>写作之前你应该“胸有成竹”，写作过程不过是一气呵成把已经有的东西落到文字上而已，所以不要让任何事物和思绪打断你的写作流。<br><br>整个写作过程，是由你身体里住着的三个人完成的：<br><b>策划人、创作人、评论人</b><br><br>一般专业做法是策划人先工作，他会定主题，顺逻辑，搭框架。然后再交给创作人，通过灵感和创作流往框架里面添血加肉，完整整个作品的实体，最后才交由评论人咬文嚼字润色修饰。<br><br>任何一篇文字，都是主题立意第一（策划人），内容第二（创作人），文采（评论人）第三。所以把太多精力纠结在咬文嚼字上其实就是一种本末倒置，舍本求末的做法。<br><br>但是不是只要知道这个写作顺序就一定能改变咬文嚼字影响创作速度的这个问题了呢？<br><br>答案是否定的。<br><br>总是把精力放在咬文嚼字上面，说明你策划和创作的能力很弱，只是有一定文字功底，所以你会不自觉的想用文笔来回避自己的策划力与创作力不足。就像一个小兵只能通过辛苦磨刀来提高战斗力，是因为他还不能像将军那样思考过兵法和战术。<br><br>所以，要做写作的将军，重点不是知道这个创作的逻辑顺序，而是要提升自己策划、创作的能力。当你策划、创作能力足够强大时，其实也可以去打破这个创作的逻辑顺序。<br><br>至于如何提高自己的策划与创作的能力，这是另外一个问题了 。有兴趣的可以加我QQ一起探讨：190590208
+<a href="/question/28443507/answer/42499008" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="12392875-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/28443507/answer/42499008">发布于 2015-03-20</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>5 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/28443507" class="zg-link-litblue">查看全部 66 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:28443507}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="3560070">关注问题</button>
+
+813
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="7a400efa82f12be695bcacbed758f840" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="周全"
+data-tip="p$t$zhou-quan-43-90"
+class="zm-item-link-avatar"
+href="/people/zhou-quan-43-90">
+<img src="http://pic1.zhimg.com/625501830_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$zhou-quan-43-90" href="http://www.zhihu.com/people/zhou-quan-43-90" class="zg-link" title="周全">周全</a></h2>
+
+<div class="zg-big-gray">笔棍/游戏文案/懒蛋/屎尿屁专精</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/zhou-quan-43-90/followers" class="zg-link-gray-normal">638 关注者</a>
+/
+<a target="_blank" href="/people/zhou-quan-43-90/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/zhou-quan-43-90/answers" class="zg-link-gray-normal">145 回答</a>
+/
+<a target="_blank" href="/people/zhou-quan-43-90" class="zg-link-gray-normal">4537 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:28443507}'></div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20548771">音乐剧《猫》中文版再创作过程中的有什么困难和故事？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="49" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20686383">创作和拍摄电影《201314》的过程中，有哪些故事值得分享？</a> <span class="num">0 个回答</span><meta itemprop="followerCount" content="32" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20201482">中文字体的创作过程是怎样的？</a> <span class="num">7 个回答</span><meta itemprop="followerCount" content="281" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20473834">写剧本是什么样的一个创作过程和体验？</a> <span class="num">9 个回答</span><meta itemprop="followerCount" content="129" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21201886">《Green Politics in China》写作过程中有哪些有趣的故事？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="73" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21767109">雕塑创作是怎样的过程？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="24" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20409318">在戏剧文学的创作学习中，有哪些东西要和语言文学区分开来？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="30" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21554711">说话和写作对语言文字的运用有什么区别？</a> <span class="num">18 个回答</span><meta itemprop="followerCount" content="419" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21372786">创作热情的消退如何解决？</a> <span class="num">7 个回答</span><meta itemprop="followerCount" content="101" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22928527">创作小说 如何把握故事的节奏感？</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="408" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+发布于
+
+<span class="time">2015-03-01</span>
+</p>
+<p>
+所属问题被浏览 <strong>57207</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:28443507}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439627054000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":3560070,"urlToken":28443507,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="fbe20b2eb88a4be1a7f9d5c61e3ff298">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="9edc067541d5999491e27dbea12eca2b"/>
+</body>
+</html>

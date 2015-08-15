@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>唐诗三百首能背下来可以当游戏策划么？ - 周全的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/30839298">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/25476231/answer/30839298">
+<meta id="znonce" name="znonce" content="fc35c09847784ddcbed9b1f0927ee542">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/25476231" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551648"
+data-tip="t$b$19551648" data-token="19551648" data-topicid="479">
+游戏设计
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19564520"
+data-tip="t$b$19564520" data-token="19564520" data-topicid="4767">
+游戏策划
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19567962"
+data-tip="t$b$19567962" data-token="19567962" data-topicid="5930">
+博弈论
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19696704"
+data-tip="t$b$19696704" data-token="19696704" data-topicid="48976">
+古典诗词
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/25476231">唐诗三百首能背下来可以当游戏策划么？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="2373184" data-action="/question/detail">
+
+<div class="zm-editable-content">唐诗三百首信手沾来，但是没有游戏经验，可以去网易当游戏策划么？<br>-----------------------------------瞄分线----------------------------------<br>附加条件1：懂的程序设计和软件开发流程，熟悉脚本语言！<br>附加条件2：豪放词信手沾来，感觉好多网游都是战斗游戏，豪放词对这个有帮助么？<br>附加条件3：熟悉博弈论的常见模型，游戏就是各种角色的博弈，而架构师是这个世界的规则制定者，负责制造冲突与系统平衡！<br>不加条件4：游戏至少有2种，一种可称为有限游戏，另一种称为无限游戏。有限游戏以取得胜利为目的，而无限游戏以延续游戏为目的。玩家是有限游戏的主角，策划是无限游戏的导演！<br>附加条件5：我不是满足这些条件的人，有人满足</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>3 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="2373184" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/25476231" class="zg-link-litblue">查看全部 6 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="7720472"
+data-atoken="30839298"
+data-collapsed="0"
+data-created="1411318486"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-7720472"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">9</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhou-quan-43-90"
+class="zm-item-link-avatar"
+href="/people/zhou-quan-43-90">
+<img src="http://pic1.zhimg.com/625501830_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic1.zhimg.com/625501830_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhou-quan-43-90" href="/people/zhou-quan-43-90">周全</a>，<strong title="笔棍/游戏文案/懒蛋/屎尿屁专精" class="zu-question-my-bio">笔棍/游戏文案/懒蛋/屎尿屁专精</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="9">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$chen-ying-39-50" href="http://www.zhihu.com/people/chen-ying-39-50" class="zg-link" title="陈影">陈影</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$jiang-wen-hua" href="http://www.zhihu.com/people/jiang-wen-hua" class="zg-link" title="蒋文化">蒋文化</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="2373184" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">以下回答均以将题主的”没有游戏经验“理解为”平时不玩游戏“为前提。如果题主的意思是”没有做游戏策划的经验“，那就略过全文吧。<br><br>想也别想。做梦呢。让你和系统策划配合你怎么配合。你见过其他游戏的系统是什么样子的么？<br>叫你和程序沟通程序分分钟掐死你。<br>系统文档给你看一定满头雾水。<br>再叫你给系统策划提个任务系统需求文档不得写得你呕血。<br>你知道市面上的游戏大概有哪些任务形式么？<br>你知道对白写多长玩家不会看着烦呢？对白用什么形式呈现呢？过场是用动画还是用对白呢？<br>预计要提多少个原画和模型的需求呢？这个量又分配多少给特色npc，多少给通用npc呢？<br>你知道该怎么设计装备，设计职业，设计场景，设计技能算出彩么？<br>不过我说这些也没什么意义……因为你八成过不了笔试第一关。问你几个游戏公司啊制作人名字啊最喜欢的游戏啊不就一下傻逼了。<br>就算你进去了，和同事沟通起来同事会用什么眼神看你你现在可以脑补一下。<br><br>再说说你这个背唐诗。。。。能背唐诗有个瘠薄用。会写武侠小说都能凑合用一下。游戏文案最大的工作量不是给装备写备注啊！！是提需求和写对白啊！用各种姿势玩弄任务编辑器啊！小公司再加一条填配置表！<br>再说了你以为游戏文案只写武侠么？<br>换成奇幻背景怎么办？<br>玄幻背景怎么办？<br>儿童题材怎么办？<br>女性题材都市题材甚至休闲游戏怎么办？<br><br>而且我好奇的问一句。游戏都不玩你为什么要当游戏策划……你对玩家群体能有认同感么？有成就感么？你做的东西能产生共鸣？<br>中国游戏的品质总有一天是要和世界接轨的。知道世界范围内的游戏已经发展到什么地步了吗？<br><br>另外为什么我看见这个题目这么生气呢？<br>因为市场上的游戏为什么他妈的那么多不堪入目的文案！！！！！！！<br>就是因为一群废物篓子拿着比文盲好一点的作品，被文盲领导招进来当文案。<br>瞎了玩家的狗眼。<br>我们把游戏叫第九艺术叫了这么多年，国内的”艺术“还是二人转水准。<br>什么古剑仙剑，兜头一泡狗血洒人一身。还有人叫好好好。（仙剑134还是不错的！摘清一下。）<br>怎么叫人他妈的不难过！！！！！<br>难过！
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="7720472-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-09-22" target="_blank" href="/question/25476231/answer/30839298">编辑于 2014-09-22</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>3 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7951411"
+data-atoken="31415823"
+data-collapsed="False"
+data-created="1412501732"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="3">3</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">3</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$jing-le-dui-chang" href="/people/jing-le-dui-chang">京乐队长</a>，<strong title="游戏设计，(⊙v⊙)嗯。顺便带个博士~" class="zu-question-my-bio">游戏设计，(⊙v⊙)嗯。顺便带个博士~</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="3">
+
+<span class="voters">
+<span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$zhou-quan-43-90" href="http://www.zhihu.com/people/zhou-quan-43-90" class="zg-link" title="周全">周全</a>、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2373184" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"> 其实我觉得是可以当游戏策划的。<br>------------------------------------------&gt;但是&lt;--------------------------------------------------<br> 我想不是现在，也不是去网易吧。<br>  原因1呢，其实游戏策划需要的是综合实力，而综合实力是可以锻炼的。只需更偏重于对游戏的理解，花费大量的时间和精力是可以达到要求的。<br>  原因2，游戏策划其实也有很多岗位的，暴雪也有专业的小说家为魔兽历史撰写，而且各种写了改，改了又改。唐诗300首能背，但是不知道其他的文学基础和文化含量有多高。如果在游戏文化背景上有所天赋，其实可以考虑去设计游戏背景。<br><br>--------------------------------------&gt;但是我觉得更多的是题主的问题&lt;---------------------------------<br>  附加条件1，其实可以认为是基础条件。或者说甚至策划不需要了解的东西。你需要的是能和程序沟通，让程序理解你的意图然后找到解决的办法。完成整个策划的意愿或者去修改。<br>  附加条件2，多人在线游戏确实战斗元素比较多，但是实在是难以接受“所以豪放词比较多”这个逻辑推理。就算情况是这样的，那您也只是在文本处理具有那么一丁点的优势，因为比较战斗台词不会比其他的文本多。仅仅在对白设计上有技巧的话，可能很难适应策划这种很全面的工作。<br>  附加条件3，这个角色博弈理论的提出说明，有对游戏进行分析和理解。同时也证明了游戏经验非常少和构思游戏的经验不足。对策论（也就是您说的博弈论）是PVP游戏会参考，PVE会运用的知识。但是作为策划，需要对游戏里对策论有着非常深刻的认识，以及从玩家角度去判断这个元素。不同的游戏提供给玩家不同的体验，是否会运用到这个理论，需要很多条件：比如市场调查，游戏概念，游戏交互系统等等。我觉得附加条件3 是一个您的优势和亮点，应该多去研究和学习这个理论在游戏上是如何实现和处理的。如果您是一个有着丰富经验的游戏玩家，您就会发现游戏里面的博弈论对游戏规则的影响其实会被设计的很小。原因就是好的游戏，或者赚钱的游戏都希望能符合各种口味的玩家，所以会让玩家需求在游戏里得到充分的体现。就可能不会出现博弈的现象，只是多选择的现象。但是我觉得您可以继续在这个领域研究和分析，因为很多关卡的设计是参考了很多博弈模型的。仍然需要这方面的考虑和创新。如果运用的非常巧妙合理的话我觉得是一个很棒的加分项。<br>  “ 不加条件4”?，这个理论很新颖呢。有句古话叫做，学而不思则罔，思而不学则殆。游戏经验就是学，游戏研究就是思。您现在处于想的多，玩的太少。这个有限无限游戏的理论，最大的破绽就是任何游戏都可以做成无限，也可以做成有限。甚至游戏既可以有限又无限。您怎么看。按照您的定义，星际争霸您觉得是款什么游戏，魔兽世界属于什么游戏，福尔摩斯属于什么游戏。说难听点这个理论有点扯淡。如果您能完整的把这个理论定义清楚，把条件设定好。我想可能在游戏的过程或者模式上是存在这种理论的。<br>       玩家是游戏规则里的一个元素，策划是游戏规则的编剧，导演是游戏规则。这点千万不要搞错了。玩家不一定会根据你的剧本走，而且你的策划不一定会完全的限制住玩家的行为。如果你的设计非要玩家这么做后果就是，玩家数量会减少。最重要的是，总导演是制作人。策划人员也好，程序、美工、架构师也罢最终是要对制做人负责滴。<br>       所以要有一颗去理解制片人想法的心，站在不同的角度去学习进步才是题主最需要的东西。<br>       希望您早日进一个理想的游戏公司开始您的游戏策划生涯，与您共勉。
+<a href="/question/25476231/answer/31415823" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7951411-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/25476231/answer/31415823">发布于 2014-10-05</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7721698"
+data-atoken="30842362"
+data-collapsed="False"
+data-created="1411340156"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1">1</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info " data-votecount="1">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$liu-yibai" href="http://www.zhihu.com/people/liu-yibai" class="zg-link" title="刘一白">刘一白</a></span>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2373184" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">孙子兵法信手拈来，但是没有实战经验，可以去当国防部长吗？
+
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7721698-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/25476231/answer/30842362">发布于 2014-09-22</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/25476231" class="zg-link-litblue">查看全部 6 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:25476231}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="2373184">关注问题</button>
+
+12
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="7a400efa82f12be695bcacbed758f840" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="周全"
+data-tip="p$t$zhou-quan-43-90"
+class="zm-item-link-avatar"
+href="/people/zhou-quan-43-90">
+<img src="http://pic1.zhimg.com/625501830_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$zhou-quan-43-90" href="http://www.zhihu.com/people/zhou-quan-43-90" class="zg-link" title="周全">周全</a></h2>
+
+<div class="zg-big-gray">笔棍/游戏文案/懒蛋/屎尿屁专精</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/zhou-quan-43-90/followers" class="zg-link-gray-normal">638 关注者</a>
+/
+<a target="_blank" href="/people/zhou-quan-43-90/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/zhou-quan-43-90/answers" class="zg-link-gray-normal">145 回答</a>
+/
+<a target="_blank" href="/people/zhou-quan-43-90" class="zg-link-gray-normal">4537 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:25476231}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/25476231/answer/30839298/collections">3</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1437645018">
+<h2 class="zm-item-title ">
+<a href="/collection/66335223">游戏</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/cai-xiao-ya-93" data-tip="p$t$cai-xiao-ya-93" class="zg-link-litblue"> 蔡小亚 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/66335223/followers">0 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19742925">有什么好玩的塔防游戏推荐？</a> <span class="num">112 个回答</span><meta itemprop="followerCount" content="2130" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20594728">《时空幻境》（Braid）堪称「神作」的原因有哪些？</a> <span class="num">26 个回答</span><meta itemprop="followerCount" content="1438" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20579410">如何在玩游戏的过程中学习游戏策划？</a> <span class="num">31 个回答</span><meta itemprop="followerCount" content="1837" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21078948">你玩过哪些好的单机游戏？</a> <span class="num">180 个回答</span><meta itemprop="followerCount" content="3548" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20937006">《瘟疫公司》（Plague Inc.）这款游戏有什么技巧？</a> <span class="num">48 个回答</span><meta itemprop="followerCount" content="1785" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20131394">玩《风之旅人》（Journey）的感觉如何？</a> <span class="num">36 个回答</span><meta itemprop="followerCount" content="1710" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19571360">塔防游戏的乐趣在哪里？</a> <span class="num">33 个回答</span><meta itemprop="followerCount" content="293" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19897146">“剪刀石头布”游戏中，出什么胜算最大？</a> <span class="num">16 个回答</span><meta itemprop="followerCount" content="79" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20263627">博弈论在具体的游戏设计中的应用方面有哪些？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="101" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20721603">《神庙逃亡 2》（Temple Run 2）的游戏体验如何？</a> <span class="num">22 个回答</span><meta itemprop="followerCount" content="129" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-09-22</span>
+</p>
+<p>
+所属问题被浏览 <strong>1757</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:25476231}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439627055000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":2373184,"urlToken":25476231,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="fc35c09847784ddcbed9b1f0927ee542">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="aced76d8382a483b6122965c16d6428b"/>
+</body>
+</html>

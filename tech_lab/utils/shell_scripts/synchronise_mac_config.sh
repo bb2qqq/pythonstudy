@@ -6,6 +6,7 @@ grep -v "ssh" ~/.bashrc | grep -v "admin" > ~/tmp
 cp ~/tmp ~/zen/pythonstudy/tech_lab/config/OSX/bashrc
 cp ~/.vimrc ~/zen/pythonstudy/tech_lab/config/CrossPlatform/vimrc
 cp ~/.vimrc ~/zen/pythonstudy/tech_lab/config/OSX/vimrc
+cp ~/local_vim_scripts.vim ~/zen/pythonstudy/tech_lab/config/OSX/local_vim_scripts.vim
 cp ~/.vim/plugin/* /Users/zen1/zen/pythonstudy/tech_lab/vim_skill/my_plugin
 
 # Universal code

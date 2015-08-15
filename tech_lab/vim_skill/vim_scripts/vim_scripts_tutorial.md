@@ -1,5 +1,6 @@
 ### Show all current vim variables
     :let
+    :put L2 | put L1
 
 ### Create local variables
     :let s:local_var = 42
@@ -178,6 +179,210 @@ Function without range:
     # You will get line1 to line20 printed on your screen.
     # Meanwhile cursor moved to line20
 
+Function with undefinite numbers of variables:
+
+In vim, you can specify that a function need particular numbers of concret variables,  
+and undefinite numbers of possible variables(max optional var num is 20).  
+Let's see an example:
+
+    function EchoVars(v1, v2, ...)
+        echo a:v1
+        echo a:v2
+        echo a:0
+        echo a:1
+        echo a:2
+        echo a:000
+    endfunction
+
+    "# CALL IT
+    call EchoVars('a','b','c','d','e', 'f', 'g')
+
+    "# RESULT
+    a
+    b
+    5
+    c
+    d
+    ['c', 'd', 'e', 'f', 'g']
+
+From the example above, we can see `a:0` refers to the total num of optional vars,  
+`a:000` is the list of all optional vars, meanwhile `a:1` is the first optioanl var, and so on.
+
+<br/>
+There is a way to assign a reference to a function by using `function()`. Here is an example:
+
+    :function Titan()
+    :    echo "Shivering under the power of reference, insects!"
+    :endfunction
+    :let Ref1 = function('Titan')
+    :call Ref1()
+
+    Shivering under the power of reference, insects!
+
+You use `function` to view all user-defined functions, type `function FunctionName` to view code of a particular function.  
+And `:delfunction FunctionName` can help you delete a function.
+
+
+## CLASSES
+Vim script doesn't have class structure. But you can "Leverage" a dict to make it a rudimental class.  
+And you use `copy()` function to make instances of it.
+
+    :let ClassZ = {'author': "Juchen.Zeng"}
+    :function ClassZ.Print_author_name()
+    :    echo self.author
+    :endfunction
+
+    :function ClassZ.Change_author_name(arg1)
+    :    let self.author = a:arg1
+    :endfunction
+
+    :call ClassZ.Print_author_name()
+
+    Juchen.Zeng
+
+    :call ClassZ.Change_author_name('MarioLuisGarcia')
+    :call ClassZ.Print_author_name()
+
+    MarioLuisGarcia
+
+    :put = string(ClassZ)
+
+    {'Change_author_name': function('2'), 'author': 'MarioLuisGarcia', 'Print_author_name': function('1')}
+
+    "# You can use `function {function_numer} to view a numbered function, e.g.
+    :function {2}
+
+       function 2(arg1) dict
+    1      let self.author = a:arg1
+       endfunction
 
 
 
+There is another way to define dict methods, by using extra `dict` argument when defining a function.
+
+    :function Tell_joke() dict
+    :    echo "This is funny!"
+    :endfunction
+
+    :call Tell_joke()
+    E725: Calling dict function without Dictionary: Tell_joke
+
+    :let ClassZ['Talk'] = function('Tell_joke')
+    :call ClassZ.Talk()
+
+    This is funny!
+
+# DATA TYPES
+
+## LIST
+### Append elements to list
+    :let vl = []
+    :call add(vl, 'i1')
+    :call add(vl, 'i2')
+    :echo vl
+
+    ['i1', 'i2']
+
+### Extend a list
+    :let L1 = [1, 2]
+    :let L2 = [3, 4]
+    :echo L1 + L2
+
+    [1, 2, 3, 4]
+
+    :echo L1
+
+    [1, 2]
+
+    :let L1 += L2
+    :let L2 = L2 + L1
+    :put = string(L2)
+
+    [3, 4, 1, 2, 3, 4]
+
+    :call extend(L2, L2)
+
+    [3, 4, 1, 2, 3, 4, 3, 4, 1, 2, 3, 4]
+
+    :call add(L1, L1)
+    :put = string(L1)
+
+    [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [1, 2, 3, 4, [{E724}]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+    :let L3 = [5, 6]
+    :call add(L2, L3)
+
+    [3, 4, 1, 2, 3, 4, 3, 4, 1, 2, 3, 4, [5, 6]]
+
+
+### Iterate over a list
+    "# Example 1
+    :let L = [1,2,3,4,5]
+    :let n = 0
+    :for i in L
+    :   let n += i
+    :endfor
+    :echo n
+
+    15
+
+    "# Example 2
+    :for line in getline(10, 60)
+    :    if line =~ "me"
+    :       put = matchstr(line, '[a-z]*me[a-z]*')
+    :    endif
+    :endfor
+
+    "# RESULT(deleted some "name" result)
+    name
+    meanwhile
+    name
+    environment
+    name
+
+
+
+# Syntax
+
+### Excpetion Catch
+Catch particular exception
+
+    :try
+    :   read ~/files_not_exists
+    :catch /E484:/
+    :   echo "Sorry, the dir was using to store cookies now"
+    :endtry
+
+Bare exception
+
+    :try
+    :    call messi_jugar_baloncesto
+    :catch
+    :    echo "Esto es increible"
+    :endtry
+
+Finally syntax
+
+    :try
+    :   call murninho_is_brazilian()
+    :catch /What?/
+    :finally
+    :   echo "He win the Prime League at least"
+    :endtry
+
+> No matter what happens between `try` and `finally`, the command in `finally` part will always been executed.
+
+
+### Line continuation
+
+    :!vim temp.vim
+    function Line_continuation_demonstration()
+        echo "Let's test the line
+              \ continuation in
+              \ vim."
+    endfunction
+
+    :source temp.vim
+    :call Line_continuation_demonstration()
+
+    Let's test the line continuation in vim.

@@ -1,3 +1,28 @@
+### Redirect echoed content of command to file
+    redir => zen_temp | exe "my expressions" | redir END | put=zen_temp
+
+### Redirect values of expressions to file
+    :put = @%
+    vim_magic.md
+
+### Show all User Defined Functions
+    :function
+
+> To show the code of a particular function, you use `:function FunctionName`
+
+### Multiple commands in one line
+    echo "first echo." | echon "Second echo without prepend newline." | echo "Third echo"
+
+
+### Echo highlight content
+    echohl Title     "Specify the highlight styleyou prefer here, here `Title` can be replaced by other styles such as `Visual`.
+    echo "Intended highlight contents"
+    echohl None      "# Stop echo highlight signal
+
+### Source an external vim-script
+    :so my_vim_script
+    :source my_vim_script
+
 ### List all search patterns in a file
 With line number:
     :g/pattern/#

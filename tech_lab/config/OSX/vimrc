@@ -2,6 +2,10 @@
 " !!! CAUTION !!! set paste will disable abbreviation setting! don't know why
 "set paste
 
+" External file import
+so zen_tool.vim
+
+
 " Abbreviation
 " wrap all cuurent file datas with python list formats
 
@@ -9,33 +13,53 @@
 " For more discussion between <bar> and |, visit:
 " http://stackoverflow.com/questions/31427172/why-my-multiple-command-vim-command-mode-abbreviation-will-be-executed-automatic/31427473?noredirect=1#comment50827919_31427473
 ca ml %s/^/"/g <bar> %s/$/",/g <bar> 1s/^/[/ <bar> $s/$/]/
-
+ca ai set autoindent
 ca csp set spell
 ca ncsp set nospell
 ca pa set paste
 ca tlg TlistToggle
 ca vres vertical resize
-ca rd r!date
+ca rdo r!date
+ca rd r!date +'\%Y-\%m-\%d \%H:\%M'
 ca rp r!pbpaste
 " Turn PEP8 80 char highlight off
 ca 80off match OverLength /\%8000v.\+/
 filetype plugin on
 
+autocmd FileType markdown highlight ExtraWhitespace ctermbg=blue guibg=blue | match ExtraWhitespace /\s\+$/
+
+colorscheme mario
+
+" DIY FUNCTION AREA
+
+
+function Max2num(n1, n2)
+    if a:n1 < a:n2
+        return a:n2
+    else:
+        return a:n1
+    endif
+endfunction
+
 " Load different color them for different types of files
 function! MyColors()
     if &filetype == ""
         colorscheme white_mario | set spell
-    elseif &filetype == "markdown"
+    elseif &filetype == "ruby"
         colorscheme mario
     else
         colorscheme mario
     endif
  endfunction
 
- augroup colors
-     autocmd!
-     autocmd BufNewFile,BufEnter * call MyColors()
- augroup END
+" FUNCTION ABBREVIATIONS
+ca m2 Max2num
+ca asp AddShellPrompt
+" Enable MyColors
+" augroup colors
+"     autocmd!
+"     autocmd BufNewFile,BufEnter * call MyColors()
+" augroup END
 
 
 "colorscheme elflord
@@ -64,7 +88,13 @@ set incsearch
 
 
 
-" KEY REMAP
+""" KEY REMAP
+
+" Command-line navigation optimazation
+cnoremap <C-a> <Home>
+cnoremap <C-e> <End>
+cnoremap <C-b> <Left>
+cnoremap <C-f> <Right>
 
 " optimize visual select indent
 vnoremap < <gv
@@ -109,11 +139,9 @@ autocmd FileType python highlight OverLength ctermbg=red ctermfg=white guibg=red
 autocmd FileType python match OverLength /\%80v.\+/
 autocmd FileType python highlight ExtraWhitespace ctermbg=grey guibg=grey
 " match can only be use once in vimrc, you need use 2match, 3match, [n]match for later match
-autocmd FileType python 2match ExtraWhitespace /\s\+$/
+autocmd FileType python match ExtraWhitespace /\s\+$/
 
 " MARKDOWN CONFIG
-autocmd FileType markdown highlight ExtraWhitespace ctermbg=blue guibg=blue
-autocmd FileType markdown match ExtraWhitespace /\s\+$/
 autocmd FileType markdown set shiftwidth=2
 
 
@@ -126,7 +154,9 @@ match ExtraWhitespace /\s\+$/
 
 " MAC CONFIG
 
+" Find a way to only yank to clipboard
 set clipboard=unnamed
+"nnoremap <silent> yy :<C-u>set clipboard=unnamed<Bar>execute 'normal!' v:count1 . 'yy'<Bar>set clipboard=<CR>
 
 " ******** file encode ********
 " unix or dos file

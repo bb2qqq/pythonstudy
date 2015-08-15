@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>网络作家「猫腻」的写作水准到底如何？ - 周全的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/26948252">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/24184769/answer/26948252">
+<meta id="znonce" name="znonce" content="a6436b9253b949b59b891a5e27b89a99">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/24184769" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19550447"
+data-tip="t$b$19550447" data-token="19550447" data-topicid="73">
+小说
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19552516"
+data-tip="t$b$19552516" data-token="19552516" data-topicid="767">
+写作
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19555879"
+data-tip="t$b$19555879" data-token="19555879" data-topicid="1873">
+网络小说
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19799770"
+data-tip="t$b$19799770" data-token="19799770" data-topicid="83614">
+猫腻
+</a>
+
+<a class="zm-item-tag"
+href="/topic/20004740"
+data-tip="t$b$20004740" data-token="20004740" data-topicid="153619">
+网络小说作家
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/24184769">网络作家「猫腻」的写作水准到底如何？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="1855850" data-action="/question/detail">
+
+<div class="zm-editable-content">原问题：<br><blockquote>题目：为什么猫腻的写作水准如此差，他的小说如此受到推崇？<br><br>补充说明：我被很多朋友推荐过猫腻的小说，包括庆余年，将夜，这几天女朋友又在一直推荐将夜。我非常不明白，庆余年我看了大概5万字左右，将夜也大概看了5万字左右，真的是需要非常大的忍耐力才能坚持看下去，作者文字水准完全不在专业水准，情节也很明显中二病晚期，最可怕的是冗长无聊。但是为什么这么多人推荐？豆瓣评分将夜8.4，知乎上有一个问题的答案也是长篇大论的解释其文章多好，究竟是我欣赏问题还是什么问题？<br><br>顺带补充一点我喜欢的小说（绝不是装B地说些冷门小说，而是真正觉得非常好看的）作为参照：马伯庸的几乎所有小说，东野圭吾的很多小说，刘慈欣的几乎所有小说等等列举不完了。感觉这些人的小说，不谈艺术水准究竟有多高，但首先是好看，然后是文字至少在专业水准之上（也就是完全读的下去，马伯庸的文字更是读起来饶有风味）</blockquote></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>54 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="1855850" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/24184769" class="zg-link-litblue">查看全部 132 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="6098896"
+data-atoken="26948252"
+data-collapsed="0"
+data-created="1403019739"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-6098896"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">645</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhou-quan-43-90"
+class="zm-item-link-avatar"
+href="/people/zhou-quan-43-90">
+<img src="http://pic1.zhimg.com/625501830_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic1.zhimg.com/625501830_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$zhou-quan-43-90" href="/people/zhou-quan-43-90">周全</a>，<strong title="笔棍/游戏文案/懒蛋/屎尿屁专精" class="zu-question-my-bio">笔棍/游戏文案/懒蛋/屎尿屁专精</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="645">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$jiang-ke-chao-24" href="http://www.zhihu.com/people/jiang-ke-chao-24" class="zg-link" title="蒋可超">蒋可超</a>、</span><span class="user-block"><a data-tip="p$t$chen-xu-37-21" href="http://www.zhihu.com/people/chen-xu-37-21" class="zg-link" title="陈默的大多数">陈默的大多数</a>、</span><span class="user-block"><a data-tip="p$t$xu-zhen-7-25" href="http://www.zhihu.com/people/xu-zhen-7-25" class="zg-link" title="桃子酱">桃子酱</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="1855850" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">首先正式回答一下。<br>1.网络小说的水准普遍偏低，最低的可以低到地心去。但是这个事情，你不能说它的存在是不好的，因为网络小说平台是给与大众一个自由写作的空间。我们本就应该鼓励大家写作不是吗？<br><br>2.以能力来说，猫腻的文字功底绝对不能说差。只不过首先是——你不喜欢他的风格。<br>其次他是专业的网络小说写手，而且从业多年，已经“染上”，当然，也可以说“习得”了网络小说必须的职业技能——多，快，爽。当一个人每天都要写几千上万字的时候，能保持猫腻的水准已经是网络小说里很难得很难得的了。<br><br>你不要跳起来说“写得烂就是写得烂，找什么借口”。<br>对你来说，你是想找个符合自己胃口的小说，而对猫腻这个作者来说，他只需要按照自己一贯的文风写下去，就可以吸引到这一批习惯并且喜欢这种文风的读者。你根本不是他的目标受众。<br><br>3.为什么他的小说如此受推崇。网络小说的读者很多都是把小说当食物看待的，他们每天要吃够量，在够量的基础上，味道越美越开心。综上所述，猫腻更新有保障，不太监，作品品质稳定而且属于网络小说的上层水准，完全符合受欢迎的标准。<br><br>4.网络小说的读者有多少我懒得去查数据了，一两个亿总是有的。盗版这么多，名气越大的作品会逐年累积越来越多的读者。所以只要作品品质不下降，猫腻会越来越有名。<br><br>下面说说看到标题时候的想法。<br>我发现知乎上很多人都有自心说的气质，觉得宇宙都是以自己为中心转的。我喜欢的东西别人不喜欢没道理，我不喜欢的东西别人喜欢也没道理。<br>为什么他的小说如此受到推崇……当然是因为他的小说有如此多的人喜欢了。<br>世界这么大，人这么多，“喜欢”又是如此的标准混乱，你这个问题实在是问得很没道理。建议下次问该类问题的时候改成“我们来讨论一下猫腻小说的瑕疵吧”会比较好。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="6098896-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-06-17" target="_blank" href="/question/24184769/answer/26948252">编辑于 2014-06-18</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>82 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="6102656"
+data-atoken="26957469"
+data-collapsed="False"
+data-created="1403057959"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="257">257</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">257</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$wang-yan-34-70" href="/people/wang-yan-34-70">王焱</a>，<strong title="喜欢写东西" class="zu-question-my-bio">喜欢写东西</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="257">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$jiang-ke-chao-24" href="http://www.zhihu.com/people/jiang-ke-chao-24" class="zg-link" title="蒋可超">蒋可超</a>、</span><span class="user-block"><a data-tip="p$t$chen-xu-37-21" href="http://www.zhihu.com/people/chen-xu-37-21" class="zg-link" title="陈默的大多数">陈默的大多数</a>、</span><span class="user-block"><a data-tip="p$t$jizhongyuegong" href="http://www.zhihu.com/people/jizhongyuegong" class="zg-link" title="及众曰公">及众曰公</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="1855850" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">吐个槽，看了下，你补充的小说。。<br>你让一个网络小说作家，跟马伯庸这些比。。<br>至少，现在你在比较作品的时候，必须要把网络小说单独拉出来评论，让网络小说跟网络小说比。<br>为什么？<br><br>第一名说的很对，你让马伯庸一天写个几千字看看，估计他也很快就水了。估计都吐了。。<br>现在的网络小说，的确陷入了一个怪圈子，大家以量取胜。。<br>不过，这也是受众面的问题，好的小说，必然要精雕细琢的，速度根本快不上去的好不好。花费个1年写个几十万字才是正常值。<br>现在一年都几百万了好不好。。<br>这质量根本不可能提升上去的呀，但问题是，人家写手也要混口饭吃呀，人家真的认真花了一两年时间写了个好小说。但导致一家人挨饿，凭什么。<br><br>等到，网络小说的受众水平，审美真正的提升起来的时候，才是网络小说真正可以入流的时候。现在的话。<br>让凯撒的归凯撒,上帝的归上帝吧。<br><br>可惜了，老猫的文字功底，文章架构功底真心还是不错的。只不过在现在这个大环境下，为了让日子过得再好一点，还是需要做一些妥协的。<br>当年庆余年的那一句，庆历四年春，藤子京。读过去之后，愣了一下，突然就笑个不停。<br>还有他主角和他老爹的名字，犯嫌，犯贱~~当时看了许久后，才醒悟过来这个梗，也是笑了好久。还有他创建的很多角色，那个巾帼不让须眉的女子，全篇都没有正面出现，却深深的刻在我们的心中。<br>以及懒猫，他在一天几千字的灌水的时候，还能够不时的透露下情怀。<br>我真的觉得，很不错了。
+<a href="/question/24184769/answer/26957469" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="6102656-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-06-18" target="_blank" href="/question/24184769/answer/26957469">编辑于 2014-06-19</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>48 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="6110274"
+data-atoken="26975465"
+data-collapsed="False"
+data-created="1403083614"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="74">74</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">74</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zheng-yu-84-95" href="/people/zheng-yu-84-95">午晴初</a>，<strong title="蓦然回首，那人可在灯火阑珊处？" class="zu-question-my-bio">蓦然回首，那人可在灯火阑珊处？</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="74">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$chen-xu-37-21" href="http://www.zhihu.com/people/chen-xu-37-21" class="zg-link" title="陈默的大多数">陈默的大多数</a>、</span><span class="user-block"><a data-tip="p$t$tu-shan-hu" href="http://www.zhihu.com/people/tu-shan-hu" class="zg-link" title="涂山狐">涂山狐</a>、</span><span class="user-block"><a data-tip="p$t$yan-jake-79" href="http://www.zhihu.com/people/yan-jake-79" class="zg-link" title="Yan Jake">Yan Jake</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="1855850" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">补充：这里大部分回答都是读者角度的回答，但个人的阅读经验毕竟有限。而且每个人的喜好、品位也都千差万别。《红楼梦》是经典，可是就是有人看不进去那种小女儿情态。《金瓶梅》粗糙，但并不妨碍它作为最早的世情小说有着重大的文学史意义。同样的，评价猫腻及其作品，甚至评价当下网络小说作家及他们的作品，都不能够仅仅凭着我们的阅读喜好、阅读经验来评判。当然，这里说的是“好不好”，“是不是好作品”，而不是“喜不喜欢”。因为再好的作品也有偏不喜欢的人。别人看来粗枝烂叶的对另一些人也许就是怦然心动。<br>这是我的一点拙见吧。下面摘录了<b>学院的一些观点和看法</b>。见仁见智，多一种声音，多一些见解，总是好的。毕竟这里是知乎嘛~<br>====================================================<br><br>前面很多人说了，猫腻作为网络小说写手，已经达到了网络小说写手的一个高度，这才是他获得赞誉的重点。如果将他与纯文学、通俗文学作家去比较，是不公平的。说他写的不好，看不下去，那原因可能有两个，一是不对胃口，毕竟每个人喜好都不同，也就是说，别的网络小说看得进去，但猫腻的看不进去；二是采用的文学衡量标准有待商榷，那可能大部分网络小说都看不进去。一个需要每日更新的作家，是没有时间琱琢好作品的。至于《将夜》的更新问题，一方面，是他说的家中事情多，另一方面，其实读者也能看出，他遇到了写作瓶颈（写作瓶颈，这个词其实多少带有了作家情怀）。而此前，猫腻的更新一直都是很有保证的。我自己当时追文的感受是希望他赶快结束掉《将夜》，因为这小说的发展脉搏渐渐地感应不到了。而猫腻最好的小说，我认为是《间客》。他获得很高的赞誉，也多来自此书。贴一段我们系邵燕君老师的文章：<br><br><blockquote>        如何区分一部类型小说是普通的大众通俗作品还是有着精英引导性的经典作品？用网络语言说，如何区分大神之作和大师之作？关键就要看作者在其创建的第二世界里如何立法。一般的作者其实只能复制现实逻辑，然后修改某些参数，让读者 爽一把。 比如，在一个狼吃羊的社会里，让一个个平时为羊的读者跟随被赋予超能力的猪脚（网络语，即主角）一路嚣张，随心所欲。但这样的爽只能给读者带来暂时的满足感，却进一步强化了羊只能被狼吃的现实逻辑。只能复制现实逻辑的作者技法再高，也仅仅是大神级的，而大师不仅是大神技巧的集大成者，更是真正的立法者。 在参照现实逻辑打造一个高度仿真的第二世界之后，通过一系列的文学手段让读者在信服认同中完成对现实逻辑的颠覆，于是，正义匡扶，大快人心。 这就是金庸大师曾经达到的境界。要达到这样的境界，不仅需要文学功力，更需要精神情怀 。从某种意义上说，那些经营第二世界的大师作者和西方理论界六月风暴后退回书斋的大师学者之间有异曲同工之处，都是在不能颠覆现实秩序之后颠覆文字秩序。不过，<b>通俗文学界的大师是大众的大师，大师的诞生不是天才降生，而是读者孕生 。也就是说，大师时代的来临，意味着配得上大师的读者群形成了。</b><br><br>        中国网络文学发展十余年来基本处于大神阶段，但非常令人惊喜的是，最近一两年，开始出现有大师品相的作品。<b>我这里特别推介猫腻的间客，这部 2010 年起点中文网男生频道推选的年度作品（2011 年连载完）在网络文学发展史上具有标志性意义。</b>小说在玄幻的背景下讲述了一个小人物许乐的成长故事，经过一系列的奇遇和磨难，主人公不但人生大放异彩，而且始终保持着道德的纯洁和内心的完整。相比作者 2008 年走红的庆余年，间客在思想境界上有着质的飞跃，主人公不再为了自己和亲人的利益不择手段，而是始终在人类终极关怀的意义上听从着道德良心的要求。由于主人公身处的背景有着极强的现实相关性和前沿性（那个虚构的联邦很像中国人想象中的美国，而且是金融危机之后寡头政治浮出水面的美国），因此，作者可以在一个很高的起点上讨论诸如个人自由与国家责任，联邦精神与家族利益，神圣目的与卑劣手段，绝对正义与局部妥协之间的悖论问题。小说的调子恢弘而明朗 ，在各种权力和隐形权力、规则和潜规则复杂博弈的背景下，以主人公明朗乐观的性格、简单率性的行为方式（通常是直接暴力）和光辉灿烂的人生结局笃定地告诉读者：内心纯洁的人前途无限 。于是，<b>小人物的一腔不平之气得以舒张，人们心中的道德律终于又得平安地落回头顶星空的照耀之下</b>（康德的那句名言被列为小说的卷首语）。这位被称为老猫的年轻作者虽然并不是当前网络文学中最火的作家，但在精英粉丝中深受拥戴。从庆余年到间客，作品境界的提升并不只是作者个人的飞跃，而是显示着从 2008 年奥运会前的高歌猛进到地震雪灾金融危机之后的国民整体心理转向，在大灾难大危机之后重新考虑生命的意义，重新树立对人类基本价值观的信仰，至少成为一部分人的精神趋向。<br><br><b>          在目前的网络文学中，像间客这样的作品尚属凤毛麟角，甚至可称孤本，但却是特别值得精英批评者关注的写作倾向 。</b>从中我们可以尝试总结出几个异托邦中的新现实主义的核心要素：第一，它不是客观真实地反映现实，但却要精确深刻地把握现实逻辑，并将读者的深层欲望和价值关怀折射进小说创造的第二世界 ；第二，作为高度幻想的幻想文学，第二世界自身需有严密的逻辑系统，这个系统是在参照现实逻辑的基础上重新立法，重塑具有超越性 、引导性的价值观。第三，现实逻辑和想象力逻辑相互渗透，为满足读者爽的目的，允许Y Y。<br><br>         通过建构一个第二世界并在其中重新立法，异托邦中的新现实主义突破了传统现实主义的价值观困境。许乐是一个如孙少平一样的从底层走出的大好青年，但在池大为那里无论如何也跨不过去的 坎儿，他轻易就跨过去了 。因为，作者在赋予他强大的道德系统的同时，更为他配备了超强的神秘能力系统， 他可以把所有级别的李光头打倒在地，从而使宋钢成为欢乐英雄。于是我们看到，在现实主义小说中受到阻遏的美感快感通道得以疏通，在酣畅淋漓的叙述中，大写的人 重登神坛， 意识形态整合功能也得到替代性修复， 当然是在异托邦的意义上 。<b>没有人会以许乐同志为榜样，所有那些许乐在小说中不忍的，都是我们在现实生活中必须忍的。</b>小说提供了一套不同的价值系统，里面有了敬仰、爱和温暖，但仍旧是一副麻醉剂。高级的爽能让人更好地忍，所以，这样的 异托邦不但是可以与现实社会并存的，甚至是被需要的，因为它既是反抗的，又是安全的。</blockquote>       邵燕君老师研究网络文学好几年了，目前只单拎出一个猫腻讲了整整一个学期。这对猫腻作为网络文学作家的水平也算是一种肯定。作为网络小说作家，猫腻的东西，肯定有很多模式化的成分，主人公一定有一个显赫的身份，并且这个身份在很长篇幅内可以提供给主角“有种你打我呀”的底气，或者说手牌。然后一群美少女啊，这就不用说了，我的女人是我的，我罩着的女人还是我的~这是网络小说，或者说是起点小说的通病。如果要求作者写一个几百万字的小说用一种风格，然后马上构思另一种风格的几百万字小说，还要每天更新，这是莫言也做不到的事情。几部看下来，难免会产生厌倦。《庆余年》追了两年，狠狠爽了一把，到了《间客》，就有些意兴阑珊的，觉得各种雷同，但在连载完结后我又从头看了一遍，保证了连贯性和整体效果，终于感受到了《间客》的魅力。<b>这里面，有一种精神在闪光。</b><br><br>再补充，上面贴的文字节选自邵燕君老师的一篇文章：《面对网络文学：学院派的态度和方法》，感兴趣的可以去搜一下。
+<a href="/question/24184769/answer/26975465" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="6110274-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-06-18" target="_blank" href="/question/24184769/answer/26975465">编辑于 2014-06-19</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>11 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/24184769" class="zg-link-litblue">查看全部 132 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:24184769}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="1855850">关注问题</button>
+
+703
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="7a400efa82f12be695bcacbed758f840" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="周全"
+data-tip="p$t$zhou-quan-43-90"
+class="zm-item-link-avatar"
+href="/people/zhou-quan-43-90">
+<img src="http://pic1.zhimg.com/625501830_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$zhou-quan-43-90" href="http://www.zhihu.com/people/zhou-quan-43-90" class="zg-link" title="周全">周全</a></h2>
+
+<div class="zg-big-gray">笔棍/游戏文案/懒蛋/屎尿屁专精</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/zhou-quan-43-90/followers" class="zg-link-gray-normal">426 关注者</a>
+/
+<a target="_blank" href="/people/zhou-quan-43-90/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/zhou-quan-43-90/answers" class="zg-link-gray-normal">145 回答</a>
+/
+<a target="_blank" href="/people/zhou-quan-43-90" class="zg-link-gray-normal">2794 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:24184769}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/24184769/answer/26948252/collections">34</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1380453616">
+<h2 class="zm-item-title ">
+<a href="/collection/26798358">孵化理性思维</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/niu-niu-98-8" data-tip="p$t$niu-niu-98-8" class="zg-link-litblue"> 牛牛 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/26798358/followers">2790 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1392131500">
+<h2 class="zm-item-title ">
+<a href="/collection/31378289">写作练习</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/chen-gang-53-38" data-tip="p$t$chen-gang-53-38" class="zg-link-litblue"> 陈刚 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/31378289/followers">1750 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1367683399">
+<h2 class="zm-item-title ">
+<a href="/collection/20101428">生活</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/pinghe1984" data-tip="p$t$pinghe1984" class="zg-link-litblue"> 平何 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20101428/followers">6 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1400822382">
+<h2 class="zm-item-title ">
+<a href="/collection/37288356">嗯嗯。就是这样。</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/kou-kou-6-81" data-tip="p$t$kou-kou-6-81" class="zg-link-litblue"> 蔻蔻 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37288356/followers">1 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1434527838">
+<h2 class="zm-item-title ">
+<a href="/collection/63157961">网文</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/you-shi-97-93" data-tip="p$t$you-shi-97-93" class="zg-link-litblue"> 有时 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/63157961/followers">0 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20772518">以赚钱为目的写作，网络小说或实体杂志哪个更方便？</a> <span class="num">9 个回答</span><meta itemprop="followerCount" content="468" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20185689">网络写手的现状究竟如何？网络小说作者真实的生活状态到底是怎样的？</a> <span class="num">27 个回答</span><meta itemprop="followerCount" content="1242" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20355902">在小说写作中，人物与人物间对话的写作，有什么技巧和手法？</a> <span class="num">13 个回答</span><meta itemprop="followerCount" content="1202" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20395531">写小说有没有固定的写作手法？</a> <span class="num">14 个回答</span><meta itemprop="followerCount" content="393" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20668496">古龙的文风受到了哪些作家的影响？</a> <span class="num">9 个回答</span><meta itemprop="followerCount" content="187" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19619068">作家的文笔的定义是什么？ 怎么评判文笔的高下？</a> <span class="num">52 个回答</span><meta itemprop="followerCount" content="1466" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19980278">传统文学作家写一部长篇小说要花多长时间？</a> <span class="num">10 个回答</span><meta itemprop="followerCount" content="46" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20384478">有哪些文笔平实的著名小说作家？</a> <span class="num">66 个回答</span><meta itemprop="followerCount" content="513" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19607596">张爱玲的英文写作水平究竟如何？</a> <span class="num">12 个回答</span><meta itemprop="followerCount" content="111" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20329849">如何学习小说写作？</a> <span class="num">10 个回答</span><meta itemprop="followerCount" content="362" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-06-18</span>
+</p>
+<p>
+所属问题被浏览 <strong>114407</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:24184769}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439572324000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":1855850,"urlToken":24184769,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="a6436b9253b949b59b891a5e27b89a99">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="82296c29ba46027e07126710f9747988"/>
+</body>
+</html>

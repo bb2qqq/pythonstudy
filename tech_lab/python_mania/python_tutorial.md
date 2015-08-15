@@ -26,7 +26,6 @@ Equal to a ** b
 
 
 
-
 # Built-in Modules
 
 ## math
@@ -58,6 +57,7 @@ Return value is float
     >>>math.sqrt(3)
     >>>1.7320508075688772
 
+
 ## cmath
 cmath refers to complicate math
 
@@ -70,6 +70,12 @@ Return value is complicate number
     1j
     >>>a ** a
     (0.20787957635076193+0j)
+
+
+## __future__
+A module to store features that will be implement in future python.
+
+
 
 # Syntaxs
 

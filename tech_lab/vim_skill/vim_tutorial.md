@@ -240,10 +240,20 @@ and ":put" commands and with CTRL-R.  {not in Vi}
 
     "#      Contains the name of the alternate file.    # don't know how to use this
 
-
 6. Expression register `"=`
+    "# Stores the value of an expression
+    "# Example:
 
-  # Didn't understand how to use it for now.
+    "# Command mode command
+    :let L = [1,2,3]
+
+    "# Normal mode command
+    "# <C-M> refers to Control + M, or <Return> or <Enter> key.
+
+    "=L<C-M>p
+    1
+    2
+    3
 
 7. Selection and drop registers `"*`, `"+` and `"~`
 
@@ -255,7 +265,7 @@ For an explanation of the difference, see x11-selection.
 **Briefly speaking, `"*` works for vim visual selection, `"+` works for clipboard.**
 
 The read-only "~ register stores the dropped text from the last drag'n'drop operation.  
-\# A basically useless register for me.
+\#  basically "~ is a useless register for me.
 
 
 8. Black hole register `"_`
@@ -283,6 +293,7 @@ With the knowledge of these registers, let's learn how to insert file from vim t
     :y+         Copy the current line to the clipboard
     :N,My+      Copy line N to line M to the clipboard
 
+    :%y+        Copy the whole file to clipboard
 
 ### Write Content
 

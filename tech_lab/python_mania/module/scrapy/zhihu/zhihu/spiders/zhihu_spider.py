@@ -12,7 +12,7 @@ class ZhihuSpider(scrapy.Spider):
 #        "http://www.zhihu.com/people/zengjuchen/answers?order_by=vote_num",
 #        "http://www.zhihu.com/people/hu-wen-chao/answers?order_by=vote_num",
 #        "http://www.zhihu.com/people/lisongwei/answers?order_by=vote_num",
-        "http://www.zhihu.com/people/pirate-henry/answers?order_by=vote_num",
+        "http://www.zhihu.com/people/zhou-quan-43-90/answers?order_by=vote_num",
 #        "http://www.zhihu.com/people/zengjuchen/posts",
     ]
 
@@ -52,3 +52,33 @@ class ZhihuSpider(scrapy.Spider):
         else:
             with open(dirname + file_name, 'wb') as f:
                 f.write(content)
+
+
+
+class QuestionSpider(scrapy.Spider):
+    name = 'zhihu_question'
+    allowed_domains = ["zhihu.com"]
+    start_urls = [
+        "http://www.zhihu.com/#signin",
+    ]
+
+    # parse() will process through responses returned by requests send to start_urls
+    def parse(self, response):
+        return scrapy.FormRequest.from_response(
+            response,
+            formdata={'username': 'poor33@126.com', 'password': 'vimisgood'},
+            callback=self.after_login
+        )
+
+    def after_login(self, response):
+        page_url = "http://www.zhihu.com/question/34535765",
+        yield scrapy.Request(page_url, callback=self.parse_page)
+
+    def parse_page(self, response):
+        dirname = os.getcwd() + "/" + "questions" + "/"
+        if not os.path.exists(dirname):
+            os.makedirs(dirname)
+
+        file_name = response.url.split("/")[-1] + "_" + response.xpath('//title/text()').extract()[0].replace("/", "_")
+        with open(dirname + file_name, 'wb') as f:
+            f.write(response.body)

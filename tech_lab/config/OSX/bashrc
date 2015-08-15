@@ -1,5 +1,8 @@
 ###########   MAIN  ############
 
+# Using virtualenv python as primary python
+source /ve/bin/activate
+
 # Replace BSD utility with GNU utility
 PATH="/usr/local/opt/coreutils/libexec/gnubin:$PATH"
 #MANPATH="/usr/local/opt/coreutils/libexec/gnuman:$MANPATH"
@@ -61,6 +64,8 @@ alias book='pushd ~/zen/pythonstudy/book'
 alias cap='pushd /Users/zen1/zen/pythonstudy/Capitalist'
 alias lib='pushd ~/zen/shared/library'
 alias doc='pushd /Users/zen1/zen/shared/code_port/normaldocuments'
+alias crawl='pushd /Users/zen1/zen/pythonstudy/tech_lab/python_mania/module/scrapy/'
+
 
 # COMMANDS
 alias py='python'
