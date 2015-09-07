@@ -1,0 +1,1038 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>Kaiser 是如何建立、管理、检索图库的？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/32978059">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/26230278/answer/32978059">
+<meta id="znonce" name="znonce" content="18e8fa91a8fc4d8788d79f26bc16634d">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/1050c05fe2d5d1a0816e1f51c3b1e0ca.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/26230278" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19552067"
+data-tip="t$b$19552067" data-token="19552067" data-topicid="618">
+数据库
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19553265"
+data-tip="t$b$19553265" data-token="19553265" data-topicid="1018">
+管理
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19556414"
+data-tip="t$b$19556414" data-token="19556414" data-topicid="2055">
+图片
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19601593"
+data-tip="t$b$19601593" data-token="19601593" data-topicid="17174">
+图像检索
+</a>
+
+<a class="zm-item-tag"
+href="/topic/20012502"
+data-tip="t$b$20012502" data-token="20012502" data-topicid="156200">
+Kaiser（知乎用户）
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/26230278">Kaiser 是如何建立、管理、检索图库的？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="2675087" data-action="/question/detail">
+
+<div class="zm-editable-content"><a href="http://www.zhihu.com/people/worldwidekaiser" class="internal">Kaiser</a></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>6 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="2675087" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/26230278" class="zg-link-litblue">查看全部 20 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="8577895"
+data-atoken="32978059"
+data-collapsed="0"
+data-created="1415194081"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-8577895"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1973</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="//pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1973">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$julian-83" href="http://www.zhihu.com/people/julian-83" class="zg-link" title="Simona">Simona</a>、</span><span class="user-block"><a data-tip="p$t$wu-ming-49-92" href="http://www.zhihu.com/people/wu-ming-49-92" class="zg-link" title="Shamn">Shamn</a>、</span><span class="user-block"><a data-tip="p$t$sunnic-plus" href="http://www.zhihu.com/people/sunnic-plus" class="zg-link" title="Sunnic Plus">Sunnic Plus</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="2675087" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">谢邀。<br>其实并没有图库，但是可以讲一讲图源，主要是五大类。<br><br><b>1.鬼畜类</b><br><noscript><img src="//pic2.zhimg.com/b43475629aef810cc7e14af76dc39a4d_b.jpg" data-rawwidth="275" data-rawheight="277" class="content_image" width="275"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="275" data-rawheight="277" class="content_image lazy" width="275" data-actualsrc="//pic2.zhimg.com/b43475629aef810cc7e14af76dc39a4d_b.jpg"><br>主要来自AcFun，BiliBili等弹幕视频网站的鬼畜作品，部分鬼畜明星见下图：<br><noscript><img src="//pic2.zhimg.com/43718e1b62b9b5a508dac3623f9b0a41_b.jpg" data-rawwidth="678" data-rawheight="383" class="origin_image zh-lightbox-thumb" width="678" data-original="//pic2.zhimg.com/43718e1b62b9b5a508dac3623f9b0a41_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="678" data-rawheight="383" class="origin_image zh-lightbox-thumb lazy" width="678" data-original="//pic2.zhimg.com/43718e1b62b9b5a508dac3623f9b0a41_r.jpg" data-actualsrc="//pic2.zhimg.com/43718e1b62b9b5a508dac3623f9b0a41_b.jpg"><br>怎么找这些图片呢？到A站或B站找一个鬼畜全明星作品，暂停截图就行了。<br>这里推荐[女孩为何穿短裙]的作品，《<a href="http://www.bilibili.com/video/av177489/" class=" wrap external" target="_blank" rel="nofollow noreferrer">元首nobody 第二版<i class="icon-external"></i></a>》是其代表作。<br><br>另外说一下兄贵类图片，其实我没有看过哲学原片，上百度[兄贵]吧就有很多图片资源。<br><br><noscript><img src="//pic3.zhimg.com/57c71e2a149dbed9139861a6af6f041e_b.jpg" data-rawwidth="576" data-rawheight="768" class="origin_image zh-lightbox-thumb" width="576" data-original="//pic3.zhimg.com/57c71e2a149dbed9139861a6af6f041e_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="576" data-rawheight="768" class="origin_image zh-lightbox-thumb lazy" width="576" data-original="//pic3.zhimg.com/57c71e2a149dbed9139861a6af6f041e_r.jpg" data-actualsrc="//pic3.zhimg.com/57c71e2a149dbed9139861a6af6f041e_b.jpg"><br>至于说如何选择用哪些图片呢，其实我也不知道。我是高三知道的A站，大一上的B站，两站所有带[鬼畜]标签的视频我全都看过了，所以不自觉地就想起来了。<br><br><b>2.经典电视剧类</b><br><noscript><img src="//pic4.zhimg.com/0a151c9152d2e277e74b096588b78fa3_b.jpg" data-rawwidth="600" data-rawheight="441" class="origin_image zh-lightbox-thumb" width="600" data-original="//pic4.zhimg.com/0a151c9152d2e277e74b096588b78fa3_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="600" data-rawheight="441" class="origin_image zh-lightbox-thumb lazy" width="600" data-original="//pic4.zhimg.com/0a151c9152d2e277e74b096588b78fa3_r.jpg" data-actualsrc="//pic4.zhimg.com/0a151c9152d2e277e74b096588b78fa3_b.jpg"><br>大家喜闻乐见的有《三国演义》，《西游记》，《还珠格格》等等，这些大家都看过。<br>想起哪个场景或人物，随便上个视频网站找到大概哪一集，快进两下暂停截图。<br><br>有人问了我想不起来在哪一集怎么办？也好办，搜索“电视剧名+分集剧情”或者直接上该电视剧的百科词条，一般都有每一集的简介。<br><br><noscript><img src="//pic4.zhimg.com/74ce6e070388e660cb3a993fdf51c253_b.jpg" data-rawwidth="600" data-rawheight="445" class="origin_image zh-lightbox-thumb" width="600" data-original="//pic4.zhimg.com/74ce6e070388e660cb3a993fdf51c253_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="600" data-rawheight="445" class="origin_image zh-lightbox-thumb lazy" width="600" data-original="//pic4.zhimg.com/74ce6e070388e660cb3a993fdf51c253_r.jpg" data-actualsrc="//pic4.zhimg.com/74ce6e070388e660cb3a993fdf51c253_b.jpg"><br>比如“男人的品味高低从何处体现”一题，我想找那个暂七师师长常乃超的图，《亮剑》是很早以前看的，我印象不清了，就找到老版亮剑的百科词条，快速浏览一下“分集剧情”版块，发现是在19集。然后找到那一集截个图就行了。<br><noscript><img src="//pic4.zhimg.com/a55b73927c4c83d715e15545af918523_b.jpg" data-rawwidth="817" data-rawheight="223" class="origin_image zh-lightbox-thumb" width="817" data-original="//pic4.zhimg.com/a55b73927c4c83d715e15545af918523_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="817" data-rawheight="223" class="origin_image zh-lightbox-thumb lazy" width="817" data-original="//pic4.zhimg.com/a55b73927c4c83d715e15545af918523_r.jpg" data-actualsrc="//pic4.zhimg.com/a55b73927c4c83d715e15545af918523_b.jpg"><br><b>3.社交网络交流类</b><br><noscript><img src="//pic3.zhimg.com/f22a0c42afd19aa8e4291ade617ae632_b.jpg" data-rawwidth="600" data-rawheight="900" class="origin_image zh-lightbox-thumb" width="600" data-original="//pic3.zhimg.com/f22a0c42afd19aa8e4291ade617ae632_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="600" data-rawheight="900" class="origin_image zh-lightbox-thumb lazy" width="600" data-original="//pic3.zhimg.com/f22a0c42afd19aa8e4291ade617ae632_r.jpg" data-actualsrc="//pic3.zhimg.com/f22a0c42afd19aa8e4291ade617ae632_b.jpg"><br>大多数长者的图片都是人人网上来回分享的，一般想起哪个图，我就到他们的主页里去找。<br>例如，上图就是从人人网友陈锋那里来的，右下角都有水印。<br><br><b>4.想起来现搜类</b><br><noscript><img src="//pic1.zhimg.com/cd68ab38461d3ac7c486eef5e4f0a5a4_b.jpg" data-rawwidth="600" data-rawheight="339" class="origin_image zh-lightbox-thumb" width="600" data-original="//pic1.zhimg.com/cd68ab38461d3ac7c486eef5e4f0a5a4_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="600" data-rawheight="339" class="origin_image zh-lightbox-thumb lazy" width="600" data-original="//pic1.zhimg.com/cd68ab38461d3ac7c486eef5e4f0a5a4_r.jpg" data-actualsrc="//pic1.zhimg.com/cd68ab38461d3ac7c486eef5e4f0a5a4_b.jpg"><br>比如“为什么英国和美国有黑人，但中国没有”一题，我记得以前是看过上图的，就是监狱开放日这个图。所以再搜索一下“广东 监狱 黑人”就行了，这是曾经见于媒体的图片，很容易搜到。<br><br><b>5.内部交流类</b><br><noscript><img src="//pic4.zhimg.com/863e1c9ff16329138d73e04b4dac485b_b.jpg" data-rawwidth="460" data-rawheight="524" class="origin_image zh-lightbox-thumb" width="460" data-original="//pic4.zhimg.com/863e1c9ff16329138d73e04b4dac485b_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="460" data-rawheight="524" class="origin_image zh-lightbox-thumb lazy" width="460" data-original="//pic4.zhimg.com/863e1c9ff16329138d73e04b4dac485b_r.jpg" data-actualsrc="//pic4.zhimg.com/863e1c9ff16329138d73e04b4dac485b_b.jpg"><br>像上面这个孙悟空的图，是 <a data-hash="3f457220fd9a795bf14111232c0419ef" href="//www.zhihu.com/people/3f457220fd9a795bf14111232c0419ef" class="member_mention" data-editable="true" data-title="@待解放的二大爷" data-tip="p$b$3f457220fd9a795bf14111232c0419ef">@待解放的二大爷</a>在微信群里发的，当时只有这么个图，觉得很有意思。后来 <a data-hash="eb36d11b2c20320fffce40ca15666e66" href="//www.zhihu.com/people/eb36d11b2c20320fffce40ca15666e66" class="member_mention" data-editable="true" data-title="@泳圈哥" data-tip="p$b$eb36d11b2c20320fffce40ca15666e66">@泳圈哥</a>邀请我回答“两个男人打架会不会擦出爱情的火花”时，我就想起了这张图，又顺便写了几句话上去。<br><br><br>从比例上看，最多的还是第四种“现想现搜”的。<br>最后再分享一些搜索方面的小技巧，之前在一个“如何判断是第几层楼”的问题中曾经谈过，这里就直接复制过来吧。<br><br><p><b>1.</b><b>整词搜索</b><b>""</b><br>默认情况下，当我们搜索一个词组，只会获得大量包含了子集的结果，比如我搜“内涵 天亮 大帝”，那么搜出来的可能只涵盖两个甚至某一个词。<br>只要加个双引号“”（或英文字符""亦可），搜索引擎就会只返回同时包含这三个词的结果，极大地精确了范围。</p><br><p><b>2.</b><b>定点搜索</b><b>inurl</b><br>比如您对某个词在某个特定网站的存在感兴趣，就可以加入‘inurl’命令。<br>以知乎和我为例：<br><br><noscript><img src="//pic1.zhimg.com/4f0bd100c09526ea403b8e2a6661503c_b.jpg" data-rawwidth="558" data-rawheight="359" class="origin_image zh-lightbox-thumb" width="558" data-original="//pic1.zhimg.com/4f0bd100c09526ea403b8e2a6661503c_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="558" data-rawheight="359" class="origin_image zh-lightbox-thumb lazy" width="558" data-original="//pic1.zhimg.com/4f0bd100c09526ea403b8e2a6661503c_r.jpg" data-actualsrc="//pic1.zhimg.com/4f0bd100c09526ea403b8e2a6661503c_b.jpg"><b>3.</b><b>布尔运算符</b><b>+-</b><br>接着上面的说，因为有多个ID为Kaiser，所以不知道哪个是我。这时候如果您知道我是个多年老毅丝的话，就可以尝试一下有没有和大帝语录“天亮了”一同出现的Kaiser。<br>大帝圣谕当然不容拆分，所以我们加上“”<br><br><noscript><img src="//pic4.zhimg.com/e3d3349b8c7ae7e30a8d912885bf9f07_b.jpg" data-rawwidth="548" data-rawheight="251" class="origin_image zh-lightbox-thumb" width="548" data-original="//pic4.zhimg.com/e3d3349b8c7ae7e30a8d912885bf9f07_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="548" data-rawheight="251" class="origin_image zh-lightbox-thumb lazy" width="548" data-original="//pic4.zhimg.com/e3d3349b8c7ae7e30a8d912885bf9f07_r.jpg" data-actualsrc="//pic4.zhimg.com/e3d3349b8c7ae7e30a8d912885bf9f07_b.jpg"><br>诶这个就是我了。<br>这里+是“与”运算，与小写的or等效。如果你有两个潜在的关键词，觉得有哪一个都行的话，可以用“并”运算，大写的OR。<br><br><noscript><img src="//pic3.zhimg.com/7ef5b00f1b0b8a386e57085c6b5d3662_b.jpg" data-rawwidth="558" data-rawheight="601" class="origin_image zh-lightbox-thumb" width="558" data-original="//pic3.zhimg.com/7ef5b00f1b0b8a386e57085c6b5d3662_r.jpg">看，前面几个搜索结果都是只有李毅，或者只有芙蓉的，两个词条是并列关系。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="558" data-rawheight="601" class="origin_image zh-lightbox-thumb lazy" width="558" data-original="//pic3.zhimg.com/7ef5b00f1b0b8a386e57085c6b5d3662_r.jpg" data-actualsrc="//pic3.zhimg.com/7ef5b00f1b0b8a386e57085c6b5d3662_b.jpg">看，前面几个搜索结果都是只有李毅，或者只有芙蓉的，两个词条是并列关系。<br><br>减号好理解，就是只要前面一个关键词，排除带后一个词条的。<br><br><b>4.</b><b>文件类型</b><b>filetype</b><br>很多时候当我想搜的只是某一类型的结果，比如一本书，一部电影等等，而仅凭字面难以区分我们说的是书还是电影，这时就可以指定filetype。<br><br>比如：</p><noscript><img src="//pic3.zhimg.com/3651f17be0306de331a065b62b934012_b.jpg" data-rawwidth="216" data-rawheight="48" class="content_image" width="216"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="216" data-rawheight="48" class="content_image lazy" width="216" data-actualsrc="//pic3.zhimg.com/3651f17be0306de331a065b62b934012_b.jpg"><br><br>写在后面的话：<br>有的知友怀疑我是不是先看到一个好玩的图片，再到知乎来找合适的问题。<br>这个想法是非常合理的，换我我可能也这么想，不过还是希望能允许我辩解一下。<br><br>一来确实很多问题是受邀所答，但是为了保持“一图”的完整性我没有写“谢邀”两字，这个邀请过我的朋友都知道。<br><br>二来我回答的还是以新近热门问题为主，主要来源还是从时间线上看到，有意思的我会关注一下，以免想回答的时候找不到。像这个问题因为有人邀请，其实我是不用关注的，只是习惯了。<br><br>最后呢，其实如果真是刻意去“找”问题来对应图片的话，那图片的风格应该是比较有规律的，就像微博和人人的营销账号一样。但实际上我觉得那样幽默效果会大打折扣，就像很多我说的话、贴的图之所以搞笑，正是因为我只是个普通的工程师而非职业段子手。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="8577895-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-11-05" target="_blank" href="/question/26230278/answer/32978059">编辑于 2014-11-06</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>171 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="8569109"
+data-atoken="32955966"
+data-collapsed="False"
+data-created="1415166099"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="52">52</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">52</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$ai-zhuo-yan" href="/people/ai-zhuo-yan">拙言</a>，<strong title="司考→公考→日语，学无止境。" class="zu-question-my-bio">司考→公考→日语，学无止境。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="52">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$feng-zhi-hu-65" href="http://www.zhihu.com/people/feng-zhi-hu-65" class="zg-link" title="陆连清">陆连清</a>、</span><span class="user-block"><a data-tip="p$t$HaiKwuangtou" href="http://www.zhihu.com/people/HaiKwuangtou" class="zg-link" title="海光斗">海光斗</a>、</span><span class="user-block"><a data-tip="p$t$ccc-28" href="http://www.zhihu.com/people/ccc-28" class="zg-link" title="Ccc">Ccc</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2675087" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">K神是咋整的我也不知道，不过既然K神也已关注此问题，就坐等他亲自回答好了。<br><br>下面我说说自己的经验。<br><br>我平时也喜欢搜集截图，大部分都是自己追番、看电影时候截的；也有一些是在网上看到，觉得不错，于是右键了的。因为图片实在是太多了，懒得整理，所以都放在一个文件夹里。但是要用时找起来其实也很方便，关键有两个：<br><b>一是保存时要好好命名。</b>我一般都是用截图里的台词来当文件名，如果台词实在是太长就用里面的关键词做文件名。另外如果是没有台词的截图，我会用图片的内容文件名，并通常会在文件名上加上“【】”之类的符号，便于以后搜索。同理，<u>也可以在文件名中标注一下图片的出处，对快速搜索图片也很有帮助。</u><br><img src="//pic4.zhimg.com/203549fc177f676889ae1d10632b52f7_b.jpg" data-rawwidth="800" data-rawheight="486" class="origin_image zh-lightbox-thumb" width="800" data-original="//pic4.zhimg.com/203549fc177f676889ae1d10632b52f7_r.jpg"><img src="//pic4.zhimg.com/a969c82e75668c184ae494a80652763f_b.jpg" data-rawwidth="800" data-rawheight="486" class="origin_image zh-lightbox-thumb" width="800" data-original="//pic4.zhimg.com/a969c82e75668c184ae494a80652763f_r.jpg"><img src="//pic2.zhimg.com/390f13e9adf3a33d81b487ef9a241ab5_b.jpg" data-rawwidth="800" data-rawheight="486" class="origin_image zh-lightbox-thumb" width="800" data-original="//pic2.zhimg.com/390f13e9adf3a33d81b487ef9a241ab5_r.jpg"><br><br><b>二是在电脑上安装一个Everything。</b>这个软件很小，但极其强大，用来在电脑上搜索文件几乎是立刻就可以出搜索结果，用来搜索图片实在是再方便不过了。搜索时只要输入台词或关键字，直接就找到了你要的图片。<br><img src="//pic2.zhimg.com/6de844c6b004df8d9cfe1cc53591b691_b.jpg" data-rawwidth="786" data-rawheight="659" class="origin_image zh-lightbox-thumb" width="786" data-original="//pic2.zhimg.com/6de844c6b004df8d9cfe1cc53591b691_r.jpg"><br><b>PS：</b>如果图片多了，难免就会有重复的。这里推荐安装Dpfinder，轻松找到重复的图片，那效果谁用谁知道~ o((≧▽≦) o<br><img src="//pic4.zhimg.com/0830e43e4589b9d7543a0d3e955f1f0b_b.jpg" data-rawwidth="608" data-rawheight="503" class="origin_image zh-lightbox-thumb" width="608" data-original="//pic4.zhimg.com/0830e43e4589b9d7543a0d3e955f1f0b_r.jpg">
+<a href="/question/26230278/answer/32955966" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="8569109-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-11-05" target="_blank" href="/question/26230278/answer/32955966">编辑于 2014-11-05</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>10 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="8568453"
+data-atoken="32954361"
+data-collapsed="False"
+data-created="1415164214"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="38">38</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">38</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$pum-din" href="/people/pum-din">pum din</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="38">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$kitanski" href="http://www.zhihu.com/people/kitanski" class="zg-link" title="徐老鼠">徐老鼠</a>、</span><span class="user-block"><a data-tip="p$t$xiao-ming-zhou-run-fa" href="http://www.zhihu.com/people/xiao-ming-zhou-run-fa" class="zg-link" title="小名周润发">小名周润发</a>、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2675087" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">你们以为k神是看到问题检索图片答案么？弱爆了好嘛？我猜K神是逆向操作。先通过广泛的兴趣找到有跳跃的图片然后回答到知乎合适的问题下
+
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="8568453-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/26230278/answer/32954361">发布于 2014-11-05</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>14 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/26230278" class="zg-link-litblue">查看全部 20 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:26230278}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="2675087">关注问题</button>
+
+1059
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163868 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371753 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:26230278}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/26230278/answer/32978059/collections">1409</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1362968593">
+<h2 class="zm-item-title ">
+<a href="/collection/19928423">赞同超过1000的回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19928423/followers">52388 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1317616464">
+<h2 class="zm-item-title ">
+<a href="/collection/19553646">生活</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19553646/followers">12194 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1358302193">
+<h2 class="zm-item-title ">
+<a href="/collection/19831140">微技巧</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/miaomiaomiao" data-tip="p$t$miaomiaomiao" class="zg-link-litblue"> 徐湘楠 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19831140/followers">12011 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1384352853">
+<h2 class="zm-item-title ">
+<a href="/collection/29100580">冷知识与小技巧</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/chenkunting" data-tip="p$t$chenkunting" class="zg-link-litblue"> 陈昆廷 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/29100580/followers">10904 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1376819445">
+<h2 class="zm-item-title ">
+<a href="/collection/21819502">实用形干货</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/shun-chao-89" data-tip="p$t$shun-chao-89" class="zg-link-litblue"> 顺超 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/21819502/followers">10190 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-11-06</span>
+</p>
+<p>
+所属问题被浏览 <strong>79357</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:26230278}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440662748000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":2675087,"urlToken":26230278,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/46201a6f385436f0f822dd895a1769a8.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/5c4a1ff2d8c7b65ced3c78c6f773554d.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/0a31d5fcb47d7c9161324ba54a206504.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/d07988700e1807410495cc8f1b6615fa.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="18e8fa91a8fc4d8788d79f26bc16634d">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="b21f02c78ca613c0be97643c721328cb"/>
+</body>
+</html>

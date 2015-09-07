@@ -1,3 +1,34 @@
+### Find tomorrow date
+    tomorrow=$(date +"%Y-%m-%d" --date='-1 days ago')
+    tomorrow=$(date +"%Y-%m-%d" --date='next day')
+
+
+## SSH
+
+### SSH PROXY
+    ssh -D agent_port usr@remote_host
+> After using this command, go to your network setting, enable socks proxy, and filled you `local ip(usually 127.0.0.1)` and `agent_port` in. Apply it.
+> Be sure that on your remote host, in `/etc/ssh/sshd_config`, the `AllowTcpForwarding` option was set to `yes`.
+> Then you can use your browser to surf online freely now!
+
+### SSH Forwarding
+SSH Forwarding enable an agent machine to visit a target machine where your public key resides in its `authorized_hosts`.
+    ssh -A -i /path/to/my_ssh_private_key usr@remote_host_ip:port
+> -A enables agent mode, -i specified identity files
+
+
+### Exam Running Time of a program
+    time your_command
+
+
+### Execute command after ssh connection
+    ssh user@target_ip  ls; pwd; echo "I'm king of the world"
+
+
+### View checksum value of a file (check integrity)
+    md5sum target_file
+
+
 ### List files with prepending numerical orders
     ls -v
 

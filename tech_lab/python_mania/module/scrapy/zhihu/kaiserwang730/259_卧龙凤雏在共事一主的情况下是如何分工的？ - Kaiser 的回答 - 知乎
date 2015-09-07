@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>卧龙凤雏在共事一主的情况下是如何分工的？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/38754468">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/27931377/answer/38754468">
+<meta id="znonce" name="znonce" content="8f147bb7f25d4391a5e37779e8e92248">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/1050c05fe2d5d1a0816e1f51c3b1e0ca.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/27931377" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551077"
+data-tip="t$b$19551077" data-token="19551077" data-topicid="285">
+历史
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19561223"
+data-tip="t$b$19561223" data-token="19561223" data-topicid="3676">
+三国
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19561232"
+data-tip="t$b$19561232" data-token="19561232" data-topicid="3678">
+诸葛亮
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19583486"
+data-tip="t$b$19583486" data-token="19583486" data-topicid="11066">
+三国演义
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19684091"
+data-tip="t$b$19684091" data-token="19684091" data-topicid="44749">
+三国人物
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/27931377">卧龙凤雏在共事一主的情况下是如何分工的？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="3355294" data-action="/question/detail">
+
+<div class="zm-editable-content">《三国演义》中水镜先生言“卧龙、凤雏得一人可得天下”，意思是这两个人都有经天纬地之才。题主做了个假设：两个人如果分事二主无疑都能成为各自主公的左膀右臂，但是作为军师，两个人需要做的事情大同小异，那么共事一主的情况下如果做职责划分？而且这么两个bug一般存在的人短期还好说，长期看能和谐共处吗？“既生瑜何生亮”的悲剧会在他二人之间发生吗？天妒英才，凤雏早早就殒命落凤坡，很多问题无从考证。只是希望知乎的史学大神能够从除了演义之外的其它角度解释一下这个问题。</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>1 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="3355294" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/27931377" class="zg-link-litblue">查看全部 9 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+>
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="10893711"
+data-atoken="38754468"
+data-collapsed="0"
+data-created="1422919645"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-10893711"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">259</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="//pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="259">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$song-yi-cheng-73" href="http://www.zhihu.com/people/song-yi-cheng-73" class="zg-link" title="宋汉骋">宋汉骋</a>、</span><span class="user-block"><a data-tip="p$t$wu-chang-xia-37" href="http://www.zhihu.com/people/wu-chang-xia-37" class="zg-link" title="吴常夏">吴常夏</a>、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="3355294" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">《三国志·蜀书·庞统法正列传》：<br><blockquote>“先主领荆州，统以从事守耒阳令，在县不治，免官。吴将鲁肃遗先主书曰：“庞士元非百里才也，使处治中、别驾之任，始当展其骥足耳。”诸葛亮亦言之於先主，先主见与善谭，大器之，以为治中从事。<u>亲待亚於诸葛亮</u>，遂与亮并为军师中郎将。”</blockquote><br>《资治通鉴·建安十五年（公元210年）》：<blockquote>“刘备以从事庞统守耒阳令，在县不治，免官。鲁肃遗备书曰：“庞士元非百里才也。使处治中、别驾之任，始当展其骥足耳！”诸葛亮亦言之。备见统，与善谭，大器之，遂用统为治中，<u>亲待亚于诸葛亮</u>，与亮并为军师中郎将。”</blockquote><br>“亲待亚于诸葛亮”，其实这一句话基本就解答了题主在问题描述中的担忧：庞统在虽然和诸葛亮都担任“军师中郎将”一职，但是分房子、发年货、孩子上学、老人看病这些福利待遇都是不如诸葛亮的。既然史书记载的这么明确，那在当时应该是各级机关都知道的公开事实。这个差别已经是明摆着的了，因此两人并不需要争风吃醋。<br><br><br>在分工上，《三国志》也说了：“亮留镇荆州。统随从入蜀。”<br>虽然同为军师，一个跟着领导出差了，一个留在单位值班，那职务上就没有太大重叠了。<br><br><br>再谈这个“军师”的问题。<br>“军师”这个词在各个时代含义是不同的，今天说起“军师”，代表人物有：<br><noscript><img src="//pic1.zhimg.com/c27af1c8fad5d200ecacf3313aa8fae8_b.jpg" data-rawwidth="598" data-rawheight="456" class="origin_image zh-lightbox-thumb" width="598" data-original="//pic1.zhimg.com/c27af1c8fad5d200ecacf3313aa8fae8_r.jpg">兴周八百年之姜子牙，开汉四百年之张子房。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="598" data-rawheight="456" class="origin_image zh-lightbox-thumb lazy" width="598" data-original="//pic1.zhimg.com/c27af1c8fad5d200ecacf3313aa8fae8_r.jpg" data-actualsrc="//pic1.zhimg.com/c27af1c8fad5d200ecacf3313aa8fae8_b.jpg">兴周八百年之姜子牙，开汉四百年之张子房。<br><br><br><noscript><img src="//pic1.zhimg.com/9dd249bb549124818c27666f77a5f1ec_b.jpg" data-rawwidth="600" data-rawheight="786" class="origin_image zh-lightbox-thumb" width="600" data-original="//pic1.zhimg.com/9dd249bb549124818c27666f77a5f1ec_r.jpg">卧龙与凤雏</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="600" data-rawheight="786" class="origin_image zh-lightbox-thumb lazy" width="600" data-original="//pic1.zhimg.com/9dd249bb549124818c27666f77a5f1ec_r.jpg" data-actualsrc="//pic1.zhimg.com/9dd249bb549124818c27666f77a5f1ec_b.jpg">卧龙与凤雏<br><br><br><noscript><img src="//pic2.zhimg.com/b2326bb0adeea9d73a2b58aa8668621d_b.jpg" data-rawwidth="500" data-rawheight="366" class="origin_image zh-lightbox-thumb" width="500" data-original="//pic2.zhimg.com/b2326bb0adeea9d73a2b58aa8668621d_r.jpg">神机军师·朱武</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="500" data-rawheight="366" class="origin_image zh-lightbox-thumb lazy" width="500" data-original="//pic2.zhimg.com/b2326bb0adeea9d73a2b58aa8668621d_r.jpg" data-actualsrc="//pic2.zhimg.com/b2326bb0adeea9d73a2b58aa8668621d_b.jpg">神机军师·朱武<br>（为什么不说吴用？吴学究有点儿水啊我觉得，你看征辽国打王庆讨方腊一直都是朱武在做参谋，负责阵型调整和火力配置；吴用的主要工作还是坑人上梁山，偏向于政委。）<br><br><br>再就是刘伯温姚广孝等人，还有若干占卜、堪舆、算命、相面、看风水、星座配对、主播天气预报的，也可以算进来，基本都是后排输出加buff的智力型英雄。<br><br><br>但是太平天国时期“军师”的意思就不一样了，不再是负责参谋的辅助，而是执掌兵权的领导岗位。<br>东王杨秀清：左辅正军师<br>西王萧朝贵：右弼正军师<br>南王冯云山：前导副军师<br>北王韦昌辉：后护副军师<br>翼王石达开：副军师<br><br>还有洪仁玕陈玉成李秀成等等，全是“军师”，开会能站一走廊。就跟《帝国的覆灭》最后元首发飙那一段场景差不多。<br><br><br><br>回到三国时期，军师还是一个偏参谋型的角色，在三国前期，各家的老大还只是州牧刺史这种级别的时候，有很多出彩的“军师”人物。因为刚开始队伍规模都小，很多都跟游击队差不多，大部分重要决策都是领导和几个幕僚商讨的，也比较任性，所以“军师”形象容易突出。<br><br>那个时候人事系统也比较混乱，有的是朝廷钦定的干部，有的是老板自家的亲戚。单说赤壁之战后刘备集团这边，不光诸葛亮庞统两人是军师，还有一位大家很熟悉的哥们也是军师。<br><br>《三国志·魏延等一大帮人的列传》<br><blockquote>“八年，使延西入羌中，魏后将军费瑶、雍州刺史郭淮与延战于阳谿，延大破淮等，迁为前军师征西大将军，假节，进封南郑侯。”<br></blockquote>魏延也是军师啊，而且人家已经是将军级别的了。（这已经离卧龙凤雏担任“军事中郎将”过去很多年了，水涨船高。）<br><br><br>到了三国中后期呢，各个势力规模壮大以后，先后建立帝国，组织架构趋于成熟，领导班子里每个人基本都是身兼数职。而且队伍壮大了，集中力量办大事要靠制度，整个国家军队像机器一样运转，到了这个阶段，诸如“大风把军旗吹断，料定今晚有夜袭”的剧情就基本没了。因而是大势的发展决定了，不会再有单纯的“军师”发挥的空间。<br><br>像卧龙凤雏这样能力极强的人，不可能一直光在那比划出主意。郭嘉如果活的长一点，也不会只有“军师祭酒”一个头衔。如果那时候有新闻联播的话，那诸葛亮一出来要介绍的头衔也是一大长串：<br><br>武乡侯（县级，最高一级的侯爵）<br>丞相（国务院总理，开府治事——自带领导班子）<br>录尚书事（中央政治局常委，帝国最高决策权）<br>领司隶校尉（中纪委书记）<br>领益州牧（四川省委书记，叠床架屋，巩固实权）<br>诏赐亮金鈇钺一具（皇帝授予兵权，枪杆子握在手）<br><br><br>如果庞统还有法正、刘巴、马良还活着，这些头衔大概会分走一些。但是在帝国制度之下，谁有什么权限干什么，都是有明确规定的。开不开府、有没有录尚书事、你是中央的还是地方的、政府的还是军队的，都要按照基本法、按照帝国的法，去产生。于是两个人能不能和谐相处，就成了一个体制问题。<br><br><br>最后说一下为什么庞统虽然与诸葛亮齐名，但是“亲待”却是“亚于”呢？我的个人看法是这样：<br><br>《江表传》曰：<br><blockquote>先主与统从容宴语，问曰：“<u>卿为周公瑾功曹</u>，孤到吴，闻此人密有白事，劝仲谋相留，有之乎？在君为君，卿其无隐。”统对曰：“有之。”</blockquote><br>这段话发生于庞统刚拿到刘备这边Offer的时候，先主语重心长地说：“小庞啊，你原来是周公瑾的秘书，当时我到吴地去，听说周瑜准备打黑枪软禁我，你告诉我有没有这么一回事啊？唉~在君为君，你思想上不要有包袱。”庞统回答说：“有哇。”<br><br>这说明了个什么事儿呢，第一庞统以前是给周瑜打工的，第二周瑜盘算着捣鼓刘备的时候庞统还参与了。刘备虽然嘴上说“在君为君，卿其无隐。”，但心里未必就没有芥蒂。相比诸葛亮完美的政治履历，庞统这就属于重大政治污点。再说庞统本身来的就晚，在刘备手下的起点就和诸葛不能比。<br><br>所以呢，即便庞统在世，在权力分配上，多半是威胁不到诸葛亮。反而是另外几个出身荆州益州大族的文臣，要是多活几年很有可能比孔明地位高。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="10893711-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-02-03" target="_blank" href="/question/27931377/answer/38754468">编辑于 2015-02-03</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>55 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zh-answers-title">
+<h3><a href="/question/27931377" class="zg-link-litblue">查看全部 9 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="3355294">关注问题</button>
+
+133
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163847 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371728 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/27931377/answer/38754468/collections">53</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1361982100">
+<h2 class="zm-item-title ">
+<a href="/collection/19903734">逼逼歪歪小资料</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19903734/followers">4642 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1403964701">
+<h2 class="zm-item-title ">
+<a href="/collection/37972939">历史细节</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/xi-yuan-si-shi-jie-65" data-tip="p$t$xi-yuan-si-shi-jie-65" class="zg-link-litblue"> 西园寺世界 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37972939/followers">4285 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1414151455">
+<h2 class="zm-item-title ">
+<a href="/collection/40629100">学情趣</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/40629100/followers">25 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1416043980">
+<h2 class="zm-item-title ">
+<a href="/collection/41206963">秦汉魏晋南朝史</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/han-kun-26" data-tip="p$t$han-kun-26" class="zg-link-litblue"> 寒鲲 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/41206963/followers">2 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1422960791">
+<h2 class="zm-item-title ">
+<a href="/collection/44347808">历史</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/beida-pi-pi" data-tip="p$t$beida-pi-pi" class="zg-link-litblue"> BEIDA 皮皮 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/44347808/followers">2 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/23150538">真实的庞统到底是与卧龙诸葛齐名的凤雏还是徒有虚名的泛泛之辈？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="49" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21850709">孙权为什么不重用凤雏庞统？</a> <span class="num">5 个回答</span><meta itemprop="followerCount" content="52" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/24670712">假如凤雏未死，蜀汉有可能一统天下吗？</a> <span class="num">9 个回答</span><meta itemprop="followerCount" content="26" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/23305992">为什么刘备有诸葛亮和凤雏还有五虎上将还是没有完成统一大业？</a> <span class="num">10 个回答</span><meta itemprop="followerCount" content="16" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/26130047">三国演义中为何刘备得到了卧龙、凤雏，以及赵、关、张等人却没有赢得天下？</a> <span class="num">17 个回答</span><meta itemprop="followerCount" content="16" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21777706">如何理解“卧龙得其主，却不得其时”？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="4" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/24730665">为什么司马徽说：卧龙虽得其主 不得其时也？</a> <span class="num">0 个回答</span><meta itemprop="followerCount" content="5" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22296170">三国时期真的有「凤雏」这个人吗？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="2" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22080664">为什么手机版三国杀会有两个代表诸葛孔明的人物卡牌，一个诸葛亮，还有个卧龙诸葛？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="3" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/23578325">三国时期有一些很知名的士人团体，如颍川系荀彧，荆襄系卧龙，西北系贾诩李儒等，哪个团体的综合实力更强？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="27" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2015-02-03</span>
+</p>
+<p>
+所属问题被浏览 <strong>18402</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440658480000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":3355294,"urlToken":27931377,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/46201a6f385436f0f822dd895a1769a8.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/5c4a1ff2d8c7b65ced3c78c6f773554d.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/0a31d5fcb47d7c9161324ba54a206504.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/d07988700e1807410495cc8f1b6615fa.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="8f147bb7f25d4391a5e37779e8e92248">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="dde0cc28f5cd23b45c88ff6d096fb019"/>
+</body>
+</html>

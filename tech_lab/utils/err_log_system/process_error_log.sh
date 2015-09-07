@@ -1,7 +1,7 @@
 # 根据实际情况调整的fabric脚本路径
-$SCRIPT_PATH="/data/admin/temp/manage_scripts/fabric/"
+SCRIPT_PATH="/data/admin/temp/manage_scripts/fabric/"
 # 根据实际情况调整的错误日志存放目录
-$ERR_LOG_PATH='/data/admin/superhero/error_log/'
+ERR_LOG_PATH='/data/admin/superhero/error_log/'
 
 cd $SCRIPT_PATH
 /usr/local/bin/fab get_daily_error_log

@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>为什么说将「直升机」称为「直升飞机」是错误的？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/39453213">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/20794367/answer/39453213">
+<meta id="znonce" name="znonce" content="9d46a6fdbb6343dabe09b5ac1d41130e">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/aa583b24654a97650f25057ce42d7b62.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/20794367" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19640478"
+data-tip="t$b$19640478" data-token="19640478" data-topicid="30148">
+直升机
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/20794367">为什么说将「直升机」称为「直升飞机」是错误的？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="498207" data-action="/question/detail">
+
+<div class="zm-editable-content">来自 @<a href="http://www.zhihu.com/people/skywalkerhan" class="internal">skywalkerhan</a> 答《<a href="http://www.zhihu.com/question/20271699/answer/14567332" class="internal">直升机坠地是否一定会爆炸？</a>》——<br><blockquote>纠正一下，没有直升飞机这个词！是直升机！</blockquote></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>6 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="498207" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20794367" class="zg-link-litblue">查看全部 27 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="11173279"
+data-atoken="39453213"
+data-collapsed="0"
+data-created="1423612285"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-11173279"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">697</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="http://pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="697">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$xiao-yao-jian-xian-67" href="http://www.zhihu.com/people/xiao-yao-jian-xian-67" class="zg-link" title="逍遥剑仙">逍遥剑仙</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$lin-feng-hui-46" href="http://www.zhihu.com/people/lin-feng-hui-46" class="zg-link" title="林疯隳">林疯隳</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="498207" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">这个问题非常有意思。<br><br>在探讨究竟有没有那个“飞”字之前，我们不妨先来想另外一个问题：<br><br>为什么只有“直升机”面临了这样的困境？<br><br>怎么从没有人管“滑翔机”叫“滑翔飞机”？也没听说有将“扑翼机”叫“扑翼飞机”的。其他的名词如“旋翼机”、“预警机”、“战斗机”都没有加入这个“飞”字。<br><br><br>这其实是个历史问题，因为“直升飞机”这个词曾经一度被全党全军全国各族人民，在同一时间内大量使用。<br><br>用来干嘛呢？当然不是全民研究航空事业了。而是讽刺王洪文的，说他从一个工厂保安，短短几年时间就成了中央政治局常委，是“<b>坐直升飞机上来的</b>”。<br><br>你现在搜索“<b>王洪文 直升飞机</b>”仍然可以获得大量文献资料，在相关记载中没有一处用的是“直升机”，全部是“直升飞机”，因为当年这句话的原版就是“直升飞机”。<br><br><noscript><img src="http://pic3.zhimg.com/74cef056f91e61113cd08deee4d1a09e_b.jpg" data-rawwidth="550" data-rawheight="767" class="origin_image zh-lightbox-thumb" width="550" data-original="http://pic3.zhimg.com/74cef056f91e61113cd08deee4d1a09e_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="550" data-rawheight="767" class="origin_image zh-lightbox-thumb lazy" width="550" data-original="http://pic3.zhimg.com/74cef056f91e61113cd08deee4d1a09e_r.jpg" data-actualsrc="http://pic3.zhimg.com/74cef056f91e61113cd08deee4d1a09e_b.jpg"><br><br>那么这句“坐直升飞机”到底始于哪里呢？为什么这么流行呢？<br><br>请看下图：<br><noscript><img src="http://pic2.zhimg.com/f0171758c5b9e5e30bf8742437f17ccd_b.jpg" data-rawwidth="540" data-rawheight="85" class="origin_image zh-lightbox-thumb" width="540" data-original="http://pic2.zhimg.com/f0171758c5b9e5e30bf8742437f17ccd_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="540" data-rawheight="85" class="origin_image zh-lightbox-thumb lazy" width="540" data-original="http://pic2.zhimg.com/f0171758c5b9e5e30bf8742437f17ccd_r.jpg" data-actualsrc="http://pic2.zhimg.com/f0171758c5b9e5e30bf8742437f17ccd_b.jpg"><noscript><img src="http://pic3.zhimg.com/bf5bee3361de7f0d3e784e2ef5498cae_b.jpg" data-rawwidth="540" data-rawheight="85" class="origin_image zh-lightbox-thumb" width="540" data-original="http://pic3.zhimg.com/bf5bee3361de7f0d3e784e2ef5498cae_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="540" data-rawheight="85" class="origin_image zh-lightbox-thumb lazy" width="540" data-original="http://pic3.zhimg.com/bf5bee3361de7f0d3e784e2ef5498cae_r.jpg" data-actualsrc="http://pic3.zhimg.com/bf5bee3361de7f0d3e784e2ef5498cae_b.jpg"><br>出自前英国驻华大使 理查德·伊文思著《邓小平传》 （武市红 译，上海人民出版社）。<br>所以这个“王洪文坐直升飞机上来”，其实是总设计师说的，当时就成了流行语。<br><br><br>回到最初的问题，为什么说将“直升机”称为“直升飞机”是错误的？<br><br>因为它本来就是叫“直升机”，正如滑翔机就叫滑翔机，扑翼机就叫扑翼机。<br><br><noscript><img src="http://pic4.zhimg.com/71d0c80e8b13e411f9c7c567509c5107_b.jpg" data-rawwidth="790" data-rawheight="549" class="origin_image zh-lightbox-thumb" width="790" data-original="http://pic4.zhimg.com/71d0c80e8b13e411f9c7c567509c5107_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="790" data-rawheight="549" class="origin_image zh-lightbox-thumb lazy" width="790" data-original="http://pic4.zhimg.com/71d0c80e8b13e411f9c7c567509c5107_r.jpg" data-actualsrc="http://pic4.zhimg.com/71d0c80e8b13e411f9c7c567509c5107_b.jpg"><noscript><img src="http://pic3.zhimg.com/a56ccb20e7c8133bcd84b99b0dec0f1a_b.jpg" data-rawwidth="628" data-rawheight="152" class="origin_image zh-lightbox-thumb" width="628" data-original="http://pic3.zhimg.com/a56ccb20e7c8133bcd84b99b0dec0f1a_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="628" data-rawheight="152" class="origin_image zh-lightbox-thumb lazy" width="628" data-original="http://pic3.zhimg.com/a56ccb20e7c8133bcd84b99b0dec0f1a_r.jpg" data-actualsrc="http://pic3.zhimg.com/a56ccb20e7c8133bcd84b99b0dec0f1a_b.jpg"><br><br>如果有兴趣继续了解的话，可以看北航出品的网易公开课：<br><a href="http://open.163.com/movie/2011/10/A/L/M7GFEUNEN_M8TR896AL.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">北京航空航天大学公开课：航空航天概论<i class="icon-external"></i></a><br><noscript><img src="http://pic1.zhimg.com/3a42fee7917c9d3dfad0a5c0d0b4e988_b.jpg" data-rawwidth="648" data-rawheight="485" class="origin_image zh-lightbox-thumb" width="648" data-original="http://pic1.zhimg.com/3a42fee7917c9d3dfad0a5c0d0b4e988_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="648" data-rawheight="485" class="origin_image zh-lightbox-thumb lazy" width="648" data-original="http://pic1.zhimg.com/3a42fee7917c9d3dfad0a5c0d0b4e988_r.jpg" data-actualsrc="http://pic1.zhimg.com/3a42fee7917c9d3dfad0a5c0d0b4e988_b.jpg"><br>保证里面没有出现一次“直升飞机”字样。<br><br><br>当然，说“直升飞机”是错误的，那是这个问题的问法。实际上我不认为这是错误的，看你用在哪。<br>平日里聊天，天上飞过去一架直升（飞）机，怎么说都无所谓对错。大家都能听懂就行，我反正从来不在意这些细节。（也不是所有的“飞”字都无关紧要，比如“飞毛腿”和“毛腿”就有本质区别）<br><br>如果用在航空专业的课程、研究、论文、报道上，就是错的，至少是不专业的。改革开放的总设计师这么用不算错，因为他是在针砭人物；武直系列的总设计师应该不会这么用，用也是跟社会媒体当个俗称说，不会写进正式文件中。<br>而今天如果你写当代历史，说“王洪文是坐'<b>直升机</b>’上来的”那才是错的，你必须说他坐的是“<b>直升飞机</b>”。<br><br>我觉得这是毅种循环吧。<br><br><br>还有弄了个知网检索号称要打我脸的：<br><noscript><img src="http://pic2.zhimg.com/e0c4473bbbc25b515d1f619b2486b351_b.jpg" data-rawwidth="496" data-rawheight="96" class="origin_image zh-lightbox-thumb" width="496" data-original="http://pic2.zhimg.com/e0c4473bbbc25b515d1f619b2486b351_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="496" data-rawheight="96" class="origin_image zh-lightbox-thumb lazy" width="496" data-original="http://pic2.zhimg.com/e0c4473bbbc25b515d1f619b2486b351_r.jpg" data-actualsrc="http://pic2.zhimg.com/e0c4473bbbc25b515d1f619b2486b351_b.jpg"><br>上知网搜一下“直升机”，看近几年都有2000到3000篇文章。<br><noscript><img src="http://pic1.zhimg.com/c30ebdb7a7bc93f4e1a42edeab8a4b04_b.jpg" data-rawwidth="768" data-rawheight="149" class="origin_image zh-lightbox-thumb" width="768" data-original="http://pic1.zhimg.com/c30ebdb7a7bc93f4e1a42edeab8a4b04_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="768" data-rawheight="149" class="origin_image zh-lightbox-thumb lazy" width="768" data-original="http://pic1.zhimg.com/c30ebdb7a7bc93f4e1a42edeab8a4b04_r.jpg" data-actualsrc="http://pic1.zhimg.com/c30ebdb7a7bc93f4e1a42edeab8a4b04_b.jpg"><br><br>保持默认排序，从第一页看看大都出自哪些研究机构和大学：哈尔滨两工大、西工大、南航、南理工、国防科技大，都是传统航空航天专业强校。再看研究课题，几乎全部是直升机本身的设计、控制、仿真。<br><noscript><img src="http://pic4.zhimg.com/684a3c2d33617a2b468ee386d9e893d3_b.jpg" data-rawwidth="757" data-rawheight="611" class="origin_image zh-lightbox-thumb" width="757" data-original="http://pic4.zhimg.com/684a3c2d33617a2b468ee386d9e893d3_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="757" data-rawheight="611" class="origin_image zh-lightbox-thumb lazy" width="757" data-original="http://pic4.zhimg.com/684a3c2d33617a2b468ee386d9e893d3_r.jpg" data-actualsrc="http://pic4.zhimg.com/684a3c2d33617a2b468ee386d9e893d3_b.jpg"><br><br>再看“直升飞机”，数量大概4-5分之一，但数量不是关键。<br><noscript><img src="http://pic2.zhimg.com/8fa33917f8f2ae426149d74befbdb165_b.jpg" data-rawwidth="773" data-rawheight="154" class="origin_image zh-lightbox-thumb" width="773" data-original="http://pic2.zhimg.com/8fa33917f8f2ae426149d74befbdb165_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="773" data-rawheight="154" class="origin_image zh-lightbox-thumb lazy" width="773" data-original="http://pic2.zhimg.com/8fa33917f8f2ae426149d74befbdb165_r.jpg" data-actualsrc="http://pic2.zhimg.com/8fa33917f8f2ae426149d74befbdb165_b.jpg"><br><br>再看这些文章都出自什么机构：少见上面那几个大学吧，倒是很多专长电力专业的机构。而且这些论文的研究目标，大多都不是直升机本身，而是所搭载的系统。<br><noscript><img src="http://pic4.zhimg.com/59ccdcf9635bb94a006a2f6c0b0815a3_b.jpg" data-rawwidth="760" data-rawheight="577" class="origin_image zh-lightbox-thumb" width="760" data-original="http://pic4.zhimg.com/59ccdcf9635bb94a006a2f6c0b0815a3_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="760" data-rawheight="577" class="origin_image zh-lightbox-thumb lazy" width="760" data-original="http://pic4.zhimg.com/59ccdcf9635bb94a006a2f6c0b0815a3_r.jpg" data-actualsrc="http://pic4.zhimg.com/59ccdcf9635bb94a006a2f6c0b0815a3_b.jpg"><br><br>知网自己的关键词里都没有“直升飞机”一条。<br><noscript><img src="http://pic1.zhimg.com/73635139be3f0ffcb33e37090d50346c_b.jpg" data-rawwidth="227" data-rawheight="177" class="content_image" width="227"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="227" data-rawheight="177" class="content_image lazy" width="227" data-actualsrc="http://pic1.zhimg.com/73635139be3f0ffcb33e37090d50346c_b.jpg">
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="11173279-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-02-11" target="_blank" href="/question/20794367/answer/39453213">编辑于 2015-02-15</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>122 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="1615449"
+data-atoken="16214165"
+data-collapsed="False"
+data-created="1361628030"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="132">132</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">132</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$skywalkerhan" href="/people/skywalkerhan">skywalkerhan</a>，<strong title="懂点" class="zu-question-my-bio">懂点</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="132">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$chen-wei-44-55" href="http://www.zhihu.com/people/chen-wei-44-55" class="zg-link" title="缺个小德">缺个小德</a>、</span><span class="user-block"><a data-tip="p$t$thank-morning" href="http://www.zhihu.com/people/thank-morning" class="zg-link" title="Thank Morning">Thank Morning</a>、</span><span class="user-block"><a data-tip="p$t$yuxin-huang-77" href="http://www.zhihu.com/people/yuxin-huang-77" class="zg-link" title="yuxin huang">yuxin huang</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="498207" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">谢谢<a class="member_mention" data-editable="true" data-title="@黄继新" data-hash="b6f80220378c8b0b78175dd6a0b9c680" href="http://www.zhihu.com/people/b6f80220378c8b0b78175dd6a0b9c680" data-tip="p$b$b6f80220378c8b0b78175dd6a0b9c680">@黄继新</a> 老师把这个话题翻出来。<br>这是我半年前在评论区针对这个疑问的回答，先粘贴过来：<blockquote>飞机。英文名称：airplane;aeroplane。定义：由固定翼产生升力，由推进装置产生推(拉)力，在大气层中飞行的重于空气的航空器。<br>直升机。英文名称：helicopter。定义：一种以动力装置驱动的旋翼作为主要升力和推进力来源，能垂直起落及前后、左右飞行的旋翼航空器。<br><br>在所有有关直升机的专业书籍里面，绝对不会出现“直升飞机”这个词汇的，就是为了和固定机翼的“飞机”区别开来。<br>做直升机这一行的人，老师第一堂课也绝对会第一时间明确这个概念的区别，为的就是不闹笑话。<br>在英文里面，这是两个不同的单词，不存在相互包含的关系。<br>从飞行原理上分，这是两种不同的航空器类型，它们产生升力和操纵力矩的方式完全不一样。 </blockquote><a class="member_mention" data-editable="true" data-title="@Raymond Wang" data-hash="f2b961082c021f92f2ce1db6ff935fa5" href="http://www.zhihu.com/people/f2b961082c021f92f2ce1db6ff935fa5" data-tip="p$b$f2b961082c021f92f2ce1db6ff935fa5">@Raymond Wang</a> 贴的那个文章应该代表了很多人的想法，觉得直升机和直升飞机两个词差不多，还可能直升飞机这个名字大众更好理解一些，而且直升飞机都叫了这么久了，应该约定俗成，就叫这个名字得了。就像“空穴来风”这个词，所有人都用反了，但是用多了，也就改过来了。<br>虽然我也反对很多老学究式的咬文嚼字，但是我觉得这样的区分还是有必要的。<br><br>首先这种误解没有错，只是由于不了解相关的知识导致的。<br>”飞机“这个词汇，在中国人的习惯中就是所有航空器的统称。似乎离开地面的，重于空气的东西，除了火箭，都应该叫飞机。<br>但是，离开地面的家伙种类越来越多了，随便举几个例子：<br><br><b><u>直升机：</u></b><a href="http://baike.baidu.com/view/22518.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">直升机_百度百科<i class="icon-external"></i></a><br>它里面已经分了好几个大类了，知乎也有过回答：<br>图文并茂版：<a href="http://www.zhihu.com/question/20636331" class="internal">直升机怎么保证机身不随螺旋桨旋转？</a><br>自己的一个回答：<a href="http://www.zhihu.com/question/19841328" class="internal">玩具直升机大多是双螺旋浆，为了解决扭矩问题。实际的直升机怎么解决这个问题的？</a> <img src="http://pic1.zhimg.com/e47252a7c7d0d9753bdf9b485bf6858c_b.jpg" data-rawwidth="570" data-rawheight="380" class="origin_image zh-lightbox-thumb" width="570" data-original="http://pic1.zhimg.com/e47252a7c7d0d9753bdf9b485bf6858c_r.jpg"><br><b><u>滑翔机：</u></b>
+<a href="http://baike.baidu.com/view/19422.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">滑翔机_百度百科<i class="icon-external"></i></a> <br>和飞机的区分，就是有无动力。<img src="http://pic4.zhimg.com/cb0c0d8ffbb6fbfa9f4ab5d999ce5a3f_b.jpg" data-rawwidth="1024" data-rawheight="672" class="origin_image zh-lightbox-thumb" width="1024" data-original="http://pic4.zhimg.com/cb0c0d8ffbb6fbfa9f4ab5d999ce5a3f_r.jpg"><br><b><u>地效飞行器：</u></b><a href="http://baike.baidu.com/view/463222.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">地效飞行器_百度百科<i class="icon-external"></i></a><br>这个看上去和飞机非常像。但是原理不同，也飞不高的。<img src="http://pic3.zhimg.com/544aa60ef5d5ed419a004bee17011172_b.jpg" data-rawwidth="690" data-rawheight="263" class="origin_image zh-lightbox-thumb" width="690" data-original="http://pic3.zhimg.com/544aa60ef5d5ed419a004bee17011172_r.jpg"><br><b><u>旋翼机：</u></b><a href="http://baike.baidu.com/view/380760.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">旋翼机_百度百科<i class="icon-external"></i></a><br>这个和直升机看上去非常像，但是原理差距很大。<img src="http://pic2.zhimg.com/563456d594c9ecc53b5c19cbba9444c1_b.jpg" data-rawwidth="973" data-rawheight="677" class="origin_image zh-lightbox-thumb" width="973" data-original="http://pic2.zhimg.com/563456d594c9ecc53b5c19cbba9444c1_r.jpg"><br><b><u>倾转旋翼机：</u></b><a href="http://baike.baidu.com/view/9067917.htm?fromId=410824" class=" wrap external" target="_blank" rel="nofollow noreferrer">V-22倾转旋翼机<i class="icon-external"></i></a><br>鱼鹰，介于飞机和直升机之间，很多人不知道该叫他什么，飞机还是直升机？中文给他起的名字很拗口，但是很贴切，倾转旋翼机。我在英文哪里没找到正式的学术分类，不好意思英文太差了，有英语好的朋友如果能查到的话给我指正一下。只是看到wiki里面说他是aircraft，航空器，等于没有分类。<img src="http://pic2.zhimg.com/f467709a49881afdef88f4e55738c939_b.jpg" data-rawwidth="300" data-rawheight="235" class="content_image" width="300"><br>苏联还做过这种怪物：<img src="http://pic3.zhimg.com/2f95ede943f72f59dd90ef9fd471ed3a_b.jpg" data-rawwidth="500" data-rawheight="219" class="origin_image zh-lightbox-thumb" width="500" data-original="http://pic3.zhimg.com/2f95ede943f72f59dd90ef9fd471ed3a_r.jpg"><b><u>三角翼：</u></b>
+<a href="http://baike.baidu.com/view/876310.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">动力悬挂滑翔机<i class="icon-external"></i></a> <img src="http://pic1.zhimg.com/a4220ab19c6387ea3ff2037c331c6a1c_b.jpg" data-rawwidth="300" data-rawheight="459" class="content_image" width="300"><b><u>动力伞：</u></b>
+<a href="http://baike.baidu.com/view/958832.htm" class=" wrap external" target="_blank" rel="nofollow noreferrer">动力伞_百度百科<i class="icon-external"></i></a> <img src="http://pic4.zhimg.com/8382a2072d85c49ed351de82f51afdcb_b.jpg" data-rawwidth="594" data-rawheight="323" class="origin_image zh-lightbox-thumb" width="594" data-original="http://pic4.zhimg.com/8382a2072d85c49ed351de82f51afdcb_r.jpg"><br>这么多的东西，显然都和固定翼飞机相距甚远了。未来，能飞的东西肯定也越来越多，飞行汽车啊，单兵飞行器啊，哆啦a梦的竹蜻蜓啊......<br><br>为了区分，也为了准确，飞机这个词汇已经被限定为固定翼飞机。<br>这时候，在“飞机”的前面加一个前缀来表示的航空器种类，必然是从属于它的。比如说”水上飞机“、“喷气式飞机”、“螺旋桨飞机”，那肯定是属于“飞机”这个大类，原理和广义的飞机相同，只是个别细节有所改动的航空器。<br><b>所以，直升机这种与飞机差距很大的航空器，不能用“飞机”前面加上“直升”来构成的“直升飞机”表示，因为它不属于固定翼飞机这个大类。</b><br><br>平常的生活中，我觉得把这些离开地面的家伙统统用”飞机"来指代一下没什么问题，毕竟简单表达一个日常情景的话，比如开个玩笑或者问候一下，没必要纠结细节。<br>但是，我们总是有需要精确表达的时候，这时候如果由于词语的混淆，导致表达不清楚，势必会降低语言沟通的效率，甚至产生误解。<br>因此我觉得我们需要了解精确的含义和用法，但是，是不是需要使用，可以看时机自己选择。<br>图片都是百度搜的，不要找我要版权啊。<br>自己的一点看法，欢迎讨论指正。<br><br>------------2.25更新------------<br><br><br>一些评论和其他的答案让我想了几个问题，抛出来当个靶子。<br><br>1.飞机这个词是国人对于航空器统称，并且已经根深蒂固，那是不是应该继续让它通用下去？<br><br>思考了一下，我觉得也可行。<br>字面理解，飞机，就是飞行的机器，所有能飞的机器都应该是飞机。这样理解也对的。<br>如果这样，就需要业界更改目前为止所有的中文资料，来重新统一名称，代价是大了点，可是与自然的习惯统一了，也省的知情的人好像在装13一样到处给人纠正错误。<br><br>2.对于日常语言中的谬误，我们应当宽容到何种程度？<br><br>比如<a class="member_mention" data-hash="ca036a442c0b9d9e3c81f7d53be20f3c" href="http://www.zhihu.com/people/ca036a442c0b9d9e3c81f7d53be20f3c" data-tip="p$b$ca036a442c0b9d9e3c81f7d53be20f3c">@圆SAN圆</a> 的答案里面提到的例子，鲸鱼是我们常用的称呼，但是鲸实际上不属于鱼类。 <br>我觉得这个例子非常好，性质是一样的。但是我注意到一个细节，就是在一开始的答案里面，把鲨鱼也作为例子举出来了，后来有人指出来之后，才把鲨鱼删掉的。我觉得这就是不正规的名称带给我们的负面作用，存在鲸鱼这么一个特例，不能简单通过名称辨别它的种类，结果导致把鲨鱼也当成特例搞错了。<br>假设在教孩子，可能孩子就记住了，鲸鱼不是鱼，鲨鱼也不是鱼。<br>或者一个没什么知识的家长，没有读过什么书，也没看过十万个为什么，直接就教给孩子鲸鱼就是一种鱼。叫鱼，那肯定就是鱼了。<br>我们应当为了平时方便，容忍这样的错误存在呢，还是为了准确，自己麻烦一下纠正这个错误呢？该怎么选择？我也还没想好。<br><br>3.当正确但是拗口的学术名称，与错误但是简洁的大众认知，两者产生冲突的时候，该怎么办呢？<br><br>媒体该怎么办呢？<br>专业人士该怎么办呢？<br>大众该怎么办呢？<br><br>我没做过调查，就感觉来看，直升机和直升飞机这两个词，在日常使用频率上，基本对半开，属于那种一旦施加影响进行引导，就可以形成向正确方向发展的趋势。对此，我觉得挺乐观。<br><br>但是对于那些已经根深蒂固的谬误呢？<br>比如<a class="member_mention" data-hash="de84adda1ae088a968b28e960ab9a84e" href="http://www.zhihu.com/people/de84adda1ae088a968b28e960ab9a84e" data-tip="p$b$de84adda1ae088a968b28e960ab9a84e">@错误等身（王勇）</a> 提到的观世音菩萨的本来名字，观自在，一开始是由于译者业务不精错译成了观世音，但是反而这个错误的名字更有生命力，感觉也更符合佛教的气质和国人的理解。想要更改成正确的名字，居然难于上青天。<br>像这种级别的谬误，应该怎么对待呢？<br>我还没有答案，欢迎继续讨论。
+<a href="/question/20794367/answer/16214165" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="1615449-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-02-23" target="_blank" href="/question/20794367/answer/16214165">编辑于 2013-02-25</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>26 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="1618070"
+data-atoken="16220598"
+data-collapsed="False"
+data-created="1361710925"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="3">3</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">3</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$yan-wei-xin-sheng" href="/people/yan-wei-xin-sheng">言为心声</a>，<strong title="想抓住青春，青春却给我亮了一下尾巴。" class="zu-question-my-bio">想抓住青春，青春却给我亮了一下尾巴。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="3">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$sssunhe" href="http://www.zhihu.com/people/sssunhe" class="zg-link" title="buing buing">buing buing</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$skywalkerhan" href="http://www.zhihu.com/people/skywalkerhan" class="zg-link" title="skywalkerhan">skywalkerhan</a></span>
+</span>
+
+
+<span>赞同</span>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="498207" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">直升机它不是飞机。它只是飞行器的一种！
+
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="1618070-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/20794367/answer/16220598">发布于 2013-02-24</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>1 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20794367" class="zg-link-litblue">查看全部 27 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="498207">关注问题</button>
+
+311
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="http://pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163742 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371469 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/20794367/answer/39453213/collections">97</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1413789781">
+<h2 class="zm-item-title ">
+<a href="/collection/40516033">一本正经的开脑洞</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/ling-feng-17-73" data-tip="p$t$ling-feng-17-73" class="zg-link-litblue"> 凌风 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/40516033/followers">7106 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1391243516">
+<h2 class="zm-item-title ">
+<a href="/collection/31162084">文学翻译・语言文字・小学考古相关</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/antilovsky" data-tip="p$t$antilovsky" class="zg-link-litblue"> 楊步陵 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/31162084/followers">4344 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1317524991">
+<h2 class="zm-item-title ">
+<a href="/collection/19553186">I like it~!</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/gaohanyu" data-tip="p$t$gaohanyu" class="zg-link-litblue"> 小劳 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19553186/followers">345 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1352833027">
+<h2 class="zm-item-title ">
+<a href="/collection/19755670">长知识</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/liu-dian" data-tip="p$t$liu-dian" class="zg-link-litblue"> 刘典 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19755670/followers">4 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1390752976">
+<h2 class="zm-item-title ">
+<a href="/collection/31040295">博古</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/hei-tai-yang" data-tip="p$t$hei-tai-yang" class="zg-link-litblue"> 一条安达鲁老狗 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/31040295/followers">4 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20636215">为何直升机失事无法跳伞？</a> <span class="num">17 个回答</span><meta itemprop="followerCount" content="401" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20484205">直升机的一字叶片和十字叶片各有什么优势特点？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="68" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20636331">直升机怎么保证机身不随螺旋桨旋转？</a> <span class="num">9 个回答</span><meta itemprop="followerCount" content="84" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21420517">一个人到底对直升机的耗油量有多少影响？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="13" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21550643">为什么武装直升机没有单旋无尾桨或者涵道式尾桨的？</a> <span class="num">7 个回答</span><meta itemprop="followerCount" content="35" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20271699">直升机坠地是否一定会爆炸？</a> <span class="num">5 个回答</span><meta itemprop="followerCount" content="45" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20636282">军用直升机上有弹射跳伞逃生装置么？是怎么工作的？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="10" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20811678">直升机能在空中做出翻滚360度（左右方向）的动作吗？是如何实现的？</a> <span class="num">5 个回答</span><meta itemprop="followerCount" content="20" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20977182">中国军工为什么没有仿制在救灾中颇受好评的黑鹰直升机？</a> <span class="num">13 个回答</span><meta itemprop="followerCount" content="110" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20126818">黑鹰武装直升机和阿帕奇武装直升机有什么区别？哪个更好一些，还是用途不同？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="36" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2015-02-15</span>
+</p>
+<p>
+所属问题被浏览 <strong>31396</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440605780000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":498207,"urlToken":20794367,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/978a4235e532b60ef87b598349e58873.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/fa4d7c07a828a3976ebd9b5b76087914.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/68706faf5d46a069ab0d8b20930cfe75.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/f42a7a51d4bc5bc0fa8d4d0aaeddaed1.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="9d46a6fdbb6343dabe09b5ac1d41130e">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="e01da562e58d542e4794cfcf1374a253"/>
+</body>
+</html>

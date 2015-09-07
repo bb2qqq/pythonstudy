@@ -12,7 +12,8 @@ class ZhihuSpider(scrapy.Spider):
 #        "http://www.zhihu.com/people/zengjuchen/answers?order_by=vote_num",
 #        "http://www.zhihu.com/people/hu-wen-chao/answers?order_by=vote_num",
 #        "http://www.zhihu.com/people/lisongwei/answers?order_by=vote_num",
-        "http://www.zhihu.com/people/zhou-quan-43-90/answers?order_by=vote_num",
+#        "http://www.zhihu.com/people/kaiserwang730/answers?order_by=vote_num",
+        "http://www.zhihu.com/people/liangbianyao/answers?order_by=vote_num",
 #        "http://www.zhihu.com/people/zengjuchen/posts",
     ]
 

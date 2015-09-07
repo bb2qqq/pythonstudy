@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>在你的专业里，有什么基础知识是和普通人的认识不相符的？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/46443008">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/29077475/answer/46443008">
+<meta id="znonce" name="znonce" content="2f1109d924244c80ad56adf9dcab9e66">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/1050c05fe2d5d1a0816e1f51c3b1e0ca.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/29077475" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551585"
+data-tip="t$b$19551585" data-token="19551585" data-topicid="458">
+科普
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19554151"
+data-tip="t$b$19554151" data-token="19554151" data-topicid="1309">
+调查类问题
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19569848"
+data-tip="t$b$19569848" data-token="19569848" data-topicid="6551">
+生活常识
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19612998"
+data-tip="t$b$19612998" data-token="19612998" data-topicid="20982">
+专业知识
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19648123"
+data-tip="t$b$19648123" data-token="19648123" data-topicid="32696">
+科普知识
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/29077475">在你的专业里，有什么基础知识是和普通人的认识不相符的？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="3813947" data-action="/question/detail">
+
+<div class="zm-editable-content">在你的专业里，有什么基础知识，是打破普通人的直觉的？<br>可以是，普通人听完后，会觉得不可能，怎么会这样，整个人都是崩溃的。<br>也可以是，普通人听完，会知道自己的错误。<br>当然，也可以是，只会招来普通人和你的争论。<br>请附上相应解释。<br><br>相关问题：<br><a href="http://www.zhihu.com/question/27282113" class="internal">有哪些看似荒谬，其实很科学的理论？</a><br><a href="http://www.zhihu.com/question/29368349" class="internal">经济学有哪些违背普通人直觉的研究结果？</a><br><a href="http://www.zhihu.com/question/20195024" class="internal">有哪些数学常识与人们的生活经验不符？</a><br><a href="http://www.zhihu.com/question/23890724" class="internal">有哪些反直觉的物理现象？</a><br><a href="http://www.zhihu.com/question/19576331" class="internal">有哪些违反直觉或常识，但非常有价值的人生智慧？</a></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>51 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="3813947" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/29077475" class="zg-link-litblue">查看全部 2152 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="13973691"
+data-atoken="46443008"
+data-collapsed="0"
+data-created="1430466655"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-13973691"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">639</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="//pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="639">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$zhang-yi-de-8" href="http://www.zhihu.com/people/zhang-yi-de-8" class="zg-link" title="张益德">张益德</a>、</span><span class="user-block"><a data-tip="p$t$xie96" href="http://www.zhihu.com/people/xie96" class="zg-link" title="夜阑听雨">夜阑听雨</a>、</span><span class="user-block"><a data-tip="p$t$lin-miao-miao-34-98" href="http://www.zhihu.com/people/lin-miao-miao-34-98" class="zg-link" title="霖喵喵">霖喵喵</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="3813947" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><p><noscript><img src="//pic4.zhimg.com/e54ef0e344960db75c7cca7a65d02acb_b.jpg" data-rawheight="225" data-rawwidth="225" class="content_image" width="225"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="225" data-rawwidth="225" class="content_image lazy" width="225" data-actualsrc="//pic4.zhimg.com/e54ef0e344960db75c7cca7a65d02acb_b.jpg"><br>提起“火药”、“炸药”、“燃料”，我们总会感觉易燃易爆，危险至极。<br>如果说照着火箭推进剂开枪呢？这简直是作死，会不会瞬间爆炸？<br><br>今天的《插进科学》栏目带你走进“前方高能反应”。大家好，我是主持人Kaiser。<br><br><br>前面提到的这些火药味十足的东西统称为“含能材料”，包括各种能让你燃起来的、爽到爆的。<br><br>比如那些年我们一起在网吧里拆装过的C4。<br><noscript><img src="//pic4.zhimg.com/e7cb1d1a537a5aff5e51f1ec2d426f73_b.jpg" data-rawheight="184" data-rawwidth="407" class="content_image" width="407"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="184" data-rawwidth="407" class="content_image lazy" width="407" data-actualsrc="//pic4.zhimg.com/e7cb1d1a537a5aff5e51f1ec2d426f73_b.jpg"><br>C4是一种塑性炸药，里面加了很多化学的成分。<br><br><br>C4有什么不符合直觉的地方呢？<br>就是你用枪打C4，它是不会爆的。<br>（当然游戏里中枪不爆，那是开发原因，不是物理原因。）<br><br><br>这里介绍一个概念，叫炸药的感度（Sensitivity of Explosives）。<br>含能材料和人类一样，都有敏感体质和不敏感体质。<br><br>比如硝化甘油就特别敏感易爆。<br>不小心掉地上——炸了；<br>揣兜里捂热乎——炸了；<br>喝之前摇一摇——炸了；<br>衣服上有静电——炸了；<br></p><p>稍有不慎，就会因控制不当而提前爆炸。</p><p><br>上面这几种情景，就分别对应着【撞击感度】、【热感度】、【震动感度】和【静电感度】。<br>另外还有【摩擦感度】、【火花感度】等等不同的定义。<br></p><br><p>火炸药感度太高，就会像Dota里地精炼金术士的“不稳定化合物”一样，弄不好就把自己给炸了。</p><noscript><img src="//pic3.zhimg.com/a4c0cd0987a1ee6cafded232434be982_b.jpg" data-rawheight="105" data-rawwidth="105" class="content_image" width="105"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="105" data-rawwidth="105" class="content_image lazy" width="105" data-actualsrc="//pic3.zhimg.com/a4c0cd0987a1ee6cafded232434be982_b.jpg"><br><br><p>听起来很杂乱，但我们有便于记忆的方法。</p><p>关键词：火花——电流——摩擦——摩擦——震动——撞击——热</p><br><p>把这几个词串起来自己编个故事就行了。</p><br><br><p>后来诺贝尔就发明了利用硅藻土吸附性质降低硝化甘油感度的方法，研制出了硝化甘油炸药，再后来才有的诺贝尔奖。</p><br><p>硝化甘油炸药、刚才提到的C4，还有我们熟知的TNT（246-三硝基甲苯）都属于相对稳定的低敏感度火炸药，这样才能贮存、运输、管理。</p><br><br><p>那么问题来了，枪击都能抗，感度太低怎么爆？</p><br><p>在星爷《国产凌凌漆》中，罗家英饰演的精神病患者发明了“只要有光就会亮，没有光绝对不亮”的手电筒。</p><noscript><img src="//pic4.zhimg.com/09836dee7d86565f6f4bb390aa1e123f_b.jpg" data-rawheight="207" data-rawwidth="378" class="content_image" width="378"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="207" data-rawwidth="378" class="content_image lazy" width="378" data-actualsrc="//pic4.zhimg.com/09836dee7d86565f6f4bb390aa1e123f_b.jpg"><br><p>放在电影里我们觉得这是一个笑话，其实这个手电筒和炸药起爆，是一个原理：</p><br><p>火炸药/手电筒的感度很低，一般的能量输入（枪击/灯光）不能激发，必须使用高感度的同类材料（另一种炸药/另一个手电筒）作为引信。<br></p><br><p>于是诺贝尔又发明了另一种炸药当起爆器，即雷管（detonator）。实际上军事、工业上用的炸药，都跟罗家英的手电筒一样——只要有雷管，它就会爆；没有雷管，绝对不会爆。</p><br><br><p>江湖上曾经流传过一个“四大绝活”：焊雷管，锯灯泡，精修处女膜，火补避孕套。</p><p>其实焊雷管并不多危险，因为雷管只是起爆器，或者说引信，本身并不能产生前方高能反应。 </p><br><p>再说回枪击感度（Sensitivity to bullet impact）。</p><p>枪击感度的测试有两种方法，一种是用7.62毫米步枪，另一种是用12.7毫米机枪。一组实验内击中6组炸药，判定标准有声响、烟雾、火花、爆燃、爆轰等。</p><br><p>其中步枪法比较常用，一般用56式。</p><noscript><img src="//pic2.zhimg.com/95358842014b8dd6f9e3462b28d77789_b.jpg" data-rawheight="175" data-rawwidth="350" class="content_image" width="350"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="175" data-rawwidth="350" class="content_image lazy" width="350" data-actualsrc="//pic2.zhimg.com/95358842014b8dd6f9e3462b28d77789_b.jpg"><br><p>最后祝你，提前爆炸，再见！</p>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="13973691-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-05-01" target="_blank" href="/question/29077475/answer/46443008">编辑于 2015-05-01</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>145 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="13107457"
+data-atoken="44282055"
+data-collapsed="False"
+data-created="1428547554"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="10734">10K</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">10K</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+知乎用户，<strong title="你们赞都赞了，再关注一下不过分吧。" class="zu-question-my-bio">你们赞都赞了，再关注一下不过分吧。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="10734">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$maggiez" href="http://www.zhihu.com/people/maggiez" class="zg-link" title="MaggieZ">MaggieZ</a>、</span><span class="user-block"><a data-tip="p$t$wang-mou-mou-79" href="http://www.zhihu.com/people/wang-mou-mou-79" class="zg-link" title="王某某">王某某</a>、</span><span class="user-block"><a data-tip="p$t$ge-hen-ji" href="http://www.zhihu.com/people/ge-hen-ji" class="zg-link" title="歌痕迹">歌痕迹</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="3813947" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">1. 不管你屋子里有什么，着火以后不要冲进去拿，也不要叫消防员去帮你把你床底下的存折/金项链/情趣内衣/小浣熊水浒英雄闪卡一套108张 拿出来，什么玩意儿都不比生命更贵。<br><br>2. 如果自己家房子半夜起火，而火势又特别大的话，拿湿布/毛巾/衣服/帽子 掩盖住口鼻之后，<b>跑</b>出去！ 那些说爬出去的是指在办公楼/酒店 等你所<b>不熟悉地形</b>的<b>大型建筑</b>内，防止被烟雾熏晕时的举措。家里居住面积不超过400平米，从卧室到门口跑动距离不超过50米的就直接<b>屏住呼吸眯着眼睛</b>跑出去吧。<br><br>3. 看到消防员踹门不要太吃惊，有时候门把手的温度足够做一道炭烤猪蹄了。<br><br>4. 大型火灾现场看到某个角落或消防车内有睡着了的消防员请不要拍照，那都是最早出动的，最早抵达现场的，最累的，最需要休息的那一批人。<br><br>5. 我们的培训内容其实没有爬树抓猫赶狗捕蛇摘戒指等等等等…… <br><br>6. 罚学员罚得越凶的教官，才是真正的好教官… <br><br>7. 虽说不管在干什么，都有可能突然被出动，但是体能训练之后有警报的几率好像特别高… 所以为了保护人民生命财产的安全，强烈要求长官减少体能训练的次数！<br><br>8. 警察同志们才是叔叔，消防员们都是哥哥！<br><br><br>-------------------------大半夜分割线----------------------<br><br><br>9. 一天之内多了近3k的赞之后，总感觉本问题下有很多其他的答案更值得这么多的赞。<br><br>10. 嗯… 不是每个消防员都有腹肌… （对不起！我会继续努力的！）<br><br><br>---------------------上午的分割线----------------------<br><br><br><br><br><br>11. 消防员/警察/军人/医生/护士/校长/老师们都以为自己因为一些害群之马而不被尊重呢，所以希望大家不只是赞我的答案，也能通过写信/当面/陌陌/附近的人 等方式感谢他们。他们一定会很感动的。 嗯… 记得不要送礼物，我们不会收的。<br><br><br>---------------------想起来就更新的分割线---------------<br><br>12. 液化气泄漏事故现场要保证罐体降温避免爆炸的同时不能把火扑灭，因为不找出泄漏点就灭火的话液化气大量泄漏遇明火爆炸的话后果不堪设想，留着火至少能消耗掉泄漏出来的可燃气体，毕竟看不见的才是最危险的。所以下次看到消防人员的水龙不对着火焰喷的时候请不要在网上喷我们无能，我们也想早点灭完火回去休息的。 <br><br>13. 我们希望有一张这样的卡，里面有多少钱都是次要的。<br><br><img data-rawheight="377" data-rawwidth="600" src="//pic2.zhimg.com/f308102bfa7bed0cfb96f70b1c123549_b.jpg" class="origin_image zh-lightbox-thumb" width="600" data-original="//pic2.zhimg.com/f308102bfa7bed0cfb96f70b1c123549_r.jpg"><br><br><br>-------------------眼看要破万赞了再更新一下--------------<br><br><br>14. 开车的朋友尽量在保证自己驾驶体验舒适的情况下把座椅向前调，发生车祸时虽然车体已经变形，但通过向后调整座椅可以轻易制造出足够大的空间来逃生。
+<a href="/question/29077475/answer/44282055" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="13107457-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-04-09" target="_blank" href="/question/29077475/answer/44282055">编辑于 2015-07-09</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>781 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="13143631"
+data-atoken="44372381"
+data-collapsed="False"
+data-created="1428627868"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2688">2688</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">2688</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$ma-qian-zu" href="/people/ma-qian-zu">马前卒</a>，<strong title="山楂糕、枣泥饼、酸奶冰棍" class="zu-question-my-bio">山楂糕、枣泥饼、酸奶冰棍</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="2688">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$xiong-ya-ji-31" href="http://www.zhihu.com/people/xiong-ya-ji-31" class="zg-link" title="熊亚吉">熊亚吉</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$jin-hou-you-shi-yao-da-suan" href="http://www.zhihu.com/people/jin-hou-you-shi-yao-da-suan" class="zg-link" title="今后有什么打算">今后有什么打算</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="3813947" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">有人提到911撞世贸大楼，我也说一个：<b>【钢铁比木材更不耐火】</b>，当然前提是火灾前钢材和木材可以承受同样荷载。<br><br>原因有四：<br><br>一 450-500摄氏度的时候，钢铁基本丧失负载能力、失稳。木头只要还没烧光，在这个温度还真能挺一下。<br><br>二 钢铁的比热容大概是0.5×10^3J/(kg·℃) ，干木头的比热容是2×10^3J/(kg·℃) ，即钢铁升温速度是木头的4倍。而且同样的荷载，用的木头比钢材要多。如果考虑到木材一般含水，还要考虑水的比热容和蒸发热。木材的升温就更慢了。<br><br>三 钢铁的导热率超好，是木材的几十倍甚至上百倍，在同样的火焰下肯定比木材升温快。<br><br>四 注意前面的叙述，承受荷载的钢铁达到500摄氏度直接就挂了，不用燃烧。木材必须烧掉才能丧失负载能力。而燃烧是要靠氧气的，外层木材有效地为内层木材隔绝了氧气，所以木材必须一层层烧掉，不会一下子就烧跨。钢铁只要被火焰燎几十秒就挂了。<br><br>这就是为什么你能看到消防员在带火的木屋架下面救人，却没人敢在赤红的钢梁下奔跑的缘故。911撞大楼一撞就倒，原因不是钢铁被点燃，而是航空燃油把钢结构烧的失去了强度，所以被烧软的中层就像面条一样瘫软下来，然后上层带着动能撞到下半部分上，一举摧垮了从未考虑动荷载的钢结构大楼。你可以看这里的第二张图片：<a href="http://pic.tiexue.net/bbs_8442251_1.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">【图集】911美国世贸大厦是这么被撞毁的<i class="icon-external"></i></a><br><br><img src="//pic1.zhimg.com/3b3f6753cbd639142c196dc900562880_b.jpg" data-rawwidth="527" data-rawheight="316" class="origin_image zh-lightbox-thumb" width="527" data-original="//pic1.zhimg.com/3b3f6753cbd639142c196dc900562880_r.jpg"><u>这张图直观地告诉我们，只要直接被火焰烧灼，即便很小的火灾也足够让钢梁变成面条。</u><br><br>有许多论文讨论过木结构抗火设计，我贴一下：<br><br><a href="http://www.woodstar.cn/Item/1025.aspx" class=" wrap external" target="_blank" rel="nofollow noreferrer">重型暴露木结构防火设计概述<i class="icon-external"></i></a><br><br><blockquote>在美国，用木材来建造安全防火的建筑已有一个多世纪的成功历史。暴露在火焰中的木材将自然地形成一个阻燃碳化层，保护内部未燃烧的部分。在周围温度不断上升的过程中，木材的机械性能还表现出若干优点。当被加热时木材构件不会延展，能够维持相当的刚度。其他类型的结构材料虽然被描述为加热时不易燃烧，但它们在高温下的变形可能破坏其他的结构元素而导致建筑的倒塌。例如钢材在高温下刚度将降低，这可能会导致钢柱和钢梁的破坏。而木材构件因为内部未碳化的部分将维持其强度和刚度，建筑使用者可以获得一定的逃离时间，消防员和使用者可以与火灾搏斗而不必冒结构坍塌的危险。<br><br>在1800年，许多大型磨坊建筑和它们内部的设备被大火毁坏，给保险公司带来了巨大损失。为了减少类似的负担，人们发展出了重型木构建造方法，利用大型木构件来减少尖锐的凸出边缘以及建设过程产生的可能让高温空气通过的缝隙。当暴露在火焰中时，木材表面将形成碳化层，这一碳化层可以防止构件内部受高温侵袭。如果没有外部的燃烧元素如氧气、油料等的持续补充，碳化层就能使火焰自然熄灭。</blockquote><br><a href="http://wenku.baidu.com/link?url=mKKmfx6eu3tz2B0oZyML5vK6mHpyDin8APU9LQAhUtErcOsNTRojZJWXTwoAuoKHsTxtgz9F_4FyKRHH2VkZxxfnbEKlCpQ3wyoUXy-6pQ3" class=" wrap external" target="_blank" rel="nofollow noreferrer">【论文】重型木结构抗火设计方法介绍<i class="icon-external"></i></a><br><br><img src="//pic2.zhimg.com/59e1c8cdf3d06d83dc81e3cf29b4cf2d_b.jpg" data-rawwidth="832" data-rawheight="464" class="origin_image zh-lightbox-thumb" width="832" data-original="//pic2.zhimg.com/59e1c8cdf3d06d83dc81e3cf29b4cf2d_r.jpg"><br>但为什么我们的常识是铁比木抗火呢？<br><br>因为我们日常生活使用的火焰很小，总热量很低。<b>在日常尺度下，钢铁热导率高反而成了抗火的优点</b>——火焰烧灼面积小于钢铁工具总面积，可以迅速把热量传导到其他部分散热。<br><br>其次是钢铁的<b>燃点的确比木材要高</b>。在一般的火焰烧灼下，如果自己不烧起来，的确很难烧坏。而木材自己可能成为主要热量的来源，被炉灶飘出的很小的火苗引发大火。（现代房屋内没有旧式炉灶，用火的安全度要高的多，不再那么担心取暖和做饭的用火安全）<br><br>第三是我们日常使用的钢铁工具<b>承受荷载较小，远不能接近钢铁的极限受力</b>，比如铁锅只需要承受几斤菜肴的重力即可。所以即便烧到赤红，一般也能满足我们的需求。<br><br>这三个原因综合作用，制造了“钢铁比木头耐火”的“常识”。而建筑的体量要比我们日常使用的工具大1-2个数量级，这10-100倍的差距就会导致“常识”被颠覆。但只要你理解了其中的物理原理，【木头比钢材更抗火灾】的事实就会像【钢铁比木头更适合造大船】一样直观。<br><br>其实除了火焰之外，大多数物理现象随着尺度的增加，都会出现量变——质变的跃升，不能简单地用小尺度模型来套用。最直观的原因就是体积随尺度增加以三次方增长，表面积只以两次方增长，所以会出现变化。我前几天在<a href="http://www.zhihu.com/question/29240629/answer/43671292" class="internal">一颗直径 30 公里的中子星撞上大犬座 VY 那么大的岩质星球会发生什么？</a>这个问题里提过这个问题：<br><br><blockquote>我们日常生活中考虑物理问题，默认是忽略万有引力的，因为万有引力常数实在太小。但是，万有引力这个东西，一方面和距离的平方成反比，另一方面和质量成正比。质量=密度x体积。体积是尺度的三次方，如果物体的密度不变的话，一个物理体系的尺度增加10倍，其中各个物体的体积就是原来的1000倍，距离的平方变成原来的100倍——1000/100=10，即万有引力相对其他效应增加10倍。尺度越大，万有引力的效应越明显，即便对于非常稀薄的低密度物质也一样。<br><br>所以，两块石头之间不会互相吸引绕行，地球和月亮就被引力锁在一起。普通石头可以奇形怪状，直径到了上千公里就必定是球形——在引力作用下收缩在一起。等到尺度的数量级进一步增加，这堆石头（气体也一样）收缩成一个紧密小球的趋势将更强烈，会变成白矮星中子星乃至导致时空断裂的黑洞。你设想中的像土星轨道那样大的“岩石行星”必定早就收缩为一个黑洞了。</blockquote><br>为了避免模型和具体工程的类似差异，流体力学里有一个<a href="http://baike.baidu.com/link?url=NsW6LOqz4q-AtkaOGcT4UtnhRAy_Yvbz6uiRypNUUheN9zfdXJakA_s0LaUfeDNC725tB_cdndsdDvz6Brz0jq" class=" wrap external" target="_blank" rel="nofollow noreferrer">雷诺数<i class="icon-external"></i></a>的概念。其他学科应该也有类似的参数。具体到热力学方面，我不太懂，就不乱说了。<br><br>补充：评论里有人问为何不用木头和大理石替代钢材，这个问题问的很好。我在：<br><br><a href="http://www.zhihu.com/question/24313494/answer/41389276" class="internal">在同济大学就读是怎样一番体验？ - 马前卒的回答</a><br><br>这个问题里谈过工程师的职责：<br><br><blockquote><a href="http://www.guancha.cn/MaPing/2014_05_16_230232_s.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">最后呢，我建议所有非工科的同学，花上几个月时间去了解一门实用工程技术，看一个工程实例。土木工程也行，机械工程也行，化工电子都可以。因为工程和科学的逻辑不太一样。<i class="icon-external"></i></a><br><br><a href="http://www.guancha.cn/MaPing/2014_05_16_230232_s.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">我过去当设计员的时候，曾经向一个文科同学解释我的工作。他问我：工程师是不是在上学和实习的时候学了很多种技术，然后根据客户的需求，提供某一种。<i class="icon-external"></i></a><br><br><a href="http://www.guancha.cn/MaPing/2014_05_16_230232_s.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">我回答说：工程师的确在上学的时候学了很多技术，但更多的是学到了一个目录，很多技术细节我们也要查。我们手边有很多技术手册和国家规范，还有设计范例。我们也是一边工作一边学习的。<i class="icon-external"></i></a><br><br><a href="http://www.guancha.cn/MaPing/2014_05_16_230232_s.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">这个同学很奇怪，说：既然你们大部分问题也要边查边做，为什么还要有专门的工程师呢？<i class="icon-external"></i></a><br><br><a href="http://www.guancha.cn/MaPing/2014_05_16_230232_s.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">我告诉他，工程师的用处不在于背下许多技术数据，虽然我们的确要背一些数据。但是这些真正要死记硬背的数据任何人花几个星期都能背下来。我们主要的工作是妥协，在各个看起来指标之间妥协。有的地方你要耐久，就没法有非常突出的效率，要高效率，可能就没法控制产品的稳定性，要稳定，可能就要配很贵的技术工人。什么都要，那这个工程你肯定造不起。所以，我们就是在各个使用性能之间妥协，在不同系统的技术指标之间妥协，在成本和所有的功能之间妥协。在人和机器之间妥协。我们肯定找不到所有指标都理想化的方案，但我们试图提供相对最适合你的方案。<i class="icon-external"></i></a><br><br><a href="http://www.guancha.cn/MaPing/2014_05_16_230232_s.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">这就是工程和科学的区别。科学家研究了许多东西，但实际负责建造和维护社会的，是工程师和具体的管理人员。各个行业之间隔行如隔山，但在妥协精神这一点上，所有的技术人员都是一样的。我希望各位去了解一门工程技术，不是让大家去兼职当工程师，就是让大家体会这个工业社会必不可少的妥协精神。讨论社会问题的时候不会抓住事情的一个方面走极端。<i class="icon-external"></i></a></blockquote><br>即我们这个行当的核心不是知道什么防火，什么耐压。而是在各种材料、各种施工方案之间找平衡，尽可能满足大多数需求——但绝不是满足所有需求；规避尽可能多的风险——但绝不是消灭所有风险。大理石和木头在特定条件下或许比钢材耐火，但其他工作指标差的太远，所以现在建筑主要的受力骨架一般还是靠钢材或者钢筋混凝土。我在<a href="http://www.guancha.cn/MaPing/2013_12_25_194940.shtml" class=" wrap external" target="_blank" rel="nofollow noreferrer">东华大学演讲：房子培育爱情<i class="icon-external"></i></a>里面指出过这个问题，欢迎大家去看，去转载。<br><br>另外就着这几天的月食说一个小事情，日食的频率远高于月食。只是因为日食覆盖地区窄，月食一旦发生就能让半个地球看见，所以月食貌似比日食常见。<br><br>最后，评论里那些因为911配图链接里的文字大发感慨的朋友，我给你们介绍一个更神奇的链接：<br><a href="http://www.szhgh.com/article/netizens/201309/32186.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">试从中医角度解读911事件是骗局<i class="icon-external"></i></a><br><img src="//pic2.zhimg.com/8b6088028ca6418c2480aee6fd749cad_b.jpg" data-rawwidth="752" data-rawheight="479" class="origin_image zh-lightbox-thumb" width="752" data-original="//pic2.zhimg.com/8b6088028ca6418c2480aee6fd749cad_r.jpg">
+<a href="/question/29077475/answer/44372381" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="13143631-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-04-10" target="_blank" href="/question/29077475/answer/44372381">编辑于 2015-04-15</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>99 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/29077475" class="zg-link-litblue">查看全部 2152 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:29077475}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="3813947">关注问题</button>
+
+29131
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163868 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371752 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:29077475}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/29077475/answer/46443008/collections">177</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1380726389">
+<h2 class="zm-item-title ">
+<a href="/collection/26852067">原谅我一生不羁笑点低。。。</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/qiaobujian" data-tip="p$t$qiaobujian" class="zg-link-litblue"> 二零四六 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/26852067/followers">16791 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1418187120">
+<h2 class="zm-item-title ">
+<a href="/collection/42013025">文科狗的杂货铺</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/fang-ji-87-28" data-tip="p$t$fang-ji-87-28" class="zg-link-litblue"> 方技 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/42013025/followers">2860 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1403273992">
+<h2 class="zm-item-title ">
+<a href="/collection/37834786">Getting Information</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhang-yizhao-83" data-tip="p$t$zhang-yizhao-83" class="zg-link-litblue"> 张一钊 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37834786/followers">193 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1421428093">
+<h2 class="zm-item-title ">
+<a href="/collection/43503593">梦的解析</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zheng-ming-97-32" data-tip="p$t$zheng-ming-97-32" class="zg-link-litblue"> 小二 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/43503593/followers">4 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1424527680">
+<h2 class="zm-item-title ">
+<a href="/collection/45304462">高考</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/yao-ling-8" data-tip="p$t$yao-ling-8" class="zg-link-litblue"> 尧零 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/45304462/followers">3 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21171737">兴趣是什么？</a> <span class="num">5 个回答</span><meta itemprop="followerCount" content="19" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21339719">研究生期间如何充实的生活？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="11" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2015-05-01</span>
+</p>
+<p>
+所属问题被浏览 <strong>9406053</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:29077475}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440662703000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":3813947,"urlToken":29077475,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/46201a6f385436f0f822dd895a1769a8.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/5c4a1ff2d8c7b65ced3c78c6f773554d.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/0a31d5fcb47d7c9161324ba54a206504.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/d07988700e1807410495cc8f1b6615fa.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="2f1109d924244c80ad56adf9dcab9e66">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="316da35198ff2e74222a1c6fd85ada2c"/>
+</body>
+</html>

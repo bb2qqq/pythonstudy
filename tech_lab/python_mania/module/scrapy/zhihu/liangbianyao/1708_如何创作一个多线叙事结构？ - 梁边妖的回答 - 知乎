@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>如何创作一个多线叙事结构？ - 梁边妖的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/19012014">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/21306861/answer/19012014">
+<meta id="znonce" name="znonce" content="70fe08050ed44a959a300fee01affabb">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/1050c05fe2d5d1a0816e1f51c3b1e0ca.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/21306861" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19615372"
+data-tip="t$b$19615372" data-token="19615372" data-topicid="21767">
+小说创作
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19752648"
+data-tip="t$b$19752648" data-token="19752648" data-topicid="67623">
+剧本创作
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/21306861">如何创作一个多线叙事结构？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="703455" data-action="/question/detail">
+
+<div class="zm-editable-content"></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>9 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="703455" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/21306861" class="zg-link-litblue">查看全部 22 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="2781064"
+data-atoken="19012014"
+data-collapsed="0"
+data-created="1379932074"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2781064"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1708</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$liangbianyao"
+class="zm-item-link-avatar"
+href="/people/liangbianyao">
+<img src="//pic3.zhimg.com/e890b7eba_s.jpg"
+class="zm-list-avatar"
+data-source="//pic3.zhimg.com/e890b7eba_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$liangbianyao" href="/people/liangbianyao">梁边妖</a>，<strong title="一个编剧。我应该说是最强的编剧吗？" class="zu-question-my-bio">一个编剧。我应该说是最强的编剧吗？</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1708">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$cheng-li-li-42" href="http://www.zhihu.com/people/cheng-li-li-42" class="zg-link" title="程哩哩">程哩哩</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$da-zhu-79-9" href="http://www.zhihu.com/people/da-zhu-79-9" class="zg-link" title="吴祖宁">吴祖宁</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="703455" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">谢邀。<br><br>这是个大问题，大问题不可能用区区一个答案来完全解决。<br>在这里，我就结合几个实例，与大家分享一些比较基础、比较实用的技巧吧。<br><br><br>我们先给常见的多线程叙事的文艺作品简单分个类。<br><br>按照信息量大小范围的不同，从小到大，依次是电影、电视剧、小说。<br><br><br>先说电影。<br><br>常见的几种多线程叙事的玩法，可以按照设计难度的不同给它们分分层次。<br><br><ul><li>最难的当然是《疯狂的石头》这一类型，人物线索犬牙交错，剪不断理不乱，这个门派的开山祖师是个天才，他摸过麦当娜的屁股。</li><li>次难的是《无耻混蛋》这一类型，分章节讲述不同人物的故事，最后大家聚在一起来个大乱斗。你做得认真点，拉莫里康内来帮你配个乐，观众们看得一定很快活。 <br></li><li>最简单的是流氓拳，你在三副扑克牌上写三个剧本，然后你洗牌，洗完，拍！  当然，流氓拳也能打死老师傅：不埋暗线，你弄的是《爱在四川美食篇》；埋条暗线，你可以做《云图》。</li></ul><br><br>电视剧的时长较长，对结构的要求没有那么严格。有能力和没能力的、有野心和没野心的人来玩它，差别很大。<br>做电视剧自然有许多做电视剧的技巧，比如，怎么不断地挖坑，用什么节奏填坑，怎么在每一集末尾设置一个大悬念，让人欲罢不能地来追你的下一集，这需要的就是一个编剧过硬的功底。<br>不管怎么说，它的难度一般来说小于《疯石》这样的电影。<br><br>小说就可怕了。<br>小说的容量和可能性几乎是无限的。<br>这也就导致了，小说的结构几乎是无限的，我周杰伦今天偏要写一部200亿字的小说，写80万个人物，你能拿我怎么样？<br><br><br>所以，不好高骛远，我们从基本功走起。<br><br><br>2012年12月21号是传说中的世界末日，末日来临前，有个楼盘希望拍个微电影或病毒视频，借世界末日的热度，让自己的楼盘火一把。工作量小，收益不错，我接了这个单。<br><br>世界末日这个词听起来怪怪的，总感觉会跟外星球扯上点什么关系。<br><br>但是呢，我写潘朵拉星打过来了，他们没钱把人涂成蓝色；我写那美克星打过来了，他们没钱把人涂成绿色。<br>这个房地产商的钱，不够给演员上色，却恰好够让我来脑筋急转弯。“编剧，来，我私人赞助你五十块钱，这还有一包烟，一个一次性打火机，你拿着。你想想办法，给我一个末日的感觉。”<br><br>这就是传说中的钱多死后期、钱少死编剧，你们懂不懂？<br><br><br>我做了几个不一样的版本。其中两份废稿，刚好就是两个多线程叙事的简单示例。<br>注意，各位观众不要对剧本的文笔要求太高了，过量的文笔对剧本来说是个没用的东西。<br>你先写个千军万马，再写个血流漂杵，往外写个美丽的冥王星，往里写个夕阳下的比武，等制片人读完你就能成功地被他砍死了。你乱写几个字他多花几十万啊。演员也不会待见你，这里就先不多说了。<br><br><br>在看示例1之前，我们先来想一想……<br><br>①，首先，你写出了一个人物A。如果这不是个独角戏，那这个人物A是不是应该会跟其它人物有互动？<br>②，现在你有了与A互动的其他人物BCD，BCD不跟A在一起的时候又做了些什么？<br>③，A这个人物能否深入挖掘，使他表现得没有你一开始想象的那么简单，是否还能安排他去做一些别的什么？<br>④，BCD的各自遇到的人物EFG等等，是否又会在BCD不登场的情况下，与A有什么奇特的缘分与交集？<br>⑤，为这个产品买单的有两批人，一是出钱的老板，一是看戏的观众，其中首先要满足的是谁，是老板还是观众？他们需要的是什么？你是否应该把整个作品的调性向着他们的口味推动？<br>⑥，……<br><br><br>示例1（该方案三观极正，我这属于拿节操来换钱啊，请勿吐槽） ——<br><br><br>《末日来临前，你最想做的十件事》<br><br><br>No.10<br>　　餐厅里，餐桌上，层层叠叠满满当当地摆着几十道菜。<br>　　一个女孩深深吸了一口气：终于不用再减肥了。<br>　　她大吃特吃起来。<br>　　一双属于厨师的手拿着一个罩着罩子的盘子进入画面，厨师的声音从画外传来：这是最后一道菜。<br><br>                                                                  ----大吃一顿。<br><br><br><br>No.9<br>    一个熬夜工作的男人，先丢了工作服，再把自己丢到床上。<br>　　他翻滚着，享受着床的舒适。<br>　　最后，他翻滚到一个很丑很有意思的姿态，呼呼大睡。<br><br>　　                                                           ----好好睡一觉。<br><br><br>No.8<br>　　一家饭店，空无一人。<br>　　老板兼大厨正在关门，一个女孩兴冲冲跑到门口，老板头也不回地说：这都世界末日了，不营业啦！<br>　　女孩祈求道：老板，求你了，我最喜欢你们家了！大吃一顿是我最后的愿望！<br>    老板听到这个声音，仍是头也不回，但他打开了大门。<br>　　老板兼大厨给女孩做菜。<br>　　老板拿着一个罩着罩子的盘子，放在女孩面前：这是最后一道菜。<br>　　老板继续说道：你之所以喜欢我们家，是因为你每一次来，吃的都是我为你做的特别料理。<br>　　老板打开罩子，那是一份用菜摆成的情书：是因为——我爱你。<br><br>　　                                                            ----表白。<br><br><br>No.7<br>    某建筑内。<br>    一群年轻男女，穿着那些一看就是混职场的衣服，却拿着闯战场的工具——枪。<br>　　他们在一道大门外，相互使眼色。<br>　　有人发令：3、2、1……<br>　　他们闯进大门，举枪疯狂地扫射门里的那个人。<br><br>　　                                                      ----用水枪射老板的头。<br><br><br><br>No.6<br>　　出城的路上，熙熙攘攘的车流。<br>　　一个男人看着手边家人的照片，被堵在车流中。<br><br>　　                                             ----逃离钢铁森林。<br><br><br>No.5<br>　　一个交警出现在拥堵的车流间。<br>　　没想到，世界末日将近时，交警还在工作。<br>　　城市的地表被疏通了，交警对no.6中逃离城市的男人示意，继续前行。<br><br>　　                                                      ----站好最后一班岗。<br><br>No.4<br>　　一个衣着考究的青年主管坐在自己的办公室里。<br>　　他看到了公司内部邮件系统中疯狂转发的那个“倡议书”——用水枪射老板的头。<br>　　他拖着一个箱子，走到门口，手放在门把手上，犹豫了一下，后退了两步，笑着，静静等着。<br>　　门外有人在倒计时：3、2、1……<br>　　开门声，水枪扫射声，众人的笑声。<br><br>　　                                                  ----让员工们开心闹一闹吧。<br><br><br>No.3<br>　　一个小朋友在教爷爷、奶奶怎么使用ipad与爸爸facetime。<br>　　奶奶问：朗朗啊，这个时候了，还不回家来？<br>　　ipad中出现的这个中年人，这个慈父兼爱子，坐在一个雪白的背景前：没办法啊，路上都堵了，出不了城。<br>　　爷爷叹气。<br>　　中年人说：等等，我上个厕所。<br>　　说罢，他离开了画面。<br>　　门口有人敲门，小朋友打开门，站在门口的居然是他亲爱的老爸！<br>　　镜头切换，原来，这是某个村子里的小楼。门口停着一辆车，这是no.6中出现的那辆车，只不过方向盘上摆着一个笔记本、驾驶座后头架着一块白板，这是中年人与家人开的一个小玩笑。他终于逃离了城市，回到了家人的身边。<br><br>　　                                                      ----与家人团聚。<br><br><br><br>No.2<br>　　闹钟响了，no.9中呼呼大睡的男人被惊醒。他拿起衣服，急匆匆起床，跑出门去。<br>　　来到拥堵的车流前，他披上工作服——原来，他也是一个交警。<br>　　他来接兄弟的班。<br>　　交警a，也就是no.5中那一位，向他深情敬礼。<br>　　交警b笑着回礼。<br>    交警a头也不回地转身狂奔。<br>　　他带着老婆孩子跑进xxxx（楼盘名字）售楼处。<br>　　也许是世界末日的关系吧，这里好像放假了，没有人在。<br>　　交警a焦急地张望着，大喊：人呢？人呢？<br>    一个头发湿漉漉的人好像蹲在地上组装着什么东西，他站起来问：世界末日了，还来买房啊。（原来，他是那个被员工用水枪扫头的老板。）<br>　　交警：世界末日了，钱也没用啦。<br>　　这位“老板”或者说主管笑着说：出于职责，我不能给你免费哦。<br>　　交警也笑了，回头看着老婆、孩子：出于职责，我要给他们一个家。<br>    二人握手，一枚房钥匙被交到了交警a手里。<br><br>                                                          ----买一套房子。<br><br><br><br>No.1<br>　　主管终于组装好了他箱子里的东西。<br>　　他开着车，向高处进发。<br>　　他站在一道悬崖前。<br>    他拿出那个他刚才一直在组装的东西——那是一对“翅膀”——人造滑翔翼……<br>　　他背上这对“翅膀”，眼神中满是梦想的光芒，他奔跑，加速奔跑，他高高地跃起来了！<br><br>　　                                                       ----飞翔<br><br>-----落版-----<br><br><br>这个东西很简单，我们就把它当成一个做得比较好的学生习作来分析。<br><br>①，被重复利用的时间线。no.10中的故事事实上发生在no.8之后，但却更先呈现在观众面前。这样，到no.8的时候，再来一遍，观众会有惊喜。<br><br>②，内隐的因果。女孩想吃最后一顿大餐，是因为某家店的菜超好吃；这家店的菜好吃是因为，大厨暗恋这个女孩，给她做菜会特别用心。<br>这不仅给观众提供了惊喜，在逻辑上它也是个自洽的闭环。事实上你可以没有逻辑，但没有人会讨厌更严密的逻辑。<br><br>③，多重身份。贪睡的男人，同时也是负责任的交警；开车的中年人是既是逃难者，也是一个贪玩的父亲和儿子；那主管既是被讨厌的老板，也是个温柔的老大，更是个梦想家。人是个多面体，包括你我，人人都在以不同的身份，参与演绎不同的故事。<br><br>④，讨好了官方，讨好了企业（而且这个广告做得不算太生硬，算是堪堪融入了剧情中，对观众比较温柔），讨好了关键人物。有负责的交警，有楼盘售楼处，有年轻有为，有担当有情怀的梦想家。<br>这个主管的原型是管钱的，而且据说他很爱演。我字里行间藏了这么多私心，就是为了让他给尾款给得爽快点。我把多好的戏份安排给他了大家也看到了。我记得我当时打字打到这一段的时候止不住地淫笑。<br><br>⑤，故事全在室内或白天，规避了多线叙事时间线不同步时，“白天黑夜白天黑夜”这种不自然的切换，这种不自然的切换通常会赶观众出戏。在创作时长更长的电影或电视剧时，我建议新入行的同志们也能善用照常升起和照常落下的太阳来误导观众，这样，时间线的错落被揭晓时，观众才能享受更大的惊喜。<br><br>⑥，尺度和情调适中，什么媒介什么平台都能播。这十件事都是观众平常会想做的，不仅有共鸣，而且拍摄难度不大，成本可以控制。最后飞翔的感觉暗合了楼盘的名字（不便透露）。商用的东西就这样，不这样你想闹哪样。<br><br>⑦，……<br><br>当然这个本子缺少的东西也很多，比如创意、强度、野性，比如“人物弧光”。<br>“人物弧光”是个流传很广的术语。（真不好意思，我又提到麦基叔了。）<br>它的解释是：最优秀的作品不但揭示人物真相，而且还在讲述过程中表现人物本性的发展轨迹或变化，无论是变好还是变坏。<br><br>一般情况下，少了这种“变”，就算不上是一个故事。比如示例1，它只能算是个人物、事件、符号的递进堆砌，一则广告而已。<br>所谓的“变”，以《疯狂的石头》为例：郭涛终于实现了大愿把尿尿出来了，黄渤终于贯彻了本我一锤砸下去了。<br><br><br>我们再来看示例2。<br>这里因为考虑到火星撞地球的拍摄难度，我把“末日”概念诠释为“每个人的末日”。人们在世界末日这一天失去了对自己最重要的东西——机遇、记忆、面具……<br><br><br><br>                       《过去过去时，未来现在时》<br><br>楔子：2012年12月21日，传说中的末日。规则被扭曲，世界被改变。<br><br><br>                                 1  世界<br><br>　　柏亿是一个商人。<br>　　他知道男人的事业有多重要。他连睡觉都会伸出手来提着床头柜上的公文包。<br>    今天有一单大生意。<br>　　9点到了。他在手机闹铃响起之前猛地睁开眼睛，在闹铃还没响完一声的时候，关掉了它。（闹铃提醒事件显示，去xx集团提案。）<br>　　身边的妻子半梦半醒地拉他的衣服：今天是个大日子，别出去了。<br>　　柏亿挣开了妻子的手：是啊，价值两千两百万的一天。<br>　　柏亿用最高的效率完成了刷牙、洗脸、穿衣服、打领带、喷古龙水、吃早饭。他系好鞋带，起步，出门。<br>　　结果他这一步，从房子的另一道门跨进了另一个房间。他呆住了。<br>　　他返身跨过这第二道门，却又从第一道门走进了自己的房子。<br>　　他又试了一次，走过去，走回来。他出不去了……某种超自然的力量把他锁在了家里，通往世界的大门被封闭和隐藏了。<br>　　这时，妻子要出门了，她提着包走向门口，她没有看见坐在沙发上死盯着她的柏亿，她走出门去了……她居然可以出门！<br>　　柏亿追向妻子，这一次他被送回了沙发……柏亿向每一道门狂奔，却被超自然的力量温柔地按在这个房子里，像是佛祖掌中的小悟空。<br>　　同事来了电话催，柏亿说着“马上到”，继续着他无谓的努力。<br>　　铃声响着、响着、响着。柏亿跳窗，跑进了衣柜，他跳窗，回到了浴缸，他跳窗，又进了冰箱。<br>　　柏亿放弃了，他看着70个未接来电，20条未读短信发呆。<br>　　妻子下班买了菜回家来了：哎，你回来啦！太好了，你知道今天是……<br>　　柏亿的眼神隔着四面墙，望着很远很远的地方，音调平稳，却又给人咬牙切齿的感觉（演员讨厌文笔的点就在这里，有些演员就会伤感地问『什么叫做音调平稳而又咬牙切齿、你给我来一个』，当然了妈的我既然写了就真能给他来一个。）：今天是我公司最重要的日子。我失去了今天。这是一个残酷的市场，我们失去了今天，很快就会被人吃得连渣子都不剩。<br>　　妻子沉默了一会：今天也是你妈和你儿子共同的生日。原来……跟去年、前年和每一年一样，你没有记得。<br>　　门被人打开，奶奶带着孙子从外地回来了。妻子提出了她的问题：你在他们的生命里剩下了什么？渣子吗？<br><br>　　柏亿的眼神收回到家人的身上。<br>　　真奇怪，他们离他那么近，没有隔着墙，他却一直看不见。<br>　　（柏亿眨眼，眨了几次，才真真切切看见了他的妻子、他的母亲、他的孩子。）<br><br><br>                            2  谎言<br><br><br>　　车上，梁边深情地看着坐在自己身边的女孩。<br>　　那个女孩若有所思地把玩着挂在自己脖子上的水晶，好像它是一个通过种种折射、可以看到自己的潜望镜，她好像在审视和端详自己的内心。<br>　　梁边开口说话了：那个男人这么爱你，你抛弃他跟我在一起，是因为我长得帅，还是富二代？（说着说着，他的眉头微微皱起，似乎有些茫然。）<br>　　梁边：可是我不爱你啊！（他的表情惨变。）<br>　　梁边：爱比帅重要吧？你怎么这么二呢？（梁边用手捂住自己的嘴巴，声音却还是从指缝中漏了出来。）<br>　　这些喷薄而出的厥词终于被堵住了，梁边却看到自己的另一只手上拿着自己的手机，输入了这样的一条短信，并发给了对面的女孩：你眼睛再大，眼神不好。又有什么用？<br>　　他吓得丢掉了手机。女孩用不可思忆的眼神看着他。他下车落荒而逃。<br><br>　　梁边是一个依附着谎言流连在红尘粉黛间的花心男子。他有钱、爱演、能骗。<br><br>　　梁边去见另一个女孩压惊。<br>　　女孩温柔地抱他：怎么啦，亲爱的？<br>　　梁边：小兰，我跟你说，刚才吓死我了，我好像得了一种心里有什么就会说什么的病！你知道吗，我有17个女朋友……<br>　　17个？？突然听到这种台词，女孩都不知道是先惊讶还是先愤怒地好…<br>    梁边转身就跑。<br><br>　　女孩C。梁边：你长得像我叔叔，穿得像我奶奶。<br>　　于是他被女孩c泼水。<br><br>　　女孩D。梁边：你以为你是小3？你错了，你是我的小6。<br>　　他被女孩D泼水。<br><br>　　女孩E。梁边：……<br>　　女孩E：我听说了！<br>　　女孩E拿起水，又放下了，拿起咖啡来泼了他一脸。<br><br>　　梁边疲惫地回家，因为心情烦躁，所以他找不到正确的钥匙。他无奈地坐下来。<br>　　一开始坐在他车里的那个姑娘走过来了。梁边赶紧用手捂住嘴。<br>　　那个姑娘是来把他的手机还给他的。她好像并不生气，她问：那你爱的，是谁呢？<br><br>　　梁边捂住嘴，姑娘却看向了他另一只手，于是他也看了过去，原来他把自己的钥匙包拿出来展开给她看了……<br>　　梁边慢慢地把钥匙包转向自己。里面是某个女生的照片，她穿着拖地长裙和干净的毛衣，她扎着麻花辫。<br><br><br><br>　　                             3  浓妆<br><br><br>　　西餐厅。<br>　　珊瑚与她的男友相对而坐。<br>　　两人的面前有一盘茄子。茄子被烤出了一层脆皮，他们必须用上刀和叉才能享用这一盘奇怪的茄子。<br>　　还有一份鸡翅，有意思的是这鸡翅里头埋着美味的虾肉。好顽皮的菜。<br>　　珊瑚对着男人笑笑，低头切茄子切鸡翅，切得很认真。男孩看她，看得很认真。<br>　　终于切完了，珊瑚抬头，满足地塞了一口到嘴里，却引发了对面男人的尖叫。原来，她没有了红色的嘴唇和蓝色的美瞳，她没有了一大半的眉毛和几乎所有的睫毛……事实上，她脸上的浓妆没有了。<br>　　男人指着她的脸在瞎喊，珊瑚拿出小镜子一照，自己也叫了起来，她几乎是连滚带爬地跑到了洗手间，手忙脚乱地化起妆来。<br>　　好不容易化完了，她走回自己的桌子，男人又被吓得“啊”了一声。<br>　　妆又没了？<br>　　真奇怪，真可怕。她坚强地回到洗手间又化了一次，这一次，万无一失了，这不是幻觉，不管是双眼皮贴还是人造苹果肌，它们没有理由会无缘无故离她而去。<br>　　她转身离开镜子，又不放心地回过头来。妆，们，再，次，消，失，了。<br>　　她捂着脸躲着所有人回到自己的桌子，那男人居然走了，而且还没有买单……<br>　　她捂着脸躲着所有人想回家，家门口有几个朋友在聊天，看到她，叫了一声珊瑚，她吓得转身就跑。<br><br>　　她不能被人看见她不化妆的样子。<br><br>　　她逃到了一个公园的长椅上。她坐着，面对着小路，她想也许会有行人，她的脸会被路人看见——这不安全——她转身，面朝动植物，背对全世界，藏起了自己没有粉底在保护的脸蛋。<br><br>　　她一点一点地给自己编起麻花辫来。她想起自己被很久之前的某个男朋友嘲笑的场景。她想起那个男孩嫌弃她的话语：我的脸都丢尽了！你怎么搞的，一个女孩，连打扮都不会，我怎么带你出门？麻花辫？你以为现在是1893年啊？<br><br>    她想起了自己第一次穿低胸的衣服，第一次穿超短裙，第一次穿丝袜……她想起了那些男人看着自己越来越愚蠢的眼神……<br><br>　　她恼怒地用手去挣开自己刚刚编起的麻花辫。<br>　　这时一只大手抓住了她的小手，阻止了她。<br><br><br><br>                                4  记忆<br><br>    李四对着一群人在发泄着情绪：我还真没见过这么牛逼的乙方！<br>　　话音未落，李四突然惊讶地发现，这群人，他一个都不认识。<br>　　他的手还指在一个陌生人的脸上。<br>　　他不得不问：你是谁？<br>　　那人正想回答：李总，我……<br>　　李四：李总？李总？我是谁？我是谁？？<br><br>　　有人严肃地向他问起他听不懂的问题，有人满脸谄媚地给他敬酒。<br>　　巨大的无知转化为巨大的恐惧吞噬了他的理智，他推开众人。<br>　　他漫无目的地走在街头，有人向他问路他都赶在听完问题之前拔腿逃跑。<br><br>　　一群人向他冲来，为首的人大喊：就是他！<br>　　他的大脑无法处理这种突发状况，他被包围起来拳打脚踢。<br>　　一个女孩跑来赶走了所有人：不是他，不是他！！走开走开！我的事不要你们管！<br><br>　　那群人离开了。<br>　　女孩也要离开。<br><br>　　李四拉住了那个女孩：你是谁？<br>　　女孩惊讶：恩？<br>　　李四用复杂的眼神盯着女孩：你是谁？<br>　　女孩生气：什么话！你又是谁？<br>　　李四用一只手按着脑袋，用另一只手紧紧地抓住女孩：我想，我是一个，喜欢你的人。<br>　　女孩被抱着，她惊呆了，她陷入了沉默，她的眼睛红得好快，她的眼泪滑得好慢（快慢对比这一句是我刚才刻意加的，这就是文笔在剧本中的反面效果，就凭这个红得快的眼睛和流得慢的眼泪就可以玩死一个小剧组。我不是说眼泪流得慢不好，我是说你得看着钱的多少有分寸地玩。）：你不是说，我们没有机会了吗？<br>　　李四：啊？<br>　　女孩抱住了他。<br><br><br>                             5 轮而不回<br><br><br>　　2012年12月21日，11点59分59秒。<br>　　秒针跳过这一天的最后一格。<br>    灯光明暗不定。月亮发疯似的越来越亮，像太阳一般刺眼。（这一句导演、制片人和后期都嫌烦，肯定的。如果要做得有质感的话。）<br>　　世界变成黑色。<br>　　秒针来到了2012年12月22日。<br>　　世界回复原样。<br><br>　　柏亿家是一个小型生日party刚刚结束的景象。<br>　　柏亿站在自己家门口，看着手机上手下发来的的短信：亿老板！快出来，到xx会所来！这单生意还有救！<br>　　柏亿抬脚，一步跨了出去。<br>　　他终于离开了自己的家。可是，他定了几秒，删掉了短信，又走了回来，换上睡衣，给老妈盖好被子，抱着老婆孩子，睡了。<br>　　他的手伸向床头上的公文包，把公文包拿起来，丢到了一边。<br><br><br>　　梁边抓着珊瑚的小手：不要拆，我喜欢你的麻花辫。<br>　　珊瑚想抽回手。<br>　　梁边紧紧地抓住她的手，坐在她身旁：我爱你。<br>　　珊瑚的脸躲着他的眼。<br>　　梁边：我爱你。<br>　　珊瑚的脸转了过来。她没有妆，没有大半条眉毛，只有大半条随意扎起的麻花辫。<br>　　梁边：我爱你。<br><br>　　在珊瑚家的厕所里，珊瑚画上了眉毛，正在抹口红。<br>　　梁边看了看自己的手表，喔，现在是“世界末日”的最后一秒，不如再肉麻一次表白一次吧？（这说明之前末日还没到头，他几句我爱你说的是真话，也证明了他的下一句也是真话。）<br>　　梁边说：我终于明白了，不管你穿着什么衣服，梳着什么发型，我爱你。只爱你。<br>　　珊瑚丢掉了所有的化妆品，抹完口红之后，也丢掉了口红。<br>　　珊瑚轻轻地吻了梁边的脸，然后重重地给了梁边肚子上一拳：混蛋！<br>　　梁边被打倒在地上，他的脸上有一个唇印。（说明珊瑚的『妆』也复活了。）<br>　　两人相相视而笑。梁边大吼：爽！！！（原来他是个M？开个玩笑~~ 括号里这句原来没有。）<br><br><br>　　xx会所门口。<br>　　姑娘问道：你不是说，我们没有机会了吗？<br>　　说完，姑娘抱着李四。<br>　　李四抱着他的姑娘。<br>　　一张陌生的脸凑到他面前：李总，今天我们老板没到，真的是有苦衷的……<br><br>　　时钟走过2012年12月21日……<br>　　李四想起了他刚才对这个男人的训话：哟呵，道歉都派手下来，我还真没见过这么牛逼的乙方……<br>　　李四想起了他过往记忆中最疼痛的一幕：一个据说叫梁边的男人抱着、吻着这一个他最心爱的姑娘……<br><br>　　李四抿了抿嘴唇，对这个背叛过他的姑娘轻声说：没关系，过去的都是小事，未来我们珍惜。（这也是对凑过来讨好他的这个男人说的，这个男人是柏亿的手下。所以这个男人『刚才』才会高兴地发短信对柏亿说，还有机会。）<br><br><br><br>　　                          6  落版<br><br>温馨提示：梁边是梁边、梁边妖是梁边妖，不要混淆。不！要！混！淆！<br><br><br><br>示例2，我就不多加分析了。<br><br>要点在于——<br>1，围绕着每个人在每个圈子里不同的身份，设计了将这四个主角联系在一起的羁绊。<br>2，围绕着因果律，给了每个主角一个“变”字。<br>3，楼盘只是一个大背景，广而告之的意图藏得更深了。<br><br>示例2同样有很多问题，很简单，问一句，加长它，放进电影院，你会不会买票去看，你就明白了。最强的、能卖的作品不是这个味道，不是这个气场，不是这个级别的玩法。<br><br>多线叙事很重要的一点，“对空间的重复利用”，也没有在这两则“习作”级的产品里体现到位。<br>对空间的重复利用，推荐两部作品。<br>一是一部短片，很著名，我曾经收藏过，最近忘了名字。它的功能是展示级的炫技。没有情节，就是在一个小小的屋子里，从一个人，到十几个人，跳啊吵啊坐啊睡啊跑啊闹啊，互不干涉地做着各自的事情，身体无接触。有谁知道这个片名的请私信或在评论里@我，我会把视频地址贴到正文里来，先谢过——大哥大嫂新年好！我是你的儿你是我的姥！<br>（知乎网友@李林、新浪网友@非著名导演凌凌薛二人分头给出了短片片名，《tango》。再次感谢。）<br><br>二是一个应用级的炫技。一部日本电影《遇人不熟》，忍着看完前半小时，惊喜连连不骗你。<br><br><br>我以前讲课时讲到过怎么完成多线程叙事中的对时间空间的重复利用。最后的几句大概像下面这样——<br><br>比如，你和你寝室的一个好兄弟，恋爱了，正在大吵大闹闹分手，你们都还没有出柜，如果被人听见了，你们就要杀人灭口。可是床底下还藏着一个人，他什么时候来的？他为什么要躲在下面？and厕所里又还躲着9个人………9个？厕所？他们疯了吗？你和你兄弟进屋来谈分手之前，这9个人在厕所里干嘛？<br>把这这十二个人的故事分三段说清楚，就是一个正经的多线叙事结构。<br><br>“去把，小手手动起来，去把你的同班同学们的命运们，打上一个结。”<br><br>点到这里就行了，我给学生讲课的时候，讲到这个地步让他们回去做作业，他们都有交过堪称合格的东西。<br><br>如果有谁把我这段多线程叙事启蒙小讲座读完，却还是一头雾水写不出一个几千字的不考虑应用的多线程叙事小故事或者小短片剧本，那么你不管是要立志成为作家还是编剧，一定都会很不幸。我不是说你一定不能成，我明白世界上也有很多单线条的好东西，我只是说，这条路你会走得很痛苦、很不幸。<br><br><br>进阶教程改日再叙，么么么哒哒。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2781064-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-09-23" target="_blank" href="/question/21306861/answer/19012014">编辑于 2014-02-04</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>89 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="2736747"
+data-atoken="18901753"
+data-collapsed="False"
+data-created="1379322008"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="521">521</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">521</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$miaomiaomiao" href="/people/miaomiaomiao">徐湘楠</a>，<strong title="闷瓜爱游戏： https://appsto.re/cn/q3Zt1.i" class="zu-question-my-bio">闷瓜爱游戏： <a href="https://appsto.re/cn/q3Zt1.i" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">https://</span><span class="visible">appsto.re/cn/q3Zt1.i</span><span class="invisible"></span><i class="icon-external"></i></a></strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="521">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$xuan-zang-80" href="http://www.zhihu.com/people/xuan-zang-80" class="zg-link" title="玄奘">玄奘</a>、</span><span class="user-block"><a data-tip="p$t$ban-yue-27" href="http://www.zhihu.com/people/ban-yue-27" class="zg-link" title="雲七">雲七</a>、</span><span class="user-block"><a data-tip="p$t$kcno" href="http://www.zhihu.com/people/kcno" class="zg-link" title="KCNO">KCNO</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="703455" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">看到这么好的问题，突然有种“不知道如何入手”的感觉，我预感我会就这个答案修改多次，所以我要先感谢一下题主和邀请我的人，因为这确实是我研究了很长很长时间的问题，然后再说一声抱歉，因为我奉献出来的答案很可能不是你们想看到的。<br><br>为什么要用多线？因为单线写的故事字数少。——没有这个觉悟的人就不必学习多线写作了，也不必看我下面的理论了。<br><br>字数和质量是一个作者必须要面对的两个问题，字数决定稿费，质量决定你能走多远，我相信任何一个作者都会碰到这样一个问题，“我故事写不长啊，写长了就不知道怎么写了”，然后就陷入了“再编一段吧”——“这段有点瞎啊”——“算了看读者吧”——“字数还是不够啊”——“再编一段吧”这样的死循环，你看，这么一说不少网络小说中枪了……<br><br>是的，像这样再编一段再编一段也无所谓，不会对前期剧情产生影响的，作者就会一直编下去，也许他能靠一个元气丹秒杀地球吸引观众，也有可能靠不断挖掘女主角吸引读者。是的，我很佩服这样的作者，他们把一个单线扯出无数个果实，拉长了让读者去看，他们可以无限地写下去但是读者终有一天会觉得，这样的故事是很打发时间，但是已经没有什么热情可言了。<br><br>所以我只是想写一个又长又有趣又吸引读者又能犀利开始犀利结束又能让读者一口气读完不走神的故事啊！我要让我的读者在读完故事之前不愿停息，哪怕他们读完故事立刻忘掉我也无所谓，我对我的读者，也就是我的写作水平，我只有一个目标，总有一天，我要让我的故事成为“剧透可耻”的那一类，当然，还有另外一个目的，这个目的非常可耻，那就是我的故事，必须不能够通过语言传述。<br><br>这样就算盗版，你们也必须看文字才能了解我写的故事，而这个要求，在单线故事无法企及的高度，你们尽可以用作品去试，我试着转述过几十本作品，所有的3线以上的故事，都是无法用语言去传述的，因为语言是一维（信息）的，而文字是二维（信息*时间）的，而有支线的故事，是三维的甚至四维的（信息*信息*时间）。<br><br>各位不信可以找出一个多线故事，我来举例，东野圭吾的《白夜行》，是畅销故事吧？你们转述试试看，不要说各位有没有彻底读懂这个故事，就算读懂了未必理得清剧情，能理清剧情未必能背，能背未必就能把这个故事讲清楚。<br><br>而这个故事为什么又清晰又真实又不能转述？答案就是支线。所以如果有人问你怎样把一个故事写长，答案是两个，一个是增加字数，一个是复杂剧情，那么如何使剧情复杂？答案就是用简单的支线去构成剧情。<br><br>看吧，到这里为止，多线写作的面纱被揭开，其实就是一项精益求精的技术活，而作者不应该被技术活所限制，像《魔法少女小圆》那样的作品应该是任何一个作者都能想到的设定，真正的作者应该不拘泥于形式和俗套，而是在设定上下足功夫。<br><br>下面给3个配图，讲一下几个<b>基本</b>故事逻辑线（当然，双胶线我是不会说的…）。<br>1.<br>西游记式的开放设定。<br><img src="//pic4.zhimg.com/15ab5ab600867d47735c1f731d79cc93_b.jpg" data-rawheight="335" data-rawwidth="458" class="origin_image zh-lightbox-thumb" width="458" data-original="//pic4.zhimg.com/15ab5ab600867d47735c1f731d79cc93_r.jpg">2.有封闭事件的封闭设定，如刘慈欣的《坍缩》<br><img src="//pic2.zhimg.com/7422b1f1ec7bdeedebf63a9275d3eff1_b.jpg" data-rawheight="335" data-rawwidth="458" class="origin_image zh-lightbox-thumb" width="458" data-original="//pic2.zhimg.com/7422b1f1ec7bdeedebf63a9275d3eff1_r.jpg">3.主线为暗线的封闭设定，如《白夜行》。<br><img src="//pic2.zhimg.com/60553f790ee21b964d9af4820fac941d_b.jpg" data-rawheight="335" data-rawwidth="458" class="origin_image zh-lightbox-thumb" width="458" data-original="//pic2.zhimg.com/60553f790ee21b964d9af4820fac941d_r.jpg"><br><br>第一个逻辑模型不必再说，这种模型叫作用“封闭故事组成的开放设定”，每一个支线是一个封闭故事，有起承转合，但是总的故事，并非整体，或者说勉强算一个整体，但就算几个人走不到西天，也可以再设法去碰几个妖怪延长剧情，动漫《夏目友人帐》也是这个类型，看上去是长篇，其实是无数个单元剧构成的，那么单元剧与单元剧之间有影响的，比如《龙珠》，《Hunter》，就会有那条红色的虚线,如果没有影响，比如《夏目友人帐》，就会没有那条红色的虚线。<br><br>第二个逻辑模型通常封闭事件就是那个解开关键悬念所需要的条件，比如《坍缩》（请先不要纠结软硬科幻了），最关键的悬念就是“坍缩”到底是个屁啊？结果发现作者的意图完全与读者背道而驰，为毛“坍缩”发生可以不吊领导的脸色？为毛“坍缩”发生可以甚至不孝顺父母？从一开始就知道一定要解开这个悬念吧，所以设定是“封闭”的，是有结尾的。<br><br>第三种逻辑模型，咳咳，厉害之处在于，你知道这个故事有结尾，但问题是不知道他会在什么地方结尾，<b>因为你连主线都摸不到。</b><br>我来简单说一下《白夜行》的模型，但是可能会切入点比较远。（这也没办法，《白夜行》这种作品，充分证明了我的智商很他比起来太卑微了……不说别的，东野圭吾的计算能力就是变态级的……但是我觉得，知乎上应该还是有很多人能达到他的水平的。）<br><br>我觉得学过高中物理的人会比较容易理解这个概念。<br>（配图）<br><img src="//pic2.zhimg.com/ed1f5159ca82b777d49cb5aaa8417125_b.jpg" data-rawheight="335" data-rawwidth="458" class="origin_image zh-lightbox-thumb" width="458" data-original="//pic2.zhimg.com/ed1f5159ca82b777d49cb5aaa8417125_r.jpg"><br><br><br>求合力，F3=？答案是F3=F1+F2<br><b>运用在写作上就是，如果我们写清楚F1和F2两条支线，F3就会变成一条清晰的暗线。</b><br>举个例子。<br>1.整个中午教室里只有小红一个人——F1<br>2.小明放在抽屉里的钱丢了——F2<br>那么F1和F2的合力是什么？那就是小红在中午偷了小明的钱。<br>现在我们再试着给一条明线。<br>小明包里的钱是自己拿走的——F4<br>F3变为什么？小明在诬陷小红吧？<br>如果F4是小明在诬陷小红呢？<br>那么F3就会变成小明包里根本没钱，或者小明包里的钱是自己拿走的吧？<br><strong>好的，F1+F2+F3=F4</strong><br><strong>现在我们抽掉F3</strong><br><strong>那么，本来应该的推理结论是，小明在诬陷小红，但是抽掉F3之后，结论就变成了小红拿走了钱，整个真像都埋在了迷雾里。</strong><br><strong>这就是《白夜行》中暗线骗局的写法及原理。</strong><br><strong>（PS，有个盲点，有人可能会问如果不是F1+F2+F3=F4而是F1+F2+F3+F4=F5呢？</strong><br><strong>这位可能没学好物理…比如在F1+F2+F3+F4=F5里抽掉F3，就会变为（F1+F2）+F4=F5 ，把F1+F2变为一个整体。）</strong><br><br>总的来说，《白夜行》的框架并非是一个纯粹的封闭设定，而是一个由很多封闭故事组成的开放设定的故事，但是他的每个封闭故事，主线都是一条暗线，也许这么说你会觉得他好像很厉害，不，确实很厉害，但是在设定上，其实他的故事本身还是比较讨巧的。<br>我先用抽象的方法解释一下，抽象一点，但是比较容易理解，<br>好比真正的主线是F9，<br>我们通过F1，F2，F3得出F4；<br>然后F5，F6，F7得出F8。<br>然后F4，F8得出F9<br>F9就是主线，也是真相。<br>但是东野圭吾抽掉了哪两块呢？<br>那就是F3和F7，是的，只是抽掉了这两块，整个故事，一共9块，就只剩下F1，F2，F5，F6，这个故事只有1/2不到是在明路下了。但是！此人在下一个故事里面……就完全不理会这两块板了……然后另外抽掉两块板，形成悬念。<br><br>举例，《白夜行》第一卷（我就只说有关线索了）：<br>第一章：笹垣润三发现桐原洋介的死亡（<strong>F1</strong>）。<br>第二章：发现桐源洋介的钱包和打火机丢失（<strong>F2</strong>）/松开的皮带（<strong>F3</strong>）/初见桐原亮司（<strong>F4</strong>）<br>第三章：亮司独住（<strong>F5</strong>）<br>第四章：初见唐泽雪穗和西本文代，西本文代风韵尤存（<strong>F6</strong>）/西本文代试图掩饰桐原洋介曾经来过/西本文代有不在场证明（<strong>F7</strong>）<br>第五章：案发当天松浦和弥生子行踪可疑（<strong>F8</strong>）/亮司作证不在场证明（<strong>F9</strong>）<br>第六章：寺崎与西本文代关系暧昧，有作案嫌疑（<strong>F10</strong>）/寺崎有微弱不在场证明（<strong>F11</strong>）<br>第七章：寺崎死亡，车里发现了桐源洋介的打火机（<strong>F12</strong>）<br>第八章：西本文代意外身亡。（<strong>F13</strong>）<br>——（2013。9。16防丢失）<br>好了，我们现在看看东野圭吾抽掉的板有哪些<br><strong>F14</strong>=松开的皮带有可能是因为发生性关系<br><strong>F15</strong>=桐原洋介不一定是和西本文代发生关系<br><strong>F16</strong>=亮司当天作证有可能是伪证<br><strong>F17</strong>=寺崎的微弱不在场证明有可能是亮司制造<br><strong>F18</strong>=亮司嫁祸<br><strong>F19</strong>=西本文代自杀<br><br>好了，现在开始拼板，<br>1：F1独立——有可能是被孩子杀死<br>2：F3+F14+F7+F15=F20——桐原洋介是和西本雪穗发生性关系<br>3：F2+F6+F10+F11+F12+F17+F18=F21——桐原亮司嫁祸寺崎，而寺崎和文代是一对<br>4：F4独立——亮司有作案可能<br>5：F5+F8+F9+F16=F22——亮司不具备不在场证明<br>6：F19独立——姘夫死亡，女儿人生被自己毁灭，内疚自杀<br><br>好了，现在我们把F1+F20+F21+F4+F22+F19加起来，《白夜行》第一卷的真相就完全拼出来了。<br><br>现在我们来看F1，F4，F19都是独立。<br>在F20里，东野圭吾抽掉了F14和F15，所以得出错误误导——桐原洋介是和西本文代发生关系<br>在F21里，东野圭吾抽掉了F17和F18，所以得出错误结论——寺崎没有不在场证明<br>在F22里，东野圭吾抽掉了F16，所以得出错误结论——当天夫妻两个人在家——其实亮司做的是伪证——作案者为亮司自己。<br><br>东野圭吾正是通过抽掉了这5块板，使整个故事陷入迷题，但是！在之后的几章里面，他几乎没有提过甚至完全没有蹭过F14，F15，这两块板，所以，大家看会有什么结果，那就是“桐原洋介是和西本雪穗发生性关系”这个迷题直到全书的最后才揭晓！<br><br>所以东野圭吾创作《白夜行》是用这种方式：<br>1。写出一个完整案件，动机，做案手法。<br>2。找出要嫁祸的人。<br>3。找出作假证的人，安排做假证的动机。<br>4。抽掉全书的关键线索（然后几乎不提，只写主角的改变）<br>5。然后制造嫁祸，但是抽掉关键板，不让人们知道嫁祸手法（但是之后的故事，在暗示这个线索）<br>6。隐藏而不是抽掉做假证的手法。<br><br>（2013。9。16晚更新止）（目前尚未写完）
+<a href="/question/21306861/answer/18901753" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="2736747-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-09-16" target="_blank" href="/question/21306861/answer/18901753">编辑于 2013-09-17</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>75 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="2732817"
+data-atoken="18893140"
+data-collapsed="False"
+data-created="1379270806"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="195">195</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">195</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$cheng-pang-zi" href="/people/cheng-pang-zi">程胖子</a>，<strong title="其实我不胖。" class="zu-question-my-bio">其实我不胖。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="195">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$ban-yue-27" href="http://www.zhihu.com/people/ban-yue-27" class="zg-link" title="雲七">雲七</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$qiang-dao-de-cheng" href="http://www.zhihu.com/people/qiang-dao-de-cheng" class="zg-link" title="强道德成">强道德成</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="703455" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"><p>先澄清一点，结构和内容（故事）是一体的，不是“结构为内容/主题服务”。这是广义叙事的本体论，“故事的讲述方法就是故事本身”。</p><p>说点儿具体的。为什么非要有“多条故事线”或者说“多线叙事”？所有的非造型艺术都包含时间轴，小说，音乐，戏剧，电影。<b>时间轴是一维的</b>，所以你同时只能按先后顺序阅读、听、观看。在小空间的作品里这不是问题，比如海明威的《在印第安营地》，或者龚琳娜的《忐忑》，或者苹果的广告片，一条线足够了。实际上，单线结构已经足够好，单线结构符合因果律，符合直觉，比如《爱丽丝梦游奇境》或者《查拉图斯特拉》。</p><p>但单线的缺陷也很明显。它没法说清楚复杂的世界。如果你要描述的世界足够大，比如《奥德赛》、《22条军规》，或者电影《致命魔术》，一条故事线根本抗不住，就需要多条线了。中国有久远的说书人传统，“花开两朵，各表一枝”是最朴素、自觉的多线叙事，要说清楚相同时态下的两件事，就需要两条线。朴素的口头文学传统也自然地在章回小说中延续下来。</p><p>插一句，叙事的过程其实不是“线”，而是一个个离散的片段，是经过刻意提取、筛选、变形后的世界的一部分。</p><br><p><b>怎样建立起多线叙事，并让这种结构是成功的？</b></p><br><p>首先你要有两条或以上的线。每条线都有各自完整的人物、矛盾和解决。最直观的美国的情景喜剧，22分钟的一集剧集通常有3条独立的故事线（不然撑不起来）。随便举个例子，《老友记》S1E01：</p><p>1 瑞秋逃婚，投奔莫妮卡。她不想当“鞋”，要当“帽子”。</p><p>2 罗斯离婚了，他媳妇儿是个蕾丝边。钱德勒和乔伊帮他装家具。</p><p>3 莫妮卡和一个调酒的约会，被骗了。</p><p>上面每一条线都完整、坚实，自圆其说，按自己的逻辑发展。也就是说，这是3个独立的故事。</p><br><p>然后你要让这N条线彼此碰撞、交叉，产生对照、关联和影响。交叉的部分成为“<b>节点</b>”，就像两条真实的线交叉那样。只有这样，才能让各自独立的故事成为一个整体——形成“结构”。也就是说，把多条线“<b>编织</b>”起来。这种编织不是任意的，往往需要这N条线有共同的主题（或母题的变奏），或统一的叙事风格。继续说《老友记》S1E01：</p><p>1 在咖啡馆，瑞秋逃婚，罗斯给她的咖啡里加糖。</p><p>2 在家，乔伊邀请菲比去装家具，菲比说“我想去可我不想去”。</p><p>3 在咖啡馆，莫妮卡诉苦，大家嘲笑和安慰她。</p><p>4 在家，罗斯约瑞秋出去。</p><p>以上是几个大的节点，在同一时空下，不同故事线的承载者出现，进行交互，彼此干扰，但他们的独立性没有变。于是几条线出现了多次的<b>闭合</b>，“结构”就出来了。</p><br><p>第三，不同的故事线，必须有各自的“视点”。<b>视点是叙事的支点</b>，故事线的变换，必然造成视点的转移——这个转移过程可能是瞬时的，也可以是电视剧《24小时》那种，把一个画面切割，强调时态。</p><p>视点在小说中更为直观，比如在《红楼梦》中，先是冷子兴演说荣国府，讲了一遍，接着让林黛玉出场，又讲了一遍，最后让刘姥姥出来，再讲一遍，不同视点扫过以后，这一家子就没法不立体了。视点的转移在《水浒传》里用得最漂亮。《旧约》里的部分章节，比如撒母耳记，视点转移也极为干净利落。</p><br><br><p>把上面说的3点都做到，多线的结构就已经成功了。但这只是最初级的多线结构。再多说一句，能用一条线讲明白的事，不推荐用多条线，实际上，单线叙事更考验技巧和水平，叙事冒险的最高阶段，通常是流水账。比如海明威的《太阳照常升起》。当然这是另外一个问题。</p><br><p>多线结构有一个好处，作者可以在结构上玩一些花招，使用一些比较高级的技巧，让结构成为主体，形成<b>几何形状</b>。线构成了平面。几何是接近宇宙本质的东西。</p><p>《盗梦空间》把时间和空间关系弄乱了。三层梦境和limbo，实际上是同时发生的，于是诺兰用这个模型，把时间“空间化”。多重梦境形成了多条故事线，彼此碰撞，这是新的结构。类似时空交错的电影很多，但没有比诺兰好的（或者说更简单的）。</p><p>复调音乐是更直观的例子。两条或者更多旋律线追逐、模仿、讽刺、辩论、问答，最终产生整体的对位。但音乐对多线结构的帮助不大。多说一句，很多小说等的结构都在模仿音乐，比如金斯堡的《嚎叫》。</p><p>多个故事线构成几何形状的例子还很多。电影《低俗小说》、姜文的《太阳照常升起》通过时序的位移形成了时空的闭环。《百年孤独》更为繁复，通过多条线的展开、关闭，以及上、下两部（是的，《百年孤独》在叙事的中间点，有两个完全一样的开头）象征宇宙的膨胀和崩塌。卡尔维诺的《寒冬夜行人》通过两条完全不相关的线来终结叙事，《通往蜘蛛巢的小径》是由短篇小说组成的，类似的《小城畸人》则是由一个个不完全独立短篇来模拟城市空间。此外还有电影《撞车》，所有的线都围绕着救赎的主题，最终在城市的中心交汇，形成了自己的形状（我不知道是什么形状）。鲁尔福的《佩德罗·巴拉莫》则采用了不规则的叙事节奏和拼贴，用来模糊生死两个世界的界限。</p><p>一个最极端的例子是中国作家麦家，他的小说集《解密》是几个完全独立的小说，麦家却认为自己写的是一部完整的长篇小说，而这几个小说完全不相关，是对情报工作的象征，像装有秘密的抽屉，彼此隔绝。</p><br><p>综上，用时间模拟空间，是多线叙事比较高级的技巧。如果创作者足够好，则不需要像巴赫那样精确，可以有偏离、混乱、不对称等等，这些规则都不是束缚——不需要清晰的结构。张大春的《城邦暴力团》融合了中国和西方的技巧，在结构上有了更大的突破。</p><p>《城邦暴力团》在开头就点出了小说的两个“<b>元叙事</b>”：“接驳式阅读法”和“奇门遁甲”。</p><p>“接驳式阅读法”，就是为了防止读完一本书，对书留下刻板印象，于是当读到某个节点时，跳到第二本书，继续阅读。这是对《城邦暴力团》叙事的隐喻，全书就是这样写成的，由此及彼，由某一线索跳到下一线索，层层嵌套，比如从万得福追踪六老，到了素烧黄雀的历史……这样叙事造成的效果是“跑题”，读者的视点被迫在庞大、庞杂的时间、空间中移动和跳跃，无法聚焦在正常的时间轴中。</p><p>这种叙事造成的最重要的效果，则是与小说的结构有关。《城邦暴力团》中的重要人物，知机子赵太初是个会奇门遁甲的人——所谓奇门遁甲是——用七七四十九枚松果，或是自然界的任何东西，按精确的位置摆放，就形成了一个阵，人可以遁入阵中躲避，在外面的人看来，这个阵周围的景象已经完全变了——“奇门遁甲”是小说结构的隐喻，张大春将平常的、自然的材料，按某种位置摆放、拼贴、以及张大春极为推崇的中国传统小说的“藏闪”技法，最终形成了奇门遁甲的效果，小说读者面对的是一个迥然不同的世界，原本平常的历史变得高耸诡谲，成了神话。</p><p>这是“接驳式阅读法”和“奇门遁甲”支撑起来的《城邦暴力团》。如果用正常时序写同样的故事，小说会失色很多。这也是张大春的历史观。他受艾科影响很深。</p><br><p>除了“比较高级”的叙事技巧，关于多线叙事还有更高级的东西。这需要说一下博尔赫斯。他的《小径分叉的花园》、《布洛迪的报告》，以及《达不到目的的巫师》、《南方》、《双梦记》等等，实际上都是多线结构，但这些故事线被折叠、遗忘、隐藏，读者已经感觉不到了。同时这些东西都在极为狭小的空间中出现，于是产生了爆炸般的效果。</p><p>这是融合的结果。<b>博尔赫斯同时在讲两件或者更多的事</b>。也就是说，两条故事线也是一条故事线，这太恐怖了。他打破了小说的时间轴，让时间成为了他的同谋。</p>
+<a href="/question/21306861/answer/18893140" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="2732817-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-09-16" target="_blank" href="/question/21306861/answer/18893140">编辑于 2013-09-16</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>18 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/21306861" class="zg-link-litblue">查看全部 22 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:21306861}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="703455">关注问题</button>
+
+3193
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="48ddfa526720c3ada296462afb5d564b" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="梁边妖"
+data-tip="p$t$liangbianyao"
+class="zm-item-link-avatar"
+href="/people/liangbianyao">
+<img src="//pic3.zhimg.com/e890b7eba_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$liangbianyao" href="http://www.zhihu.com/people/liangbianyao" class="zg-link" title="梁边妖">梁边妖</a></h2>
+
+<div class="zg-big-gray">偶尔会发笑。</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/liangbianyao/followers" class="zg-link-gray-normal">364808 关注者</a>
+/
+<a target="_blank" href="/people/liangbianyao/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/liangbianyao/answers" class="zg-link-gray-normal">43 回答</a>
+/
+<a target="_blank" href="/people/liangbianyao" class="zg-link-gray-normal">248417 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:21306861}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/21306861/answer/19012014/collections">2799</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1362968593">
+<h2 class="zm-item-title ">
+<a href="/collection/19928423">赞同超过1000的回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19928423/followers">52380 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1319440714">
+<h2 class="zm-item-title ">
+<a href="/collection/19560407">思维——思考更大的世界</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/cai-tong" data-tip="p$t$cai-tong" class="zg-link-litblue"> 采铜 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19560407/followers">30657 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1347589470">
+<h2 class="zm-item-title ">
+<a href="/collection/19693191">经典回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/tongjinghao" data-tip="p$t$tongjinghao" class="zg-link-litblue"> 佟敬皓 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19693191/followers">11319 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1365577693">
+<h2 class="zm-item-title ">
+<a href="/collection/20017891">知识管理</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/star-folding" data-tip="p$t$star-folding" class="zg-link-litblue"> Star Folding </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20017891/followers">10951 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1368184651">
+<h2 class="zm-item-title ">
+<a href="/collection/20150704">淫荡的一天开始了好紧张！别怕有我</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/linguangfu" data-tip="p$t$linguangfu" class="zg-link-litblue"> 彦祖 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20150704/followers">10521 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20004217">如何创作剧本？</a> <span class="num">14 个回答</span><meta itemprop="followerCount" content="712" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19994217">如何获得剧本创作的灵感？</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="111" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20661582">杂志的创作过程是怎样的？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="47" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20819659">令狐冲的创作原型是谁？</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="60" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20312869">自由创作小说 / 剧本的主题来自哪里？</a> <span class="num">19 个回答</span><meta itemprop="followerCount" content="412" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20473834">写剧本是什么样的一个创作过程和体验？</a> <span class="num">10 个回答</span><meta itemprop="followerCount" content="132" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19762582">是否非线性叙事和倒叙等非常规叙事模式的电影比较容易获得好评，原因是什么？</a> <span class="num">14 个回答</span><meta itemprop="followerCount" content="221" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20589862">剧本创作和小说创作分别有哪些经典的书籍？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="28" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20033204">处子可以创作出优秀的色情小说吗？</a> <span class="num">12 个回答</span><meta itemprop="followerCount" content="40" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20053936">游戏剧本与其它剧本的创作方法有什么不同？它是如何被创作的？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="29" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-02-04</span>
+</p>
+<p>
+所属问题被浏览 <strong>41784</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:21306861}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440653155000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":false,"editPermission":false,"isAnon":0,"qid":703455,"urlToken":21306861,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/46201a6f385436f0f822dd895a1769a8.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/5c4a1ff2d8c7b65ced3c78c6f773554d.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/0a31d5fcb47d7c9161324ba54a206504.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/d07988700e1807410495cc8f1b6615fa.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="70fe08050ed44a959a300fee01affabb">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="2e0907a5860f15bd1c5814bc3021e95e"/>
+</body>
+</html>

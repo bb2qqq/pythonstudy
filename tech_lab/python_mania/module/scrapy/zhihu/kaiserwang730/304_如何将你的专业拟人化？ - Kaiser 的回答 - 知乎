@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>如何将你的专业拟人化？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/45484210">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/27782088/answer/45484210">
+<meta id="znonce" name="znonce" content="96f8a50f525447c381ea69feeff6d065">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/aa583b24654a97650f25057ce42d7b62.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/27782088" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19554781"
+data-tip="t$b$19554781" data-token="19554781" data-topicid="1522">
+ACG
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19556353"
+data-tip="t$b$19556353" data-token="19556353" data-topicid="2029">
+大学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19560372"
+data-tip="t$b$19560372" data-token="19560372" data-topicid="3392">
+大学专业
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19578254"
+data-tip="t$b$19578254" data-token="19578254" data-topicid="9338">
+手绘
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19591985"
+data-tip="t$b$19591985" data-token="19591985" data-topicid="13908">
+动漫
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/27782088">如何将你的专业拟人化？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="3295751" data-action="/question/detail">
+
+<div class="zm-editable-content">最好娘化*^_^*</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>9 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="3295751" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/27782088" class="zg-link-litblue">查看全部 181 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="13588974"
+data-atoken="45484210"
+data-collapsed="0"
+data-created="1429614220"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-13588974"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">304</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="http://pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="304">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$liu-zhi-yang-99" href="http://www.zhihu.com/people/liu-zhi-yang-99" class="zg-link" title="刘之旸">刘之旸</a>、</span><span class="user-block"><a data-tip="p$t$zhao-wei-17-20" href="http://www.zhihu.com/people/zhao-wei-17-20" class="zg-link" title="Elros Helyanwe">Elros Helyanwe</a>、</span><span class="user-block"><a data-tip="p$t$luo-ye-30" href="http://www.zhihu.com/people/luo-ye-30" class="zg-link" title="落野">落野</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="3295751" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><p>飞行器动力工程（航天工程）拟人化</p><br><p>我以为：</p><noscript><img src="http://pic3.zhimg.com/aaf034bab88d9b2f0d43f51ff56c7ad2_b.jpg" data-rawheight="404" data-rawwidth="611" class="origin_image zh-lightbox-thumb" width="611" data-original="http://pic3.zhimg.com/aaf034bab88d9b2f0d43f51ff56c7ad2_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="404" data-rawwidth="611" class="origin_image zh-lightbox-thumb lazy" width="611" data-original="http://pic3.zhimg.com/aaf034bab88d9b2f0d43f51ff56c7ad2_r.jpg" data-actualsrc="http://pic3.zhimg.com/aaf034bab88d9b2f0d43f51ff56c7ad2_b.jpg"><br><p>实际上：</p><noscript><img src="http://pic4.zhimg.com/97f4bea68e9fe982f39ce367a225ffd3_b.jpg" data-rawheight="429" data-rawwidth="302" class="content_image" width="302"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="429" data-rawwidth="302" class="content_image lazy" width="302" data-actualsrc="http://pic4.zhimg.com/97f4bea68e9fe982f39ce367a225ffd3_b.jpg"><br><br><p>娘化太难了，弄出来叫啥，箭娘？</p>
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="13588974-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/27782088/answer/45484210">发布于 2015-04-21</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>110 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="13592184"
+data-atoken="45492157"
+data-collapsed="False"
+data-created="1429619575"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="221">221</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">221</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$deng-han-50" href="/people/deng-han-50">邓涵</a>，<strong title="专治小清新" class="zu-question-my-bio">专治小清新</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="221">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$li-xiang-85-16" href="http://www.zhihu.com/people/li-xiang-85-16" class="zg-link" title="李佩佩">李佩佩</a>、</span><span class="user-block"><a data-tip="p$t$yin-tong-41-10" href="http://www.zhihu.com/people/yin-tong-41-10" class="zg-link" title="尹彤">尹彤</a>、</span><span class="user-block"><a data-tip="p$t$liu-zhi-yang-99" href="http://www.zhihu.com/people/liu-zhi-yang-99" class="zg-link" title="刘之旸">刘之旸</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="3295751" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">大学专业是微波方向的，基本就是做天线。<br>So<br><img src="http://pic4.zhimg.com/f6ea1fdb9a5cce9493f7ee607f2cd5ff_b.jpg" data-rawwidth="402" data-rawheight="465" class="content_image" width="402"><br>没有找到娘化的版本。。。。
+<a href="/question/27782088/answer/45492157" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="13592184-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-04-21" target="_blank" href="/question/27782088/answer/45492157">编辑于 2015-04-22</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>48 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="14861771"
+data-atoken="48658625"
+data-collapsed="False"
+data-created="1432302054"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="302">302</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">302</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$sang-jie-er" href="/people/sang-jie-er">桑杰尔</a>，<strong title="小猎犬号的船长" class="zu-question-my-bio">小猎犬号的船长</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="302">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$mao-mao-13-23-58" href="http://www.zhihu.com/people/mao-mao-13-23-58" class="zg-link" title="毛毛">毛毛</a>、</span><span class="user-block"><a data-tip="p$t$li-xiang-85-16" href="http://www.zhihu.com/people/li-xiang-85-16" class="zg-link" title="李佩佩">李佩佩</a>、</span><span class="user-block"><a data-tip="p$t$dominee-dominee" href="http://www.zhihu.com/people/dominee-dominee" class="zg-link" title="dominee dominee">dominee dominee</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="3295751" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">多图杀江。<br><br>当然如果你已经点开了……<br><br><img src="http://pic4.zhimg.com/53cdfb6e06f166ba8703289635168553_b.jpg" data-rawwidth="720" data-rawheight="720" class="origin_image zh-lightbox-thumb" width="720" data-original="http://pic4.zhimg.com/53cdfb6e06f166ba8703289635168553_r.jpg"><br>中国古代史研究所。（说来话长，我家专业拟人太不成气候了，就画了第一志愿）（请不要把这句话告诉我家专业）<br><br>如何把这个专业拟人化？<br><br>从说“我是中国古代史系的”给人的第一印象入手：<br>这个姑娘外貌文质彬彬眉清目秀，鹅蛋脸<br><br><img src="http://pic2.zhimg.com/2d4163cd01d430dbd33053d8fda46405_b.jpg" data-rawwidth="1536" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic2.zhimg.com/2d4163cd01d430dbd33053d8fda46405_r.jpg"><br>凭自己对本学科的了解细化设定：<br>谈吐跳脱有趣，泛神论且电波频率奇妙<br><br><img src="http://pic4.zhimg.com/dfc9e45d38c8c75161216639c3454477_b.jpg" data-rawwidth="1536" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic4.zhimg.com/dfc9e45d38c8c75161216639c3454477_r.jpg"><br>加上点不靠谱的设定：<br>武艺高强（会轻功！）<br><br><img src="http://pic4.zhimg.com/5914e686fea5c6e57c8554dc3f7bece3_b.jpg" data-rawwidth="1536" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic4.zhimg.com/5914e686fea5c6e57c8554dc3f7bece3_r.jpg"><br>再往第一条上添两笔：<br>穿唐代齐胸襦裙应该非常好看～<br><br><img src="http://pic3.zhimg.com/7055b27d50de325da3f773d00ee036b6_b.jpg" data-rawwidth="1536" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic3.zhimg.com/7055b27d50de325da3f773d00ee036b6_r.jpg"><br>开始思考“这个学科承载了什么”（如果她是人类的话有什么技能）：<br>写得一手好字（认识所有的汉字）。腹有四书五经六韬三略五年高考三年模拟<br><br><img src="http://pic2.zhimg.com/6220afec5a88a85a51d67d18d5afdab1_b.jpg" data-rawwidth="1536" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic2.zhimg.com/6220afec5a88a85a51d67d18d5afdab1_r.jpg"><br>—————————<br><br>这个时候可以起名字了，我家古代史研究所叫菀彼，取自诗经的【菀彼桑柔，其下候徇。捋采其刘，瘼此下民。】丰茂缭乱的桑树叶，这个意思。<br><br>—————————<br><br>学科的性格（你自己对她的印象）：<br>去年六月的设定里姑娘还是中短发，保留下来的设定是经常拽人陪自己喝酒。<br>毕竟承载了四千年份的悲伤与忧愁。何以解忧？唯有杜康。<br><br>拽来王羲之。<br>『暮春之初，会于会稽山阴之兰亭，修禊事也。』<img src="http://pic1.zhimg.com/8b96262b60c79fd839f4fe7c4216b2f8_b.jpg" data-rawwidth="1536" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic1.zhimg.com/8b96262b60c79fd839f4fe7c4216b2f8_r.jpg"><br>睡觉时披上洞庭湖做被子，睡容很安静。<br><br><img src="http://pic4.zhimg.com/bfeeba48c5108035db7e9db37e067b27_b.jpg" data-rawwidth="696" data-rawheight="696" class="origin_image zh-lightbox-thumb" width="696" data-original="http://pic4.zhimg.com/bfeeba48c5108035db7e9db37e067b27_r.jpg"><br>春秋是童年，战国是叛逆期：“呜哇原来打打杀杀吞并他国入主中原这么好玩！”想法很单纯。<br>这个时期成为后世分久必合、合久必分规律的开端，要问为什么只画了东周……因为我是战国粉(ノ_＜)<br>如果大家想看这边画哪个朝代，可以在评论里点图，老衲慢慢画～<br><br><img src="http://pic3.zhimg.com/236c5b19a1d05bcc49d2c451eb617ea6_b.jpg" data-rawwidth="1536" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic3.zhimg.com/236c5b19a1d05bcc49d2c451eb617ea6_r.jpg"><br><a data-hash="7d65103d445e1da2828309830c61dcff" href="http://www.zhihu.com/people/7d65103d445e1da2828309830c61dcff" class="member_mention" data-editable="true" data-title="@夏冰" data-tip="p$b$7d65103d445e1da2828309830c61dcff">@夏冰</a> 姑娘点的唐宋。<br>襦裙唐——<br><img src="http://pic2.zhimg.com/c43a45cdb6954a6f85a5a7e985a76875_b.jpg" data-rawwidth="1536" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic2.zhimg.com/c43a45cdb6954a6f85a5a7e985a76875_r.jpg"><br>——和饱肚宋。<br><img src="http://pic3.zhimg.com/662c0aff265cb66424ebd4e63d3b898a_b.jpg" data-rawwidth="1536" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic3.zhimg.com/662c0aff265cb66424ebd4e63d3b898a_r.jpg">前几天有姑娘上家里借书，老衲翻翻冰箱，问她：“给你弄个唐朝的宫廷甜点怎么样？”她笑着说好。<br>端出来两碗冻酸奶拌樱桃，另浇蜂蜜，姑娘笑得快塌了（其实蛮好吃的<br>唐朝的好多食谱都很时尚来着，像上面那道宫廷料理，吱呼日报的饿了专题经常有早餐教程，常见酸奶拌草莓、香蕉、蓝莓……<br>顺带一提生鱼片蘸芥末也是大唐料理。<br><br>宋朝是馋嘴猫和游侠的天堂，看《东京梦华录》，完全就是文字版的清明上河图嘛【眨眼】<br>战国杀气，魏晋仙气，而宋朝烟火气。好吃好玩的让人眼花缭乱，还有外卖、大排档、便利店……宜居指数五颗星！★★★★★<br><br><a data-hash="03bca03ec53aa4a6385993c995b69d20" href="http://www.zhihu.com/people/03bca03ec53aa4a6385993c995b69d20" class="member_mention" data-editable="true" data-title="@连柯" data-tip="p$b$03bca03ec53aa4a6385993c995b69d20">@连柯</a> 姑娘点的西周～跳大神，划去，跳大绳儿的周。<br>喜欢和小伙伴们一起玩，把自己的零食和玩具都分给幼儿园小朋友，条件是在外打群架小朋友们要来帮忙。<br>当然，这种约定……一旦长大以后就不管用啦XD<br><br><img src="http://pic3.zhimg.com/197d17020b8848d4863afa2bdd22b63e_b.jpg" data-rawwidth="823" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="823" data-original="http://pic3.zhimg.com/197d17020b8848d4863afa2bdd22b63e_r.jpg"><br>左上角是害羞彼，右上角是打码的商。商朝菀彼的设定下回更。<br>而左中……我问一句，就一句，咱们这边有看《王者天下》的少侠吗？T口T<br>—————————<br><br>如果性转过来的话性格会相反。<br>一直觉得古代中国的历史必须得是个很温柔的姑娘，生平跌宕起伏，万邦来朝过，山河破碎过，但是能保持不以物喜不以己悲。<br>性转如下，敏感孤独暴躁的少年君主。<br><br><img src="http://pic3.zhimg.com/8069e2deab62d8fad537b124e682653e_b.jpg" data-rawwidth="1536" data-rawheight="1152" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic3.zhimg.com/8069e2deab62d8fad537b124e682653e_r.jpg"><br>读史等于骑车穿空，进入典籍里审视自己。<br><br><img src="http://pic4.zhimg.com/dff6cff6d8eae92eb8c53f4d51e3e227_b.jpg" data-rawwidth="720" data-rawheight="720" class="origin_image zh-lightbox-thumb" width="720" data-original="http://pic4.zhimg.com/dff6cff6d8eae92eb8c53f4d51e3e227_r.jpg"><br>深化一下：<br>会反间、侦察、带兵、游说、诡辩、应酬。窗外是捕梦网，窗里是招魂幡；可以随时把任何古人召来喝酒。酒量不错，酒品不行，一喝醉就把什么陈年八卦都抖出来。<br><br><img src="http://pic1.zhimg.com/21ded8b8b0609104099cd6b51b1388bc_b.jpg" data-rawwidth="1274" data-rawheight="1274" class="origin_image zh-lightbox-thumb" width="1274" data-original="http://pic1.zhimg.com/21ded8b8b0609104099cd6b51b1388bc_r.jpg"><br>加点私心：<br>有美丽茂密的长发（我的私心。因为我自己快秃了）<br><br><img src="http://pic1.zhimg.com/7e4bfe4f128074453cc3961a8678d94c_b.jpg" data-rawwidth="1536" data-rawheight="495" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic1.zhimg.com/7e4bfe4f128074453cc3961a8678d94c_r.jpg"><br><br>长头发！长！头！发！<br><br><img src="http://pic3.zhimg.com/b42185bb7a4a8aa6069d107285c51c3a_b.jpg" data-rawwidth="1536" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic3.zhimg.com/b42185bb7a4a8aa6069d107285c51c3a_r.jpg"><br>以上。(❛ᴗ❛人)✧要是想到了更详细的设定，就会更新<br><br>—————————<br>……真的是女孩子！不信我们可以脱衣验身（说着被打了<br><img src="http://pic2.zhimg.com/5fb9fcd8dbe160b55c98e427722d0379_b.jpg" data-rawwidth="1536" data-rawheight="1536" class="origin_image zh-lightbox-thumb" width="1536" data-original="http://pic2.zhimg.com/5fb9fcd8dbe160b55c98e427722d0379_r.jpg"><br><br>穿现代装是这样的（我的衣服）：<br>大家好这是我女朋友～<br><img src="http://pic1.zhimg.com/1c73e68ffa91edbaae83dc382bfb2c40_b.jpg" data-rawwidth="1475" data-rawheight="1474" class="origin_image zh-lightbox-thumb" width="1475" data-original="http://pic1.zhimg.com/1c73e68ffa91edbaae83dc382bfb2c40_r.jpg">
+<a href="/question/27782088/answer/48658625" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="14861771-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-05-22" target="_blank" href="/question/27782088/answer/48658625">编辑于 2015-06-15</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>63 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/27782088" class="zg-link-litblue">查看全部 181 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:27782088}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="3295751">关注问题</button>
+
+1212
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="http://pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163818 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371669 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:27782088}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/27782088/answer/45484210/collections">15</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1405940344">
+<h2 class="zm-item-title ">
+<a href="/collection/38407655">前方高能预警</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhu-nong-19" data-tip="p$t$zhu-nong-19" class="zg-link-litblue"> 知了 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/38407655/followers">6561 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1412590909">
+<h2 class="zm-item-title ">
+<a href="/collection/40155203">K神</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/RayShum" data-tip="p$t$RayShum" class="zg-link-litblue"> Ray Shum </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/40155203/followers">3 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1440323990">
+<h2 class="zm-item-title ">
+<a href="/collection/69841009">Kaiser的专业回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/lai-hai-chen" data-tip="p$t$lai-hai-chen" class="zg-link-litblue"> Nolan </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/69841009/followers">0 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1414930414">
+<h2 class="zm-item-title ">
+<a href="/collection/40861181">hahahahaha分舰队</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/ai-li-xi-lu-deng-dao-fu" data-tip="p$t$ai-li-xi-lu-deng-dao-fu" class="zg-link-litblue"> 埃里希鲁登道夫 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/40861181/followers">0 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1438602736">
+<h2 class="zm-item-title ">
+<a href="/collection/67937933">excited！——————生活</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/li-tao-zhi-33" data-tip="p$t$li-tao-zhi-33" class="zg-link-litblue"> 库一 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/67937933/followers">0 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22351533">大学重要还是专业重要？</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="45" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/24959012">信安专业的大学推荐？</a> <span class="num">21 个回答</span><meta itemprop="followerCount" content="114" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20957473">大学考古学专业学些什么？</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="31" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21287543">高考填志愿专业重要还是什么学校重要?</a> <span class="num">10 个回答</span><meta itemprop="followerCount" content="36" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20222880">怎样看待大学转专业？</a> <span class="num">5 个回答</span><meta itemprop="followerCount" content="15" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22570962">大学的各个专业？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="30" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21138137">财政学专业的大学规划?</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="10" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22259631">关于大学专业抉择?</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="160" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20294355">工商管理专业就业前景怎么样？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="30" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22932473">上海交通大学有交通专业吗？</a> <span class="num">10 个回答</span><meta itemprop="followerCount" content="19" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+发布于
+
+<span class="time">2015-04-21</span>
+</p>
+<p>
+所属问题被浏览 <strong>350305</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:27782088}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440648853000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":3295751,"urlToken":27782088,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/978a4235e532b60ef87b598349e58873.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/fa4d7c07a828a3976ebd9b5b76087914.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/68706faf5d46a069ab0d8b20930cfe75.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/f42a7a51d4bc5bc0fa8d4d0aaeddaed1.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="96f8a50f525447c381ea69feeff6d065">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="10cddd05c70a94076cd9028d705f4db0"/>
+</body>
+</html>

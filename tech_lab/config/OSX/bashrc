@@ -65,12 +65,14 @@ alias cap='pushd /Users/zen1/zen/pythonstudy/Capitalist'
 alias lib='pushd ~/zen/shared/library'
 alias doc='pushd /Users/zen1/zen/shared/code_port/normaldocuments'
 alias crawl='pushd /Users/zen1/zen/pythonstudy/tech_lab/python_mania/module/scrapy/'
+alias math='/Users/zen1/zen/pythonstudy/tech_lab/math'
+alias top_thing_for_now='/Users/zen1/zen/pythonstudy/TOP_THING_FOR_NOW'
+alias nzd='pushd /Users/zen1/zen/zen_dict/'
 
 
 # COMMANDS
 alias py='python'
 alias ipy='ipython -i'
-alias gr='grep'
 alias pd='pushd'
 alias pbc='pwd | pbcopy'
 alias pbp='pbpaste'
@@ -79,6 +81,10 @@ alias gbs='gitbook serve .'
 alias vim='/usr/local/bin/vim'
 alias cl='crontab -l'
 alias k='cd ..'
+alias rdm='vim readme.md'
+
+# search
+alias gr='grep'
 alias grep='GREP_COLOR="1;33;40" LANG=C grep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
@@ -91,6 +97,9 @@ alias gpl='git pull'
 alias gps='git push'
 alias gs='git status '
 alias gcm='git commit '
+# unsort
+alias http='python -m SimpleHTTPServer 8000'
+
 
 
 # FILE MANIPULATION
@@ -101,7 +110,7 @@ alias vb='vim ~/.bashrc'
 alias ct='cat ~/zen/pythonstudy/tree_hole'
 alias crt='cat ~/zen/pythonstudy/reasonable_tree_hole'
 alias cj='cat ~/zen/pythonstudy/joke'
-alias dt='. ~/.bashrc'
+alias dt='. ~/.bashrc &> /dev/null'
 alias pyc='vim /Users/zen1/zen/pythonstudy/tech_lab/Pycharm/mac_note.md'
 alias mem='vim /Users/zen1/zen/pythonstudy/Brain_extension/memo'
 alias zen='vim ~/zen/pythonstudy/book/zen_book/zen.md'
@@ -123,6 +132,7 @@ alias dream='pushd ~/zen/pythonstudy/MAKE_MY_DREAM_COME_TRUE'
 alias bm='pushd /Users/zen1/zen/pythonstudy/tech_lab/bash_mania'
 alias pm='pushd /Users/zen1/zen/pythonstudy/tech_lab/python_mania'
 alias vs='pushd /Users/zen1/zen/pythonstudy/tech_lab/vim_skill'
+alias vida='pushd /Users/zen1/zen/pythonstudy/vida/'
 
 
 # REMOTE HOST
@@ -137,7 +147,10 @@ alias pro='vim /Users/zen1/zen/pythonstudy/book/notebook/pro_程序员日记'
 alias d='ipython -i /Users/zen1/zen/pythonstudy/creation/decision_maker.py'
 # sc is short for trailing whitespace check
 alias sc='ggrep -Enr --color "\s+$" ./'
-
+# Disable Touch pad
+alias dtp='sudo kextunload /System/Library/Extensions/AppleUSBMultitouch.kext'
+# Enable Touch pad
+alias etp='sudo kextload /System/Library/Extensions/AppleUSBMultitouch.kext'
 # Unknown
 alias upload='expect /home/zen/lab/scripts/upload.sh'
 alias ca='xmodmap $HOME/.speedswapper'

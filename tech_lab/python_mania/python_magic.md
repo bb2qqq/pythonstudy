@@ -1,3 +1,25 @@
+### 让你的程序运行指定的时长
+    import signal
+    import sys
+
+    def terminate_func(*args, **params):
+        # do your final things here before exit
+        sys.exit(0)
+
+    signal.signal(signal.SIGALRM, terminate_func)
+    signal.alarm(100)   # after 100 seconds of running, execute terminate_func
+
+> The running time isn't precise, like signal.alarm(100) could use 100.00013332 seconds.
+
+### python2做除法时直接求浮点数
+    >>>from __future__ import division
+    >>>2/3
+    0.6666666666666666
+    >>>3/3
+    1.0
+
+> 在python 3中，此种除法方式是default行为
+
 ### 将url中特殊字符(% + alphanum表示的那些字符)进行转换
     import urllib
     converted_str = urllib.unquote(raw_url_str)

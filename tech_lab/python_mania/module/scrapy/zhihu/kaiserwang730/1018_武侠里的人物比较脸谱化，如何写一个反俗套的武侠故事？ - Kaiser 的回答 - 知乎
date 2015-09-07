@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>武侠里的人物比较脸谱化，如何写一个反俗套的武侠故事？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/31116030">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/25313930/answer/31116030">
+<meta id="znonce" name="znonce" content="876c78acd4314ba2b4593e3106df9880">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/1050c05fe2d5d1a0816e1f51c3b1e0ca.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/25313930" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19562246"
+data-tip="t$b$19562246" data-token="19562246" data-topicid="4016">
+武侠
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19562251"
+data-tip="t$b$19562251" data-token="19562251" data-topicid="4017">
+武侠小说
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/25313930">武侠里的人物比较脸谱化，如何写一个反俗套的武侠故事？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="2308194" data-action="/question/detail">
+
+<div class="zm-editable-content">最好写个大纲，别说教，别引论，这个问题，我觉得是张榜，可有英雄来揭？<br>PS：嗷嗷么有一个我喜欢的答案，写出我喜欢的答案之人，应该是一位真心人，兄台，可否借你的答案一看。</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>14 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="2308194" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/25313930" class="zg-link-litblue">查看全部 112 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="7831302"
+data-atoken="31116030"
+data-collapsed="0"
+data-created="1411835921"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-7831302"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1018</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="//pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1018">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$jian-xiu-ji" href="http://www.zhihu.com/people/jian-xiu-ji" class="zg-link" title="简秀吉">简秀吉</a>、</span><span class="user-block"><a data-tip="p$t$di-xia-tian-e-mao" href="http://www.zhihu.com/people/di-xia-tian-e-mao" class="zg-link" title="地下天鹅毛">地下天鹅毛</a>、</span><span class="user-block"><a data-tip="p$t$zhou-xing-yuan-68" href="http://www.zhihu.com/people/zhou-xing-yuan-68" class="zg-link" title="周星源">周星源</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="2308194" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">我面前的这条路，叫江湖路。南北向，起自西直门北大街，竖插北四环。<br>有江湖的地方就有派系。这条路上有八大派系。<br><br>左手边沿西街是航天门、地质派、矿业帮、林业堂。<br>右手边捋东道是北医会、钢铁山、石油岛、农业洞。<br><br>这些也不是最强的，往西还有华清观、大悲寺两座巨擘。<br><br>我和他们都不一样，我走的是学院风，我是青翔大学的。<br>“青出于蓝而胜于蓝”，800年前我校曾力克另一个世界一流大学，留下了这句谚语。<br><br>今天不说学术，讲武侠。<br>我的任务是送一批古董。<br><br>上次我校成功从江湖路最北的农业洞，窃取了圣地亚哥的绝密添加剂，再次震惊环球。<br>想必八大行会早已派出了高手。<br><br>这趟镖，不简单。<br><br><br>“生殖泌尿研究中心”，我站在立交桥上，看着眼前早已朽透的牌匾，仿佛能感受到千年前，那凌晨四点在这里排队的号贩子的目光。<br><br>灼热。<br>捉急。<br><br>依照地图指示，背后便是航天门所在。<br><br>——有杀气。<br>武林高手靠什么识别杀气？听说一千年前，靠的是背景音乐。<br><br>那是从前的武侠，脸谱化的人物，俗套的故事。当今武学早已是另一番光景，因为杀气太重，调音师纵有开挖掘机的技术，也来不及给你切BGM。<br><br>我一个华丽的转身，只见黑漆漆一个好家伙扑面而来。<br>再看，此物长1米有余，西域高强度铝合金打造，先涂酚醛泡沫隔热，再浸环氧树脂，高温高压七七四十九天而成。<br><br>侧身一避闪过大头，但是激波扫过，刚的我一个趔趄。<br>我急忙气沉丹田，拉动内需，催动体内三驾马车——精、气、神，好歹落了个软着陆。<br><br>再看，迎面正是一名青衣男子，手持利器，歪头坏笑。<br>我不能辱没了校风，正色道：“门派，姓名，兵器，功夫。”<br><br>“航天门，火箭发动机分舵。Kaiser。使一口FGM－148“标枪”导弹，看家本领‘波推飞机’。”<br><br>这上古神器标枪导弹传说是由古文明美利坚出产，威力巨大，但明明是打坦克的，顶多推个直升机，却给招式起个这么和谐的名字，自个还拽个英文名，必是个浮夸之徒。<br>我拉出一条杠杆，先宽松一扫，后紧缩一刺，男子是见招拆招，宏观调控。当然这都是虚晃，我瞅准时机，使出杀招，他无法防备，当场被完爆。<br><br>“这是什么招式？”那青衣者徒留一丝游气，强作着问道。<br><br>“看不见的手。”<br><br>再瞧他好似回光返照一般，给我点了个赞。<br><noscript><img src="//pic3.zhimg.com/6d8a3d0b4a2139b083225373e10ef55e_b.jpg" data-rawwidth="310" data-rawheight="215" class="content_image" width="310"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="310" data-rawheight="215" class="content_image lazy" width="310" data-actualsrc="//pic3.zhimg.com/6d8a3d0b4a2139b083225373e10ef55e_b.jpg"><br><br>我成功地押送了这批古董到位，大买主据说是一位长者，来接头的倒是个年轻，着一袭黑色燕尾服。<br><br>开箱，验货，登时一道金光直冲云霄，恍如小当家新菜出锅。<br>再瞅这宝贝，一尺来高，似是个人形，身材修长，一手掐腰一手指天，双眼大如鸡卵。遍身有红、蓝两色釉彩纹身，最显眼的是当胸前有一半球凸起，晶莹剔透，仿佛蕴含着半人马星座的能量，实乃无上佳品。<br><br>“手办！”我脱口而出。<br>手办乃是古人镇宅之品，花样繁多，尤其在东亚地区风靡，简称“宅品”。<br><br>来人也不做声，戴上白手套，方欲拿起观瞧，却陡然眼神一凛，怒道；“耍我？”<br><br>正惊诧间，我早已被多门阳电子炮抵住了要害，不敢妄动，只能言语道：“何出此言？定有误会！”<br><br>白手套掏出一杆电动棒，又是一个失落的神器，相传此物能令人真气紊乱，浑身如触电般，欲罢不能，轻者双腿松软，重者当场昏厥，与血滴子并称两大凶器。<br><br>“你小子好大的胆，我家长者要的是昭和系的奥特曼，你这拿来的分明是迪迦奥特曼，是平成系的，不值一文！”说罢怒将神器启动，看那硬棒摇头晃脑，煞是骇人。<br><br>“雅灭迭！”我寻思个中必有妖孽，怕是早被人掉了包，一着急喊出了江湖上的黑话，全称“你也是高雅人士，在这里灭我的口，怕是忙不迭收尸”，表示“不要，不要，扰我一命。”<br><br>正说话间，炮声四起，四下皆惊。迟疑间我受一电击，不省人事。<br><br><br>再醒来时，我似乎在一个病房里，面前一高一矮站着一对男女。男的正是昨天和我在生殖泌尿研究中心门口大战的青衣男子，女的看样子是个小护士，白丝，制服，蜂腰，翘臀，一米六上下，目测34D。<br><br>我还想在多看两眼，却被男子打断：“你的伤很重，需要调养，我已经给你开好了药方。等你康复一段时间吧，现在这事儿不能说太细。”<br><br>我瞥了一眼床头的单子，分明是：<br><br>“脑白金一两<br>妇炎洁半钱<br>急支糖浆5汤匙<br>用营养快线冲服”<br><br>心中暗叫不对，这上面的药材都是千年前失传的极品，怎么会用到我身上。但我未曾说破，目送两人出了病房。<br><br>我晕了已经不知几天，但眼前神智尚且清醒。挨到入夜以后，我见病友皆已睡熟，稍微舒缓一下筋骨感觉无恙，便摸出房外直到院内。<br><br>夜深，无人，悄悄的出院，打枪的不要。我一看大门正开着，便双脚一踮从墙上翻了出去。<br>哪知刚一落地，啪啪两声紧带着一双光柱打在我身上，登时警铃大作，直升机满天，人声狗声骂娘声，中间力拉崩倒之声齐作。<br><br>我返身刚想跑，只觉髋臼一震伏面摔倒。一张报纸刮倒我跟前，我瞟了一眼标题，竟是<br><br>“三名出逃精神病患者在北京做‘古董交易’时被抓获送回，其中一人持有武器且喜欢假扮医生。”<br><br>我再抬头，循着光柱看去，大门前正是一块石碑，黑底烫金大字：<br><br><noscript><img src="//pic2.zhimg.com/a2338058f383f2149bcb013403332d59_b.jpg" data-rawwidth="268" data-rawheight="194" class="content_image" width="268"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="268" data-rawheight="194" class="content_image lazy" width="268" data-actualsrc="//pic2.zhimg.com/a2338058f383f2149bcb013403332d59_b.jpg"><br>南京市青龙山精神病院。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="7831302-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-09-28" target="_blank" href="/question/25313930/answer/31116030">编辑于 2014-09-28</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>98 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7557515"
+data-atoken="30432962"
+data-collapsed="False"
+data-created="1410462974"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="370">370</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">370</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+知乎用户，<strong title="直言无隐，概不奉承。" class="zu-question-my-bio">直言无隐，概不奉承。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="370">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$xuan-qing-shao-zhu" href="http://www.zhihu.com/people/xuan-qing-shao-zhu" class="zg-link" title="玄清少主">玄清少主</a>、</span><span class="user-block"><a data-tip="p$t$xu-bing-75-2" href="http://www.zhihu.com/people/xu-bing-75-2" class="zg-link" title="胥兵">胥兵</a>、</span><span class="user-block"><a data-tip="p$t$zhong-mark-36" href="http://www.zhihu.com/people/zhong-mark-36" class="zg-link" title="zhong Mark">zhong Mark</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2308194" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">参考徐皓峰的《倭寇的踪迹》<br><b>“一部很严肃的电影”</b><br>网上对这部电影的评价褒贬不一，我是非常喜欢的，即使在看的过程当中不断笑场。<br><br>在我的理解，真正对武侠电影做到反类型的，就是这部了。<br><br>片中充满了各种徐皓峰式的武学金句，玄乎且有指导意义，但是总是会被各种打脸。<br>片中所有的槽点，各位高手都会严肃认真的用江湖规矩和武学宗旨去解释。<br>片中的美术和道具都用的很考究，再配上现有的台词，第一次看的人，前面的段落一定会被唬住。<br><br>简单的列举几个我在影院看时笑场最多的槽点，大家试着感受一下，这是一部什么样的电影。<br><br>为了方便叙事，我没按照电影时间线去截图，很多前后情节都忽略了，但是，相信我，整部电影都是反类型的，一坨大槽点，不会存在几张没有上下文的情节造成刻意黑这部电影的感觉。<br><br>故事简介：男主和朋友是戚家军，抗倭战争结束不久，戚继光已经被调离一线。倭寇战斗力凶悍，戚继光发明一种专克倭寇的刀和一套功夫，这种刀和倭刀很接近。<br>男主想和朋友用这套功夫或者说军技，别开天地另创乾坤。<br>开宗立派有个条件，乌衣巷打过五关就可以做，男主和朋友没打过去，并且被当做倭寇抓捕。<br><br>1：男主逃走后躲在吉普赛艺妓的船上，让后者不停跳舞，他却不看，艺妓都跳烦了，他依旧坚持要她跳。<br><b>因为，要测试异族人种的耐力极限。</b>（为日后两国交锋做数据报告。）<br><img src="//pic2.zhimg.com/298b141942e8f28492e499c33ff6fc15_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic2.zhimg.com/298b141942e8f28492e499c33ff6fc15_r.jpg"><img src="//pic1.zhimg.com/2647e19b2f75c70eca55c0370f4d1d28_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic1.zhimg.com/2647e19b2f75c70eca55c0370f4d1d28_r.jpg"><img src="//pic1.zhimg.com/a714c239e139bc62190542d561f427f4_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic1.zhimg.com/a714c239e139bc62190542d561f427f4_r.jpg"><img src="//pic4.zhimg.com/ac919c37692acdb2328c0297d4d04d5b_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/ac919c37692acdb2328c0297d4d04d5b_r.jpg"><br>姑娘最后不想跳了，和男主聊了几句之后。男主成功补刀。<br><img src="//pic1.zhimg.com/ce524025397fdcd571fc60f811b96c80_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic1.zhimg.com/ce524025397fdcd571fc60f811b96c80_r.jpg"><br><br>2：影片中提到，当时主流的抗倭办法有两种，一种是男主用的戚家军技，一种是俞大猷发明的“鸳鸯阵”<br>男主离开了彩船，路上遇到了城防的官兵，官兵成功的抓住了他，用的就是鸳鸯阵。<br><img src="//pic4.zhimg.com/cf108758bd933bacf3e0d782b55e24eb_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/cf108758bd933bacf3e0d782b55e24eb_r.jpg"><br>前几天的绣春刀也出现了类似的阵法。呈现出来的效果就是<b>五打一</b>。<br><br>4：男主被打败后，兵头得意洋洋的要去绑住男主。<br>绑前还问了北京孩子打架常用的一句话：服不？<br>男主：服了，你们都是大撒逼，俞大猷将军才是天才。<br>兵头拿绳子要绑，男主突然出击拿下了兵头，毕竟是要开宗立派的人，1v1没问题。<br><img src="//pic3.zhimg.com/1fbb793a9f016db928a8e23b8fd30aa6_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic3.zhimg.com/1fbb793a9f016db928a8e23b8fd30aa6_r.jpg"><br>男主成功的挟持了五个城防兵，带着他们到河边让他们跳进河里，接着男主自己也跳进了河里。<br>男主挟持五人在河里整整走了一夜，直到天亮。<br><b>因为，要做检测！</b><br><img src="//pic4.zhimg.com/75ba00404bbbd9a42e50e70dbecf301b_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/75ba00404bbbd9a42e50e70dbecf301b_r.jpg"><img src="//pic3.zhimg.com/dca947284a07826429e6160c5c1c472a_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic3.zhimg.com/dca947284a07826429e6160c5c1c472a_r.jpg"><img src="//pic3.zhimg.com/eb6a99f04f3182b90cc2a4bfd4f8e716_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic3.zhimg.com/eb6a99f04f3182b90cc2a4bfd4f8e716_r.jpg"><br><br><br>当然最后依旧还要补上一刀！<br><img src="//pic4.zhimg.com/2c1282ad229daac39914567ab0f2d07f_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/2c1282ad229daac39914567ab0f2d07f_r.jpg"><br>4：在男主离开彩船之前，交给了吉普赛姑娘一个办法，打人一打一个准。<br><img src="//pic4.zhimg.com/0e6f2d31ec6b6df42e51e6d477b40fbb_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/0e6f2d31ec6b6df42e51e6d477b40fbb_r.jpg">如图所示，姑娘拿着棍子在门帘子里等着，只要有人碰到棍子就可劲抡，对方就会被打趴。<br>姑娘就按着男主的说的做了，接着发生了一些事。<br><br><img src="//pic4.zhimg.com/a46614ff614d5d51789d58f2c28b59ff_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/a46614ff614d5d51789d58f2c28b59ff_r.jpg"><img src="//pic1.zhimg.com/d2b4dbbd1937ed69c199dfab4689c03c_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic1.zhimg.com/d2b4dbbd1937ed69c199dfab4689c03c_r.jpg">小弟上去瞬间团灭。<br><br>隐居在山上的第一高手忍不住了，下山来比试。<br><img src="//pic2.zhimg.com/73fd209ab2f8d65de1eb114ddae25405_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic2.zhimg.com/73fd209ab2f8d65de1eb114ddae25405_r.jpg"><img src="//pic3.zhimg.com/fd74ad97e4aa4eea4388e616662abbfe_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic3.zhimg.com/fd74ad97e4aa4eea4388e616662abbfe_r.jpg"><br>第一高手模拟了几种可以打死对方的办法，速度技巧功夫随便用哪个都把里面的人打吐血。<br><br>接着<br><img src="//pic3.zhimg.com/a3df769414bfa92a2a68b0d2a0f497c2_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic3.zhimg.com/a3df769414bfa92a2a68b0d2a0f497c2_r.jpg"><br><br>现任第一高手忍不住了，必须要出面平事了。<br><img src="//pic2.zhimg.com/68c7ab1906d18556765a445bbd554955_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic2.zhimg.com/68c7ab1906d18556765a445bbd554955_r.jpg"><br>现任比较沉稳，做了很多的提前准备。<br><img src="//pic4.zhimg.com/62a1facd586e166aaf934ba48d4e882b_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/62a1facd586e166aaf934ba48d4e882b_r.jpg">拿热油祭太师鞭。<br><br>当然，也少不了提前在脑子模拟战斗场景。<br><br>胜负大家一定可以猜到。<br><img src="//pic2.zhimg.com/45ed6dbcb9c4f1b281aed37c89e91421_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic2.zhimg.com/45ed6dbcb9c4f1b281aed37c89e91421_r.jpg"><br>K.O!   Prefect！<br><img src="//pic4.zhimg.com/0168acbed37f4a5334c2fcb1156c9c4f_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/0168acbed37f4a5334c2fcb1156c9c4f_r.jpg"><br>4：彩船上原本有四个吉普赛姑娘，一个被挟持了，另外三个回不了家。<br>负责围剿彩船的人对三人管吃管住。<br><br>三个天线烂漫的姑娘闲的无聊，就开始在船头跳舞。<br><img src="//pic1.zhimg.com/79631a47782b837255f3b1f910bf2120_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic1.zhimg.com/79631a47782b837255f3b1f910bf2120_r.jpg"><br>这是现任第一高手还没被打倒，回家取鞭子到现场后很好奇。<br>这是怎么回事？<br><img src="//pic3.zhimg.com/73f3b0bfe528be18254dd512c30f512a_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic3.zhimg.com/73f3b0bfe528be18254dd512c30f512a_r.jpg">他的手下人是这么回答的！<br><br>三个姑娘跳了一会累了<br><img src="//pic4.zhimg.com/07eca48df8545d17a37ec2022800cccf_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/07eca48df8545d17a37ec2022800cccf_r.jpg"><br>看这位小哥的眼神<br>他是四大门中的一个普通人<br>遇到大场面的活动他只能当做举着兵器不动的龙套<br>龙套也是戏校毕业的啊<br>“I have a dream！如果没有梦想，和咸鱼有什么分别！”<br><br><img src="//pic3.zhimg.com/7612090ada336da14ea406cdb58840be_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic3.zhimg.com/7612090ada336da14ea406cdb58840be_r.jpg"><br>小哥一个人开始尽情的舞蹈。<br><br><img src="//pic4.zhimg.com/ef3b62a2760ad912eb2dffe293fc360b_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/ef3b62a2760ad912eb2dffe293fc360b_r.jpg">爱，也是放肆！<br><br>5：现任第一高手看不下去了，手下的武人和姑娘们一起跳舞，这成何体统！<br>派了五个手下，把三个姑娘关到了地牢里。<br>果然，五个手下面对三个体态丰腴的姑娘有些心动。<br><br><img src="//pic3.zhimg.com/11faa066c85188e47717236666666dce_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic3.zhimg.com/11faa066c85188e47717236666666dce_r.jpg"><img src="//pic1.zhimg.com/4d182b3aeb6f67d76823e89f2a9422b0_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic1.zhimg.com/4d182b3aeb6f67d76823e89f2a9422b0_r.jpg"><img src="//pic4.zhimg.com/c47b45a21008d09ba674db785cdbe197_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/c47b45a21008d09ba674db785cdbe197_r.jpg"><img src="//pic1.zhimg.com/6ff5b08d0bf7128a679b7ebcb32fb47c_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic1.zhimg.com/6ff5b08d0bf7128a679b7ebcb32fb47c_r.jpg"><br>6：这部电影是徐皓峰老师的处女作，他一人身兼编剧导演和武术指导三个职位。<br>同样他也是《一代宗师》的编剧和武指<br>徐老师本身就是练家子，也在这方面有很多研究，各位有兴趣可以去看他的小说和武学纪录。<br><br>可是这部电影的动作风格是<br>这样的<br><img src="//pic1.zhimg.com/72bfec197a36366b73a9d08a1d7ff61c_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic1.zhimg.com/72bfec197a36366b73a9d08a1d7ff61c_r.jpg">两人跳来跳去<br><br>还有这样的<br><img src="//pic2.zhimg.com/175be90c7b3de4ab0e0a292f9894230d_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic2.zhimg.com/175be90c7b3de4ab0e0a292f9894230d_r.jpg">这是最终大决战，男主VS前任第一高手<br>依旧是来回蹦蹦跳跳<br><br>当然，片子中有解释，<b>高手过招只在一瞬间。</b><br><br><br>所以就出现了这一幕<br><img src="//pic4.zhimg.com/71fa92f6e3bc5278843f93d21a3d6107_b.jpg" data-rawwidth="848" data-rawheight="458" class="origin_image zh-lightbox-thumb" width="848" data-original="//pic4.zhimg.com/71fa92f6e3bc5278843f93d21a3d6107_r.jpg"><br>两个人突然正面镜头，各自耍了几下。<br>有点像正在蓄力……他们是高手，不会随意打断对方技能的。<br><br>这部电影的武术动作实在是太诡异了，截图实在无法体现出其精髓，各位有兴趣可以去看一下。
+<a href="/question/25313930/answer/30432962" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7557515-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/25313930/answer/30432962">发布于 2014-09-12</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>56 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7559274"
+data-atoken="30437267"
+data-collapsed="False"
+data-created="1410485322"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="168">168</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">168</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$hey-you" href="/people/hey-you">陈壮壮</a>，<strong title="无悔无恨无惧，如命如狙如刀。" class="zu-question-my-bio">无悔无恨无惧，如命如狙如刀。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="168">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$xuan-qing-shao-zhu" href="http://www.zhihu.com/people/xuan-qing-shao-zhu" class="zg-link" title="玄清少主">玄清少主</a>、</span><span class="user-block"><a data-tip="p$t$di-xia-tian-e-mao" href="http://www.zhihu.com/people/di-xia-tian-e-mao" class="zg-link" title="地下天鹅毛">地下天鹅毛</a>、</span><span class="user-block"><a data-tip="p$t$yu-xiao-yang-57" href="http://www.zhihu.com/people/yu-xiao-yang-57" class="zg-link" title="鱼小阳">鱼小阳</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2308194" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">武侠小说的脸谱化，在于他必须满足【正义与公平】，例如，不可能有个人作恶了不偿命，不能有个人忠厚老实却不得善终，主角的结局可以怅然若失，但不能不偿所愿。<br><br>当然，为了服务好这个主题，小说当中也有一些常用的情节套路，例如，主角奇遇迭出，所有的武功秘籍又机缘巧合为了他的天资服务。<br>又例如，主角中毒了，一定又再被上毒，结果以毒攻毒，正好疗伤。<br>又又例如，主角将被砍死之际，一定有反派出来劝阻：师兄莫急，待问过他再杀不迟。<br>或干脆高手出手，把主角救了下来。<br><br>综合来看，要做到反武侠的效果，一定要让人觉得憋屈无比，同时公平正义全失，道德伦理沦丧。<br><br>如何创造一部反武侠的小说：<br><br><b>第一步，史上最憋屈的主角。</b><br><br>对于一个一心从事【武侠小说男主角】的人来说，最憋屈的事，莫过于发现别人才是男主角。<br>小明是全真教的一名普通道士，他的家境普通，家住山下，往上三代都是在当地从事生产工作的农夫；他的资质普通，在山上练了快二十年的剑了，仍然是这一代弟子中的中流水平，看不到希望；就连名字也是普通至极，他姓王，叫王明，这个名字在武侠小说中的含义，你懂得。<br><br>王明跟父母无数次提起过想改一个名字，可惜父母总是笑笑就过去了，他也总是问起父母可有什么江湖上的朋友，可曾有过什么奇遇，可曾救过什么高手，可惜父母还是笑笑，仍旧每天重复着自己的生活。<br><br>要成为主角必须有些奇遇，再不济，也得有些遭遇，可全真教威名在外，根本没人敢来山上闹事，就算偶尔来些不知深浅的鼠辈，也都被师兄师叔们一个个轻松打发了出去。<br><br>王明也不是没动过下山闯荡的念头，可他几十年都在山上清修，对于外面的世界一无所知，下山了又如何，山下的月亮就会更圆些么？他并不知道，每年都有些下山寻找奇遇的家伙，可最后无一不是灰溜溜的跑回来，被师父训斥一顿，王明好生烦躁，难道我这一生，竟真的没法成为主角了么？<br><br><b>第二步，最平淡的生活。</b><br><br>那天，他希望的遭遇终于到来。<br>不知从何而来的蒙古大军，将全真教围了个水泄不通，操着各种蹩脚普通话的高手们，聚集在了大堂之中，师父与师叔们同他们对峙着，各位同辈师兄弟连布好几十个北斗七星阵，剑拔弩张、一触即发。<br><br>全真教遇到了前所未有的危机，不知道为何，王明的心里忽然还有些小兴奋。<br><br>丘师叔上前与一位蒙古高手过招，拆到两百余招，对方有人忽施暗器，丘师叔激战之中没空闪避，众人救之不及，齐声惊呼，忽然身旁一位年轻小道跃起，射出手中长剑，砸飞那枚暗器，而他身子也暴露在对方面前，对方一人飞出，在他身上补上一锤，小道大口喷血，身子直落，丘师叔一剑逼开对手，回身抄住小道身体，退回阵中。<br><br>王明心头隐隐有些不安，那个小道他是认识的，名叫徐子陵，辈分比他低一辈，算起来是他师侄。<br><br>这个徐子陵从入教开始，就让他有些不爽。<br>小徐天资聪颖，勤学好问，又对人恭谦有礼，最烦的是名字还起的这么飘逸，活脱脱一副就算不是主角也是个主角身边的好友的角色。<br><br>王明一直对师兄弟们的名字很在意，他不太喜欢小徐，总认为他会抢走自己的主角光环。<br><br>果然，他的不安成为了现实。<br><br>现在，小徐躺在丘师叔的怀里，他成为了全真教当之无愧的明日之星，自己却拿着把破剑，站在不知道第几十个北斗七星阵中，淹没在众人当中。<br><br>后来，蒙古高手们再不讲武林规矩，人多势众的杀将过来，一时间血流成河，王明尽力的保证着自己的生命安全，他惊喜的发现，在大多数师兄弟都躺下之后，他居然还身体无恙，王明又燃起了一丝成为主角的希望。<br><br>可他仍然悲伤地发现了，七位师叔以及徐子陵也都没事，他们还在苦苦支撑着。<br><br>再后来，他们都被对方点了穴道，屈辱地倒在了一起，而令王明最屈辱的是，徐子陵连倒下时的姿态也比他帅，他的脸上充满了悲愤与正义，像极了一个主角，王明悲痛的想，罢了，人家天生就是主角。<br><br>先前偷袭不中的蒙古高手愤怒的掏出了自己的大锤，猛地发力，要把徐子陵一锤子砸个稀烂，王明心里叫了声好，快砸，快砸，砸死了他，我就还有一线希望。<br><br>可就在此时，王明听到了一个令他心碎的声音，旁边有人出杖架住了他的大锤，那人说道：刘兄切莫冲动，有些事情还未问明，先问过他们，留待一会再杀不迟。<br><br>王明心下失望透顶，心中又悲又愤，忽然眼前一黑，居然昏了过去。<br><br>不知过了多久，王明慢慢醒转，他心里默默祈祷，一会出现眼前的最好是大侠或者美女，他们紧张的看着我，关切地询问我的伤势，哈哈，想到这里，还有些小激动呢！<br>他强压住紧张的心情，慢慢的张开了眼睛，在他眼前的是一个——<br><br>屁股。<br><br>那屁股强壮有力，孔武之极，一看就是高手的屁股，王明不由得心下大慰，只要是高手就好，我仍然是有希望的。<br><br>果然，接下来他就听到一声关怀之极的安慰：你醒了，现在好点了么？<br>他压抑住内心的兴奋，回答道：我没什么事，多谢大侠关心。<br><br>可奇怪的是，他看见的仍是屁股，那声音来自对面，就听那人接了一句：子陵你没事就好，不用说话，也不用妄动真气，今日你不畏生死，真是年轻一辈当中的榜样，待你伤好了，我便将我毕生所学全部传授与你，你安心养伤吧。<br><br>王明向外爬了一个身位，看清了那个屁股的主人，竟是大侠郭靖，而他那一段话正是对着躺在地上的徐子陵所说，王明心中悲痛，又晕了过去。<br><br><b>第三步，最崩坏的情节和最悲惨的境遇。</b><br><br>待王明身上的伤全养好，已是来年春天了。<br>在他养伤的过程中，他才慢慢知道了当时发生了什么，原来就在全真教即将被灭教的时候，郭靖、杨过等人率众人前来营救，打走了蒙古高手，救下了他们一干人。<br>而郭杨二人收下了徐子陵作为他们共同的弟子，带着他闯荡江湖……<br><br>从那天开始，就有不断关于徐子陵的消息传到全真教中，据说他又杀了几个大恶人，又救了几个大美人，又中了几次毒，结果却因此内力大增，又遭遇了几个塞外高手，结果却学到了他们的功夫。<br><br>这个衣冠禽兽，王明又悲又愤地想着。<br><br>寒来暑往，王明成了一个中年男子，他下山去了，取了邻居家的姑娘，成了婚，当起了普普通通的农夫，而徐子陵此时已然隐隐成了江湖中又一开宗立派的大侠，偶尔听到他的消息，王明都不禁一声长叹。<br><br>有一天，他的媳妇实在看不过去，就安慰王明说，你也不用叹气，徐子陵虽然武功比你高，但人品比你差多了。<br>王明只摇了摇头，我已然不再心存幻想，你也不用编瞎话安慰我了，徐大侠仁义无双，哪是我辈可以比拟的。<br><br>媳妇叹了口气，我何必骗你呢，实话告诉你吧，从前我曾在扬州失足，听到过很多关于徐爷的消息，也亲身见过他，据说他私下干了很多勾当，无恶不作……<br><br>王明大怒，徐大侠的人品也是你可以造谣的？逛窑子就不是好人了？妇人之见！<br><br>媳妇长叹一口气，既然如此，我就跟你说实话吧，徐子陵还在全真教的时候，就经常下山勾搭少女，我当时也不幸被他玩弄好多次，要不，怎么会背井离乡在扬州失足呢，你既不信，我以后再也不提便罢。<br><br>她说完这句，侧过脸去，只敢斜眼瞧着王明，只见王明一双眼睛瞪得圆圆的，满脸通红，仰天便倒，媳妇惊呼一声，俯身过去，伸手去探他的鼻息。发现他已离开人世。<br><br>王明死后的两年，消息传来，徐子陵于华山论剑获得第一，成为新一代武林盟主！<br><br>故事到这里，就算结束了。<br><br>而写到这里，我不禁悲伤的发现，所谓反武侠的世界，就是我们平凡人的真实生活。<br><br>已收录至《<a href="http://www.zhihu.com/collection/29710398" class="internal">不要脸的壮壮陈居然收藏自己写的故事！ - 收藏夹</a>》
+<a href="/question/25313930/answer/30437267" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7559274-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-09-12" target="_blank" href="/question/25313930/answer/30437267">编辑于 2014-09-13</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>20 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/25313930" class="zg-link-litblue">查看全部 112 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:25313930}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="2308194">关注问题</button>
+
+1438
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163837 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371719 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:25313930}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/25313930/answer/31116030/collections">271</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1380452808">
+<h2 class="zm-item-title ">
+<a href="/collection/26798127">写作训练班</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/niu-niu-98-8" data-tip="p$t$niu-niu-98-8" class="zg-link-litblue"> 牛牛 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/26798127/followers">7658 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1392131500">
+<h2 class="zm-item-title ">
+<a href="/collection/31378289">写作练习</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/chen-gang-53-38" data-tip="p$t$chen-gang-53-38" class="zg-link-litblue"> 陈刚 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/31378289/followers">2057 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1402552041">
+<h2 class="zm-item-title ">
+<a href="/collection/37680476">有趣的故事</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/juan-mao-shi-si" data-tip="p$t$juan-mao-shi-si" class="zg-link-litblue"> 夏别信 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37680476/followers">850 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1390489710">
+<h2 class="zm-item-title ">
+<a href="/collection/31000509">好玩的答案</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/ke-a-ka-76" data-tip="p$t$ke-a-ka-76" class="zg-link-litblue"> 柯阿卡 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/31000509/followers">537 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1407329402">
+<h2 class="zm-item-title ">
+<a href="/collection/38752244">我就是蛤蛤党</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/38752244/followers">12 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20245883">武侠小说里所说的「江湖」在哪里？</a> <span class="num">112 个回答</span><meta itemprop="followerCount" content="493" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20415669">金庸武侠里有哪些江湖名号配不上真实实力的？</a> <span class="num">13 个回答</span><meta itemprop="followerCount" content="64" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19611323">你觉得武侠小说里哪位高手的武功是最高的？为什么？</a> <span class="num">17 个回答</span><meta itemprop="followerCount" content="50" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19663416">金庸和古龙的小说里，你最喜欢哪个人物？为什么？</a> <span class="num">230 个回答</span><meta itemprop="followerCount" content="1056" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21124899">为什么武侠小说家要为人物使用罕见的姓氏？</a> <span class="num">15 个回答</span><meta itemprop="followerCount" content="43" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19649199">金庸小说里哪个人物最悲剧？</a> <span class="num">129 个回答</span><meta itemprop="followerCount" content="507" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19607080">武侠小说里行侠仗义混迹江湖的高手平时的生活费怎么解决的？</a> <span class="num">31 个回答</span><meta itemprop="followerCount" content="108" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20968771">为何武侠小说和古装剧里的人物去酒楼从来不点菜，只让酒保随便配？</a> <span class="num">60 个回答</span><meta itemprop="followerCount" content="383" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20335819">怎么评价黄易的武侠小说？</a> <span class="num">38 个回答</span><meta itemprop="followerCount" content="177" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19931440">有哪些好看的古龙或金庸的武侠小说值得推荐？</a> <span class="num">121 个回答</span><meta itemprop="followerCount" content="504" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-09-28</span>
+</p>
+<p>
+所属问题被浏览 <strong>206293</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:25313930}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440655909000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":2308194,"urlToken":25313930,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/46201a6f385436f0f822dd895a1769a8.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/5c4a1ff2d8c7b65ced3c78c6f773554d.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/0a31d5fcb47d7c9161324ba54a206504.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/d07988700e1807410495cc8f1b6615fa.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="876c78acd4314ba2b4593e3106df9880">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="e9b516763e8b4fbcc229db8f6e987e70"/>
+</body>
+</html>

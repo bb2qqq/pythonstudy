@@ -3,7 +3,7 @@
 "set paste
 
 " External file import
-so zen_tool.vim
+" so zen_tool.vim
 
 
 " Abbreviation
@@ -24,6 +24,13 @@ ca rd r!date +'\%Y-\%m-\%d \%H:\%M'
 ca rp r!pbpaste
 " Turn PEP8 80 char highlight off
 ca 80off match OverLength /\%8000v.\+/
+" Add utf-8 head for python file
+ca utf normal 1GO# coding: utf-8
+" Add python empty doc
+ca doc normal 0i""""""
+" Remove trailing blanks
+ca rmb :%s/\s\+$//g
+
 filetype plugin on
 
 autocmd FileType markdown highlight ExtraWhitespace ctermbg=blue guibg=blue | match ExtraWhitespace /\s\+$/

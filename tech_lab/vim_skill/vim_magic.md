@@ -1,3 +1,11 @@
+### Encrypt a file
+    :X
+> Be aware, after you encrypted a file, you must use `:wq` to save your encryption.  
+> Using `:q` will leads to a no-warning quit, and your encryption abandoned
+
+### Show special chars in vim
+    :set list
+
 ### Redirect echoed content of command to file
     redir => zen_temp | exe "my expressions" | redir END | put=zen_temp
 

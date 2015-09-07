@@ -1,0 +1,1058 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>层流发生转捩时，K-H不稳定性（Kelvin–Helmholtz instability）到底是什么意思？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/45782061">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/29201426/answer/45782061">
+<meta id="znonce" name="znonce" content="d167ee23e690473d91d65991a775304a">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/aa583b24654a97650f25057ce42d7b62.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/29201426" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19559454"
+data-tip="t$b$19559454" data-token="19559454" data-topicid="3085">
+航空发动机
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19560496"
+data-tip="t$b$19560496" data-token="19560496" data-topicid="3433">
+流体力学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19572388"
+data-tip="t$b$19572388" data-token="19572388" data-topicid="7398">
+计算流体力学（CFD）
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19679423"
+data-tip="t$b$19679423" data-token="19679423" data-topicid="43179">
+湍流
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/29201426">层流发生转捩时，K-H不稳定性（Kelvin–Helmholtz instability）到底是什么意思？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="3863467" data-action="/question/detail">
+
+<div class="zm-editable-content">K-H不稳定性理论，解释说是在有剪切力的连续流体内部或有速度差的两个不同流体的界面之间发生的不稳定现象。在层流向湍流转捩过程中，它与条带结构有什么区别？</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>添加评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="3863467" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/29201426" class="zg-link-litblue">查看全部 10 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="13708574"
+data-atoken="45782061"
+data-collapsed="0"
+data-created="1429869119"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-13708574"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">328</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="http://pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="328">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$wei-yang-26-36" href="http://www.zhihu.com/people/wei-yang-26-36" class="zg-link" title="未央">未央</a>、</span><span class="user-block"><a data-tip="p$t$sheng-he-14" href="http://www.zhihu.com/people/sheng-he-14" class="zg-link" title="Sheng He">Sheng He</a>、</span><span class="user-block"><a data-tip="p$t$copycai" href="http://www.zhihu.com/people/copycai" class="zg-link" title="Copycai">Copycai</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="3863467" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><noscript><img src="http://pic1.zhimg.com/a4a1cf5dcddac61861e7c93a34971aa4_b.jpg" data-rawheight="210" data-rawwidth="311" class="content_image" width="311"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="210" data-rawwidth="311" class="content_image lazy" width="311" data-actualsrc="http://pic1.zhimg.com/a4a1cf5dcddac61861e7c93a34971aa4_b.jpg"><br><p>先给大家看副画，这个画里的海浪就是Kelvin-Helmholtz不稳定性的一个实例，日语叫つなみ，中文叫浪催的。</p><br><p>肠炎道，“清气上升，浊气下沉”——这是稳定态。海水密度比空气大，图里的浪尖比波谷处的空气还要高，这显然是个不稳定态。要打破稳定态，是需要外力的，这个外力就是风。</p><br><p>把上面这个实例抽象化一下，就是两种流体接触，密度大的在下，速度低；密度小的在上，速度高，形成一个剪切层。</p><br><noscript><img src="http://pic3.zhimg.com/4163e8df4cd9398d8aee370e3db48e22_b.jpg" data-rawheight="478" data-rawwidth="392" class="content_image" width="392"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="478" data-rawwidth="392" class="content_image lazy" width="392" data-actualsrc="http://pic3.zhimg.com/4163e8df4cd9398d8aee370e3db48e22_b.jpg"><br><br><p>再说回“转捩”（捩音同烈），即层流到湍流的变化过程（transition），其实转捩的原理就是“Hold不住”。</p><br><p>大家可能听过雷诺数(Reynolds number)，它跟让·雷诺（Jean Reno）并没有关系，表示惯性力和粘性力的比。</p><br><img src="http://zhihu.com/equation?tex=Re%3D%5Cfrac%7BInertial+Forces%7D%7BViscous+Forces%7D%3D%5Cfrac%7B%5Crho+vL%7D%7B%5Cmu++%7D++" alt="Re=\frac{Inertial Forces}{Viscous Forces}=\frac{\rho vL}{\mu  }  " eeimg="1"><br><br><p>惯性力是跟动能有关的，它和郭富城一样，希望你“动起来”。</p><p>粘性力则是跟速度梯度有关的，它的作用是消弭速度差，所以当流体的一部分要动的时候，就成了阻力。</p><br><p>我们知道层流一直很安静，雷诺数也很小，这是因为动力相对阻力还很小，所以被粘性力给“Hold住了”。</p><br><br><p>开尔文-亥姆霍兹的不稳定性，与别处是不同的。</p><p>这里需要再介绍一个数，叫理查德森数（Richardson number):</p><br><img src="http://zhihu.com/equation?tex=Ri%3D%5Cfrac%7BBuoyancy+Term%7D%7BFlow+Gradient+Term%7D+" alt="Ri=\frac{Buoyancy Term}{Flow Gradient Term} " eeimg="1"><br><p>因为知乎的公式编辑器里没有散度符号，所以就不写出具体公式了，分子是浮力项，分母是流动梯度项。</p><p>浮力大家都懂，流动梯度也好理解，两层接触的流体速度不一样，就有了梯度。</p><br><p>在K-H不稳定性中，粘性力不再是单纯的阻力了，也可以是动力。上层流速高的流体，通过粘性作用，会把下层低速流体的速度也提高，这叫“把人往高层次带”。</p><p>当然如果速度不够快或者下面的实在太沉太慢，也会实在带不动。</p><br><br><p>在扰动中，两种流体的界面发生扭曲，一部分重流体激凸到上面轻流体里面去了，同样因为连续性假设，也有一部分轻流体回往下凸进来——这样其实就等于两块流体交换了位置和速度——流体因此发生了混合。</p><br><p>在这个过程中，仍然会有一股力量驱使着我的脚步，想要把不稳定的发生给“Hold住”。但这次不是粘性力了，而是浮力。</p><br><p>向上凸入轻流体内的重流体，其受到的浮力不足以抵消自重，还会再下去；对另一种流体亦然。也就是说在浮力作用下，整个系统想要回归“清气上升，浊气下沉”的稳定态。</p><br><br><p>另一方面我们再想，两部分混合的流体不仅交换了位置，也交换了速度。密度大的流体由于上层的带动速度有所提高，而密度小的流体速度降低了。密度大的流体，在同样的速度下，其惯性力也更大，雷诺数的分子就更大——也就是更难被控制——当达到控制不了的程度时，层流即转捩为湍流，形成涡旋。</p><br><noscript><img src="http://pic2.zhimg.com/50f73c28b04dba8d12f5e6c8765d539d_b.jpg" data-rawheight="262" data-rawwidth="395" class="content_image" width="395"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="262" data-rawwidth="395" class="content_image lazy" width="395" data-actualsrc="http://pic2.zhimg.com/50f73c28b04dba8d12f5e6c8765d539d_b.jpg"><br><br><br><p>这样的转捩得益于两层流体的速度差别要足够大，如果两种流体速度都很快，那就跟相对静止没什么两样了。回头再看理查德森数的定义，浮力项和两种流体的密度差有关，流动梯度项即速度差。</p><br><p>试想一下开头那个海浪的场景，如果风力小了不会形成浪，只会是涌动；在一样的风力下，如果把海水换成水银，那就浪不起来了。还有一个因素就是表面张力，对于高频的扰动，表面张力的作用更加明显。</p><br><p>一般Kelvin-Helmholtz不稳定引发转捩的临界值是Ri小于0.25.</p><br><br><p>K-H不稳定性的例子还有很多，比如木星大气云团：</p><br><noscript><img src="http://pic1.zhimg.com/2ab6934294ba09b64dad09884dec412c_b.jpg" data-rawheight="298" data-rawwidth="457" class="origin_image zh-lightbox-thumb" width="457" data-original="http://pic1.zhimg.com/2ab6934294ba09b64dad09884dec412c_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="298" data-rawwidth="457" class="origin_image zh-lightbox-thumb lazy" width="457" data-original="http://pic1.zhimg.com/2ab6934294ba09b64dad09884dec412c_r.jpg" data-actualsrc="http://pic1.zhimg.com/2ab6934294ba09b64dad09884dec412c_b.jpg"><br><br><p>以上过程在各个尺度下继续发生，有数值模拟结果显示，K-H不稳定性会呈现数学上分形的特征。</p><noscript><img src="http://pic1.zhimg.com/6d344be7c410129a65885d61ce05e1a0_b.jpg" data-rawheight="375" data-rawwidth="500" class="origin_image zh-lightbox-thumb" width="500" data-original="http://pic1.zhimg.com/6d344be7c410129a65885d61ce05e1a0_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawheight="375" data-rawwidth="500" class="origin_image zh-lightbox-thumb lazy" width="500" data-original="http://pic1.zhimg.com/6d344be7c410129a65885d61ce05e1a0_r.jpg" data-actualsrc="http://pic1.zhimg.com/6d344be7c410129a65885d61ce05e1a0_b.jpg">
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="13708574-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-04-24" target="_blank" href="/question/29201426/answer/45782061">编辑于 2015-04-24</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>66 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="12817927"
+data-atoken="43559149"
+data-collapsed="False"
+data-created="1427860858"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="24">24</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">24</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$liu-jian-xin-77" href="/people/liu-jian-xin-77">刘建新</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="24">
+
+<span class="voters">
+<span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$liu-xi-zhi-82" href="http://www.zhihu.com/people/liu-xi-zhi-82" class="zg-link" title="习之">习之</a>、</span><span class="user-block"><a data-tip="p$t$yu-wen-xuan-37" href="http://www.zhihu.com/people/yu-wen-xuan-37" class="zg-link" title="俞雯萱">俞雯萱</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="3863467" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">你说的K-H不稳定性说的是混合层的线性不稳定性性质。这种不稳定性被认为是无粘不稳定性，因为剖面具有广义拐点。而且通常情况下无粘不稳定性的增长率都非常大，所以马上就出现了非线性效应进而流动转捩，但是这里说的是混合层的转捩，而通常情况下混合层的转捩是一个非常快的过程，工程上多半都是直接当成全湍流处理的。<br><br>而一般说的关心的层流到湍流转捩的过程，多半都是针对边界层来考虑的。 <br>而那里，正如 <a data-hash="55d6be5880ba6f3e258d5dba46cb24a9" href="http://www.zhihu.com/people/55d6be5880ba6f3e258d5dba46cb24a9" class="member_mention" data-editable="true" data-title="@马拉轰" data-tip="p$b$55d6be5880ba6f3e258d5dba46cb24a9">@马拉轰</a> 所说，也存在着一个k-type和H-type的转捩过程，这个通常被认为是对转捩过程中湍斑或者湍斑之前的一些流动结构的描述。 而从稳定性的角度看待其实是对应于不同的非线性失稳机理。<br><br>接下来稍微详细的解释一下转捩的过程。<br>一般情况下，一个典型的自然转捩过程都是这样的：<br>感受性阶段-线性扰动失稳阶段-非线性失稳阶段-breakdown-湍流<br>感受性阶段主要刻画了边界层外界的扰动或者壁面的扰动如何进入边界层转化为边界层内的失稳波的。<br>线性失稳阶段，即便上就是根据小扰动方程或者LNS方程来刻画的扰动线性增长过程。<br>非线性增长阶段呢 可以认为是当前者的线性失稳扰动增长到一定幅值的时候，就会有其它的扰动出现，而这些扰动的出现统统被归结到非线性阶段。<br>breakdown：可以认为是各种尺度下的扰动互相之间剧烈作用以至于流动向湍流发展的过程 由于其过程短暂而又剧烈，好像山崩一样，所以被叫做breakdown（个人对其理解）<br>湍流：ok 这个就不说了。<br><br>最开始的自然转捩研究是针对于不可压缩流体的。对于不可压缩流动，线性稳定性给出的结果是这个最不稳定性的扰动（T-S模态波）是二维的。然而Klebanoff的工作发现，在平板层流边界层中，虽然扰动一般是先以二维形式开始的，但是在沿流向演化时，不可避免的会出现三维扰动。而且这个三维扰动的增长率大于二维T-S波的增长率。进一步的Saric的实验发现这种展向周期性的\Lamda折线的尺度大概有两种。一种流向波数与展向波数大概为1.5，另一种大概为0.67。<br>那么这个三维扰动到底是如何产生的呢？这就是要说的K-type和H-type。实际上这和扰动的非线性增长机制有关。如果T-S波线性增长到达一定幅值的时候，那么会诱发secondary instability。而这个玩意的控制方程是可以通过Floquet理论来求解的。这个时候展开扰动的时候，H-type正好对应于一个亚谐模态，而K-type对应于基础模态。Herbert最早搞定了这个方程，给出了一组解，这个secondary instability的增长率要比T-S波的增长率要大得多（实际上失稳机制应该是一种无粘失稳），而且这种失稳波最不稳定扰动就是三维的，更让人惊喜的是这种扰动的展向尺度，与实验观测的那个三维波尺度大概差不多。。 ok 这问题的亚谐波模态也就是H-type被解决了。。 但是基础模态，Herbert说也有，但是后来计算发现这个模态的增长率比亚谐波的增长率要小不少，所以这个问题实际上还没完全被解释，就是K-type到底是怎么回事。<br>这个时候回到最初的我的描述，这里注意到我用了一个词，就是“典型的自然转捩极端”。比如飞机在高空中飞行，这种外界环境扰动比较小，或者风洞的来流湍流度非常非常低的时候，是这样的转捩失稳过程的。但是凡事都有例外，如果外界的扰动有一定的湍流度，那么转捩的过程也就随之改变了。具体的转捩路径可以参照几篇讲湍流转捩的流体年鉴上的综述，都有那张经典的转捩路径的图，这里我刚开始玩知乎 不会贴图就不搞了。不管怎么说，开始有人怀疑K-type和外界湍流度比较大有关，就是外界湍流度大了之后，就有K-type了，然后就是还有bypass转捩之类的事情。 balabala。。 大体的机理我个人的理解普遍就是两套说法，一个说法就是外界湍流度大了之后直接影响边界层，在边界层里面诱发出来一个展向的条纹结构，这个条纹结构是无粘失稳的，于是迅速transition掉。。 还有一种看法是认为外界湍流度大了之后相当于是一种大扰动，然后边界层内存在一种最优模态的transient growth机制，然后转捩。 然而Durbin就是搞这玩意的，有一些很好的结果，我不是搞这个的，就不说了以免被内行笑话。<br>不过K-type的事情前面说的那些结果是在不可压缩流动里面的事情，到了可压缩甚至高超速流动下，马赫数比较大的时候，这玩意我们课题组算过，发现对于高超边界层来说，对于声波失稳模态，直接就是个基础模态会失稳的。 这个是跟不可压缩里面的T-S波是完全不同的。。不过这里面的数学问题我后来就毕业了，就没接着把这玩意做完，于是就很遗憾了。 近几年看fasel组发表的几篇模拟文章，基本上也是发现了这个高超Mack模态直接就是一个基础模态secondary instability的问题，倾向于认为跟K-type breakdown有关……<br><br>————————————————————<br>那俩图回头我找找 然后学学知乎怎么贴图，回头贴过来，， 也许更清晰一点。。 唔。。
+<a href="/question/29201426/answer/43559149" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="12817927-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-04-01" target="_blank" href="/question/29201426/answer/43559149">编辑于 2015-04-01</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>18 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="13793772"
+data-atoken="45994854"
+data-collapsed="False"
+data-created="1430077858"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="12">12</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">12</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info " data-votecount="12">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$lucidor" href="http://www.zhihu.com/people/lucidor" class="zg-link" title="丢丢">丢丢</a>、</span><span class="user-block"><a data-tip="p$t$zhang-wen-ying-52" href="http://www.zhihu.com/people/zhang-wen-ying-52" class="zg-link" title="张文英">张文英</a>、</span><span class="user-block"><a data-tip="p$t$compiler" href="http://www.zhihu.com/people/compiler" class="zg-link" title="浪客">浪客</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="3863467" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">随便摸你了一把。之前一直以为是个涡街什么的，没想到还有个这么高大上的名词，马上添加水印”Kelvin Helmholtz Instability“。<br><br>这个问题理论楼上已经说得很到位了，并且我也不懂这个，我是参考K大第二个图模拟的。加点CFD模拟的吧：<br><br>图：<br><img src="http://pic3.zhimg.com/d295ec2dfd86efb8c091c96802aac3c6_b.jpg" data-rawwidth="1220" data-rawheight="840" class="origin_image zh-lightbox-thumb" width="1220" data-original="http://pic3.zhimg.com/d295ec2dfd86efb8c091c96802aac3c6_r.jpg"><br><br>视频：<br><a href="http://www.tudou.com/programs/view/vSr9CmpcZws/" class=" wrap external" target="_blank" rel="nofollow noreferrer">Kelvin Helmholtz Instability_土豆<i class="icon-external"></i></a><br><br>这周模拟一下Rayleight-Taylor Instability
+<a href="/question/29201426/answer/45994854" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="13793772-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-04-27" target="_blank" href="/question/29201426/answer/45994854">编辑于 2015-04-27</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>添加评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/29201426" class="zg-link-litblue">查看全部 10 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="3863467">关注问题</button>
+
+197
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="http://pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163534 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371127 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/29201426/answer/45782061/collections">107</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1396513820">
+<h2 class="zm-item-title ">
+<a href="/collection/35349294">这才是真床伴！</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/xu-ke-92-75" data-tip="p$t$xu-ke-92-75" class="zg-link-litblue"> 徐克 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/35349294/followers">6039 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1424882605">
+<h2 class="zm-item-title ">
+<a href="/collection/45592035">魔法城堡</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/jiaji-deng" data-tip="p$t$jiaji-deng" class="zg-link-litblue"> 胖子邓 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/45592035/followers">239 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1391943369">
+<h2 class="zm-item-title ">
+<a href="/collection/31325977">奇妙的收藏</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/wei-guang-75" data-tip="p$t$wei-guang-75" class="zg-link-litblue"> 微光 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/31325977/followers">118 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1379135213">
+<h2 class="zm-item-title ">
+<a href="/collection/26470746">当当当当</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/26470746/followers">1 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1440323990">
+<h2 class="zm-item-title ">
+<a href="/collection/69841009">Kaiser的专业回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/lai-hai-chen" data-tip="p$t$lai-hai-chen" class="zg-link-litblue"> Nolan </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/69841009/followers">0 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21870604">假设有一个足够长（以光年为单位）的刚体轻质杠杆，在一端施压，使得另一端速度超过光速，会发生什么现象？</a> <span class="num">8 个回答</span><meta itemprop="followerCount" content="33" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/26421985">激光射向玻璃（或其他高透材料）时，是如普通光线穿过还是将玻璃都融化掉？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="8" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20633895">在不确定性原理面前，隧穿显微镜（STM）有什么意义？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="46" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19595513">真空低温烹饪法（sous-vide）有可能在家庭推广吗？</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="41" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20296103">弦论和平行宇宙到底什么关系？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="40" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21037268">电磁波的频率（和波长）是连续的吗？</a> <span class="num">7 个回答</span><meta itemprop="followerCount" content="26" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/23640887">泊松括号（Poisson bracket）是怎么量子化到李括号（Lie bracket）的？</a> <span class="num">7 个回答</span><meta itemprop="followerCount" content="96" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21710378">跪求心理弹性量表（CD-RISC）的评分标准及其基本维度？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="8" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22556301">钍激光（thorium laser）核反应堆有怎样的应用前景？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="51" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20831551">多核（multi-core）与多处理机（multiprocessor）有什么区别？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="29" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2015-04-24</span>
+</p>
+<p>
+所属问题被浏览 <strong>10142</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440537164000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":3863467,"urlToken":29201426,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/978a4235e532b60ef87b598349e58873.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/fa4d7c07a828a3976ebd9b5b76087914.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/68706faf5d46a069ab0d8b20930cfe75.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/f42a7a51d4bc5bc0fa8d4d0aaeddaed1.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="d167ee23e690473d91d65991a775304a">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="512b052cae69804c157305f0f021fca8"/>
+</body>
+</html>

@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>如何处理照片使其有电影的质感？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/34630444">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/26764856/answer/34630444">
+<meta id="znonce" name="znonce" content="7f695c4ac758455588a8ee0d1cdd10ef">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/1050c05fe2d5d1a0816e1f51c3b1e0ca.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/26764856" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19550429"
+data-tip="t$b$19550429" data-token="19550429" data-topicid="68">
+电影
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19550434"
+data-tip="t$b$19550434" data-token="19550434" data-topicid="69">
+艺术
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19550573"
+data-tip="t$b$19550573" data-token="19550573" data-topicid="116">
+Adobe Photoshop
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19551388"
+data-tip="t$b$19551388" data-token="19551388" data-topicid="388">
+摄影
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19561599"
+data-tip="t$b$19561599" data-token="19561599" data-topicid="3798">
+应用（软件）
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/26764856">如何处理照片使其有电影的质感？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="2888859" data-action="/question/detail">
+
+<div class="zm-editable-content"></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>3 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="2888859" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/26764856" class="zg-link-litblue">查看全部 59 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="9239824"
+data-atoken="34630444"
+data-collapsed="0"
+data-created="1417808542"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-9239824"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">312</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="//pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="312">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$pei-zhi-xin" href="http://www.zhihu.com/people/pei-zhi-xin" class="zg-link" title="裴志信">裴志信</a>、</span><span class="user-block"><a data-tip="p$t$jiang-ke-chao-24" href="http://www.zhihu.com/people/jiang-ke-chao-24" class="zg-link" title="蒋可超">蒋可超</a>、</span><span class="user-block"><a data-tip="p$t$xiao-zhe-miao" href="http://www.zhihu.com/people/xiao-zhe-miao" class="zg-link" title="Caster喵">Caster喵</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="2888859" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">电影和电影的质感是不一样的。<br><br>以100块哥这张照片为例。<br><noscript><img src="//pic3.zhimg.com/d4113b9f3aa41992bb551eff872caf7a_b.jpg" data-rawwidth="247" data-rawheight="441" class="content_image" width="247"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="247" data-rawheight="441" class="content_image lazy" width="247" data-actualsrc="//pic3.zhimg.com/d4113b9f3aa41992bb551eff872caf7a_b.jpg"><br><br>色相/饱和度，把除了红色以外的颜色饱和度都降到最低。<br><noscript><img src="//pic1.zhimg.com/3e771180aa6fd1ca84ca938f57a0d7fc_b.jpg" data-rawwidth="873" data-rawheight="570" class="origin_image zh-lightbox-thumb" width="873" data-original="//pic1.zhimg.com/3e771180aa6fd1ca84ca938f57a0d7fc_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="873" data-rawheight="570" class="origin_image zh-lightbox-thumb lazy" width="873" data-original="//pic1.zhimg.com/3e771180aa6fd1ca84ca938f57a0d7fc_r.jpg" data-actualsrc="//pic1.zhimg.com/3e771180aa6fd1ca84ca938f57a0d7fc_b.jpg"><br>这是《辛德勒名单》的质感。<br><noscript><img src="//pic1.zhimg.com/158f3b302a68d223ea27b7f1f688afe8_b.jpg" data-rawwidth="247" data-rawheight="441" class="content_image" width="247"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="247" data-rawheight="441" class="content_image lazy" width="247" data-actualsrc="//pic1.zhimg.com/158f3b302a68d223ea27b7f1f688afe8_b.jpg"><br><br>把绿色曲线推高，然后给角色带上墨镜，再把背景换成数字瀑布。<br><noscript><img src="//pic4.zhimg.com/719435ba22c4ade91044d564c963e857_b.jpg" data-rawwidth="832" data-rawheight="571" class="origin_image zh-lightbox-thumb" width="832" data-original="//pic4.zhimg.com/719435ba22c4ade91044d564c963e857_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="832" data-rawheight="571" class="origin_image zh-lightbox-thumb lazy" width="832" data-original="//pic4.zhimg.com/719435ba22c4ade91044d564c963e857_r.jpg" data-actualsrc="//pic4.zhimg.com/719435ba22c4ade91044d564c963e857_b.jpg"><br>这是《黑客帝国》的质感。<br><noscript><img src="//pic3.zhimg.com/85c5c5a6f424efa7baaf9c2cefd71e4e_b.jpg" data-rawwidth="247" data-rawheight="441" class="content_image" width="247"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="247" data-rawheight="441" class="content_image lazy" width="247" data-actualsrc="//pic3.zhimg.com/85c5c5a6f424efa7baaf9c2cefd71e4e_b.jpg"><br><br>增加曝光度，降低饱和度，找个地方写上“Tokyo Hot”。<br><br><br>这是Tokyo Hot质感。<br><noscript><img src="//pic4.zhimg.com/9a21b9e7505b9db56e836316f6b2a6a3_b.jpg" data-rawwidth="247" data-rawheight="441" class="content_image" width="247"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="247" data-rawheight="441" class="content_image lazy" width="247" data-actualsrc="//pic4.zhimg.com/9a21b9e7505b9db56e836316f6b2a6a3_b.jpg">
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="9239824-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-12-06" target="_blank" href="/question/26764856/answer/34630444">编辑于 2014-12-06</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>92 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="9028032"
+data-atoken="34101493"
+data-collapsed="False"
+data-created="1417070223"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="2180">2180</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">2180</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$mu-xi-alexandeng" href="/people/mu-xi-alexandeng">木西AlexanDENG</a>，<strong title="alexandeng.lofter.com" class="zu-question-my-bio"><a href="http://alexandeng.lofter.com" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">alexandeng.lofter.com</span><span class="invisible"></span><i class="icon-external"></i></a></strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="2180">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$zhang-juan-juan-79" href="http://www.zhihu.com/people/zhang-juan-juan-79" class="zg-link" title="卷卷">卷卷</a>、</span><span class="user-block"><a data-tip="p$t$zhang-chun-hui-99" href="http://www.zhihu.com/people/zhang-chun-hui-99" class="zg-link" title="张春晖">张春晖</a>、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2888859" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">11.30 更新：<br><br>这两天都没什么时间来看大家的评论，看到大家觉得 <a data-hash="e3b8d521062117fe5d86c454111ac439" href="//www.zhihu.com/people/e3b8d521062117fe5d86c454111ac439" class="member_mention" data-editable="true" data-title="@韩冲" data-tip="p$b$e3b8d521062117fe5d86c454111ac439">@韩冲</a> 冲哥的答案抖机灵拍第一有问题，其实完全不是这样。我觉得电影感这个东西的外延本来就非常大，触发大家产生“我现在看到的画面是电影”这样的感受的方法是很多的。<br><br>我从审美和技术的角度来讲，而冲哥从我们80末90初这一代观看电影的主要途径——字幕组盗版的角度来讲：图片的这两个特征均可以触发“我看到的这张画面是电影”这样的感受，所以冲哥的回答并不是毫无营养的抖机灵，而是从我们这代人观片的集体回忆的角度，来解释了“电影感”这个词，可以说充满了人情味，是很有情怀的答案。这跟相声演员针砭时弊的段子一样，仅仅是抖机灵吗？<br><br>从他的答案中可以看出很多我们自己可能都没有意识到的东西。比如我们这个时代的电影，是深深地烙印上了字幕组和迅雷的电影；他们作为文化自由的先驱者（特指没有引进的影片），在满足自己利益的同时，也越过高墙，造福了广大电影爱好者。而这个特征之所以可以强大到直接触发我们“电影感”的程度，我相信大家或多或少都会去思考其中的缘由。<br><br>这份特殊的“电影感”，是值得我们反思和纪念的。所以说了这么多，大家还觉得 <a data-hash="e3b8d521062117fe5d86c454111ac439" href="//www.zhihu.com/people/e3b8d521062117fe5d86c454111ac439" class="member_mention" data-editable="true" data-title="@韩冲" data-tip="p$b$e3b8d521062117fe5d86c454111ac439">@韩冲</a>是在抖机灵吗？<br><br>================================================================================<br><br><br><br>首先谈一下我对电影感的看法吧，我觉得电影感是个很综合的感受，(长文，可以直接跳到最后一句）<br><br>它包括但不限于:<br><br>1.构图：这个一言难尽，电影构图千变万化，为突出电影的视觉特点，大概要思考包括画面划分，人物处理，背景处理，前景处理，景次，角度，越轴等等。作为摄影师去模仿电影单帧截图的感觉，需要考虑的仅仅是画面的划分，人物，前后景，同时考虑景别大小即可。因为我们的故事没有整体性，谈不上系统的镜头语言，仅仅是保证这一张照片能让人感受到故事，感受到前后的承接即可。  我会结合下面的例子具体来谈我的理解。<br><br>2.色彩：我们大家都知道，日系/东亚电影的色调，和法国/西欧电影是截然不同的。这一点越来越现在导演的创作风格而非其地域特征上了。然而色彩本质上还是为了电影的表达服务，通过色温高低，色调冷暖高低长短来烘托出截然不同的气氛，创造不同的情绪基础。色彩的表达也是最为个人化的，我们模仿电影，完全可以按照自己的爱好，心情，和对画面的理解出发，呈现出非常个人化的色彩搭配。但影响色彩的变量却常常非常可观：色彩不仅仅和拍摄时间，天气，季节，空气质量，拍摄的地理人文环境有关，而且和镜头，胶片，或者CCD，CMOS本身的特点，紧密相关。简而言之，德味即是镜头的味道，也是拍摄地点的味道。<br><br>3.宽容度/动态范围：我们从很多电影里都能感受到，电影画面区别于一般摄影照片的一个重要因素就是极端曝光部分的细节保留。侧逆光的画面，依然能够看清人物的眼眸，背光脸颊的轮廓；路灯的微光下，依然不失街道暗处的细节；整个画面，从曝光的角度看，尽量去接近人眼。我们知道人眼对光线强度的响应并非线性，而是一个S型，大多数胶片也是。而数码相机却基本为直线，CMOS捕捉了一份光，就展现一份亮，因此造成画面高光很容易溢出。解决这个问题的办法很简单，前期使用RAW拍摄+正确的曝光。后期方法在后面教给大家。<br><br>4.微反差/细节质感：<br>很多时候电影画面能够给人非常真实的感觉，不仅仅是宽容度接近人眼，也因其对我们熟悉的事物表面质感的正确呈现。简而言之该柔的地方柔，该锐的地方锐。画面中出现了墙壁，长椅，石板地砖，柏油马路，树叶，就应当用USM锐化和高反差保留加锐，增强相关像素的微反差，从而呈现出更加强烈的粗糙/纹路/油亮/颗粒/等质感；而遇到天空，光晕，云朵等元素时，则应该让他们柔起来，使用模糊工具或者柔焦插件，配合蒙版，让该软化的软化，使之更接近我们生活中的感受。<br><br>------------------------------------------------------------------------------------------------------------------------------------------<br><br>下面介绍一种后期的方法，虽然已经在人人上已经传了大半年了= =。<br><br>主要是针对2，3，4三点：<br><br><br><b>3DLuts调色法。</b><br><br><strong>这个方法最早是来自微信公共平台：Oh,4K！微信号：oh4k-oh4k </strong><br><p><strong>感谢他们的分享</strong></p><p>大致的原理就是先把raw按照调整为胶片的Log曲线，再利用“查找颜色”这个图层加载自动的3DLut，<b>将照片中的每一种颜色都替换成模仿电影胶片或者特殊视觉效果的颜色，是整体色彩的点对点替换。但对于原理我仅仅是这么猜的有错请斧正我再改</b>.</p><br><br><p>正式步骤：</p><br><br><p>0. 先到这里去下载3Dluts文件：<a href="http://pan.baidu.com/s/13s6oY" class=" wrap external" target="_blank" rel="nofollow noreferrer">3DLUTs.zip_免费高速下载<i class="icon-external"></i></a> 这里是我搜集的一部分，</p><p>以及<a href="http://pan.baidu.com/s/1o6kDq9k" class=" wrap external" target="_blank" rel="nofollow noreferrer">未命名文件夹.zip_免费高速下载<i class="icon-external"></i></a> 桑拿团的光学专家龙彤博士搜集的一部分；</p><p>大家还可以自己去搜罗；</p><p> 把这些文件下载好之后放进 photoshop/preset/3Dluts</p><img src="//pic2.zhimg.com/23b68953d366e270143de58781ca8fd9_b.jpg" data-rawwidth="1026" data-rawheight="40" class="origin_image zh-lightbox-thumb" width="1026" data-original="//pic2.zhimg.com/23b68953d366e270143de58781ca8fd9_r.jpg"><br><br><p>1.进ACR(或者你LR也行），之前有人在ACR里成功加载Log，但我失败了所以<b>只能用手把宽容度拉到最大：<img src="//pic3.zhimg.com/e8f21ab2fa857129f7a5c4a884dd9316_b.jpg" data-rawwidth="2324" data-rawheight="1576" class="origin_image zh-lightbox-thumb" width="2324" data-original="//pic3.zhimg.com/e8f21ab2fa857129f7a5c4a884dd9316_r.jpg"></b></p><p>注意看右边直方图，把所有细节都给拉出来并且堆到中间去。像这张，对比度最低，高光和白色最低，黑色和阴影最高。</p><p>但是！！不一定非要把照片中 阴影拉到100或者高光-100，而是观察直方图来进行。</p><p>白平衡一定要准，这一点要求要么前期相机准了，要么你自己得把它调准了，因为白平衡是色彩空间的中间那根参考柱，白平衡歪了自然色彩就没法精确替换了。对 就像这样：</p><img src="//pic1.zhimg.com/223ce8f07e5e0228cd415b55f89194bc_b.jpg" data-rawwidth="570" data-rawheight="234" class="origin_image zh-lightbox-thumb" width="570" data-original="//pic1.zhimg.com/223ce8f07e5e0228cd415b55f89194bc_r.jpg"><br><p>借用给著名旅行摄影壕，桑拿团创始人隽大鹏的一张街拍人像为例，你会得到这样一张照片，我称之为“全动态范围”。众所周知leica ME/9/9P的CCD的宽容度是见不得人的，所以能够调节出来的细节只能有这么多。<img src="//pic3.zhimg.com/39be3c5f457e22330d87a857ec895322_b.jpg" data-rawwidth="1500" data-rawheight="998" class="origin_image zh-lightbox-thumb" width="1500" data-original="//pic3.zhimg.com/39be3c5f457e22330d87a857ec895322_r.jpg"></p><p>而使用LUTS对每一个像素的色彩进行点对点的替换，不仅仅会改变照片的颜色，<b>也能把足够多的细节挖掘出来，增大细节的微反差。</b></p><br><br><p>2.加载3Dlut, 打开这张照片，点击“颜色查找”</p><br><img src="//pic2.zhimg.com/2389a35dbb20eea322b02588b2e7e6ad_b.jpg" data-rawwidth="464" data-rawheight="668" class="origin_image zh-lightbox-thumb" width="464" data-original="//pic2.zhimg.com/2389a35dbb20eea322b02588b2e7e6ad_r.jpg"><img src="//pic2.zhimg.com/34d344ae876e3314111d3e5810305ed1_b.jpg" data-rawwidth="460" data-rawheight="258" class="origin_image zh-lightbox-thumb" width="460" data-original="//pic2.zhimg.com/34d344ae876e3314111d3e5810305ed1_r.jpg"><br><p>方框里这个。。。</p><p>点开后双击这个图层得到下面这个框，选择3Dlut文件，并用你下载好的3Dlut查找颜色</p><p>然后就随意选了啊！！那些写着柯达富士啊 就是各种电影胶片的Lut,加载啊，立即德毒<br></p><br><p><b>首推Kodak 2393</b></p><p><b><img src="//pic3.zhimg.com/fea77ee5ecf8726dbb6d9f89f236e4ca_b.jpg" data-rawwidth="978" data-rawheight="1268" class="origin_image zh-lightbox-thumb" width="978" data-original="//pic3.zhimg.com/fea77ee5ecf8726dbb6d9f89f236e4ca_r.jpg">之后得到这样一张照片</b></p><img src="//pic4.zhimg.com/962bd0c0170128d9b736cace596918ff_b.jpg" data-rawwidth="1500" data-rawheight="998" class="origin_image zh-lightbox-thumb" width="1500" data-original="//pic4.zhimg.com/962bd0c0170128d9b736cace596918ff_r.jpg"><br><p>3.收尾调整，比如这张我觉得反差还是小了些，可以把高光加一点。曲线拉一拉。</p><img src="//pic4.zhimg.com/29d2e0eb58f1194abd8445b8e534cb9f_b.jpg" data-rawwidth="1500" data-rawheight="998" class="origin_image zh-lightbox-thumb" width="1500" data-original="//pic4.zhimg.com/29d2e0eb58f1194abd8445b8e534cb9f_r.jpg"><br><br><p>好了一张电影一级调色级别的片子就有了真是简单粗暴。</p><br>是不是很简单呢！？<br>=======================================================================<br>这个<b>一步到位的</b>方法有很多前提：<br>1.<b>真.德毒的条件必须达成</b>：阳光，空气，地点，镜头（这张是福伦达35 1.4）, 成像介质（这张是leica M9的CCD)<br><br>2.<b>白平衡必须准确</b>：否则色彩替换出错，整个照片的色彩会一塌糊涂。 <br><br>于是为了让一些不具备条件1的照片也能够德毒，我把这个<b>进阶教程</b>分享给大家<b>:</b><br><br><a href="http://photo.poco.cn/special_topic/topic_id-17794-p-3.html#content_hash" class=" wrap external" target="_blank" rel="nofollow noreferrer">Luminosity Mask+3D luts 打造电影感色调<i class="icon-external"></i></a>,同样来自桑拿团的摄影壕曹迪CDplayer的进阶教程<br><br>使用明度蒙版和改变颜色查找图层的混合模式可以更大程度地，可控地用好3DLuts:<br><br><br>=============================================================================我们只是很多等号而已(⊙o⊙)============================================<br><br><br>下面谈一下这几张照片的拍摄和后期思路：<br><img data-rawheight="1124" data-rawwidth="1500" src="//pic3.zhimg.com/1915418326847dbd7f3cd60b35af7372_b.jpg" class="origin_image zh-lightbox-thumb" width="1500" data-original="//pic3.zhimg.com/1915418326847dbd7f3cd60b35af7372_r.jpg">构图：完全对称的构图会显得相对稳定而枯燥，老夫妻经历沧桑之后稳稳地坐在画面正中更多地是展现爱情坚固的一面；而空中飞过的客机给画面增添了动感和趣味，给两位老人的视野正前方增加了一个关注点，使画面从简单的左右对称，变化出了三角形的结构；除此之外画面力求干净利落，主角之外的2个人并未遭到破坏性的裁剪，完整地保留了他们的身形和运动状态；<br><br>色彩：这里是法国尼斯著名的蔚蓝海岸，地方本身毒德大学，而尼斯机场吞吐量非常大，天空中每分钟都有飞机飞过，很适合这种老人与海与飞机的画面。器材是徕卡ME和M28 2.8<br><img data-rawheight="1124" data-rawwidth="1500" src="//pic1.zhimg.com/65ddcc236b7086d510bdc9ae80363e50_b.jpg" class="origin_image zh-lightbox-thumb" width="1500" data-original="//pic1.zhimg.com/65ddcc236b7086d510bdc9ae80363e50_r.jpg">1.构图：这张构图会比较灵活点，镜头并没有摆正，突出了一种紧张的气氛，让人感觉到电影镜头似乎从钢琴后快速往右侧移动，而接下来的画面，这个镜头应当没有结束，而是绕着两人进行同一镜头越轴，甚至脑洞再大点，想象这首曲子的节奏非常快，镜头甚至可能移动到男主身后边垂直升起向下逐渐特写钢琴键盘。。。<br><br>2.色彩：这张照片的白平衡出了很大问题。背景灯光发青非常厉害。因此在使用3Dluts之前，我在Lr中把绿色和浅蓝色的饱和度降低了不少，而且修正了绿原色的色相。地点是St Pancreas火车站，器材是徕卡ME和蔡司35 2<br><br>3.宽容度方面，这张的主体轻微欠曝，在观察了直方图之后，我把曝光整体加了1.5EVs.<br><br>4.细节上，我对暗部进行了高反差保留加锐<br><br><br><img data-rawheight="405" data-rawwidth="720" src="//pic1.zhimg.com/5d2053dd3fa228da986bdb10fba9d154_b.jpg" class="origin_image zh-lightbox-thumb" width="720" data-original="//pic1.zhimg.com/5d2053dd3fa228da986bdb10fba9d154_r.jpg">这张随便弄着玩的别太在意了(╯‵□′)╯︵┻━┻<br><br><img data-rawheight="405" data-rawwidth="720" src="//pic2.zhimg.com/7a084670824a8463fe7641f67f85cac9_b.jpg" class="origin_image zh-lightbox-thumb" width="720" data-original="//pic2.zhimg.com/7a084670824a8463fe7641f67f85cac9_r.jpg">1.构图：从景别上讲这是一张远景的构图，看不出谁是主角，只是对环境进行交代，一般是镜头转场之后的第一个画面。并没有非常特别的地方。<br><br>2.色彩：利用3DLuts描绘出了一种柯达chrome胶片的浓郁色彩。同时对黄色色相进行了矫正，本来顶部大伞内的光线是非常黄的，是一种鸡蛋蛋黄的感觉，非常影响观感。<br><br>3.宽容度：这张照片手持拍摄，使用了较高的ISO，宽容度下降的更厉害了。因此对暗部无法抢救的细节直接放弃，而对地板砖上的反光进行了抢救，至少增强了地面的存在感<br><br><br><img data-rawheight="1124" data-rawwidth="1500" src="//pic4.zhimg.com/95358b8b5757baeebede6c6ce55830b3_b.jpg" class="origin_image zh-lightbox-thumb" width="1500" data-original="//pic4.zhimg.com/95358b8b5757baeebede6c6ce55830b3_r.jpg">1.构图：这是一个非常简单典型的中景镜头，人物从远处向画面中心走来，并且放在黄金分割点附近，右手更高，靠近画面中心，左手更低，远离画面中心，头歪向画面中心，使得画面更加平衡。如果等到他走到最左边再按下快门就有一种他随时要走出画面的感觉，会打破画面的平衡。<br><br>2.色彩：典型的蔡司蓝，传说中暗光时候必然出现的毒德色彩。而这张画面的色彩调性很长，从黄到蓝，跨过了180°的色环，使得画面冷暖交错，情绪细腻悠长。一些我特意加强细节，比如男主左手小臂上的红色车灯反光，能够使他的手臂更加立体，同时人物与环境的交融更加和谐。地点是伦敦China Town，器材是徕卡ME和蔡司35 2<br><br>3.宽容度方面: 基本上保证了画面众不出现死黑死白，就算是车灯的亮光也没有纯白一片，依稀能看出车灯的轮廓，而暗部则稍微黑了一点，烘托出一种黄昏的气氛。<br><br>4.细节：并没有特意加强，柏油马路的颗粒感已经足够。<img data-rawheight="1124" data-rawwidth="1500" src="//pic2.zhimg.com/d413b816deb060753c263d52cf4343f5_b.jpg" class="origin_image zh-lightbox-thumb" width="1500" data-original="//pic2.zhimg.com/d413b816deb060753c263d52cf4343f5_r.jpg">1.构图：这种大景别，也就是展现一下故事发生的大范围地理环境。这张照片的本意也是烘托出一种末世之后的大场景，伦敦的主要建筑都在其中就行了。前景层次丰富的树林承托出了远处建筑的孤独荒凉之感。<br><br>2.色彩：这个是D800E和2470拍摄的，没有毒德信仰加持，只能靠大规模更改色彩了。用了某E开头的luts让整个画面的高光变黄，形成一种人类黄昏的氛围。整体色调集中在黄色红色区域，表达的感觉非常单一集中：末日的荒凉。前景的树林本来都是绿色，换成这种色彩后更加斑驳，原始，野性十足。<br><br><img data-rawheight="540" data-rawwidth="720" src="//pic2.zhimg.com/ad6c7b2114ac6da3c2d61fa30abd84e5_b.jpg" class="origin_image zh-lightbox-thumb" width="720" data-original="//pic2.zhimg.com/ad6c7b2114ac6da3c2d61fa30abd84e5_r.jpg">1.构图：一种非常经典的全景构图。线条带着人物一起远去。没有太多特色，非常强烈的回忆感。<br>2.色彩：冷暖对比，路灯的橙和雪地的蓝。大面积的蓝色突出了雪天的寒冷，微弱的路灯其实更反衬了寒冷，这是一种离别的色彩。使用尼康D700拍摄，镜头55 1.2。<br>3.宽容度：这张照片的尽可能的保留了高光和暗部的细节。不论是左边的树，高光下的路灯，还是远处建筑黑暗中的轮廓，都对环境的描述起了至关重要的作用。<br><br><img data-rawheight="844" data-rawwidth="1500" src="//pic2.zhimg.com/735fff5968fa38ffbd457a0cd873ddf9_b.jpg" class="origin_image zh-lightbox-thumb" width="1500" data-original="//pic2.zhimg.com/735fff5968fa38ffbd457a0cd873ddf9_r.jpg">1.构图：远处的男子不能为了画面美观而过度靠右，否则两个人就成了过客。这样的构图令人遐想，他俩好像会在下一个镜头中接上头，进行密谋或者交易。景深在这里起了很大的作用。我们看过太多的电影镜头是先将焦对准主角A，然后一边沿着轴线移动镜头缩小景别，一边对主角B对焦。<br><br>2.色彩：并无特别的思路和亮点，仅仅是想模仿一些动作片里的色调罢了。机身徕卡ME，镜头蔡司35 2<br><br>3.宽容度，当然是高光不过爆，暗部有细节的标准了。<br><br><img data-rawheight="896" data-rawwidth="1592" src="//pic4.zhimg.com/79c318cba595e6a25fea47f42848cb4f_b.jpg" class="origin_image zh-lightbox-thumb" width="1592" data-original="//pic4.zhimg.com/79c318cba595e6a25fea47f42848cb4f_r.jpg">1.构图：没啥可说的，三角形构图，人流稳定的流向左右两边，突出了都市生活稳定的重复性。<br>2.色彩：当时处于模仿实验期，都是凭着感觉来的，有点国内导演拍纪录片的色调，当时使用了Allienskin exposure进行调色。器材D700，尼康20 2.8<br>3.宽容度：凑合就行，本身画面光比不大<br><br><img data-rawheight="1260" data-rawwidth="1680" src="//pic1.zhimg.com/17609fcfae5b602320dd21cd6d1e2e1c_b.jpg" class="origin_image zh-lightbox-thumb" width="1680" data-original="//pic1.zhimg.com/17609fcfae5b602320dd21cd6d1e2e1c_r.jpg">这张！！只是为了粉叫兽罢了0 0！<br>================================================================================================================================<br><br><br>总结一下，这种风格的摄影，有一个很重要的标准：<b>可脑补为电影画面。</b><br>这一帧的前一秒发生了什么，下一秒将要发生什么？<br><br>1.因此要把自己当成电影导演来构图，这一个镜头是整个电影的一部分，如何为下一个镜头做铺垫，如何延续上一个镜头？<br><br>2.色彩要跟情绪符合，跟画面的内容相符合，也别忘了跟台词符合。<br><br>3.宽容度一定要挖掘出来，这是电影感/胶片感的重要来源，暗部死黑，四周暗角，只能让画面更像先锋实验作品。<br><br>4.利用选区锐化做好细节的反差工作，让画面更有质感，其实就是提高画面的信息量。<br><br><br><br><u>5.<b>请将中英双语字幕至于画面底部，而不是黑框内； 2.35：1的画面，4：3的黑框</b></u>
+<a href="/question/26764856/answer/34101493" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="9028032-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-11-27" target="_blank" href="/question/26764856/answer/34101493">编辑于 2014-11-30</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>86 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="9043863"
+data-atoken="34140926"
+data-collapsed="False"
+data-created="1417121184"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="3185">3185</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">3185</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$hanchongphoto" href="/people/hanchongphoto">韩冲</a>，<strong title="西二铺乡韩岭村民。公众号hanchongphoto。" class="zu-question-my-bio">西二铺乡韩岭村民。公众号hanchongphoto。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="3185">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$zhang-xue-chao-6" href="http://www.zhihu.com/people/zhang-xue-chao-6" class="zg-link" title="张学超">张学超</a>、</span><span class="user-block"><a data-tip="p$t$juxi-pu" href="http://www.zhihu.com/people/juxi-pu" class="zg-link" title="juxi pu">juxi pu</a>、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2888859" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">我照着电影的质感后期了一张，不知道像不像。<br><img src="//pic1.zhimg.com/6c61e5cc005e8cdaca4faff7066ed990_b.jpg" data-rawwidth="3622" data-rawheight="2410" class="origin_image zh-lightbox-thumb" width="3622" data-original="//pic1.zhimg.com/6c61e5cc005e8cdaca4faff7066ed990_r.jpg"><br><br>~~~分割线~~~<br><br>        没想到第一次在知乎上获得过千点赞竟然是这么一个逗比答案，很有负罪感。那么我就讲点儿正经的话吧！<br>        后期处理这方面，楠神 <a data-hash="002cfdef4dc31491651654859fd0e612" href="//www.zhihu.com/people/002cfdef4dc31491651654859fd0e612" class="member_mention" data-editable="true" data-title="@木西AlexanDENG" data-tip="p$b$002cfdef4dc31491651654859fd0e612">@木西AlexanDENG</a>已经讲得非常棒了！我回答这个问题也是因为看到了他的回答，自己也学到很多。后期这方面我不是很懂，就不班门弄斧讲怎么后期了。我想从另一个角度来讲讲怎样让照片有电影的质感（当然不是上图的那种质感）。<br>       所谓的电影质感，好像没有一个明确定义。不过既然讲照片怎么做出电影的质感，我就截取了一些中外电影的截图，画质不是很高，将就看一下吧。<br><img src="//pic1.zhimg.com/57ee1fa78be34bb0b61b3bb7b4d9a8a0_b.jpg" data-rawwidth="1024" data-rawheight="575" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic1.zhimg.com/57ee1fa78be34bb0b61b3bb7b4d9a8a0_r.jpg">《300 rise of an empire》<br><br><img src="//pic2.zhimg.com/e1941ae5bfefaa5b8681027b91ca0179_b.jpg" data-rawwidth="1024" data-rawheight="576" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic2.zhimg.com/e1941ae5bfefaa5b8681027b91ca0179_r.jpg">《阿甘正传》<br><br><img src="//pic2.zhimg.com/6894135f39b2e3be4513285707c18091_b.jpg" data-rawwidth="1024" data-rawheight="577" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic2.zhimg.com/6894135f39b2e3be4513285707c18091_r.jpg">《斗牛》<br><br><img src="//pic4.zhimg.com/58612723817abb73621ce5c75a92cb5f_b.jpg" data-rawwidth="1024" data-rawheight="576" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic4.zhimg.com/58612723817abb73621ce5c75a92cb5f_r.jpg">《钢琴师》<br><br><img src="//pic1.zhimg.com/62bb1204619aa173b69745de20ac53e4_b.jpg" data-rawwidth="1024" data-rawheight="533" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic1.zhimg.com/62bb1204619aa173b69745de20ac53e4_r.jpg">《光棍儿》<br><br><img src="//pic2.zhimg.com/ceb6ad2c0b30759f662addf789d31c0d_b.jpg" data-rawwidth="1024" data-rawheight="543" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic2.zhimg.com/ceb6ad2c0b30759f662addf789d31c0d_r.jpg">《鬼子来了》<br><br><img src="//pic1.zhimg.com/5234101bf5247feddf384dea04251ffc_b.jpg" data-rawwidth="1024" data-rawheight="575" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic1.zhimg.com/5234101bf5247feddf384dea04251ffc_r.jpg">《黑鹰坠落》<br><br><img src="//pic2.zhimg.com/3f704e1f38fc3772b3bdceb94c03d289_b.jpg" data-rawwidth="1024" data-rawheight="575" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic2.zhimg.com/3f704e1f38fc3772b3bdceb94c03d289_r.jpg">《红高粱》<br><br><img src="//pic4.zhimg.com/deb55d5d10f70e31282b57e23db86637_b.jpg" data-rawwidth="1024" data-rawheight="576" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic4.zhimg.com/deb55d5d10f70e31282b57e23db86637_r.jpg">《荒岛余生》<br><br><img src="//pic4.zhimg.com/982ae78b03f4efa485461b13999f05af_b.jpg" data-rawwidth="1710" data-rawheight="1018" class="origin_image zh-lightbox-thumb" width="1710" data-original="//pic4.zhimg.com/982ae78b03f4efa485461b13999f05af_r.jpg">《摩登时代》<br><br><img src="//pic1.zhimg.com/bc6e02fa0087ada73102370544ab26bc_b.jpg" data-rawwidth="1024" data-rawheight="576" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic1.zhimg.com/bc6e02fa0087ada73102370544ab26bc_r.jpg">《怒火救援》<br><br><img src="//pic4.zhimg.com/8f81bd40f6ba66d14fb04835a5182973_b.jpg" data-rawwidth="1024" data-rawheight="577" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic4.zhimg.com/8f81bd40f6ba66d14fb04835a5182973_r.jpg">《一半海水一半火焰》<br><br><img src="//pic3.zhimg.com/27bdef9faf006245f9173320df841f26_b.jpg" data-rawwidth="1024" data-rawheight="576" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic3.zhimg.com/27bdef9faf006245f9173320df841f26_r.jpg">《一九四二》<br><br><img src="//pic3.zhimg.com/c55cb3efda555629fb17b397d3fd5cf2_b.jpg" data-rawwidth="1024" data-rawheight="574" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic3.zhimg.com/c55cb3efda555629fb17b397d3fd5cf2_r.jpg">《一年到头》<br><br><img src="//pic4.zhimg.com/b357b65049a2516046590ffbc14d29c7_b.jpg" data-rawwidth="1024" data-rawheight="576" class="origin_image zh-lightbox-thumb" width="1024" data-original="//pic4.zhimg.com/b357b65049a2516046590ffbc14d29c7_r.jpg">《颐和园》<br><br><img src="//pic1.zhimg.com/39b220e870559f220b1090c93b60eafc_b.jpg" data-rawwidth="1913" data-rawheight="1075" class="origin_image zh-lightbox-thumb" width="1913" data-original="//pic1.zhimg.com/39b220e870559f220b1090c93b60eafc_r.jpg">《后会无期》<br><br>        好了，就发这么多吧，有新有旧。能看出来，其实电影摄影风格也是很多变的，并不能说哪种风格就是电影风格。不过大部分都是宽幅这是真的。<br>        我们觉得电影画面有质感，除了画面在拍摄和后期制作时就已经很考究之外，音乐、台词、电影里表现的故事甚至是你所处的观影环境，都是影响我们欣赏画面的因素。它是作为一个多元的、立体的画面而被我们欣赏的。我觉得，欣赏电影的画面，不要只从画面上欣赏，毕竟画面是为了故事服务的，是整个电影的组成部分。最终其实是故事，让画面更丰满，而恰到好处的画面，又很好地讲述了故事。<br>        因此除了在后期上贴近一些电影的画面风格之外，在前期拍摄的时候，如果能注意到画面的故事性，会对后期更有帮助。有些照片，让我们很有看电影的感觉，就是因为这张照片充满了故事，让人不由得往前想象往后想象，在画面之外，脑补一些更多的东西。比如下图：<br><img src="//pic2.zhimg.com/ffc7db3a53cb13efd7b0d930a7e9573d_b.jpg" data-rawwidth="624" data-rawheight="411" class="origin_image zh-lightbox-thumb" width="624" data-original="//pic2.zhimg.com/ffc7db3a53cb13efd7b0d930a7e9573d_r.jpg">这张著名的照片出自Elliott Erwitt之手，像不像在看电影？<br>再看两张：<br><img src="//pic4.zhimg.com/7db354248cfbd93784c8df0ee6745863_b.jpg" data-rawwidth="633" data-rawheight="416" class="origin_image zh-lightbox-thumb" width="633" data-original="//pic4.zhimg.com/7db354248cfbd93784c8df0ee6745863_r.jpg"><img src="//pic3.zhimg.com/ec00b7bb22729a50771ed10670d3d1b6_b.jpg" data-rawwidth="645" data-rawheight="414" class="origin_image zh-lightbox-thumb" width="645" data-original="//pic3.zhimg.com/ec00b7bb22729a50771ed10670d3d1b6_r.jpg">Moises Saman的这两张照片，有没有电影的质感？<br>        这些故事性强，画面又极为讲究的照片，不用加字幕组，不用遮黑幅，也能让人有看电影的感觉。它们厉害在哪里？它们是用了一张照片讲述了几乎一部电影的故事，让人浮想联翩。我们在思考这张照片诞生前后都发生了什么的时候，就帮它们写了无数种故事。<br>        合适的后期，使照片接近很多电影画面的质感，这固然十分重要，不过不能丢掉的是，前期的拍摄也一定要下足功夫，用那一瞬的功夫，去讲一个故事。<br>我也拍不出上面那两位大师那样故事性和画面都堪称完美的照片，不过为了证明我不是只会敲键盘，也腆着脸贴几张我拍的自认为还算有些“电影感”的照片吧。<br><img src="//pic1.zhimg.com/297ef9468cb6dce5de47bea5c968d718_b.jpg" data-rawwidth="800" data-rawheight="533" class="origin_image zh-lightbox-thumb" width="800" data-original="//pic1.zhimg.com/297ef9468cb6dce5de47bea5c968d718_r.jpg"><img src="//pic4.zhimg.com/ebe3e13293cd1b63227e570d8046438b_b.jpg" data-rawwidth="800" data-rawheight="533" class="origin_image zh-lightbox-thumb" width="800" data-original="//pic4.zhimg.com/ebe3e13293cd1b63227e570d8046438b_r.jpg"><img src="//pic3.zhimg.com/57e49af4b437f9b0385051389a460d36_b.jpg" data-rawwidth="800" data-rawheight="533" class="origin_image zh-lightbox-thumb" width="800" data-original="//pic3.zhimg.com/57e49af4b437f9b0385051389a460d36_r.jpg"><img src="//pic4.zhimg.com/1beea73f93a08d3d63239716d20a3023_b.jpg" data-rawwidth="800" data-rawheight="532" class="origin_image zh-lightbox-thumb" width="800" data-original="//pic4.zhimg.com/1beea73f93a08d3d63239716d20a3023_r.jpg"><img src="//pic3.zhimg.com/6484df3531207112d767a722d39c07ee_b.jpg" data-rawwidth="800" data-rawheight="532" class="origin_image zh-lightbox-thumb" width="800" data-original="//pic3.zhimg.com/6484df3531207112d767a722d39c07ee_r.jpg"><img src="//pic1.zhimg.com/5d79a0030c848b414fc73d9be0a2c9a0_b.jpg" data-rawwidth="800" data-rawheight="532" class="origin_image zh-lightbox-thumb" width="800" data-original="//pic1.zhimg.com/5d79a0030c848b414fc73d9be0a2c9a0_r.jpg">太晚了脑子有点乱，也不知道说清楚没有，先发出来，等有新的想法时候再接着写。
+<a href="/question/26764856/answer/34140926" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="9043863-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-11-28" target="_blank" href="/question/26764856/answer/34140926">编辑于 2014-11-30</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>190 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/26764856" class="zg-link-litblue">查看全部 59 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:26764856}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="2888859">关注问题</button>
+
+6898
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163868 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371752 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:26764856}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/26764856/answer/34630444/collections">60</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1380538097">
+<h2 class="zm-item-title ">
+<a href="/collection/26822068">扬起嘴角，露牙不露牙，随你</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/niu-niu-98-8" data-tip="p$t$niu-niu-98-8" class="zg-link-litblue"> 牛牛 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/26822068/followers">329 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1412590909">
+<h2 class="zm-item-title ">
+<a href="/collection/40155203">K神</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/RayShum" data-tip="p$t$RayShum" class="zg-link-litblue"> Ray Shum </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/40155203/followers">3 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1389874159">
+<h2 class="zm-item-title ">
+<a href="/collection/30896115">逗比的收藏</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/xxhhlk" data-tip="p$t$xxhhlk" class="zg-link-litblue"> xxhhlk </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/30896115/followers">3 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1393578161">
+<h2 class="zm-item-title ">
+<a href="/collection/31743900">神回复</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/you-hao-80" data-tip="p$t$you-hao-80" class="zg-link-litblue"> 游昊 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/31743900/followers">2 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1416933732">
+<h2 class="zm-item-title ">
+<a href="/collection/41529508">技能</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/jia-xu-bu-luan-wu" data-tip="p$t$jia-xu-bu-luan-wu" class="zg-link-litblue"> 不玩了再见 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/41529508/followers">1 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21037855">如何拍出清晰有质感的照片？</a> <span class="num">16 个回答</span><meta itemprop="followerCount" content="569" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20487425">怎么才能拍出质感很棒的照片？</a> <span class="num">16 个回答</span><meta itemprop="followerCount" content="146" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20875530">如何把人像照片处理得有“颗粒/光泽/金属”质感？</a> <span class="num">42 个回答</span><meta itemprop="followerCount" content="6916" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20194564">胶卷相片的“质感”是如何形成的？</a> <span class="num">13 个回答</span><meta itemprop="followerCount" content="79" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21010312">为什么有些美剧能拍出电影的质感？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="4" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19652727">你怎么处理手机拍的照片？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="6" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20898283">iOS 有哪些优秀的照片处理软件？</a> <span class="num">30 个回答</span><meta itemprop="followerCount" content="552" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19729729">胶片照出来的照片图像太过于锐利，没有质感，怎样解决这个问题？</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="11" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19868845">如何拍摄逆光风景照片？</a> <span class="num">12 个回答</span><meta itemprop="followerCount" content="208" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20748919">如何拍出如同电影效果的摄影照片，或者是后期应怎么调整？</a> <span class="num">50 个回答</span><meta itemprop="followerCount" content="4386" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-12-06</span>
+</p>
+<p>
+所属问题被浏览 <strong>503143</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:26764856}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440662712000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":false,"editPermission":false,"isAnon":0,"qid":2888859,"urlToken":26764856,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/46201a6f385436f0f822dd895a1769a8.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/5c4a1ff2d8c7b65ced3c78c6f773554d.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/0a31d5fcb47d7c9161324ba54a206504.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/d07988700e1807410495cc8f1b6615fa.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="7f695c4ac758455588a8ee0d1cdd10ef">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="6361a691c7ee29b7ff3e1986035cd002"/>
+</body>
+</html>

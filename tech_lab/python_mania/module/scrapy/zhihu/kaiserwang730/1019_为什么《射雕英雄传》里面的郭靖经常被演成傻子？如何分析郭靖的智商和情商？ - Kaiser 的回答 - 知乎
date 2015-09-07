@@ -1,0 +1,1058 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>为什么《射雕英雄传》里面的郭靖经常被演成傻子？如何分析郭靖的智商和情商？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/31649736">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/20344222/answer/31649736">
+<meta id="znonce" name="znonce" content="2b549d9af64b419c9cbb21e104953574">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/1050c05fe2d5d1a0816e1f51c3b1e0ca.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/20344222" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19563798"
+data-tip="t$b$19563798" data-token="19563798" data-topicid="4513">
+金庸
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19620304"
+data-tip="t$b$19620304" data-token="19620304" data-topicid="23433">
+射雕英雄传（小说）
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19672279"
+data-tip="t$b$19672279" data-token="19672279" data-topicid="40769">
+郭靖
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/20344222">为什么《射雕英雄传》里面的郭靖经常被演成傻子？如何分析郭靖的智商和情商？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="318066" data-action="/question/detail">
+
+<div class="zm-editable-content">我认为郭靖只是憨厚实诚，不然黄蓉会对他死心塌地、成吉思汗会那么喜欢他？</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>6 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="318066" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20344222" class="zg-link-litblue">查看全部 62 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="8045267"
+data-atoken="31649736"
+data-collapsed="0"
+data-created="1412928610"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-8045267"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1019</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="//pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1019">
+
+<span class="voters">
+<span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$hai-yu-33-32" href="http://www.zhihu.com/people/hai-yu-33-32" class="zg-link" title="海雨">海雨</a>、</span><span class="user-block"><a data-tip="p$t$fengyinhuaxu" href="http://www.zhihu.com/people/fengyinhuaxu" class="zg-link" title="風吟華胥">風吟華胥</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="318066" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><blockquote>知人者智，自知者明。<br>                                    —《道德经》</blockquote><br>作为故事的主要人物，郭靖在《射雕》、《神雕》两部书中经历了巨大的成长过程<br>在这里我想分析的是故事的最后，坚守襄阳城的大侠郭靖。<br><br>仅围绕一段对话展开：<br><blockquote>杨过问道：“郭伯伯，你说襄阳守得住吗？”郭靖沉吟良久，手指西方郁郁苍苍的丘陵树木，说道：“襄阳古往今来最了不起的人物，自然是诸葛亮。此去以西二十里的隆中，便是他当年耕田隐居的地方。诸葛亮治国安民的才略，我们粗人也懂不了。他曾说只知道‘鞠躬尽瘁，死而後已’，至於最後成功失败，他也看不透了。我与你郭伯母谈论襄阳守得住、守不住，谈到後来，也总只是‘鞠躬尽瘁，死而後已’这八个字。”<br>                                                                      —《神雕侠侣》</blockquote><br><b>知人：</b><br>这是比较浅的知识层面。<br><br>郭靖知道，襄阳城历史上，最厉害的是诸葛丞相，而不是隔壁王大爷。<br>他懂得诸葛亮“鞠躬尽瘁，死而后已”的精神并以此勉励自己。<br><br>郭靖是受过教育的，只不过身边都是黄药师、黄蓉等天下奇才，显得不是那么灵光而已。<br>他学武不能一点就通，但最终不还是学精了？知道努力的人，智商都绝不会低。<br><br><b>自知：</b><br>这就深入到人格层面了。<br><br>首先是他认识到了自己的局限性。他是侠之大者，但他深切明白自己毕竟没有治国安民的才略，是个粗人（具体多粗只有黄蓉知道）。<br><br>更重要的是，他对自己的命运，已经有了充分的预见，而毫不犹豫。<br>面对将来的未知（恐怖来源于未知），他有清醒认识，却无所畏惧。<br><br>所以，郭靖的智商至少是中上水平，而他的情商，是真正的大情商。<br>每览至此，不禁兴叹：<br><br>郭靖明。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="8045267-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-10-10" target="_blank" href="/question/20344222/answer/31649736">编辑于 2014-10-10</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>156 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="1247242"
+data-atoken="15300180"
+data-collapsed="False"
+data-created="1348635562"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="1204">1204</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">1204</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$gaohanyu" href="/people/gaohanyu">小劳</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="1204">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$ji-tang-46-74" href="http://www.zhihu.com/people/ji-tang-46-74" class="zg-link" title="姬汤">姬汤</a>、</span><span class="user-block">知乎用户、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="318066" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">为什么大家的印象里郭靖智商不行呢？<br><br>郭靖初学武功总是领悟得慢。跟江南七怪在大漠学功夫的时候，朱聪教了拖雷三个小招式，拖雷当即就会了，而郭靖则是「教得十招，往往学不到一招」；跟着洪七公和周伯通的时候，俩人blabla把课讲完了，郭靖总是茫然不解，然后一直练一直练，啪，练成了，说哦原来是这样啊，老师扭头说，你这才领悟过来啊，真笨！每逢此时，金庸都不忘强调两笔「资质显然十分鲁钝」= =||<br><br>其实这个一点都不能说明郭靖的智商不行，别忘了我们比较的时候，参照系可是他身边的人。他身边都是些什么人？小时候，他所在的圈子完全就是是蒙古精英团队 -- 成吉思汗、成吉思汗的儿子、成吉思汗的大将……后来跟黄蓉形影不离，洪七公讲了两句，黄蓉懂了，洪七公演示了两遍，黄蓉会了，这才显得一直在旁边劈树的郭靖非常呆，可洪七公是个什么 Level 的老师？黄蓉的智商在金庸全书里是个什么水平？这就好比，大爆炸里面，Howard 经常被 Sheldon 讥讽没有博士学位，我们就觉得他学术不行，可是再放生活中想想呢，人家拿的是 M.I.T Master，参与美国火星探索计划，你高数过了嘛？<br><br>再说了，上手的快慢，并不能全面反映一个人的水平，当初十招学不到一招，也是因为七怪教的武功，走的是小巧腾挪的路子，死壮死壮的郭靖酱，是跟哲别学着骑马射箭摔跤长大的，上手这种功夫，怎么快得起来？何况学韩小莹挽剑花根本就没必要。<br><br>马钰都看不过去了：<br>「你又不是不用功，为甚么十年来进益不多，你可知是甚么原因？」<br>「那是因为弟子太笨，师傅们再用心教也教不会。」<br>「那也未必尽然，这是教而不明其法，学而不得其道。」<br><br>跟着马钰只学了半年内功，就身轻足健，「本来劲力使不到的地方，现下一伸手就自然而然地用上了巧劲；原来拼了命也来不及做的招数，忽然做得又快又准」等到背过九阴真经之后，几乎所有武功的进境，都是看高手打架自己悟出来的，这自学能力绝不一般。<br><br>而且郭靖思维和应变能力都很快。一个人思维敏捷与否，不是看他懂多少知识，而是要观察他在信息不充分的情况下，能不能根据已知事实，迅速提取主要内容，做出正确的预判和决策。<br><br>王罕、桑昆叛乱，跟铁木真对阵的时候，郭靖不明白其中究竟，但是看到都史，就猜到他多半跟金人勾结、从中挑拨，是个突破点，于是直接抓了他，瞬间扭转了局势。<br><br>跟黄河四鬼打的时候，「斗到分际，郭靖见敌人枪力沉猛，每一招都在想将自己单刀砸飞，招术灵动，出枪甚快，显然是想急切之间取胜，好在三军阵前扬名露脸，是以一味贪速贪巧」 -- 不仅在打斗之中观察分析了敌人的招数，连这里面的小心思都猜到了，之后，迅速制胜。<br><br>再比如，受欧阳锋的挑拨，全真七子和郭靖都以为自己和黄药师有血仇，合围他的时候，郭靖寻思：<blockquote>「马道长等与他动手，是为了要报师叔弟之仇，其实周大哥好端端地活着，谭道长之死也与黄岛主无涉。但若我出言解释明白，全真诸子退出战团，单凭大师父和我二人，哪里还是他的对手？别说杀师大仇决计难报，连自己的性命也必不保，」转念一想，「我若隐瞒此事，岂非成了卑鄙小人？众位师父时时言：头可断，义不可失。」于是朗声说道：马道长，丘道长，王道长，你们的周师叔并没死，谭道长是被欧阳锋害死的。</blockquote>可见，郭靖不是不懂人性，不是不知道怎样用计能让战局对自己有利，而是他太伟光正了，不会选那些有违自己价值观的事情 -- 自己的恩仇先放一边，人是谁杀的，就是谁杀的，不要冤枉人 -- 一码归一码，就事论事，当真是「仰不愧天，俯不愧人，内不愧心」。大家都耍小心眼的时候，就你不耍，显得你跟二愣子一样，再深刻点看，实在是还没人能达到郭靖的境界。<br><br>另外，郭靖在待人接物上太到位了！礼貌，谦逊，从不吝啬对别人真诚的感谢、夸奖、赞美；善于站在别人的立场上考虑问题，能理解别人；能控制自己的情绪，意志力强；特懂事儿，有眼力价，黄蓉使个眼色，立马就明白了。这情商也绝对的不低。<br><br>总结一下，郭靖智商不低，情商也高。考虑到其他各方面，这个角色几乎接近完美，可能是不设定一两个弱点说不过去，所以才要再三提起「傻头傻脑」这事。<br><br>我身边，看过书的人讨论起来，都不觉得郭靖多笨。觉得郭靖是傻子的人，基本只看过电视剧，而郭靖总被演成傻子，估计是电视剧的需要吧，和角色的关系不大。
+<a href="/question/20344222/answer/15300180" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="1247242-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2012-09-26" target="_blank" href="/question/20344222/answer/15300180">编辑于 2013-02-06</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>88 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="8057023"
+data-atoken="31678976"
+data-collapsed="False"
+data-created="1412991225"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="12">12</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">12</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+知乎用户
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="12">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$lynn-lee-78-40" href="http://www.zhihu.com/people/lynn-lee-78-40" class="zg-link" title="李喋喋">李喋喋</a>、</span><span class="user-block"><a data-tip="p$t$leo-he-15" href="http://www.zhihu.com/people/leo-he-15" class="zg-link" title="Leo He">Leo He</a>、</span><span class="user-block"><a data-tip="p$t$zhang-bu-shang" href="http://www.zhihu.com/people/zhang-bu-shang" class="zg-link" title="张不上">张不上</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="318066" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">金庸在书里写的就是这样，但他写的很矛盾，他想把郭靖塑造为一个没有过人天赋、甚至有些蠢笨的怀有赤子之心的主角，可是金庸另一方面还是忍不住把郭靖写成拥有过人天赋的主角。<br><br>所以金庸写出了黄蓉这个专属于过境的人性外挂。<br><br>在遇见黄蓉之前，郭靖习武简直是个灾难，跟着江南七怪学武十多年，效果很不好，有人说是江南七怪教育水平不行，但是全真七子之一来了一样没教明白郭靖。<br><br>而自从遇见黄蓉后，郭靖的外挂之旅就开始，遇到洪七公，虽然洪七公也说没见过郭靖这么笨的人，但事实却是郭靖在跟着洪七公学武之后没几年就可以和欧阳锋这样的绝顶高手过招了。要知道江南七怪加一起都不够欧阳锋碾压的。<br><br>有人说洪七公会教徒弟。我觉得只是金庸写的矛盾而已，他说郭靖没有过人天赋，但却把他写成了有过人天赋的人，只是不说这点而已，并且是在遇见黄蓉后才开始有的这种逆天天赋，很多人习惯于从开头看结尾，认为主角人物的天赋不会有改变，但这并不适合于郭靖。<br><br>郭靖的天赋一直在变，从射雕最开始写的天赋低劣，到射雕结束的可以和老四绝之一对打而不落下风，再到神雕里习练九阴的超凡天赋，可以说是极为矛盾的，只能说金庸一直在强调郭靖天资平庸，却一直在给他开挂，让他成为绝顶高手，这是金庸人物设定的矛盾。<br><br>我以为这很明显，却没发现很多人都没发现，或者说是发现了却不愿意承认。郭靖只是一个被说成天资平庸的家伙而已，实际上有了黄蓉的他甚至可以说比金庸小说里其他所有男主角的天赋都要强。
+<a href="/question/20344222/answer/31678976" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="8057023-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/20344222/answer/31678976">发布于 2014-10-11</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>12 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20344222" class="zg-link-litblue">查看全部 62 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:20344222}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="318066">关注问题</button>
+
+569
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163868 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371753 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:20344222}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/20344222/answer/31649736/collections">269</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1333427887">
+<h2 class="zm-item-title ">
+<a href="/collection/19610598">神一般的答案</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19610598/followers">25723 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1369442256">
+<h2 class="zm-item-title ">
+<a href="/collection/20237728">评论中的亮点</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/justjavac.com" data-tip="p$t$justjavac.com" class="zg-link-litblue"> justjavac </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20237728/followers">6127 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1403252432">
+<h2 class="zm-item-title ">
+<a href="/collection/37829766">酷到没朋友</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/qin-yan-zhi-10-53" data-tip="p$t$qin-yan-zhi-10-53" class="zg-link-litblue"> 秦言之 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37829766/followers">1571 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1422100871">
+<h2 class="zm-item-title ">
+<a href="/collection/43842399">值得收藏的答案</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/topaz-85" data-tip="p$t$topaz-85" class="zg-link-litblue"> topaz </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/43842399/followers">1134 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1399222743">
+<h2 class="zm-item-title ">
+<a href="/collection/36899324">笑点低</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/young.yya" data-tip="p$t$young.yya" class="zg-link-litblue"> 膜法師young </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/36899324/followers">4 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20542817">为什么《射雕英雄传》和《神雕侠侣》没有少林？</a> <span class="num">7 个回答</span><meta itemprop="followerCount" content="78" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20773483">《射雕英雄传》中密室疗伤一段文字有哪些妙处？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="40" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20512413">在金庸小说中，黄蓉怎么会爱上郭靖呢？</a> <span class="num">151 个回答</span><meta itemprop="followerCount" content="2310" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20247512">郭靖和杨过谁厉害？</a> <span class="num">60 个回答</span><meta itemprop="followerCount" content="483" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20519537">华筝为什么喜欢郭靖呢？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="27" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21079721">郭靖和乔峰有哪些相同之处？</a> <span class="num">9 个回答</span><meta itemprop="followerCount" content="28" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19990011">黄蓉年龄大还是郭靖年龄大？</a> <span class="num">15 个回答</span><meta itemprop="followerCount" content="265" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21346960">黄蓉穿了软猬甲，为什么欧阳克轻触她身体就双手刺痛，郭靖紧紧抱住她却没事？难道能自动调控刺儿是否立起来？</a> <span class="num">49 个回答</span><meta itemprop="followerCount" content="286" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20560282">射雕中黄蓉说：“乞丐何曾有二妻，邻居焉得许多鸡。当时尚有周天子，何事纷纷说魏齐。”如何理解和反击她的观点？</a> <span class="num">9 个回答</span><meta itemprop="followerCount" content="73" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20115315">孙晓的《英雄志》出结局了没有？</a> <span class="num">25 个回答</span><meta itemprop="followerCount" content="82" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-10-10</span>
+</p>
+<p>
+所属问题被浏览 <strong>194799</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:20344222}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440662743000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":318066,"urlToken":20344222,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/46201a6f385436f0f822dd895a1769a8.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/5c4a1ff2d8c7b65ced3c78c6f773554d.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/0a31d5fcb47d7c9161324ba54a206504.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/d07988700e1807410495cc8f1b6615fa.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="2b549d9af64b419c9cbb21e104953574">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="82854910a9284969f410731a91fdaf72"/>
+</body>
+</html>

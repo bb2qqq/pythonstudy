@@ -1,0 +1,1058 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>《西游记》中有哪些细思极恐的细节？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/47993750">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/30070793/answer/47993750">
+<meta id="znonce" name="znonce" content="2ff6b3794eca47bd9c6faedc9a2223a9">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/1050c05fe2d5d1a0816e1f51c3b1e0ca.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/30070793" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551409"
+data-tip="t$b$19551409" data-token="19551409" data-topicid="396">
+思考
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19556423"
+data-tip="t$b$19556423" data-token="19556423" data-topicid="2058">
+文学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19557035"
+data-tip="t$b$19557035" data-token="19557035" data-topicid="2279">
+西游记
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/30070793">《西游记》中有哪些细思极恐的细节？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="4210774" data-action="/question/detail">
+
+<div class="zm-editable-content"></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>13 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="4210774" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/30070793" class="zg-link-litblue">查看全部 283 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="14595288"
+data-atoken="47993750"
+data-collapsed="0"
+data-created="1431768918"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-14595288"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">504</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="//pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="504">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$zhang-yi-12-45" href="http://www.zhihu.com/people/zhang-yi-12-45" class="zg-link" title="张毅">张毅</a>、</span><span class="user-block"><a data-tip="p$t$lin-fei-jing-33" href="http://www.zhihu.com/people/lin-fei-jing-33" class="zg-link" title="喀秋莎">喀秋莎</a>、</span><span class="user-block"><a data-tip="p$t$souloral-assigns" href="http://www.zhihu.com/people/souloral-assigns" class="zg-link" title="Souloral Assigns">Souloral Assigns</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="4210774" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">第四回，大圣嫌弼马温官小，回到花果山：<br><blockquote>这猴王厉声高叫道：“小的们!老孙来了！”一群猴都来叩头，迎接进洞天深处，请猴王高登宝位，一壁厢办酒接风。都道：“恭喜大王，上界去十数年，想必得意荣归也？”<b>猴王道：“我才半月有余，那里有十数年？”</b>众猴道：“大王，你在天上，不觉时辰。天上一日，就是下界一年哩。请问大王，官居何职？”</blockquote><br>第五回，偷了老君的仙豆，再回到花果山：<br><blockquote>大圣高叫道：“小的们，我来也！”众怪丢了器械，跪倒道：“大圣好宽心!丢下我等许久，不来相顾！”大圣道：“没多时，没多时！”且说且行，径入洞天深处。四健将打扫安歇，叩头礼拜毕。俱道：“大圣在天这百十年，实受何职？”大圣笑道：“<b>我记得才半年光景，怎么就说百十年话？</b>”健将道：“在天一日，即在下方一年也。”</blockquote><br>“天上一天地下一年”这种基本规律连猴子都知道，而孙悟空又何其聪明，为什么每次上天之后再回来，就不知道了呢？<br><br>如果按照好莱坞模式，可以拍一部《Journey to the West: Memento》（一路向西之记忆碎片），由克里斯托弗·诺兰执导。<br><br><noscript><img src="//pic1.zhimg.com/bf171b117727b78ec556238e4e251878_b.jpg" data-rawwidth="408" data-rawheight="522" class="content_image" width="408"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="408" data-rawheight="522" class="content_image lazy" width="408" data-actualsrc="//pic1.zhimg.com/bf171b117727b78ec556238e4e251878_b.jpg">
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="14595288-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-05-16" target="_blank" href="/question/30070793/answer/47993750">编辑于 2015-05-16</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>122 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="14329504"
+data-atoken="47330027"
+data-collapsed="False"
+data-created="1431241391"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="5938">5938</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">5938</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$ma-bo-yong" href="/people/ma-bo-yong">马伯庸</a>，<strong title="市场营销" class="zu-question-my-bio">市场营销</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="5938">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$yazhu-wu" href="http://www.zhihu.com/people/yazhu-wu" class="zg-link" title="Yazhu Wu">Yazhu Wu</a>、</span><span class="user-block"><a data-tip="p$t$iancai" href="http://www.zhihu.com/people/iancai" class="zg-link" title="Ian蔡">Ian蔡</a>、</span><span class="user-block"><a data-tip="p$t$wang-tuo-tuo-20" href="http://www.zhihu.com/people/wang-tuo-tuo-20" class="zg-link" title="王妥妥">王妥妥</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="4210774" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">1<b> 谁吃过唐僧肉</b><br><br><br>西游记里想吃唐僧肉的太多，但最终谁也没捞到。唐僧肉终究变成了镜花水月，成为妖界的一个可望不可及的美食传说。<br><br>但若说无人吃过，却也未必。<br><br><br>殷温娇跟随陈光蕊去江州，中途光蕊为贼人刘洪所杀。殷温娇当时已有了身孕，只得忍辱负重，跟着刘洪。她生下小玄奘后，生怕被刘洪所害，忍痛连孩子同血书抛入江中。<br><br>抛江之时，有一个细节。她扔之前“但恐难以识认，即咬破手指，写下血书一纸，将父母姓名、跟脚原由，备细开载。又将此子左脚上一个小指，用口咬下，以为记验”——看清楚，不是留一道疤痕，而是生生咬下来一个小脚趾头。殷小姐也是没办法，别的记号都可能消失，唯有这个肯定改不了，便于日后相认。<br><br>可怜小玄奘出生才三天，就被母亲生生咬下一截脚趾头，从此唐僧只剩九趾，肢体不全。西行路上，想吃唐僧的妖魔无数，想不到唯一尝过唐僧肉的，却只有他的亲老娘。<br><br>但真正细思恐极的，不是这个细节，而是结局。<br><br>后来唐僧长大，与母亲相认，仇人刘洪得以伏法，父亲陈光蕊也复活归阳，本来该是个大团圆的结局，可最后交代个人结局时，唐僧继续修行，陈光蕊得了唐王重用，而殷温娇呢——“后来殷小姐毕竟从容自尽”，按时人观念，她虽非自愿，但也被刘洪霸占了十多年，已不清白，唯有以死洗刷。作者写到这里，满满都是赞叹口吻，似乎对殷小姐深明荣辱的全节之举十分欣赏。<br><br>“毕竟从容”四字，实在是看得人心中一阵发寒。<br><br>顺便说一句，《陈光蕊赴任逢灾　江流僧复仇报本》这一段故事，明代《西游记》诸版本里没有，到清代才被夹入第八第九回之间。<br><br><b>2 玉帝的身世</b><br><br>之前网上有人推算过。玉皇大帝“自幼修持，苦历过一千七百五十劫，每劫该十二万九千六百年”，算下来活了2.268亿年。而恐龙恰好出现于约2.25亿年前的三叠纪晚期，所以玉皇大帝的原形很可能是一头恐龙，而且可能是黑瑞龙。<br><br>黑瑞龙是三叠纪后期出现的初龙，算是早期食肉恐龙的一种，有着尖锐的牙齿和爪、强而有力的前肢等，是陆地上最强大的掠食者，制霸地球长达一亿五千万年以上，是侏罗纪恐龙的共同祖先，同时也是当时最聪明的动物。玉皇大帝自幼懂得修持，也只能可能是黑瑞龙开了灵智。<br><br>如来的话也颇值得玩味：“佛祖听言，呵呵冷笑道：‘你那厮乃是个猴子成精，焉敢欺心，要夺玉皇上帝尊位？……你那个初世为人的畜生，如何出此大言！” <br><br>猴子成精，初世为人， 这指的自然是猿猴到人的进化过程。如来如此说，意思是玉皇大帝的亲族恐龙已然灭绝，你们哺乳动物篡夺了世间的权柄，如今难道还要得寸进尺，威胁恐龙在天庭的霸权吗？大圣如此回道：“他虽年劫修长，也不应久占在此。常言道，皇帝轮流做，明年到我家。只教他搬出去，将天宫让与我……”明说篡位，内里正是象征着人在进化过程中取代恐龙霸主。<br><br>玉皇大帝一想到世间已遍布哺乳动物，罪魁祸首就是猴子一族，莫非如今连天庭也要经历一次进化不成？老恐龙自然吓得筋骨酥软，请来佛祖助阵。<br><br><b>3 五百年？</b><br><br>刘伯钦说五指山是王莽篡汉时从天而降，至今已有五百年。<br><br>但王莽篡汉和五百年这两个数字对不上号。<br><br>贞观十三年，是公元639年。500年前，那应该是公元139年，也就是东汉永和四年，汉顺帝在位。而王莽篡汉是在公元9年，前后差着130年，估计是口耳相传记错了。<br><br>天上一日，地上一年。永和四年五指山落地，那么他大闹天宫被如来降伏，应该是永和三年的事。<br><br>查《后汉书天文志》：<br><br>（永 和）三年二月辛巳，太白昼见，戊子，在荧惑西南，光芒相犯。辛丑，有流星大如斗，从西北东行，长八九尺，色赤黄，有声隆隆如雷。三月壬子，太白昼见。六月 丙午， 太白昼见。八月乙卯，太白昼见。闰月甲寅，辰星入舆鬼。己酉，荧惑入太微。乙卯，太白昼见。太白者，将军之官，又为西州。昼见，阴盛，与君争明。荧惑与太 白相犯，为兵丧。流星为使，声隆隆，怒之象也。<br><br>“荧惑西南，光芒相犯”，这是踢翻老君的炼丹炉；“流星大如斗，从西北东行，长八九尺， 色赤黄，有声隆隆如雷”，这是大圣盛怒之下一路乱打，九曜星闭门闭户，四天王无影无形； “荧惑与太白相犯，为兵丧。流星为使，声隆隆，怒之象也” 这是大圣打到通明殿里，灵霄殿外，三十六员雷部神将围着大圣，却不能近身。<br><br>后汉书总结这段天象说：“辰星入舆鬼，为大臣有死者。荧惑入太微，乱臣在廷中。”妥妥的大闹天宫。可见孙大圣在天庭这一通大闹，不光惊动了神仙，连凡人们都留下了一段华丽的天文记录。<br><br>而辛巳的天文异象刚刚结束，马上在同一月的乙亥又出事了：金城郡（今永靖）和陇西郡（今临洮）发生了大地震。临夏，恰好就在永靖和临洮之间——不用问，这自然是五行山一屁股砸下来所引发的动静。<br><br>至于五指山在哪儿，可参考<br><br><a href="http://zhuanlan.zhihu.com/maboyong/19608630" class="internal">五行山下双石记 - 异教徒告解室 - 知乎专栏</a><br><br>这里就不赘述了。
+<a href="/question/30070793/answer/47330027" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="14329504-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/30070793/answer/47330027">发布于 2015-05-10</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>615 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="18843275"
+data-atoken="58586256"
+data-collapsed="False"
+data-created="1439200192"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="147">147</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">147</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$huang-liang-81-77" href="/people/huang-liang-81-77">黄粱</a>，<strong title="三国圈刷题用户/诗词圈打油玩家/爆照圈自黑能手" class="zu-question-my-bio">三国圈刷题用户/诗词圈打油玩家/爆照圈自…</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="147">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$xiao-bai-yang-39" href="http://www.zhihu.com/people/xiao-bai-yang-39" class="zg-link" title="小白羊">小白羊</a>、</span><span class="user-block"><a data-tip="p$t$gu-yue-45-24" href="http://www.zhihu.com/people/gu-yue-45-24" class="zg-link" title="麦堆">麦堆</a>、</span><span class="user-block"><a data-tip="p$t$li-jian-jian-66" href="http://www.zhihu.com/people/li-jian-jian-66" class="zg-link" title="李健健">李健健</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="4210774" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">观音和如来都是骗子：<br><br>1、观音在第十二回《玄奘秉诚建大会　观音显象化金蝉》中言道：唐僧所念的小乘教法度不得亡者升天，西天的大乘佛法才可以度亡脱苦，寿身无坏。因此唐太宗才让唐僧前去西天取经：<br><br>菩萨道：“你那法师讲的是小乘教法，度不得亡者升天。我有大乘佛法三藏，可以度亡脱苦，寿身无坏。”太宗正色喜问道：“你那大乘佛法，在于何处？”菩萨道：“在大西天天竺国大雷音寺我佛如来处，能解百冤之结，能消无妄之灾。”<br><br><br>2、而紧接着在第十三回《陷虎穴金星解厄　双叉岭伯钦留僧》中，唐僧为猎户刘伯钦的父亲念经文超度，即《度亡经》《金刚经》《观音经》《孔雀经》等小乘佛经（因为唐僧还没取到大乘佛经嘛），效果怎样呢？<br><br>却说那伯钦的父亲之灵，超荐得脱沉沦，鬼魂儿早来到东家宅内，托一梦与合宅长幼道：“我在阴司里苦难难脱，日久不得超生。今幸得圣僧，念了经卷，消了我的罪业，阎王差人送我上中华富地长者人家托生去了。你们可好生谢送长老，不要怠慢、不要怠慢。我去也。”<br><br>可见唐僧平时所念的经文灰常管用，观音所说为扯犊子——作者是在打脸啊！<br><br><br>3、观音不仅仅骗了唐僧，还骗了沙和尚，在第八回《我佛造经传极乐　观音奉旨上长安〉：<br><br>菩萨道：“你在天有罪，既贬下来，今又这等伤生，正所谓罪上加罪。我今领了佛旨．上东上寻取经人。你何不入我门来，皈依善果，跟那取经人做个徒弟，上西天拜佛求经？我教飞剑不来穿你。那时节功成免罪，复你本职，心下如何？”<br><br>我们知道，《西游记》结尾处沙僧成了金身罗汉，并未有官复原职——当然以沙僧的智商，当时也该知道观音是骗他的。<br><br><br>4、如来也骗过人，比如他让孙悟空用金丹砂去对付青牛精：<br><br>行者道：“金丹砂却如何？”如来道：“你去洞外，叫那妖魔比试。演他出来，却教罗汉放砂，陷住他，使他动不得身，拔不得脚，凭你揪打便了。”<br><br>结果我们都知道，然并卵——说好的出家人不打诳语呢？
+<a href="/question/30070793/answer/58586256" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="18843275-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2015-08-10" target="_blank" href="/question/30070793/answer/58586256">编辑于 2015-08-10</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>56 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/30070793" class="zg-link-litblue">查看全部 283 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:30070793}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="4210774">关注问题</button>
+
+9379
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163868 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371752 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:30070793}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/30070793/answer/47993750/collections">42</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1403273992">
+<h2 class="zm-item-title ">
+<a href="/collection/37834786">Getting Information</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhang-yizhao-83" data-tip="p$t$zhang-yizhao-83" class="zg-link-litblue"> 张一钊 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37834786/followers">193 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1412590909">
+<h2 class="zm-item-title ">
+<a href="/collection/40155203">K神</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/RayShum" data-tip="p$t$RayShum" class="zg-link-litblue"> Ray Shum </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/40155203/followers">3 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1425208554">
+<h2 class="zm-item-title ">
+<a href="/collection/45823175">无</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/fang-ying-jie-66" data-tip="p$t$fang-ying-jie-66" class="zg-link-litblue"> 方英杰 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/45823175/followers">0 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1422676851">
+<h2 class="zm-item-title ">
+<a href="/collection/44177750">。。</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/mei-wen-34-12" data-tip="p$t$mei-wen-34-12" class="zg-link-litblue"> kang </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/44177750/followers">0 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1438603255">
+<h2 class="zm-item-title ">
+<a href="/collection/67938494">excited——文学</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/li-tao-zhi-33" data-tip="p$t$li-tao-zhi-33" class="zg-link-litblue"> 库一 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/67938494/followers">0 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/24957313">有什么细思恐极的图片？（非恐怖）</a> <span class="num">388 个回答</span><meta itemprop="followerCount" content="18230" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/26111689">你看过哪些细思恐极的短片？</a> <span class="num">95 个回答</span><meta itemprop="followerCount" content="2472" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20414605">《西游记》到底是反映什么的？</a> <span class="num">55 个回答</span><meta itemprop="followerCount" content="602" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20670206">《云图》讲的是什么？</a> <span class="num">112 个回答</span><meta itemprop="followerCount" content="1858" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/23692924">如何创作一个好的禅宗公案微电影剧本？</a> <span class="num">5 个回答</span><meta itemprop="followerCount" content="17" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/24985034">《教父2》中老教父为什么要杀了范伦奇？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="31" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22901906">《天注定》到底讲了什么？</a> <span class="num">33 个回答</span><meta itemprop="followerCount" content="93" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/25687904">有什么恐怖片真的很恐怖？</a> <span class="num">53 个回答</span><meta itemprop="followerCount" content="248" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22336573">新一代教父 Michael 是否比老教父 Vito 失败？</a> <span class="num">15 个回答</span><meta itemprop="followerCount" content="305" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/24220770">《变形金刚4：绝地重生》怎么样？</a> <span class="num">46 个回答</span><meta itemprop="followerCount" content="228" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2015-05-16</span>
+</p>
+<p>
+所属问题被浏览 <strong>2815109</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:30070793}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440662704000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":false,"editPermission":false,"isAnon":0,"qid":4210774,"urlToken":30070793,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/46201a6f385436f0f822dd895a1769a8.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/5c4a1ff2d8c7b65ced3c78c6f773554d.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/0a31d5fcb47d7c9161324ba54a206504.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/d07988700e1807410495cc8f1b6615fa.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="2ff6b3794eca47bd9c6faedc9a2223a9">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="fd50748e22cf01e10429ce73af721ee7"/>
+</body>
+</html>

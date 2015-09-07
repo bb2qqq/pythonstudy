@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>大学老师如何才能讲好一门课？ - 梁边妖的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/18850736">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/20964415/answer/18850736">
+<meta id="znonce" name="znonce" content="6c0b2a092e184b3f8e981782adc38f86">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/1050c05fe2d5d1a0816e1f51c3b1e0ca.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/20964415" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19553176"
+data-tip="t$b$19553176" data-token="19553176" data-topicid="988">
+教育
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19556353"
+data-tip="t$b$19556353" data-token="19556353" data-topicid="2029">
+大学
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19571100"
+data-tip="t$b$19571100" data-token="19571100" data-topicid="6972">
+大学教育
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19665034"
+data-tip="t$b$19665034" data-token="19665034" data-topicid="38360">
+大学教师
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/20964415">大学老师如何才能讲好一门课？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="566317" data-action="/question/detail">
+
+<div class="zm-editable-content">刚毕业的年轻大学教师，在讲课时，如何做到让大多数的学生的评价是：<br>1.『还可以，一般般』，有哪些需要注意的点或者好的经验？<br>2.『精彩绝伦，学到了很多东西』，有哪些需要注意的点或者好的经验？<br><br>PS：为何讲课的教授科研、知识水平很高，但却会出现大多数学生觉得『讲的太烂了』的情况出现？</div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>7 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="566317" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20964415" class="zg-link-litblue">查看全部 106 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="2715843"
+data-atoken="18850736"
+data-collapsed="0"
+data-created="1378996994"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-2715843"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">19K</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$liangbianyao"
+class="zm-item-link-avatar"
+href="/people/liangbianyao">
+<img src="//pic3.zhimg.com/e890b7eba_s.jpg"
+class="zm-list-avatar"
+data-source="//pic3.zhimg.com/e890b7eba_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$liangbianyao" href="/people/liangbianyao">梁边妖</a>，<strong title="偶尔会发笑。" class="zu-question-my-bio">偶尔会发笑。</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="19594">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$ai-li-si-mu" href="http://www.zhihu.com/people/ai-li-si-mu" class="zg-link" title="张暮茕">张暮茕</a>、</span><span class="user-block"><a data-tip="p$t$vivi-92-81" href="http://www.zhihu.com/people/vivi-92-81" class="zg-link" title="vivi">vivi</a>、</span><span class="user-block"><a data-tip="p$t$hui-le-he-zi" href="http://www.zhihu.com/people/hui-le-he-zi" class="zg-link" title="惠勒盒子">惠勒盒子</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="566317" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">有一所普通大学的广告系老有钱了。<br><br>“普通大学”：不是厦大人大，也不是stabfa甚至ucla —— 一个普通二本而已。<br>“老有钱了”：macpro排排坐、4k6k12k的大灯满地丢，5D2、C300一打一打地买，还特么有自己的影棚！每年设备采购经费几百万啊……感觉过几年他们给学生用的机器全部换成RED也不是什么问题，加把劲还可以在2020年之前入股panavision。<br><br><br>他们的系土豪，哦不，系主任魅惑我说：只要你帮我做个实验，带个班，试试从业人员讲课的效果会不会比普通老师好，这些都可以便宜（一到三成市场价）租给你哟~<br><br>！！！<br><br>这位土豪真是太客气了！！！能跟土豪交朋友是我的荣幸啊！！<br><br><br>再说，现在许多大师、大boss都喜欢在自己的名片上主推自己教职的啊！我也想要的啊！<br><br><br>所以，我当场就，客串了一学期的大学老师。<br>每周二四下午，讲《影视剪辑与制作》，选修课，学分四分。<br><br><br>这些学生都是大四的老油条了，不再是稚气未脱嗷嗷待哺，而是一心等着混完时间毕业或就业了，多数人根本就没有证明自己是个精英的野心，更不指着吃影视行这碗饭；有个妹子仗着自己长得够可爱还明确地告诉了我：老师，我就是想要这几个学分而已。<br><br>我一冲进象牙塔就要对付这样的一群人，还要忙别的工作，那些日子睡眠质量糟透了。<br><br><br>虽然不敢说自己是个好老师吧，但在我的课上，孩子们不要说睡觉，连玩手机的都很少；而且开学两三周之后，就陆陆续续有各种各样的人混到我的班上来蹭课听了。<br><br>怎么样?虽然知乎上强大的教授学者非常多，但我这种初哥段位的经验应该更贴合题主你的情况吧？<br><br>我把我那一学期的思考分享给答主你呗。<br>还请你，惊喜地收下。<br><br><br><br>①<br>首先,你得找准位置。<br>咱这是干嘛来的呢？教书育人。<br><br>答主我本身是一个贞节情三操全都用完了的三无人员，风流豺子。但是在教书这段时间，我忍痛把自己的微信遇见啪啪陌陌全都隐身了，就怕被学生搜到说：“嘿，这傻逼老师也渴着呢，大家快来看看！”……<br><br>整整半年啊，再也没有附近的姑娘来跟我搭讪了，为了祖国的教育事业，我容易吗？<br><br><br>我个人是不反对发生在大学中的师生恋的，但是我有顾虑，如果我跟哪个学生玩假的，被她知道了我哪哪哪有颗痣，那不就成了一颗达摩克利斯之痣吗？我莫非还要去医院弄几轮光子嫩肤不成？<br>又如果，我跟哪个学生来真的，一回家她往沙发上一坐，就是我的王了，我还得给她捏脚，在学校我怎么教她的书？<br><br>她寝室那些人不也成皇亲国戚了吗？“柯南老师，你还想不想摸我们家小兰的屁股了？”<br><br>上课第一天，我就严正声明：我绝对不会告诉你们我包括微博豆瓣时光人人在内的任何账号的，你们也别问，我不要通过你们来给我加粉。<br>然后我弄了张专门的电话卡、弄了个专门的邮箱，用来给他们找我请假用和交作业用。<br>qq号也是新注册的，还只给了班长。<br><br>里里外外设了一道又一道的防火墙，关住了我心里那头闻香的虎，也挡住了那一丛丛薛定谔的蔷薇。<br><br>相信我，以我外型的撩骚程度，这很有必要。（我一天不夸自己就会死。）<br><br>再说就算我把丝袜套在头上去上课，考虑到教师强、学生弱，也很容易会引发斯德哥尔摩氏症候群啊。<br><br><br>总之，我竭尽全力地与学生们保持了一个不损威严不伤感情的距离，不远也不近。<br><br>若能都像我这么小心警惕，北大教授与女中学生在丽江的故事又怎么会发生呢?<br><br><br><br>②<br>其次，你要尊重学生的动物性。<br><br>好莱坞电影对待观众就像玩小白鼠一样，每隔几十秒就电一电它们的泪腺、前列腺或者肾上腺，为什么？<br>——生怕它们睡觉或尿尿啊。<br><br>你不能证明自己是个每上一堂课都在创造历史的大师，学生对你也就没有那么足量的期待和尊重。<br>你怎么办呢？<br>——像做一部好莱坞A级大片一样地对待你的每一节课。<br><br><br>第一次跟学生们见面，我介绍自己的第一句话就很符合做商业电影的原则。<br>两个字，浮夸。<br><br>梁边妖：诸位同学，你们好。我介绍一下我自己——我可能是你们有史以来见到的第一个，也是最后一个，在包里随身放着卫生巾的男老师。我用过很多品牌，其中最舒服的一个是……<br><br>当时我自己都被我自己给感动了。多么宏大的开局啊……<br>我有一种纳博科夫写出了“洛丽塔、我生命之光我欲念之火”的感觉。<br><br><br>这不是一个黄色笑话，我包里也真的有很多卫生巾，这是一个发生在我身上的很有趣的故事的开头。<br>效果是，同学们燃了。<br><br>后来我带学生们领略世界电影奇观的时候，选了六十几部影片的精彩片段来shake他们：<br><br>《短巴士》，一个身体柔韧性很强的男青年完成了一次给自己的口交；<br>《苏联故事》，关于你我上一代人的劲爆而又残酷的历史秘辛；<br>《牛头》，某黑帮男用自己的鸡鸡从一个妹子的下体中慢慢拔出了他一米七几穿黑西装的老大；<br>《落叶》，动画邪典；<br>《恶魔阿萨谢尔在召唤》，节操劳损；<br>《列宁格勒牛仔去美国》，大师的冷艳美学。<br><br>还有《我是你爸爸》里，王朔扭着手把冯小刚按在地上，冯小刚嘤嘤嘤地哭起来的片段~~今日演艺圈一大巨头的二货moment。<br><br>以及《黄金三镖客》的最后决战，这导演在神配乐与神剪辑的交融之下，把三个人物的构图玩到了极致。我跟他们开玩笑说黄飞鸿打架之前跟对手两个人伴着音乐绕着圈圈飚杀气就是从这里学到的。<br><br>几十个小孩看得死去活来。<br>他们突然意识到，以后每周二四的下午，再也不会空虚寂寞冷了。<br>下课铃声响了大家还不肯走，要等我收尾。<br>我讲完了，还有好几个跑来给我表忠心：太牛逼了，老师，太牛逼了！老师我们肯定不去举报你（……）！老师把电影名字告诉我们好不好，好想看完啊！……<br><br><br>③<br>你得知道你有许多大师们没有的东西。<br><br>你可以比大师们更放得开，你可以比大师们更有幽默感。<br>立足点低了，身段自然也就能低了。<br><br>一开始我总喜欢站在讲台上，自己一个人拿着话筒，站在一个点上从头讲到尾。（那话筒上往往有别的老师留下来的严重口臭………）<br><br>后来我很不忿坐在后排的人在偷偷谈恋爱，我抛弃了话筒开始走来走去，我还开始绘声绘色地进行一些表演，开始找能接上话的部分学生问各种有趣的问题。<br><br><br>站位近了，台词更容易送进他们的耳朵；<br>互动多了，他们对自己上铺兄弟下铺姐妹怎么犯二怎么抖机灵的兴趣自然也就转化出一部分，成了对你和你这门课的兴趣；<br>同时，因为可能会被问问题，分心是要出丑的，他们自然就会认真一点了，讲课效果自然就更好了。<br><br>在此基础上，实验证明，幽默感是师生之间最贴心的东西。我每周创作上百个黄或不黄的笑话就等着课上冷场的时候说一个来调节气氛，我会吹牛？<br><br>别说你不行，你每天都要问自己，怎么样把这个那个知识点用比较有趣的方法讲出来，只要你有心，用来对付普通大学生级别的幽默感，是可以摸索可以学习的，你不停地实验、归纳、总结，总有成为笑匠的一天。<br><br>猎人还有被雁子啄了眼睛的时候呢，你每天都在练“搞笑”，学生们可从来不会去练“不笑”。<br>昨天有个平时沉默寡言的小伙伴跟我讲，他以前生物老师问过他们一个问题<br><br>——尸体为什么会变冷？<br><br>他们答不上来。<br><br>他们老师说：因为………………<br><br><br><br><br><br><br>心静自然凉。<br><br><br><br><br>我居然笑了。<br><br>刚才我觉得不太对劲，还google了一下，它果然是个网络段子。<br><br>然后我回忆起来，这个段子我还是早就听过的。<br>我照样因为它，被一个阴森恐怖男给逗笑了。<br><br><br><br>④<br>为人师表，你得是一个优质偶像。<br><br>有一天，我备课的时候明明都已经准备好要说一句话了……<br>这句话是：我身为一个伟大的编剧，每个月收入几十亿上下（这里用了一个叫做「夸张」的修辞手法），每星期却要花几十小时来给你们备课上课，学校给的钱最多只够我打车来去的，我迟到早退过一秒吗？你们有什么资格迟到？<br><br>结果那天我磨磨蹭蹭慢慢吞吞，怀着侥幸心理掐着时间去打车，刚好就因为某些原因一个多小时打不着车，打到车他丫的还走错了路，我就迟到了四十分钟。<br><br>这是一个严重的教学事故。学生们帮我瞒着了。<br><br>可是我那句话再也说不出口了。我有什么资格不让他们迟到？<br><br><br><br>⑤<br>不要像只没进化完成的猴子一样眼红你家隔壁的煤老板。<br><br>做老师就是要有足量的奉献精神，像学校买的表一样行动守时，遵守大量的规则，担着不小的压力，拿着不多的钱。and……对，像学校买的表一样。<br><br>不错，我们是可以看到这样的新闻——<br>「开价值50多万元的宝马车去上课，手机号码有7个8，是3家上市公司的独立董事——副教授尹晓冰昨日与同行交流时“善意提醒”：大学教师全心投入教学是种毁灭。」<br><br>若你像这位天才一样有实力赚大钱，还有办法教给他学生更多的东西，不影响他本身的教学，那我佩服。<br><br>若你还没有这样的实力，切莫分掉你用于教学的心思去恨天高，恨钱少，恨事情太多，恨时间太少。<br><br>更别想着赚学生的钱呀。<br><br>我听说在我之前教这门课的老师，不仅只会拿着本教科书从头读到尾，还要占有学生作品参赛获奖后得到的所有奖金。<br><br>我当场就对学生们装逼说：像老师我这样的硬汉子，怎么可能来讨你们的钱？呵呵呵……不仅不要你们的钱，我宣布，以后每一次作业做得出色的人，还有老师自己出钱买的奖品可以发……<br><br>后来，我给认真对待这门课的家伙们买了与这门课相关的许多奖品，迅雷会员账号啦，cc标准收藏啦，高速vpn啦，正版软件啦……没事还请吃海鲜。<br><br>没有这点傲骨，怎么让学生们真心爱你呀？<br><br><br><br><br>⑥<br>身为一个青年才俊，要努力向大师们靠拢，才能成为中老年才俊。<br><br>就算不能获得各种各样的诺贝尔奖，你总得吃透你要教的这若干堂课吧？<br><br><br>虽然我爱开玩笑，但是在课堂上我没有一句话是不负责任地说出口的。<br><br><br>有一天，讲配乐的时候，我提到了两个红场演唱会。其实我根本不了解这些，只是嘴顺了瞎吹，结果我不仅搞错了91年metallica的观众人数，还搞错了魔岩三杰在红磡的年份。<br><br>后来我一直很不安，回去之后查了资料，弄清楚情况，接着就跟同学们道歉了。<br><br>我想，我不说他们根本就不知道我曾经错过吧，我这样的老师真是太伟大了。<br><br><br>下课后有个少年偷偷摸到我身边：老师，我早就知道你在胡说了，不过我没告诉他们。你以后别这样了。<br><br>没过几分钟，一个女生也跑过来跟我说了同样的一句话。<br><br>我@#￥%#￥%…<br><br>（ps：这女的是个学霸，她有一天突然要写个李安与美国西部的什么什么关于电影符号学的论文，叫我给她点意见，我微微一笑『哦，李安啊，他在好莱坞的成名三部曲你知道吗（我只看过一部）……要研究一个导演啊，首先要熟悉他的作品，现在很多人…』，这女插嘴道『恩，他的电影我都看过三遍以上了，其中《与魔鬼共骑》我看过大概有十遍吧，《断背山》就更多』—— 一句话杠得我脸色雪白，我说我考虑一下，孩子你先回寝室去。然后在几个月的时间里只要她说起这个话题我转身就走。）<br><br><br>我记得为了给他们拉《美国往事》这片，尤其是为了拉得风趣而又有营养，我两星期看了十几遍美国往事。（其中有好几次我一看到小女主角光屁股就忍不住去像疯狗一样到处搜她出演的激情床戏和homevideo还要把其中男人的部分剔除把她的裸体剪到一起浪费了我好多体力我会跟你开玩笑？）<br><br>我都快看吐了。<br>我知道有的影评人能把许多电影研究到能够一帧帧地背下来。<br>我自己都有个兄弟，本身只是个开火车的，却把教父三部曲看了整整七十多遍，不知道他想干嘛……<br><br><br>但他妈我是我啊！世界上还有那么多陌生的好电影在呼唤着我，计划内的电影越积越多，我最讨厌的事就是看一部已经看过了的电影啊啊啊……<br><br>为了棕华棱名共和国的教育事业，我龙易吗？<br><br>效果是，学生们听得如痴如醉，只希望这部电影永远也不要被拉完，我会骗棱吗？<br><br><br>不仅在讲课的时候我会注意每一个细节，连作业我都是按照这个标准来搞的——<br>没有一个作业我是为了布置而布置！<br>都是花了巧心思好生设计、能让学生有所收获的。<br><br>比如讲剪辑讲到越轴的时候，我布置的作业就是让他们拍摄并剪辑一个包含每一种越轴而且每一个镜头都在越轴的短片……<br>有个导演哥哥光是听一听这个作业就觉得我很diao就想抱着我唱女人花摇曳在红尘中啊！<br><br><br>那段时间，我整颗心都扑在教育事业上，加上我本来每天就过着大开大合的日子……我可以说是用自己的生命创造着素材来给他们讲课。<br><br>某天晚上，我跟人喝酒，有个男生点的是『墨西哥牛奶』，我抢先尝了一口味道发现很不错，就往里面吐了一点口水。<br>他只能含泪把整杯酒让给了我。<br>她的女朋友是个非常优秀的演员，她扑闪着大眼睛问我为什么要这样。<br><br>我说：在这个弱肉强食的世界里，只有像我这样男人中的男人才可以生存。<br><br>我还说：如果别人吐了口水在我的杯子里，我照喝不误眉头都不眨一下。<br><br>女演员（用娇甜软腻的语调）：真的吗？别人吐了口水你也会喝吗？<br>我：呵呵，当然。<br>女演员（娇甜软腻）：我也可以吗？我吐咯~~<br>我：你这样的，吐了我更想喝啊！<br><br>这女的用尽全身的力气咳咳咳了十几秒之后，吐了一口浓痰进去。<br>那口痰呈果核状，在透明的玻璃杯里倔强地漂浮着。<br>我拿起我的单肩包转身就走了。<br><br>走出门我就意识到，这是个讲明天的课的内容的好机会。<br>我在外面等了5秒。让这对狗男女尽情地嘲笑了我5秒。（他们知道我不会真的走掉。）<br><br>接着我冲进去淡淡一笑：你们肯定以为我是不会喝了吧？<br><br>我拿起那个杯子……一饮而尽。<br><br>第二天我开心地给学生表演这一段，告诉他们什么叫悬念、什么叫转折、什么叫惊喜，告诉他们这一段用固定镜头该怎么怎么拍、用什么景别、人怎么走位（比如我离开之后镜头一动不动，等我几秒，等我回来英姿飒爽地把酒干掉），用特效该怎么怎么做才足够恶心足够神经（比如用特效跟踪这口有形状的痰被我的喉咙压扁之后缓缓滑进我的食道，到胃里才扑通一声舒展开来，最好消化不完，到时候被屎裹在中间被我拉出来……这就能成为一段影史奇谈了）。<br><br>不知道题主研究的是哪个学科，相信我，任何一个学科都可以被有心的老师拿来这么玩。<br><br><br><br>⑦<br>了解你的学生，搞清楚你的教学目标。<br><br><br>你就是个小锁匠，你的工作就是打开一扇门，孩子们自己会选择的：进去晃悠晃悠，或安心坐在门口。<br><br>执教的第一节课我就详细地给学生们分析了，如果他们能够沿着这门小课的轨迹一直往前走，可以得到什么好处——<br><br>之后就没再花半点力气去给他们洗脑。<br><br>因为就算是无线的艺员训练班，也不可能毕业后个个都是梁朝伟周星驰啊；<br>我个人是非常反感某些没有天赋的人抱着不切实际的目标在这个行业里硬闯的。<br><br><br>不要浪费学渣的时间，不要浪费学霸的天份——这就是一个普通的大学老师能做的最漂亮最温柔的事了……<br>几本教科书，一个正常人逐字逐句读完它们也要不了一星期，你若照本宣科…哪怕你学生每天把你当催眠师来用，你也是无可挽回地虚耗了他们的青春呐……<br><br>我总是力图让所有学生都在我的课上玩得很开心，不负多数人一生中仅有的四年犬儒荒唐无忧无虑至情至性。<br><br>我会在课堂上整部整部地放一些很有趣但又没有哪个学生看过的电影。《两个只能活一个》、《因父之名》、《浮生狂想曲》、《吸血鬼猎人D》……<br><br>我也有措施来删选有才能的家伙来“拯救华语影坛”。<br>『我夸学生干得漂亮时最喜欢开的一个玩笑就是“爸爸，你拯救了华语影坛，爸爸”』<br><br><br>我记得我留过一个作业，让每个人想出一百种“在酒吧的搭讪方法”。<br>因为好像记得罗伯特麦基说过，好莱坞电影发生在酒吧的桥段总是那么千篇一律。<br>我开玩笑说做完这个作业，再学几句英语，你们就可以买机票去洛杉矶抢钱了。<br>真的有人想足了一百种。<br><br>我还记得我讲剧作的时候，留过一个作业是这样的——<br><br>我先让每个人按照我的要求，写一个有无限延展性的句子在一张纸条上。<br><br>什么叫延展性，我举例子：<br><br><br>1，昨天，他吻了他父亲的男朋友。（我可以把这句话扩写成一本书叫《父爱如骟》）<br><br>2，今天，我终于长出了第6根鸡鸡。（可扩写成《六鸡星战役》，或者，《千鸡变》）<br><br>3，明天，就是地球上所有内裤的死期。（怎么把这句话神展开，我起个名字你们感受一下——《外裤内穿之仙帝展昭》）<br><br>以上就是《昨天，今天，明天》三部曲。不知我把这套书写出来比不比得上《基地，沙丘，和三体》？<br><br><br>然后我收好这些纸条，打乱顺序，把它们又发了下去。<br><br>这样每个人就有了两句话，一句是自己写的，一句是别人给的。作业要求是：把这两句话连起来，写一个五百字以内的小故事（或者说故事大纲）。<br><br>这是为了考验这些学生有没有应付来自各方面修改意见的能力。<br><br>我记得有个无聊的学生写的是“老师你长得真帅”。<br>然后拿到这句话的两个人一个写我去做了变性手术，另一个写了我去嫖娼的故事（还嫖了四个）。那一夜，我笑了。<br><br>但我永远都不会忘记的是，有个神一样的妹子拿到的两句话如下：<br><br>1，义眼掉落在地上，滚落到少女的脚边。<br><br>2，男孩蹒跚着走向老女人，嘴角露出一丝诡异的笑。<br><br>这两句话怎么样才能在五百个字里华丽地联系在一起呢？<br><br>…………<br><br>…………<br><br>她交的作业内容如下：<br><br>『西市卖场。披着斗篷的人把男孩的头抬起来，看到一黑一绿不同颜色的瞳孔。兰奇忙陪着笑脸道：“这孩子左眼是义眼，酒鬼安迪的货。他可是靠着‘战友之子，即为吾儿’这话收养了不少战士遗孤，并且领到了抚恤金呢。”看着男孩的眼睛，斗篷人从怀里掏出一粒红色药丸，捏住男孩嘴塞进去后，对兰奇说：“弄干净，晚上送到公爵府。”丢下一袋金币离开了』<br><br>『公爵府。夜晚的公爵府格外冷清，公爵夫人丧子后思子成狂，只有一个女儿打理府邸。 府邸的顶楼不断传来低语声。戴义眼的男孩被带到顶楼，推进房间，身后房门立即被关上。一个身着华服脸色惨白，皮肤松弛下坠，如同一具披了人皮的骷髅的老女人坐在床边，微笑着看着男孩说：“过来，卡尔。”男孩蹒跚着走向老女人，嘴角露出一丝诡异的笑。男孩跪在床边，老女人将男孩的头抱在怀里，轻轻唱起了催眠曲，却不知怀里的男孩开始慢慢融化。门口，一个少女看着眼前的一切，那个带着义眼的男孩，狞笑着融化在老女人的肚子上，老女人皮肤渐渐变黑。』<br><br>『 “卡丽莎小姐，这样您就是公爵所有财产的唯一继承人了。”脸已经开始扭曲的男孩在最后突然说道，绿色义眼掉落在地上，滚落到少女的脚边。』<br><br><br><br>妈的，老子叫你写个作业，你给老子写魔戒啊！！！！<br><br>当时老子整个人兴奋得浑身发抖，瞬间把珍藏的上千部盗版电影放在一个叫“敏敏特穆尔”的文件夹里交给了她。是的，这女生名字里有个“敏”字。<br><br>那之后，所有去片场实习的机会我都用双手捧起来恭恭敬敬地献给她啊！！！！<br><br><br>⑧<br>我觉得，身为一个“人类灵魂的工程师”，节操可以不多，但少少的还是要保有一些情怀。<br><br>我曾拨出两个课时，做了两次演讲。<br>那语气那话题超狂野的，什么独立精神啦、自由思想啦、悲悯意识啦。<br>这里就不多说了。<br><br><br>情怀这东西，说得不好听一点叫做私货，说得好听点，它是你的魅力。<br><br>你活着。<br><br>活着就有立场，活着就有思想。<br><br>死人是臭的。<br><br><br><br>⑨<br>几撮浅见，傻和天真可以理解。路过的学者教授忍不住要喷我的话，用词千万要放轻松啊。<br><br>这两年我没有那么多空闲时间去大学玩票了。<br>如果能给我安安静静的十年八年，我想，我也许是有机会做一个好先生的。<br><br>题主，你可有的是时间哦。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="2715843-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-09-12" target="_blank" href="/question/20964415/answer/18850736">编辑于 2014-09-21</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>885 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="9403600"
+data-atoken="35038395"
+data-collapsed="False"
+data-created="1418403394"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="327">327</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">327</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhan-bi-qi-ao-33" href="/people/zhan-bi-qi-ao-33">瞻彼淇奥</a>，<strong title="数竞路上的超龄高中生" class="zu-question-my-bio">数竞路上的超龄高中生</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="327">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$spiral-wind" href="http://www.zhihu.com/people/spiral-wind" class="zg-link" title="Spiral wind">Spiral wind</a>、</span><span class="user-block">知乎用户、</span><span class="user-block">知乎用户</span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="566317" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">2015.7.25更新。<br><br>7月25日清晨6时，管爷爷走了。<br><br>他回到了他所说的“宇宙的原点”。<br><br>他说在充分长的时间之后，我们总会再见的。只不过也许，要等几千年。<br><br>我只希望天堂里不再有病痛。<br><br>管爷爷一路走好。<br><br><br><br>——————原回答<br><br><br><br>我的回答大概跑题了，只是想在这里记下这个故事。<br><br>我读大一时的物理老师是个非常可爱的老爷爷，年纪大概60+，总像个男孩子一样喜欢戴着一顶鸭舌帽，很fashion的用微信。<br>他鼓励我们上课吃东西。他说他讲课其实比我们听课轻松多了，因为声音的功率远远低于大脑思考的功率。<br>考试的时候他允许我们带半张A4纸的手写公式，因为他说，你们去背这些公式都没有意义。<br>期末的时候他亲自答疑，他说，我一直在想，怎么才能让你们成绩考高一点儿呢？我多出几道课后作业题吧。<br>那个学期，他每隔一个月会停课一次，然后把停掉的课在周末晚上给大家补回来。<br>终于有同学问：管爷爷，您是有什么事儿么？为什么停课啊？<br>他笑眯眯地告诉我们：我要去做化疗。<br>我们才知道，原来那顶从未摘下的鸭舌帽，是在掩饰他大把大把脱落的头发。<br><br>他教过我们，又去教我们的师弟师妹，还有师弟师妹的师弟师妹，他保持着每个月停课一次去医院的节奏，一直到昨天。<br>病情恶化，必须住院。<br>他终于要离开讲台，离开我们。<br><br>最后的这节课，他说：<br>“人到底有没有灵魂呢？<br>我也不知道。<br>也许我马上就会知道了。<br>可惜的是我没办法告诉你们了。”<br>他的精神还是饱满的，笑容还是爽朗的，只是比以前更瘦了。<br><br>如果有人的物理课本是高教出版社的基础物理学，你们会在封面上看到他的名字。<br>我一直不喜欢物理，也从没学好过物理。但是管爷爷是我遇到过的最好的物理老师，没有之一。<br><br>他答应我们会很快回来。我们都相信他，因为管爷爷从来不骗人。<br>愿管爷爷，一世平安。<br><br>————我是分割线————<br><br>12月12日晚上，我在师弟师妹的状态里看出端倪，问清状况后哭了半夜，然后来知乎写了这篇回答。<br>最初真的没想到会被认识的人看到，更没想到会在一夜之间被转到人人、QQ、微信等各大平台上。<br><br>人人上有师弟说：记得去年期末考试的前一天，管爷爷在物理楼答疑室等了大家一下午。天很冷，他捂得严严实实的，答疑室没有门牌，他怕同学找不到，坚持开着门等。讲完了，笑眯眯地送我们出去，继续一个人在小屋里坐着等。现在想起来，依然感到很不是滋味。<br><br>我后来忍不住给管爷爷发微信，管爷爷，我们都很想您。<br>他回复给我一只卖萌的加菲猫。<br>我在回学校的路上一边走一边哭。<br>导师说，管老师都能笑着面对，我们也能。<br>可是为什么，看到管爷爷那么乐观那么坚强的样子，我反而更难过。<br><br>如今的我，无比相信精神的力量。这么多人一起为管爷爷祈祷，也许God真的可以感知到我们的心意。<br><br>我们会等着管爷爷回来。等他笑眯眯的把自行车停在物理楼前，等他回来一起去吃饺子。
+<a href="/question/20964415/answer/35038395" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="9403600-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-12-13" target="_blank" href="/question/20964415/answer/35038395">编辑于 2015-07-30</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>44 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="1829171"
+data-atoken="16742018"
+data-collapsed="False"
+data-created="1366338811"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="89">89</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">89</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zhangyingfeng" href="/people/zhangyingfeng">张英锋</a>，<strong title="好答案不在对错，在于让心智获得更多自由！" class="zu-question-my-bio">好答案不在对错，在于让心智获得更多自由！</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="89">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$hellowrold" href="http://www.zhihu.com/people/hellowrold" class="zg-link" title="乡野">乡野</a>、</span><span class="user-block"><a data-tip="p$t$xiao-liu-51-18" href="http://www.zhihu.com/people/xiao-liu-51-18" class="zg-link" title="小六">小六</a>、</span><span class="user-block"><a data-tip="p$t$xu-ke-ke-89" href="http://www.zhihu.com/people/xu-ke-ke-89" class="zg-link" title="CoCo 徐">CoCo 徐</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="566317" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"><b>换位思考</b><br><br>如果有本教材，专门教讲课，但书里都是各种抽象的原理、原则和理论说明。<br>有人给你讲解了一遍，你也看完一遍，甚至背了一遍。<br>是不是就能讲好课呢？<br><br>我们都知道，不会，你不会有多少改善，你会恨死《讲课》这门课！<br><br>因为老师说的、书上写的，包括知乎里的文字，都是知识。而你要的，其实是技能！<br>技能，就像游泳、骑车一样，只能靠做，靠大量的练习去掌握。<br>遇到问题，再去看书，才能理解知识，反过来再不断提高技能。<br><br>停！上面这些话，请再重复看一遍，想想掌握技能都需要做哪些事情？<br><br>请换位思考一下，你的学生是不是也有同样的问题？<br>你应该教知识，还是技能？<br><br><b>如何才能讲好课？</b><br><br>大学生是成人，书上的内容大部分都可以<b>自学</b>，不需要你浪费有限的课堂时间重复！<br><br>你需要做的是：<br><ol><li>理顺知识体系，挑出重要的内容，设计大量的案例。<br></li><li>讲课时，让学生通过案例思考，组织讨论，甚至争吵。目的是加深理解。<br></li><li>下课后，布置有意义、有挑战的任务，让他们独立的完成。目的是训练技能。<br></li><li>列出必读的参考书，让他们写读书报告。目的是奠定更牢的知识体系。<br></li><li>最后，学生迷茫时，你引导他，教他如何分辨哪些是重要，哪些是次要的。目的是学会自主决策。<br></li></ol><br>再停！请思考一下，最好脑中有你在做这些事的场景，想想在这些场景里，你可以做什么？<br><br><br>请画个思维导图，发散一下。<br>或者，画个五步流程图：设计、案例、训练、拓展、引导。<br><br>以上这些没有任何新的内容，但能做到的大学老师，凤毛麟角。<br>很多学术专家，没有经过很好的教育训练，只会照本宣科，或者只做了讲课环节，其他没做。<br>讲不好？太正常不过了！<br>上段回答了你的补充问题。<br><br><b>再想一下，我刚才让你反思、画图这些要求，你都做了吗？</b><br><br>没做！别担心，你并不孤单，绝大部分人都不会做。<br>真做了！你是凤毛麟角的人才。<br>这就是为什么，即使老师讲的再烂，总会有人觉得还行，学的也很好的原因。<br>这种人有良好的学习、做事的习惯，和老师讲课好坏完全无关。<br>所以清华、北大之所以牛，不是因为学校牛、老师牛，而是因为他们有世界一流的学生。<br>一流学生放到哪里，早晚都会成才。反而是学校的学术排名，始终进不了世界一流。<br><br><b>教师职业病：强者幻觉</b><br><br>大部分老师都有强者幻觉，觉得自己讲的不错，学的不好是学生的问题，和自己无关。<br>这很正常，因为学生每年都换，老师总是面对一群比他弱的人。<br>你跟一群弱者在一起，时间长了，再理性的人都会出现强者幻觉。<br>强者幻觉一开始是好的，能增强自信，提高讲课的效果。<br>但长期看，强者幻觉极其有害，容易固步自封，刚愎自用。<br><br>暂停，请反思一下，存不存在这种现象？<br><br>摆脱强者幻觉也很简单，只需要给自己提一个简单要求：<br><br><b>今天一定要比昨天要好一点！</b><br><br>做到这一条，就足够了，总有一天，你都会成为好老师！
+<a href="/question/20964415/answer/16742018" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="1829171-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2013-04-19" target="_blank" href="/question/20964415/answer/16742018">编辑于 2013-04-19</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>4 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/20964415" class="zg-link-litblue">查看全部 106 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:20964415}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="566317">关注问题</button>
+
+7278
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="48ddfa526720c3ada296462afb5d564b" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="梁边妖"
+data-tip="p$t$liangbianyao"
+class="zm-item-link-avatar"
+href="/people/liangbianyao">
+<img src="//pic3.zhimg.com/e890b7eba_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$liangbianyao" href="http://www.zhihu.com/people/liangbianyao" class="zg-link" title="梁边妖">梁边妖</a></h2>
+
+<div class="zg-big-gray">偶尔会发笑。</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/liangbianyao/followers" class="zg-link-gray-normal">364913 关注者</a>
+/
+<a target="_blank" href="/people/liangbianyao/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/liangbianyao/answers" class="zg-link-gray-normal">43 回答</a>
+/
+<a target="_blank" href="/people/liangbianyao" class="zg-link-gray-normal">248464 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:20964415}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/20964415/answer/18850736/collections">14664</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1362968593">
+<h2 class="zm-item-title ">
+<a href="/collection/19928423">赞同超过1000的回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19928423/followers">52390 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1319897260">
+<h2 class="zm-item-title ">
+<a href="/collection/19561986">值得回头看几遍</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/williamw" data-tip="p$t$williamw" class="zg-link-litblue"> 之韡 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19561986/followers">51663 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1401335691">
+<h2 class="zm-item-title ">
+<a href="/collection/37406996">知乎 5000 斩！！</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/mobozhi" data-tip="p$t$mobozhi" class="zg-link-litblue"> 莫博之 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37406996/followers">40395 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1407840223">
+<h2 class="zm-item-title ">
+<a href="/collection/38887091">赞同超过10K的回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/38887091/followers">31720 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1319440714">
+<h2 class="zm-item-title ">
+<a href="/collection/19560407">思维——思考更大的世界</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/cai-tong" data-tip="p$t$cai-tong" class="zg-link-litblue"> 采铜 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19560407/followers">30659 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19695305">为什么不将大学语文设定为必修课？</a> <span class="num">16 个回答</span><meta itemprop="followerCount" content="61" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20246367">大家对大学里团委的老师有什么看法？</a> <span class="num">15 个回答</span><meta itemprop="followerCount" content="55" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20829762">可以去大学当老师的人愿意当中学老师吗？</a> <span class="num">37 个回答</span><meta itemprop="followerCount" content="339" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20080498">为什么大学的老师都这么爱扯？</a> <span class="num">19 个回答</span><meta itemprop="followerCount" content="62" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20883198">高中语文老师应该读哪些书？</a> <span class="num">15 个回答</span><meta itemprop="followerCount" content="479" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21559505">如何拍大学老师的马屁？</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="11" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20086115">高中政治老师对于自己所教授的课程是怎么看待的？为什么要选择教授这门课呢？</a> <span class="num">14 个回答</span><meta itemprop="followerCount" content="55" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20473985">大学老师上课很主观的评价政府行为，应该如何处理？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="9" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20503678">面对照本宣科的大学老师 ，你会怎么办？你对正在接受这种教育的大学生有什么建议？</a> <span class="num">106 个回答</span><meta itemprop="followerCount" content="855" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20013116">大学教育应该培养通才还是专才？</a> <span class="num">28 个回答</span><meta itemprop="followerCount" content="149" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-09-21</span>
+</p>
+<p>
+所属问题被浏览 <strong>263440</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:20964415}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440665479000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":566317,"urlToken":20964415,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/46201a6f385436f0f822dd895a1769a8.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/5c4a1ff2d8c7b65ced3c78c6f773554d.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/0a31d5fcb47d7c9161324ba54a206504.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/d07988700e1807410495cc8f1b6615fa.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="6c0b2a092e184b3f8e981782adc38f86">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="e0c4f7da8c00b70e6a3fa512f5aaebeb"/>
+</body>
+</html>

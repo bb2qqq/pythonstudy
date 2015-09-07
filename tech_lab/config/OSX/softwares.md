@@ -1,3 +1,6 @@
+# Install macdown(A updated version of Mou)
+    http://macdown.uranusjr.com/
+
 # Intall licecap(capturing screen)
     http://www.cockos.com/licecap/
 

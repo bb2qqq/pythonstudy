@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>某些场景似曾相识，好像梦中或前世发生过。这种感觉到底是什么？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/30145587">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/19587685/answer/30145587">
+<meta id="znonce" name="znonce" content="3f5831ef7e464f93a0caa11da0061aba">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/aa583b24654a97650f25057ce42d7b62.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/19587685" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19556943"
+data-tip="t$b$19556943" data-token="19556943" data-topicid="2249">
+梦境
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19567084"
+data-tip="t$b$19567084" data-token="19567084" data-topicid="5633">
+大脑
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19586043"
+data-tip="t$b$19586043" data-token="19586043" data-topicid="11932">
+既视感（déjà vu）
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/19587685">某些场景似曾相识，好像梦中或前世发生过。这种感觉到底是什么？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="15039" data-action="/question/detail">
+
+<div class="zm-editable-content">追加问题：有时不仅仅是场景，还有与场景相关的事件。比如我开始“回忆”这个场景的时候，“记忆”里某人会说某句话，或者再这个时候门应该开了，然后发生的事情果然是这样。这点如何解释？   <br><br> 另外还有一点，其实楼下有人提到，就是预见未来。比如当你觉得这个场景似曾相识，按照负二的解释是可以说通，但是后来发生的事情不可能这么清晰的知道。这里有两种情况：第一种是现实，比如突然觉得这个场景似曾相识，然后知道接下来会发生什么，稍微有点怀疑，但随后确实就是那样发生了。第二种情况是梦境。这是我的亲身感受：上班打盹的时候半睡半醒。感觉就是睡着了，但是身边发生的事情一清二楚。然后感觉BOSS从后面走廊过来了，于是强迫自己醒来。30秒以后，BOSS真的就从后面走廊过来了。<br><br>相似问题：<br><a href="http://www.zhihu.com/question/21753149" class="internal">如何解释经常感觉某一刻的的场景以前经历过，非常熟悉但又回想不起来的现象？</a><br><a href="http://www.zhihu.com/question/19594277" class="internal">为什么会有「似曾相识」的感觉？这种感觉是大脑预知吗？</a></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>16 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="15039" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/19587685" class="zg-link-litblue">查看全部 132 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="7442224"
+data-atoken="30145587"
+data-collapsed="0"
+data-created="1409834204"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-7442224"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">539</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="http://pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="http://pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="539">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$liu-dou-dou-86-19" href="http://www.zhihu.com/people/liu-dou-dou-86-19" class="zg-link" title="Cenor">Cenor</a>、</span><span class="user-block"><a data-tip="p$t$DAKAFEI" href="http://www.zhihu.com/people/DAKAFEI" class="zg-link" title="咖妃">咖妃</a>、</span><span class="user-block"><a data-tip="p$t$wang-di-fei-49" href="http://www.zhihu.com/people/wang-di-fei-49" class="zg-link" title="王第费">王第费</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="15039" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix"><noscript><img src="http://pic1.zhimg.com/23c06d92b648fc655dbfba7861581850_b.jpg" data-rawwidth="599" data-rawheight="248" class="origin_image zh-lightbox-thumb" width="599" data-original="http://pic1.zhimg.com/23c06d92b648fc655dbfba7861581850_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="599" data-rawheight="248" class="origin_image zh-lightbox-thumb lazy" width="599" data-original="http://pic1.zhimg.com/23c06d92b648fc655dbfba7861581850_r.jpg" data-actualsrc="http://pic1.zhimg.com/23c06d92b648fc655dbfba7861581850_b.jpg">
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="7442224-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/19587685/answer/30145587">发布于 2014-09-04</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>109 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="561695"
+data-atoken="13605379"
+data-collapsed="False"
+data-created="1325151407"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="131">131</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">131</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+<h3 class="zm-item-answer-author-wrap">匿名用户</h3></div>
+<div class="zm-item-vote-info " data-votecount="131">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$wen-ting-52-59" href="http://www.zhihu.com/people/wen-ting-52-59" class="zg-link" title="庄生">庄生</a>、</span><span class="user-block"><a data-tip="p$t$jiang-yuan-yao" href="http://www.zhihu.com/people/jiang-yuan-yao" class="zg-link" title="司马攸宁">司马攸宁</a>、</span><span class="user-block"><a data-tip="p$t$wang-zi-xuan-52-15-56" href="http://www.zhihu.com/people/wang-zi-xuan-52-15-56" class="zg-link" title="汪子贤">汪子贤</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="15039" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">那似曾相似的感觉——既视感   <br> 看到这个题目，我首先想起来的就是狄更斯的《大卫科波菲尔》中的这么一段话：“我们都有一种偶然而生的感觉，觉得我们所说所做的是很久以前所说所做的事情，觉得我们很久以前曾被同样的面孔，同样的事物，同样的环境围绕，觉得我们很清楚再往下去要说些什么，仿佛我们突然记起这一切一样，我一生中，再也没有比他说那番话之前对这种神秘现象感受得更为深刻的了。”   <br>生活中我们或多或少地有这样三种经历：1.某种场景好像在何时经历过。2.某种感觉好像在何时有过。3.某个地方好像在何时去过。总而言之，这3种感觉在心里学上统称为“既视感”（Déjà vu，法语，意思为“曾经看过”），据统计，70%的人在一生中至少经历过1次既视感。法国生理学家艾米利·波拉克（Emile Bolirac）在1867年的著作《精神科学的未来》（The Future of Psychic Sciences）中第一次定义了这种现象，并且将其命名为“既视感”。   <br>这样的三种感觉，你有过么？   <br>根据目前心理学届的定义，既视感包括了我上面所述的三种类型，目前绝大部分人都只经历过其中的一种或二种，只有极少数的人三种情况均经历过。   <br>1. 某种场景好像在何时经历过。   <br>这是最常见的一种情况，特点是感觉强烈，细节清晰，不仅仅是视觉，连听觉，味觉，嗅觉，触觉以及周围的一切一切，都好像是过去某个时刻的copy.就如同过去某个事件A被你遗忘，然后突然想起来那样，但是实际上，并不是你恢复了什么记忆，因为这种场景一般很短，只有几秒至几十秒。   <br>2. 某种感觉好像在何时有过。   <br>这种感觉与场景经历所不同的是，你所经历的不再是场景或者环境或者动作，而是某种感觉，而无论这种感觉是愉悦还是郁闷，都会有一种“久别”这种感觉的经历，所以带给你的首先是惊讶，然后才是这种感觉所能带给你的影响。   <br>3. 某个地方好像在何时去过。   <br>这种感觉的经历者是最少的，具体表现为一个人到达某个陌生的从未去过的地方时，感觉周围的环境却是如此熟悉，对周围的细节了如指掌，仿佛生活在这个环境中很长时间。   <br>So, the question is,Where is the déjà vu come from?有一点可以首先确定，那就是，当你觉得某个事情发生之前，大脑里面已经有了这个事件的相关记录，无论它是不是确实发生过，并且发生在你自己身上。这就好像你复制一个同名文件到一个文件夹目录下，系统会提示你这个文件已经存在，是否覆盖一样，无论这个文件是你以前自己创建的或者是来源于其他途径，它确实存在于你的大脑硬盘之上了。   <br>好了，这样一来形成既视感的条件就有了：第一步，通过各种感觉器官，摄取外界信息，将其输入电脑；第二步，大脑在记忆库里搜索这些信息，如果记忆库里面有这些信息，那么新来的信息就会被定义为“似曾相识”，所以，既视感并非错觉或者幻觉，它确实是你记忆库里面应该存在的东西。   <br>那么，如果我们没有经历过那些，或者说主观上认为我们没有经历过那些事情，记忆库里面就不应该有这些的，对吧？那为什么又会有既视感的存在呢？   <br>一，梦境的碎片   <br>很多人感觉到，他们的既视感有点像是以前某个梦境的碎片，尤其是一个人第一次产生既视感这种感觉时，和做梦的感觉非常的相似，就好像回忆起以前一个时间久远被遗忘的梦，这样的解释也许有一点点道理，但是从逻辑上是讲不通的，那就是，为什么我们以前会做一个与未来场景有关的梦呢？很多的细节都被一一重现，如此吻合的梦，是无法用概率来解释的，而且梦重复的一般是你经历过的场景，他不能够预示未来，你也不会梦见你从未见过的素材，事实上，你从来没有做过也不可能做过这样的梦。   <br>二，宗教，超自然的神谕   <br>所谓神谕，可以说就是这样一种既视感，通过一些超自然地力量，把“未来的记忆资料”灌输到大脑中，而所谓先知的人，就是可以自由调用这些资料的人，并非是先知经历了未来，而是未来的资料如同在大脑中放电影一样，好像让人经历了未来。   <br>三，最着调的解释：大脑传输延迟   <br>根据脑神经专家做出的“传输延迟论”，是解释既视感的主要理论，被大多数人所接受，这个理论的主要内容是：把信息放入大脑的不是别人也不是什么超自然力量，而是我们自己，因为你的既视感所感受到的事件，很可能就发生在0.1秒以前。   <br>从大脑结构来看，位于大脑左半球的颞叶部是一个资料汇总中心，它会排列我们获得信息的时间顺序，当某个器官（如眼睛）摄取到信息后，信息通过两条神经线路发送到颞叶部。其中一条为直达路线，另外一条要经过右脑，虽然负责传播这些信息的神经脉冲速度并不算太快（最多也就是120m/s），但因为我们的脑袋也就几十个厘米，所以在这么短的路程中，两条线路的信号会几乎在同时到达—这是正常情况。但在某些特殊的时候，比方说你没吃早饭，没睡午觉，通宵熬夜，等等导致注意力分散，精神高度疲惫，大脑处于混乱的情况下，绕经右脑的那条线路就发生了迟滞，在这小小的传输误差中，直线传播的信号已经到达颞叶部，并且被大脑处理整合放入了记忆库，这是，途径右脑的信号到达了，因此就会被认为是发生过了的事情，从而产生了既视感。   <br>四，心理学家的解释   <br>和脑神经专家的观点一致，心里学家也认为大脑记忆库里面的信息来自于我们本人，不过他们不认为是神经传输造成的，只是你无意识间接受了某些信息，但自己实际上并不知情。就如同你去朋友家做客，你忽略了朋友家墙上的一副油画，简单的说，主观上你不认为你看到过这幅画，但是实际上这幅画的信息已经被你的记忆库所记录，当你再次注意到这幅画的时候，你的大脑就会告诉你，你已经看过这幅画了，所以，既视感产生了。   <br>五，物理学的多元宇宙，时间旅行   <br>多元宇宙是最普遍的物理学说法，在这种理论中，你通过某种方式跃迁到了你所不曾经历过某个事件A一个宇宙B当中，但是你任然带着宇宙A的经历，当时间A发生在宇宙B中，你就会有关于这个事件A的记忆，于是，既视感又产生了。   <br>几乎每个人都有这样的体验，你拼命地想找到某样东西，并且这样东西在你的记忆中确实存在于一个确定的地方，但它就是不见踪影，你七上八下，翻箱倒柜以后却发现这个东西老老实实地呆在那个确定的地方，物理学家们把这个叫做物品的短暂地进入了别的时空，同样的，既视感的产生就是人进入了不同的多元宇宙而已。   <br>六，结语   <br>对于既视感，这个世界上还有一种感觉，那就是“未视感”（jamais vu,法语，未曾相识），松鼠会前一阵子的文章“字为什么变的陌生了”就是未视感的一个经典例子，未视感其实也从反面证实了“传输延迟论”的科学性，其实二者的本质是一样的，既视感就是文件放错了地方，而未视感则是文件被暂时删除无法找到了。所以，对于既视感最为科学的解释，还是“传输延迟论”最为恰当。   <br>本文参考了印象2008.05上Bigfrank的似曾相识，感谢原作者。   <br>其他参考资料：   <br><a href="http://zh.wikipedia.org/w/index.php?title=%E6%97%A2%E8%A6%96%E6%84%9F&amp;variant=zh-cn" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">zh.wikipedia.org/w/inde</span><span class="invisible">x.php?title=%E6%97%A2%E8%A6%96%E6%84%9F&amp;variant=zh-cn</span><span class="ellipsis"></span><i class="icon-external"></i></a> 既视感   <br><a href="http://brain.oxfordjournals.org/cgi/reprint/11/2/179" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">brain.oxfordjournals.org</span><span class="invisible">/cgi/reprint/11/2/179</span><span class="ellipsis"></span><i class="icon-external"></i></a>   <br>J. H. JacksonA particular variety of epilepsy "intellectual aura", one case with symptoms of organic brain disease   <br><a href="http://zh.wikipedia.org/w/index.php?title=%E5%B9%B3%E8%A1%8C%E5%AE%87%E5%AE%99&amp;variant=zh-cn" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://</span><span class="visible">zh.wikipedia.org/w/inde</span><span class="invisible">x.php?title=%E5%B9%B3%E8%A1%8C%E5%AE%87%E5%AE%99&amp;variant=zh-cn</span><span class="ellipsis"></span><i class="icon-external"></i></a> 多元宇宙   <br>以及一些松鼠会前些日子的那片《字为什么变的陌生了》，请参考里面有关于大脑神经传输的篇章。   <br>一些有关的电影：   <br>《土拨鼠日》（Groundhog Day）   <br>《时空线索》(Déjà vu)   <br>《度日如年》(Day Break)   <br>柳文扬《一日囚》   <br>《蝴蝶效应》
+<a href="/question/19587685/answer/13605379" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="561695-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/19587685/answer/13605379">发布于 2011-12-29</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>9 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="342522"
+data-atoken="13058365"
+data-collapsed="False"
+data-created="1313588950"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="34">34</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">34</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zzzeus" href="/people/zzzeus">张政</a>，<strong title="People should know when they are conquered" class="zu-question-my-bio">People should know when they are conqu…</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="34">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$jiang-yuan-yao" href="http://www.zhihu.com/people/jiang-yuan-yao" class="zg-link" title="司马攸宁">司马攸宁</a>、</span><span class="user-block"><a data-tip="p$t$itroub1emaker" href="http://www.zhihu.com/people/itroub1emaker" class="zg-link" title="itroub1emaker">itroub1emaker</a>、</span><span class="user-block"><a data-tip="p$t$zui-sheng-meng-si-28-88" href="http://www.zhihu.com/people/zui-sheng-meng-si-28-88" class="zg-link" title="醉生梦死">醉生梦死</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="15039" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"> 我对这个感兴趣的一塌糊涂，专门百度过，现摘抄整理如下：<br>1既视感的出现可能是因为人们接受到了太多的信息而没有注意到信息的来源<br><br>2当你遇到现实中近似的情景时，就会与你记忆中以前大脑虚构的情景相呼应，加上心理强化的作用，你就会有似曾相识的感觉<br><br>3这是时空隧道的碰撞或对梦的记忆。在梦里已经看到了将要发生的场景，只是记不清梦境了，所以你遇到事情发生的时候会觉得好像那里经历过。其实是勾起了你自己的记忆，对梦的记忆。<br><br>4我们的大脑有一个记忆缓存区，当你看见一见东西或者遇见一件事情的时候是先把记忆存储再缓存区。之所以会发生眼前的事情好像已经经历过这种感觉，是因为我们在记忆存储的时候发生了错误，把它存在历史记忆中去了，在看着眼前的事情的时候你又从历史记忆中把它找出来，你就觉得好像以前已经发生过了。<br><br>5人出生有了意识，到死之前这个意识一直是平坦的流动。到死了之后，人的意识会按照曲折的路线回到出生时，从而一直往复。因为死后的路线曲折，致使生时的记忆被分段的记录，只有处在接点的记忆才有可能被下一段“生”的意识绞缠，就会出现deja-vu现象。<br><br>6.当发生某个场景的时候，人的控制神经（中枢神经一部分）就会以极快的速度传送于记忆神经，这时大脑的反应还没有传达到记忆神经，所以当大脑的反应传到记忆神经的时候，就会让人感到以前发生过一样。有科学家猜测，这时控制神经和记忆神经的传输速度会大于光速。这是对相对论的一个巨大挑战，当然现在这个理论并没有得到证明，只是猜想阶段。<br><br>7我们头脑中所有的记忆所有的思考都可以称之为信息，虽然现在还无法搞清信息的本质是什么，但却可以肯定脑电波对它有一定作用。这就是我们所说的思考或是脑内意识活动。而这种粒子平时就大量散播在我们周围的空间，当然也存在于我们的脑内。正因为它的特性，我们才可以接收到外来信息进行思考、记忆、回忆，还有遗忘。在机率很低的情况下，这种粒子在游离之后仍然保持着它在原来在人脑中的排列性状，换言之也就是保持着这个人（已经死亡）的基本人格和记忆。当它们在遇到新的结合目标（另一个人的脑）并结合之后，在这个人是新生儿（没有已经形成的记忆的情况下）就会发生人格的转移，也就是我们通常所说的轮回或夺舍。但也有意外的情况发生，比如在结合后保持着潜伏状态到一定时间才突然觉醒，这也就是我们常说的人格突变现象.(也存在于记忆已经形成的人身上结合后觉醒，使其丧失原有人格的情况)  。事实上,我们是无时无刻都会与这种粒子结合，比如我们突然冒出个怪想法，脑子里突然出现一些词句……甚至是做梦和预言等现象也都可以用这种理论解释。即视感也可以这样解释。<br><br>8这个世界有很多时空，每个时空都按照一般的规律运行着，他们是平行的，一般不会有交叉，只是有时间的先后，但也有例外的情况，出现时空交叉。如果碰巧你存在的时空和未来的时空交叉，也就是说，你有很短暂的时间进入了未来时空，很快又回来了，假如你在未来时空用钳子修了一辆自行车，你回到现在的时空后，还要进行同样的动作（修自行车），但你的记忆里已经存储了这件事情，所以你就感觉这件事，这个景象好像在哪里经历过。<br><br>9研究人员认为这可能是某个印象早已潜藏在做梦者的潜意识里，然后偶然再在梦里显现出来，也有些研究指出这种现象和另一种超越时空的潜意识有关。<br><br>10有些大脑活动研究专家指出这种现象也有可能是我们的大脑某半边处理讯息的速度稍为快过另半边所做成的。<br><br>比较长。1说的太笼统不谈。2、3个人觉得没说服力，因为很多场景给人的感觉是确确实实经历过而且高度一致而不是所谓的相似。4我觉得说服力也不太足，因为结合我个人的情况看，有些场合下感觉似曾相识理智告诉我绝不可能经历过，不可能经历过的事谈何存在历史记忆？5如果成立首先你得承认人死后意识不灭……6如果成立相对论就被突破了7我觉得很强大，而且说通了很多很多问题轮回、夺舍、人格突变、做梦、预言、既视感……但是，同5一样，承认它你就承认了人死后意识不灭8个人感觉挺有说服力的，不知道现在理论界承认时空交叉现象不9潜意识什么的，作为外行还是不评价了10.除了8意外感觉另一个靠谱的，虽然也没说清楚<br><br>其实说来说去就是一点，现在还没有定论，也没有解释的很清楚的说法。<br><br>非专业人士，看过勿喷 
+<a href="/question/19587685/answer/13058365" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="342522-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link meta-item" target="_blank" href="/question/19587685/answer/13058365">发布于 2011-08-17</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>5 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/19587685" class="zg-link-litblue">查看全部 132 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:19587685}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="15039">关注问题</button>
+
+4401
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="http://pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163574 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371159 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:19587685}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/19587685/answer/30145587/collections">249</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1382860458">
+<h2 class="zm-item-title ">
+<a href="/collection/27975548">天马行空的思维</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/27975548/followers">5858 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1363770078">
+<h2 class="zm-item-title ">
+<a href="/collection/19954928">管中窥豹</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/zhi-ming-bu-ju-" data-tip="p$t$zhi-ming-bu-ju-" class="zg-link-litblue"> 只名不具 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19954928/followers">5598 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1373339236">
+<h2 class="zm-item-title ">
+<a href="/collection/20466042">高，实在是高！</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/justjavac.com" data-tip="p$t$justjavac.com" class="zg-link-litblue"> justjavac </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/20466042/followers">1216 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1414852515">
+<h2 class="zm-item-title ">
+<a href="/collection/40838983">能触动我</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/xia-hai-lao-hei-shou" data-tip="p$t$xia-hai-lao-hei-shou" class="zg-link-litblue"> 墨白 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/40838983/followers">175 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1383836181">
+<h2 class="zm-item-title ">
+<a href="/collection/28694515">长姿势</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/tang-bin-wen-58" data-tip="p$t$tang-bin-wen-58" class="zg-link-litblue"> 唐彬文 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/28694515/followers">4 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19594277">为什么会有「似曾相识」的感觉？这种感觉是大脑预知吗？</a> <span class="num">37 个回答</span><meta itemprop="followerCount" content="730" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22399656">读书「过目不忘、当场背诵」是一种什么感觉？古书中的神童，真有这种能力吗？</a> <span class="num">14 个回答</span><meta itemprop="followerCount" content="105" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22890285">可以进行前世回溯么或者人是不是通过前世回溯就真的能看到前世的自己？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="17" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20011976">为什么手写有助于记忆，而打字却没有这种感觉？</a> <span class="num">10 个回答</span><meta itemprop="followerCount" content="90" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/23597056">这是有关梦中梦的问题。梦中梦出现两次俗称“鬼压身”的状态。为什么会出现这样的状况呢？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="6" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19598605">为何我们总是难以发现自己处于梦中？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="8" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21450507">嘴馋的原理是什么？为什么有时候确实不饿，也会嘴馋。而夏天好像特别容易嘴馋，是为什么？</a> <span class="num">1 个回答</span><meta itemprop="followerCount" content="18" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/19729171">「洗脑」利用了哪些心理学原理？会使人脑发生生理变化吗？</a> <span class="num">69 个回答</span><meta itemprop="followerCount" content="5379" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20477086">遗忘是怎样发生的？</a> <span class="num">4 个回答</span><meta itemprop="followerCount" content="77" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22497968">脑震荡之后大脑实际上发生什么具体变化？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="84" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+发布于
+
+<span class="time">2014-09-04</span>
+</p>
+<p>
+所属问题被浏览 <strong>278357</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:19587685}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440556810000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":15039,"urlToken":19587685,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/978a4235e532b60ef87b598349e58873.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/fa4d7c07a828a3976ebd9b5b76087914.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/68706faf5d46a069ab0d8b20930cfe75.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/f42a7a51d4bc5bc0fa8d4d0aaeddaed1.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="3f5831ef7e464f93a0caa11da0061aba">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="b30ac26f9f23a94a705b819d21fd9830"/>
+</body>
+</html>

@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>面对他人恶意的言语，如何反应才能显示出高情商？ - Kaiser 的回答 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://answers/29847132">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/question/24912697/answer/29847132">
+<meta id="znonce" name="znonce" content="ddedf5c13bb44b1eb793365085a838eb">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/1050c05fe2d5d1a0816e1f51c3b1e0ca.z.css">
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+<meta property="qc:admins" content="14414345146201056375" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
+
+<link rel="canonical" href="http://www.zhihu.com/question/24912697" />
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-warn-message" id="zh-question-redirect-info" style="display:none"></div>
+<div class="zg-wrap zu-main" id="zh-single-answer-page">
+<div class="zu-main-content">
+<div class="zu-main-content-inner with-indention-votebar">
+
+
+<div class="zm-tag-editor zg-section">
+<div class="zm-tag-editor-labels zg-clear">
+
+<a class="zm-item-tag"
+href="/topic/19551147"
+data-tip="t$b$19551147" data-token="19551147" data-topicid="307">
+生活
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19562033"
+data-tip="t$b$19562033" data-token="19562033" data-topicid="3946">
+人际交往
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19563676"
+data-tip="t$b$19563676" data-token="19563676" data-topicid="4467">
+情商
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19566933"
+data-tip="t$b$19566933" data-token="19566933" data-topicid="5582">
+社会
+</a>
+
+<a class="zm-item-tag"
+href="/topic/19572953"
+data-tip="t$b$19572953" data-token="19572953" data-topicid="7583">
+职场新人
+</a>
+
+</div>
+</div>
+<div id="zh-question-title" data-editable="false">
+
+<h2 class="zm-item-title zm-editable-content">
+
+<a href="/question/24912697">面对他人恶意的言语，如何反应才能显示出高情商？</a>
+
+</h2>
+</div>
+<div id="zh-question-detail" class="zm-item-rich-text" data-resourceid="2147144" data-action="/question/detail">
+
+<div class="zm-editable-content">曾经有条很热门的微博，大意是说：<br><blockquote><b>“每次被人骂，总是等晚上回家躺在床上才能想到应该如何回骂。”</b></blockquote>      这样的栗子不胜枚举。题主自认是个能控制情绪很有素质的妹子，有脾气但不作。刚进入体制内职场，办公室里男士居多。某次聚餐，领导在场，大家比较随意，说起黄色段子众笑之，一男同事突然问我你看没看过xx（三级片），我笑答“没看过但知道演的什么”，他回道“肯定看过，我最讨厌女生装纯。”据我观察，该同事跟别人说话都不中听还总动真气，楼主爽快性格，从未被人说过装纯，但想到刚来单位而且面对领导，不知如何反应才是比较恰当的态度，只得笑笑了事。<br>      不知道大家是否都有这种情况，冷不丁被一个不讲理或者没有礼貌的人攻击，一下子蒙圈不知道是立马反唇相讥还是忍住情绪。前者可能显得反应迅速伶牙俐齿，也可能显得素质不高情商不高；而后者可能让人觉得你宽厚，也可能觉得你嘴笨好欺负，往往在衡量之间可能就郁郁按下不表了。<br>      其实问题的核心是，<b>如何才能正确的回应，即显示出高情商</b>？ <br>      吐槽是个技术活，有的人讽刺了别人显示出自己幽默，而有的人只显示出自己素质不行。<b>如果反唇相讥是可行的，如何提高自己反击时把握度和拿捏艺术的能力</b>？<b>如何在忍住情绪微笑着翻篇儿的同时避免被认作是软柿子？</b><br>补充：<br>看到问题能获得这么多回应和关注，还有很多知乎牛人的回答，真的很受宠若惊！特别特别感谢大家！！<br>经过题主这几天的观察和旁敲侧击发现，例子中的男主就是个没有情商不懂交际的白瓜，得罪的人一箩筐，而大家都没有当面表露过自己的不满。<br>现在想想他也蛮不可怜，题主不是背后捅人刀子的人，但难保别人不是。题主很庆幸当时没有发作没有当第一个“吃螃蟹”的人。因为刚来单位一切不熟，不晓得各人背后有何厉害关系，得罪人还是有风险的。<br>当然例子只是生活中极小的一件事，大家提的建议能应对其他各种各样的情景，真的很感谢大家百忙之中的回答。大家互相学习，工作顺利哦~飞吻中╭(╯3╰)╮<br><br>相关问题：<a href="http://www.zhihu.com/question/27194444" class="internal">被人痛骂之后如何调整好情绪？</a></div>
+
+
+</div>
+<div class="zm-item-meta zm-item-comment-el clearfix" id="zh-question-meta-wrap">
+<div class="zm-meta-panel">
+
+<a href="#" name="addcomment" class="toggle-comment meta-item">
+<i class="z-icon-comment"></i>59 条评论
+</a>
+<a href="#" name="share" class="share meta-item">
+<i class="z-icon-share"></i>分享
+</a>
+
+</div>
+<div class="panel-container">
+
+</div>
+</div>
+<div class="zh-question-answer-summary-wrap zm-item-rich-text" id="zh-question-answer-summary-wrap" style="display:none;">
+<h3>
+<a href="http://www.zhihu.com/question/20014415" target="_blank" class="zg-right zg-link-litblue" style="font-weight:normal">什么是答案总结？</a>
+答案总结</h3>
+<div id="zh-question-answer-summary" class="zg-section"
+data-resourceid="2147144" data-action="/question/summary">
+
+<div class="zm-editable-content"></div>
+
+</div>
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/24912697" class="zg-link-litblue">查看全部 571 个回答</a></h3>
+</div>
+
+<div id="zh-question-answer-wrap" class="zh-question-answer-wrapper autohide-false"
+data-widget="navigable" data-navigable-options="{&quot;items&quot;:&quot;&gt;.zm-item-answer&quot;}"
+style="border-bottom:none;">
+
+<div tabindex="-1" class="zm-item-answer "
+
+itemscope itemtype="http://schema.org/Answer"
+data-aid="7322629"
+data-atoken="29847132"
+data-collapsed="0"
+data-created="1409252836"
+data-deleted="0"
+data-helpful="1"
+data-isowner="0"
+data-copyable="1"
+
+
+>
+<a class="zg-anchor-hidden" name="answer-7322629"></a>
+
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">11K</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_s.jpg"
+class="zm-list-avatar"
+data-source="//pic1.zhimg.com/21cb65b48_s.jpg" />
+</a>
+
+
+
+<a data-tip="p$t$kaiserwang730" href="/people/kaiserwang730">Kaiser</a>，<strong title="天亮了" class="zu-question-my-bio">天亮了</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="11936">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$shu-chi-24" href="http://www.zhihu.com/people/shu-chi-24" class="zg-link" title="黍離">黍離</a>、</span><span class="user-block"><a data-tip="p$t$mao-xiao-le-2" href="http://www.zhihu.com/people/mao-xiao-le-2" class="zg-link" title="GoBig">GoBig</a>、</span><span class="user-block"><a data-tip="p$t$gu-zi-en" href="http://www.zhihu.com/people/gu-zi-en" class="zg-link" title="顾子恩">顾子恩</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text" data-resourceid="2147144" data-action="/answer/content">
+
+<div class=" zm-editable-content clearfix">谢♂邀。<br><br><br><noscript><img src="//pic2.zhimg.com/881b6af9ae8ab88d533662f0e58e1cdd_b.jpg" data-rawwidth="637" data-rawheight="468" class="origin_image zh-lightbox-thumb" width="637" data-original="//pic2.zhimg.com/881b6af9ae8ab88d533662f0e58e1cdd_r.jpg">先礼后兵。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="637" data-rawheight="468" class="origin_image zh-lightbox-thumb lazy" width="637" data-original="//pic2.zhimg.com/881b6af9ae8ab88d533662f0e58e1cdd_r.jpg" data-actualsrc="//pic2.zhimg.com/881b6af9ae8ab88d533662f0e58e1cdd_b.jpg">先礼后兵。<br>这个礼不是他人恶语既出之后摆出来的，而是长期注意使周围听众看客有目共睹，对恶语者获得舆论上的优势。<br><br>我今天收藏了一个回答非常好，里面谈到的都是很具体的行为细节，可操作性高，特别是有不少我以前都没有注意过。在这里和大家分享：<br><a href="http://www.zhihu.com/question/22632958/answer/22101986" class="internal">哪些礼仪是一个人必备的？</a><br><br>如果咱们能做到这个回答中描述的，那么当我们遭遇恶语，人心自有所向，大家会说“哎呀那个A这么有礼貌，那个B还这样说话”，而不是传来传去“谁先开的口”都成了悬案。<br><br>以上是铺垫，当然光有礼不行，一味的礼会让人当成怂。而且既然这个问题提出来了说“如何反应”，那装没听见、不做反应、保持礼貌，应该不是题主想要的答案，而可以归纳到前面说的“礼”的积累，这里我们谈如何爆发。<br><br><noscript><img src="//pic4.zhimg.com/23b4cb9c6bed00190db0137089b0df3b_b.jpg" data-rawwidth="638" data-rawheight="468" class="origin_image zh-lightbox-thumb" width="638" data-original="//pic4.zhimg.com/23b4cb9c6bed00190db0137089b0df3b_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="638" data-rawheight="468" class="origin_image zh-lightbox-thumb lazy" width="638" data-original="//pic4.zhimg.com/23b4cb9c6bed00190db0137089b0df3b_r.jpg" data-actualsrc="//pic4.zhimg.com/23b4cb9c6bed00190db0137089b0df3b_b.jpg"><br>比如这句恶意的言语。<br>你不能不做反应，在全体运动员面前，公然让你这个主帅转会。这时候可不能装没听见，否则传到成都就不知道传成什么样了，就会有人喜欢弄个大新闻，说丞相默认了，就把你批判一番。再者现场曾被批斗“有反骨”的魏延怎么想？广大基层指战员怎么想？<br><br><noscript><img src="//pic1.zhimg.com/0a494a38e4fd3d1ce8ff6afa60d61cac_b.jpg" data-rawwidth="636" data-rawheight="470" class="origin_image zh-lightbox-thumb" width="636" data-original="//pic1.zhimg.com/0a494a38e4fd3d1ce8ff6afa60d61cac_r.jpg">先呵呵，缓解一下气氛，等技能CD。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="636" data-rawheight="470" class="origin_image zh-lightbox-thumb lazy" width="636" data-original="//pic1.zhimg.com/0a494a38e4fd3d1ce8ff6afa60d61cac_r.jpg" data-actualsrc="//pic1.zhimg.com/0a494a38e4fd3d1ce8ff6afa60d61cac_b.jpg">先呵呵，缓解一下气氛，等技能CD。<br><br><noscript><img src="//pic2.zhimg.com/da01cf2a3e5ffea495a7ae79a5ecbfad_b.jpg" data-rawwidth="637" data-rawheight="464" class="origin_image zh-lightbox-thumb" width="637" data-original="//pic2.zhimg.com/da01cf2a3e5ffea495a7ae79a5ecbfad_r.jpg">给对方带个高帽，这一步很重要，很多人弄错了节奏，直接反击就给了对方耍流氓的机会。而且这一回合捧的越认真越好，注意表情，眉头要微蹙。让周围的路人看客也带进来，让大家觉得对面好像真跟那么回事儿似的。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="637" data-rawheight="464" class="origin_image zh-lightbox-thumb lazy" width="637" data-original="//pic2.zhimg.com/da01cf2a3e5ffea495a7ae79a5ecbfad_r.jpg" data-actualsrc="//pic2.zhimg.com/da01cf2a3e5ffea495a7ae79a5ecbfad_b.jpg">给对方带个高帽，这一步很重要，很多人弄错了节奏，直接反击就给了对方耍流氓的机会。而且这一回合捧的越认真越好，注意表情，眉头要微蹙。让周围的路人看客也带进来，让大家觉得对面好像真跟那么回事儿似的。<br><br><noscript><img src="//pic3.zhimg.com/4cdc3d0c6d155509117c6407a143a152_b.jpg" data-rawwidth="400" data-rawheight="300" class="content_image" width="400"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="400" data-rawheight="300" class="content_image lazy" width="400" data-actualsrc="//pic3.zhimg.com/4cdc3d0c6d155509117c6407a143a152_b.jpg"><br>反过来就不行，我们看影视剧中受轻薄的女子，往往都是直接一句“你这个混蛋”，那对面直接“咳咳我就是混蛋，你来咬我呀”，下面那就不好接了。<br><br>就算对面就是个泼皮无赖之流，那么“这位朋友我看你也是条好汉”之类的江湖开场白还是有用的。人在争夺舆论高地的时候，都是把自己想办法放在弱者位置的，所以先把对方捧起来是正着。<br><br><noscript><img src="//pic2.zhimg.com/7a2befa102f67ec3f3ad8aa1a8ef2dcd_b.jpg" data-rawwidth="638" data-rawheight="466" class="origin_image zh-lightbox-thumb" width="638" data-original="//pic2.zhimg.com/7a2befa102f67ec3f3ad8aa1a8ef2dcd_r.jpg">接着上面捧起来之后，直接一个转折，然后就要开喷啦。这个地方要和之前造成反差，点出恶意言语，把责任推给对面，此时表情要显出“我也替你感到捉急呀”，不喷你都对不起你姥姥的感情要饱满起来。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="638" data-rawheight="466" class="origin_image zh-lightbox-thumb lazy" width="638" data-original="//pic2.zhimg.com/7a2befa102f67ec3f3ad8aa1a8ef2dcd_r.jpg" data-actualsrc="//pic2.zhimg.com/7a2befa102f67ec3f3ad8aa1a8ef2dcd_b.jpg">接着上面捧起来之后，直接一个转折，然后就要开喷啦。这个地方要和之前造成反差，点出恶意言语，把责任推给对面，此时表情要显出“我也替你感到捉急呀”，不喷你都对不起你姥姥的感情要饱满起来。<br><br><noscript><img src="//pic4.zhimg.com/59ee147e741ad9819b780e031b1a56b7_b.jpg" data-rawwidth="637" data-rawheight="467" class="origin_image zh-lightbox-thumb" width="637" data-original="//pic4.zhimg.com/59ee147e741ad9819b780e031b1a56b7_r.jpg">下面开始，先做个情景铺垫，把基调建立在严肃甚至悲惨上。因为暗藏恶意的言语，必然是表面和气的，甚至是明着好像在夸你的。古话讲“举拳不打笑脸人”，如果在对方建立的氛围当中开口，无疑就容易让人扣上“你开不起玩笑”，“你这个人怎么这么不识抬举”之类的反诘。当然，如果你不是政治局委员级别的话，也不要一说就天下苍生，跟对面大概处在一个什么水平，就说什么水平，比如公司环境下就拿公司里的问题说事。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="637" data-rawheight="467" class="origin_image zh-lightbox-thumb lazy" width="637" data-original="//pic4.zhimg.com/59ee147e741ad9819b780e031b1a56b7_r.jpg" data-actualsrc="//pic4.zhimg.com/59ee147e741ad9819b780e031b1a56b7_b.jpg">下面开始，先做个情景铺垫，把基调建立在严肃甚至悲惨上。因为暗藏恶意的言语，必然是表面和气的，甚至是明着好像在夸你的。古话讲“举拳不打笑脸人”，如果在对方建立的氛围当中开口，无疑就容易让人扣上“你开不起玩笑”，“你这个人怎么这么不识抬举”之类的反诘。当然，如果你不是政治局委员级别的话，也不要一说就天下苍生，跟对面大概处在一个什么水平，就说什么水平，比如公司环境下就拿公司里的问题说事。<br><br><noscript><img src="//pic3.zhimg.com/f5be5966cadaf87370f1471659596df2_b.jpg" data-rawwidth="637" data-rawheight="463" class="origin_image zh-lightbox-thumb" width="637" data-original="//pic3.zhimg.com/f5be5966cadaf87370f1471659596df2_r.jpg">前摇结束，下面话锋一转。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="637" data-rawheight="463" class="origin_image zh-lightbox-thumb lazy" width="637" data-original="//pic3.zhimg.com/f5be5966cadaf87370f1471659596df2_r.jpg" data-actualsrc="//pic3.zhimg.com/f5be5966cadaf87370f1471659596df2_b.jpg">前摇结束，下面话锋一转。<br>这个“转”是重中之重，对方的话既然是恶语，那不管说什么，千万不能去硬接。他曹丕是正式接受刘协的禅让，魏国也确实在土地人口兵力上占绝对优势，你去跟王朗论什么“神器更易”、“此乃天意”是一定不占上风的，再者说，论出来又能怎么样？能气死他吗？<br><br>这就好比女性朋友受到了黄段子的骚扰，你能跟他返回去掰扯黄段子本身的事儿吗？当然不能，否则你自己也要说出很多敏感词，正中对方下怀，也让观众看了笑话。你可以说，这是你第七人民医院卧床的的爹教给你的吗？或者，你在家给你儿子就讲这个吗？你不用鉴定一下那是你儿子吗？荤笑话近伦理，就从伦理的侧面打击他。<br><br><noscript><img src="//pic1.zhimg.com/4298f5b9fbd2b69cd0c61c22047e2fa8_b.jpg" data-rawwidth="1260" data-rawheight="460" class="origin_image zh-lightbox-thumb" width="1260" data-original="//pic1.zhimg.com/4298f5b9fbd2b69cd0c61c22047e2fa8_r.jpg">导演在这句话上给了王朗和曹真各一个特写，用意很明确，从这句话开始，局势出乎了魏方的掌控，比赛进入了孔明的节奏。我建议大家给自己想一句有个人特色的话，简洁有力，如果前面的铺垫来不及做，可以直接甩出来。为什么强调个人特色？因为一来如果对方不熟悉你的话，需要思考你这句话，起到了牵制效果；二来肯定是更有利于助长自己的气势。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="1260" data-rawheight="460" class="origin_image zh-lightbox-thumb lazy" width="1260" data-original="//pic1.zhimg.com/4298f5b9fbd2b69cd0c61c22047e2fa8_r.jpg" data-actualsrc="//pic1.zhimg.com/4298f5b9fbd2b69cd0c61c22047e2fa8_b.jpg">导演在这句话上给了王朗和曹真各一个特写，用意很明确，从这句话开始，局势出乎了魏方的掌控，比赛进入了孔明的节奏。我建议大家给自己想一句有个人特色的话，简洁有力，如果前面的铺垫来不及做，可以直接甩出来。为什么强调个人特色？因为一来如果对方不熟悉你的话，需要思考你这句话，起到了牵制效果；二来肯定是更有利于助长自己的气势。<br><br><noscript><img src="//pic4.zhimg.com/677c5160ffb065016c002aaf867f6767_b.jpg" data-rawwidth="240" data-rawheight="160" class="content_image" width="240"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="240" data-rawheight="160" class="content_image lazy" width="240" data-actualsrc="//pic4.zhimg.com/677c5160ffb065016c002aaf867f6767_b.jpg"><br>向下面这句话，因为用的太广，效果就不好。<br><noscript><img src="//pic2.zhimg.com/916eb402ecd956837c50dfb54d2db121_b.jpg" data-rawwidth="400" data-rawheight="300" class="content_image" width="400"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="400" data-rawheight="300" class="content_image lazy" width="400" data-actualsrc="//pic2.zhimg.com/916eb402ecd956837c50dfb54d2db121_b.jpg"><br>回到上面的“话锋一转”，从这里开始要进入自己的角度，开始喷对方。比如诸葛丞相选择的就是战功方面，因为王朗是文官，原先是会稽太守被孙策攻下来跑到了北方，军事成就这是一大污点。而同样的说法，此时还是气不死曹真的。<br><br>同样的，如果对方是青年男子，就从事业、收入上下口；如果是中年男人，就要紧扣前列腺这个话题不动摇；如果是为老不尊的，就拿活命说事，此处武侯的终结技就是“有何面目去见汉朝二十四代先帝”，这个对年轻人肯定是没有杀伤力的。总之一个“避实击虚”。<br><br><noscript><img src="//pic2.zhimg.com/539b870b45d0c2312ca8075e41793ca1_b.jpg" data-rawwidth="637" data-rawheight="465" class="origin_image zh-lightbox-thumb" width="637" data-original="//pic2.zhimg.com/539b870b45d0c2312ca8075e41793ca1_r.jpg">你看，一句“我素有所知”，隔壁老王表情就变了。能有情报上的优势最好，没有的话也要装出一副我很了解你的样子，反正大多数时候，听众也不知道谁是谁。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="637" data-rawheight="465" class="origin_image zh-lightbox-thumb lazy" width="637" data-original="//pic2.zhimg.com/539b870b45d0c2312ca8075e41793ca1_r.jpg" data-actualsrc="//pic2.zhimg.com/539b870b45d0c2312ca8075e41793ca1_b.jpg">你看，一句“我素有所知”，隔壁老王表情就变了。能有情报上的优势最好，没有的话也要装出一副我很了解你的样子，反正大多数时候，听众也不知道谁是谁。<br><br><noscript><img src="//pic1.zhimg.com/1c71ac6903bb6f5d7358c186f0227fb4_b.jpg" data-rawwidth="1268" data-rawheight="468" class="origin_image zh-lightbox-thumb" width="1268" data-original="//pic1.zhimg.com/1c71ac6903bb6f5d7358c186f0227fb4_r.jpg">注意保持话题的连贯性和自己的节奏，不管对方怎么骂娘，你该说说。抢来抢去不是没完了？这里要拼的就是气势了，说的内容无所谓，谁是叹号谁就赢了，谁是省略号谁就输了。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="1268" data-rawheight="468" class="origin_image zh-lightbox-thumb lazy" width="1268" data-original="//pic1.zhimg.com/1c71ac6903bb6f5d7358c186f0227fb4_r.jpg" data-actualsrc="//pic1.zhimg.com/1c71ac6903bb6f5d7358c186f0227fb4_b.jpg">注意保持话题的连贯性和自己的节奏，不管对方怎么骂娘，你该说说。抢来抢去不是没完了？这里要拼的就是气势了，说的内容无所谓，谁是叹号谁就赢了，谁是省略号谁就输了。<br><br><noscript><img src="//pic1.zhimg.com/97d1a517f3d2abb541dc72f4f16b3c6c_b.jpg" data-rawwidth="638" data-rawheight="468" class="origin_image zh-lightbox-thumb" width="638" data-original="//pic1.zhimg.com/97d1a517f3d2abb541dc72f4f16b3c6c_r.jpg">巩固优势，坚持自己的唱法，如果你擅长慢歌而对方是Rap选手，就不要让他有饶舌的机会。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="638" data-rawheight="468" class="origin_image zh-lightbox-thumb lazy" width="638" data-original="//pic1.zhimg.com/97d1a517f3d2abb541dc72f4f16b3c6c_r.jpg" data-actualsrc="//pic1.zhimg.com/97d1a517f3d2abb541dc72f4f16b3c6c_b.jpg">巩固优势，坚持自己的唱法，如果你擅长慢歌而对方是Rap选手，就不要让他有饶舌的机会。<br><br><noscript><img src="//pic3.zhimg.com/02e9c117038fd8d49e4bd71f5ea6a3b2_b.jpg" data-rawwidth="635" data-rawheight="469" class="origin_image zh-lightbox-thumb" width="635" data-original="//pic3.zhimg.com/02e9c117038fd8d49e4bd71f5ea6a3b2_r.jpg">万能金句，每次诸葛亮VS王朗的鬼畜作品出现这句话的时候，都会被弹幕刷屏。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="635" data-rawheight="469" class="origin_image zh-lightbox-thumb lazy" width="635" data-original="//pic3.zhimg.com/02e9c117038fd8d49e4bd71f5ea6a3b2_r.jpg" data-actualsrc="//pic3.zhimg.com/02e9c117038fd8d49e4bd71f5ea6a3b2_b.jpg">万能金句，每次诸葛亮VS王朗的鬼畜作品出现这句话的时候，都会被弹幕刷屏。<br><br><noscript><img src="//pic3.zhimg.com/ec276d944a225e2792b9b37bbc1f5856_b.jpg" data-rawwidth="639" data-rawheight="470" class="origin_image zh-lightbox-thumb" width="639" data-original="//pic3.zhimg.com/ec276d944a225e2792b9b37bbc1f5856_r.jpg">正义の凝视。看差不多了就收住，话不要比对方多太多，此时重点是用刚毅的眼神持续给对方施压，延续刚才的气氛，千万不能说着说着自己哭了。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="639" data-rawheight="470" class="origin_image zh-lightbox-thumb lazy" width="639" data-original="//pic3.zhimg.com/ec276d944a225e2792b9b37bbc1f5856_r.jpg" data-actualsrc="//pic3.zhimg.com/ec276d944a225e2792b9b37bbc1f5856_b.jpg">正义の凝视。看差不多了就收住，话不要比对方多太多，此时重点是用刚毅的眼神持续给对方施压，延续刚才的气氛，千万不能说着说着自己哭了。<br><br><noscript><img src="//pic1.zhimg.com/957a2dda831b852f96d36d8848dc2694_b.jpg" data-rawwidth="635" data-rawheight="472" class="origin_image zh-lightbox-thumb" width="635" data-original="//pic1.zhimg.com/957a2dda831b852f96d36d8848dc2694_r.jpg">效果拔群。</noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="635" data-rawheight="472" class="origin_image zh-lightbox-thumb lazy" width="635" data-original="//pic1.zhimg.com/957a2dda831b852f96d36d8848dc2694_r.jpg" data-actualsrc="//pic1.zhimg.com/957a2dda831b852f96d36d8848dc2694_b.jpg">效果拔群。<br><br><br>最后说一种特殊情况。前面讲的恶意言语，还多多少少加以修饰，甚至包着一个善意的壳子。那么有的时候，会有些人就是看你好欺负，明摆着就是要弄你。<br><br><noscript><img src="//pic1.zhimg.com/cc0e9dcca5a5878afd663511acd466b4_b.jpg" data-rawwidth="543" data-rawheight="383" class="origin_image zh-lightbox-thumb" width="543" data-original="//pic1.zhimg.com/cc0e9dcca5a5878afd663511acd466b4_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="543" data-rawheight="383" class="origin_image zh-lightbox-thumb lazy" width="543" data-original="//pic1.zhimg.com/cc0e9dcca5a5878afd663511acd466b4_r.jpg" data-actualsrc="//pic1.zhimg.com/cc0e9dcca5a5878afd663511acd466b4_b.jpg"><br>这种情况下如何反应才能显得情商高？<br>我建议大家就是提高姿势水平，然后以直报怨。<br><br><noscript><img src="//pic1.zhimg.com/55484205af6c66e436a26e8dfaf45c50_b.jpg" data-rawwidth="576" data-rawheight="432" class="origin_image zh-lightbox-thumb" width="576" data-original="//pic1.zhimg.com/55484205af6c66e436a26e8dfaf45c50_r.jpg"></noscript><img src="//s1.zhimg.com/misc/whitedot.jpg" data-rawwidth="576" data-rawheight="432" class="origin_image zh-lightbox-thumb lazy" width="576" data-original="//pic1.zhimg.com/55484205af6c66e436a26e8dfaf45c50_r.jpg" data-actualsrc="//pic1.zhimg.com/55484205af6c66e436a26e8dfaf45c50_b.jpg"><br>谢♂谢♂收♂看。
+
+
+</div>
+
+</div>
+<a class="zg-anchor-hidden ac" name="7322629-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-08-29" target="_blank" href="/question/24912697/answer/29847132">编辑于 2014-12-14</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>553 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="more-awesome"><span>更多回答</span></div>
+<div class="awesome-answer-list" data-fixed-summary="1">
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7180390"
+data-atoken="29492142"
+data-collapsed="False"
+data-created="1408595123"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="427">427</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">427</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$zheng-mu-48" href="/people/zheng-mu-48">郑木</a>，<strong title="做化工的" class="zu-question-my-bio">做化工的</strong>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="427">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$stephen-25-23" href="http://www.zhihu.com/people/stephen-25-23" class="zg-link" title="stephen">stephen</a>、</span><span class="user-block">知乎用户、</span><span class="user-block"><a data-tip="p$t$su-fei-si" href="http://www.zhihu.com/people/su-fei-si" class="zg-link" title="苏菲寺">苏菲寺</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2147144" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix">楼主在单位工作，就要做些准备工作，知道单位里谁的嘴巴贱，谁做事不靠谱，这样面对他们的时候你就有心理准备，才能更好发挥，但我建议尽量保持和这些极品人士多一点距离。鉴于楼主刚到单位，不了解情况，所以我有点经验和楼主分享，1.装没听到。楼主是女生，最好别掺合这些黄色事情，当男生问你，“看没看过XX三级片的时候”，你就假装没听到，男生说“喂”（和你打招呼）你就回过神来说，“哦，不好意思，刚刚走神了，你说什么，能再说一遍吗？”一般人这时会说没什么，不会再说下去了，除非是特别不要脸的或者别有居心的人，你就要小心他的下一步行动了。这招可以应对些不好回答的问题，应用范围广，当然，演技要好点。<br>2.设反问句。男生问你，“有没有看过XX三级片”你就说，“没看过但知道演的什么，你经常看吗？”设反问句能分散提问者的注意力，而且补充的这句话很有意思，运用了另一个技巧（倒打一耙），这时男生肯定会忙着澄清自己，而忘了继续损你，照你当时的环境及你的身份，你把语气说得轻佻点也不会得罪人。就算过会他回过神来想整你，你也可以不停的设反问句问他，他最后会知趣的。<br>这些办法的指导思想就是堵住对方的话题，察觉苗头不对，就及时掐灭。<br><br>当对方把足球踢给了你，你要怎么办？我的做法是，捡起来扔回给他。<br>3.模棱两可。有时没注意到，让对方占了便宜，在不得罪人，不影响氛围的情况下要怎么找回场子？可以说些模棱两可的话，如他说“肯定看过，我最讨厌女生装纯。”你说“你是个有趣的人或你真幽默。”他如果恼羞成怒，说你是在嘲讽他，你就说“我没这意思，你别想歪了。”然后不用理他了，你已经做出了反击，就不要再和他纠缠，不然这话题‘根本停不下来’。<br>4.话说一半。他说“肯定看过，我最讨厌女生装纯。”你说“这里有很多值得我学习的人。”什么值得学习？他会不明觉厉地问你“这是什么意思？”，你可以说“没什么。”吊他胃口，憋死他。这招也可以起到转移注意力，转移话题的作用。<br>一口气写了这么多，脑细胞死了很多了，有些部分感觉写得不是很好，也懒得继续写了，楼主见谅哈。<br>最后建议楼主，勤奋好学的就去看资治通鉴之类的史书，想偷懒就去看宫廷剧，但别光顾着看剧情，重要的是多想想其中的内涵。或者一些香港的电视剧，多注意他们的谈话方式，技巧和内容 ，充实自己。
+<a href="/question/24912697/answer/29492142" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7180390-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-08-21" target="_blank" href="/question/24912697/answer/29492142">编辑于 2014-08-25</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>59 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+<div class="feed-item">
+<div class="content">
+<div class="entry-body "
+data-aid="7225773"
+data-atoken="29605367"
+data-collapsed="False"
+data-created="1408804640"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-score="0"
+data-copyable="1"
+>
+
+<div class="zm-item-vote">
+<a name="expand" class="zm-item-vote-count" href="javascript:;" data-votecount="262">262</a>
+</div>
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="label">赞同</span>
+<span class="count">262</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label">反对</span>
+</button>
+</div>
+
+<div class="zm-item-answer-detail">
+<div class="zm-item-answer-author-info">
+<h3 class="zm-item-answer-author-wrap">
+
+
+<a data-tip="p$t$yinian-31" href="/people/yinian-31">一念</a>
+
+</h3>
+<a href="javascript:;" name="collapse" class="collapse meta-item zg-right"><i class="z-icon-fold"></i>收起</a>
+</div>
+<div class="zm-item-vote-info " data-votecount="262">
+
+<span class="voters">
+<span class="user-block"><a data-tip="p$t$shuo-nan-gu-fen" href="http://www.zhihu.com/people/shuo-nan-gu-fen" class="zg-link" title="说难孤愤">说难孤愤</a>、</span><span class="user-block"><a data-tip="p$t$hu-hao-20-18" href="http://www.zhihu.com/people/hu-hao-20-18" class="zg-link" title="胡浩">胡浩</a>、</span><span class="user-block"><a data-tip="p$t$tang-rui-54-36" href="http://www.zhihu.com/people/tang-rui-54-36" class="zg-link" title="汤瑞">汤瑞</a></span>
+</span>
+
+
+<a href="javascript:;" class="more"> 等人赞同</a>
+
+
+</div>
+<div class="zm-item-rich-text" data-resourceid="2147144" data-action="/answer/content">
+
+<div class="fixed-summary zm-editable-content clearfix"><strong>老罗黑知乎后看黄继新如何打老罗的脸<img src="//pic2.zhimg.com/3deb483590427ba9d0d28076be5d45e5_b.jpg" data-rawheight="205" data-rawwidth="574" class="origin_image zh-lightbox-thumb" width="574" data-original="//pic2.zhimg.com/3deb483590427ba9d0d28076be5d45e5_r.jpg"></strong>
+<a href="/question/24912697/answer/29605367" class="toggle-expand">显示全部</a>
+<div class="fixed-summary-mask"></div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<a class="zg-anchor-hidden ac" name="7225773-comment"></a>
+<div class="zm-item-meta zm-item-comment-el answer-actions clearfix">
+<div class="zm-meta-panel">
+
+<span class="answer-date-link-wrap">
+<a class="answer-date-link last_updated meta-item" data-tip="s$t$发布于 2014-08-23" target="_blank" href="/question/24912697/answer/29605367">编辑于 2014-08-28</a>
+</span>
+
+<a href="#" name="addcomment" class=" meta-item toggle-comment">
+<i class="z-icon-comment"></i>19 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide" name="thanks" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide" name="share">
+<i class="z-icon-share"></i>分享</a>
+<a href="#" class="meta-item zu-autohide" name="favo">
+<i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" name="nohelp" class="meta-item zu-autohide">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" name="report" class="meta-item zu-autohide">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright"> 作者保留权利 </a>
+
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="zh-answers-title">
+<h3><a href="/question/24912697" class="zg-link-litblue">查看全部 571 个回答</a></h3>
+</div>
+<div class="zu-answer-form-disabled-wrap" id="zh-single-answer-disable-wrap" style="display:none"></div>
+<div class="shameimaru-placeholder" data-class="AnswerBottomShameimaruV2" data-params='{&quot;token&quot;:24912697}'></div>
+</div>
+</div>
+<div class="zu-main-sidebar">
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="well login-reg-box">
+<span>知乎是一个真实的问答社区，在这里分享知识、经验和见解，发现更大的世界。<br>
+<a id="js-reg-with-mail-in-top" href="#">使用手机或邮箱注册</a>
+<span>·</span>
+<a id="js-reg-with-qq-in-top" href="#">使用 QQ 登录</a>
+</span>
+<div class="clearfix">
+<a id="js-reg-with-wechat-in-top" href="#" class="zg-btn-green"><span class="z-ico-wechat-right-panel"></span>使用微信登录</a>
+<a id="js-reg-with-sina-in-top" href="#" class="zg-btn-red"><span class="icon-big-white-sina"></span>使用微博登录</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner zg-gray-normal" id="zh-question-side-header-wrap">
+<button data-follow="q:m:button" class="follow-button zg-follow zg-btn-green" data-id="2147144">关注问题</button>
+
+23210
+人关注该问题
+
+</div>
+</div>
+
+<div class="zm-side-section sidebar-author-info clearfix">
+<div class="zm-side-section-inner" id="js-sidebar-author-info">
+<h3>关于作者</h3>
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="59fcae62596fb6ba08f2860a5fe6f171" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Kaiser"
+data-tip="p$t$kaiserwang730"
+class="zm-item-link-avatar"
+href="/people/kaiserwang730">
+<img src="//pic1.zhimg.com/21cb65b48_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$kaiserwang730" href="http://www.zhihu.com/people/kaiserwang730" class="zg-link" title="Kaiser">Kaiser</a></h2>
+
+<div class="zg-big-gray">天亮了</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/kaiserwang730/followers" class="zg-link-gray-normal">163868 关注者</a>
+/
+<a target="_blank" href="/people/kaiserwang730/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/kaiserwang730/answers" class="zg-link-gray-normal">508 回答</a>
+/
+<a target="_blank" href="/people/kaiserwang730" class="zg-link-gray-normal">371753 赞同</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerUpShameimaruV2" data-params='{&quot;token&quot;:24912697}'></div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<h3>被收藏 <a href="/question/24912697/answer/29847132/collections">14066</a> 次</h3>
+<div id="zh-fav-list-side-related">
+
+<div class="zm-item" id="mi-1362968593">
+<h2 class="zm-item-title ">
+<a href="/collection/19928423">赞同超过1000的回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19928423/followers">52388 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1401335691">
+<h2 class="zm-item-title ">
+<a href="/collection/37406996">知乎 5000 斩！！</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/mobozhi" data-tip="p$t$mobozhi" class="zg-link-litblue"> 莫博之 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/37406996/followers">40394 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1407840223">
+<h2 class="zm-item-title ">
+<a href="/collection/38887091">赞同超过10K的回答</a>
+</h2>
+<div class="zm-item-meta">
+
+<span class="zg-gray"> 知乎用户 </span> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/38887091/followers">31719 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1387762972">
+<h2 class="zm-item-title ">
+<a href="/collection/30429493">点赞过万</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/attttt" data-tip="p$t$attttt" class="zg-link-litblue"> 语山 </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/30429493/followers">21790 人关注</a>
+
+</div>
+</div>
+
+<div class="zm-item" id="mi-1362558486">
+<h2 class="zm-item-title ">
+<a href="/collection/19918157">优秀男友训练中心</a>
+</h2>
+<div class="zm-item-meta">
+
+<a href="/people/will-32" data-tip="p$t$will-32" class="zg-link-litblue"> will </a> 创建
+
+
+<span style="color: #dddddd;">&nbsp;|&nbsp;</span>
+<a class="zg-link-gray" href="/collection/19918157/followers">19946 人关注</a>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div id="zh-question-related-questions" class="zh-question-related-questions clearfix">
+
+<a class="zg-right next">换一换</a>
+
+<h3>相关问题</h3>
+<ul itemprop="relatedQuestion" itemscope itemtype="http://schema.org/ItemList">
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/24553477">内向的人一定情商低吗？</a> <span class="num">14 个回答</span><meta itemprop="followerCount" content="182" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21105795">到底什么是真正的情商？</a> <span class="num">53 个回答</span><meta itemprop="followerCount" content="1851" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22427242">面对非常讨厌的人终于撕破脸是不是情商很低的表现？</a> <span class="num">2 个回答</span><meta itemprop="followerCount" content="8" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20733388">慢热加不善于言语的人要怎么跟陌生人熟悉起来？</a> <span class="num">12 个回答</span><meta itemprop="followerCount" content="186" /></li>
+
+<li itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/24197610">上级是大领导的小舅子，能力差情商低怎么破？</a> <span class="num">3 个回答</span><meta itemprop="followerCount" content="7" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/22932100">情商不高又怎样？</a> <span class="num">21 个回答</span><meta itemprop="followerCount" content="232" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21987135">不爱说话的人情商低吗？</a> <span class="num">20 个回答</span><meta itemprop="followerCount" content="79" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/24554691">所谓高情商就是圆滑处世吗？</a> <span class="num">202 个回答</span><meta itemprop="followerCount" content="6988" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/20643399">如何完善性格、提升情商？</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="528" /></li>
+
+<li hidden itemprop="itemListElement" itemscope itemtype="http://schema.org/Question"><a class="question_link" href="/question/21996686">伴侣是个情商很低的人如何相处?</a> <span class="num">6 个回答</span><meta itemprop="followerCount" content="20" /></li>
+
+</ul>
+</div>
+</div>
+</div>
+<div class="zm-side-section zh-answer-status">
+<div class="zm-side-section-inner">
+<h3>回答状态</h3>
+<p>
+
+最后编辑于
+
+<span class="time">2014-12-14</span>
+</p>
+<p>
+所属问题被浏览 <strong>1437971</strong> 次
+</p>
+<p class="copyright">
+
+<a href="/terms#sec-licence"><i class="icon icon-copyable"></i>作者保留所有权利</a>
+
+</p>
+</div>
+</div>
+<div class="shameimaru-placeholder" data-class="AnswerDownShameimaruV2" data-params='{&quot;token&quot;:24912697}'></div>
+</div>
+<div class="zg-clear"></div>
+</div>
+
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+<script type="text/template" class="register-template">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<button type="button" class="switch-to-login">已有帐号？</button>
+<button class="submit blue-button">注册</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+</div>
+</div>
+<div class="title verification">
+<h1>验证手机</h1>
+<h2>请输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="login-template">
+<div class="title login">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<div class="actions">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">登录</button>
+</div>
+</form>
+<div class="sns clearfix">
+<h1>社交帐号登录</h1>
+<button type="button" class="wechat"><span class="ico z-ico-wechat"></span>微信</button>
+<button type="button" class="weibo"><span class="ico z-ico-weibo"></span>微博</button>
+<button type="button" class="qq"><span class="ico z-ico-qq"></span>QQ</button>
+</div>
+</div>
+</script>
+<script type="text/template" class="unable-login-template">
+<div class="title start">
+<h1>无法登录</h1>
+<h2>我们提供两种方式帮助你重新登录知乎</h2>
+</div>
+<div class="view start">
+<button class="blue-button reset-password">找回密码</button>
+<button class="blue-button sms-login">使用手机验证码登录</button>
+</div>
+<div class="title reset-password-verification">
+<h1>找回密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title reset-password">
+<h1>重设密码</h1>
+<h2>验证码将会发送至你的注册邮箱或手机</h2>
+</div>
+<div class="view reset-password">
+<form action="/resetpassword/email">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" placeholder="新密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="邮箱收到的 6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">重设密码</button>
+</form>
+</div>
+<div class="title sms-login-verification">
+<h1>登录知乎</h1>
+<h2>验证码将会发送至你的手机</h2>
+</div>
+<div class="view sms-login-verification">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">获取验证码</button>
+</form>
+</div>
+<div class="title sms-login">
+<h1>登录知乎</h1>
+<h2>输入你收到的 6 位数短信验证码</h2>
+</div>
+<div class="view sms-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="phone_num" placeholder="手机号" required>
+</div>
+<div class="input-wrapper verification-code">
+<input type="text" name="verification_code" placeholder="6 位数验证码" maxlength="6" required>
+<button type="button" class="send-code">重发验证码</button>
+</div>
+<button class="submit blue-button">登录知乎</button>
+</form>
+</div>
+</script>
+<script type="text/template" class="oauth-register-template">
+<div class="title register">
+<h1>填写姓名</h1>
+<h2>请填写你的真实姓名</h2>
+</div>
+<div class="view register">
+<form>
+<div class="input-wrapper">
+<input type="text" name="fullname" placeholder="姓名" required>
+</div>
+<div class="input-wrapper captcha">
+<input type="text" name="captcha" placeholder="验证码" required>
+<div class="captcha" data-tip="s$b$看不清楚？换一张">
+<img>
+</div>
+</div>
+<button class="submit blue-button">进入知乎</button>
+</form>
+</div>
+<div class="title bound">
+<h1>登录知乎</h1>
+<h2>该微博曾绑定过以下帐号</h2>
+</div>
+<div class="view bound">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title registered">
+<h1>微博邮箱已注册知乎</h1>
+<h2>已注册至如下帐号</h2>
+</div>
+<div class="view registered">
+<img src="" width="50px" height="50px">
+<span class="name"></span>
+<button class="blue-button bind-login">绑定此帐号并登录</button>
+<button class="button register">不绑定，用微博创建新帐号</button>
+</div>
+<div class="title bind-login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view bind-login">
+<form>
+<div class="input-wrapper">
+<input type="text" name="account" class="account" placeholder="手机号或邮箱" required disabled>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="actions">
+<button class="unable-login" type="button">无法登录？</button>
+<button class="submit blue-button">绑定并登录</button>
+</div>
+</form>
+</div>
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1440662736000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="current_question">{"status":"normal","isLocked":0,"detailEditReasonRequired":true,"editPermission":false,"isAnon":0,"qid":2147144,"urlToken":24912697,"askAboutMember":0}</script>
+<script type="text/json" class="json-inline" data-name="draft">[]</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/46201a6f385436f0f822dd895a1769a8.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/5c4a1ff2d8c7b65ced3c78c6f773554d.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/0a31d5fcb47d7c9161324ba54a206504.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/d07988700e1807410495cc8f1b6615fa.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="ddedf5c13bb44b1eb793365085a838eb">
+ZH.entrySA();
+</script>
+
+<input type="hidden" name="_xsrf" value="60bb1845311b6926c6d650970166a74e"/>
+</body>
+</html>
