@@ -1,3 +1,9 @@
+### List file and directories by size
+
+    du -hs * | sort -h
+
+> You can use `du -h | sort -h` to locate the most disk-consuming directory fastly.
+
 ### Kill a process by force
     sudo kill -9 pid
 

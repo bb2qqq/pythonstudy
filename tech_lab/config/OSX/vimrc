@@ -29,6 +29,9 @@ ca utf normal 1GO# coding: utf-8
 " Remove trailing blanks
 ca rmb :%s/\s\+$//g
 
+" markdown comment
+ia cmt [//]: # (Type_your_comments_here)
+
 " Add python empty doc
 command! Doc normal 0i"""<cr>"""
 

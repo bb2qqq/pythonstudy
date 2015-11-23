@@ -1,4 +1,9 @@
 #############           LOG         #####################
+### Show git repo size
+Run these 2 commands in serial order:
+    git gc
+    git count-objects -vH
+
 
 ### show commit message and HEAD only
     git log --pretty=oneline

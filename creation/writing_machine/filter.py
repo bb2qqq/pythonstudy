@@ -1,4 +1,5 @@
 # coding: utf-8
+""" 根据SogouLabDic.dic 文件生成python格式的字典文件"""
 
 base_dict = {}
 genre_set = set([])
@@ -30,6 +31,6 @@ with open("SogouLabDic.dic", 'r') as f:
         except:
             pass
 
-with open('base_dict.py', 'w') as f:
-    f.write('base_dict=%r\n' % base_dict)
-    f.write('genre_dict=%r\n' % genre_dict)
+with open('TEMPZ_base_dict.py', 'w') as f:
+    f.write('TEMPZ_base_dict=%r\n' % base_dict)
+    f.write('TEMPZ_genre_dict=%r\n' % genre_dict)
