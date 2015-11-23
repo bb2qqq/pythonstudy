@@ -1,3 +1,20 @@
+### Run vimdiff in colorless mode
+
+    TERM=vt100 vimdiff file1 file2
+
+> You can even use `TERM=vt110` to make an intended error parameter,  
+> in order to cancel the highlights.
+
+
+### Define a user command
+You use `:command Your_command_name command_text` to diy command:
+Such as:
+
+    :command Hi echo "Go and suck my dicks!"
+    :Hi
+
+> DIY command must starts with upper class letters.
+
 ### Encrypt a file
     :X
 > Be aware, after you encrypted a file, you must use `:wq` to save your encryption.  

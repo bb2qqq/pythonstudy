@@ -1,0 +1,27 @@
+# 以#开头的行是注释
+# 请将multi_clip_dir修改为你指定的文件夹/文件抬头(确保文件夹存在），该文件夹将用来存放临时文件
+# 请将default_multi_clip_text替换为你在使用不带参数的`x`命令时自动注入clipboard的文本
+
+multi_clip_dir="/Users/zen1/zen/pythonstudy/tech_lab/utils/multple_clipboard/buffer_zone/tmp"
+default_multi_clip_text="/Users/zen1/zen/shared/genesis/backend/"
+
+    function z {
+        if [ -n "$1" ]
+            then
+            target_file=$multi_clip_dir$1
+        fi
+        echo $2 > $target_file
+    }
+    export -f z
+
+    function x {
+        if [ -n "$1" ]
+            then
+            text="$(cat $multi_clip_dir$1)"
+        else
+            text=$default_multi_clip_text
+        fi
+        echo -n $text | tr -d "\n" | pbcopy
+    }
+    export -f x
+

@@ -3,7 +3,7 @@
 "set paste
 
 " External file import
-" so zen_tool.vim
+so /Users/zen1/zen_tool.vim
 
 
 " Abbreviation
@@ -26,10 +26,11 @@ ca rp r!pbpaste
 ca 80off match OverLength /\%8000v.\+/
 " Add utf-8 head for python file
 ca utf normal 1GO# coding: utf-8
-" Add python empty doc
-ca doc normal 0i""""""
 " Remove trailing blanks
 ca rmb :%s/\s\+$//g
+
+" Add python empty doc
+command! Doc normal 0i"""<cr>"""
 
 filetype plugin on
 
@@ -38,7 +39,6 @@ autocmd FileType markdown highlight ExtraWhitespace ctermbg=blue guibg=blue | ma
 colorscheme mario
 
 " DIY FUNCTION AREA
-
 
 function Max2num(n1, n2)
     if a:n1 < a:n2
@@ -128,7 +128,9 @@ nnoremap <F10> :vertical resize +5<cr>
 
 
 " General Identation
-set expandtab | set tabstop=8 | set shiftwidth=4 | set softtabstop=4
+" set expandtab | set tabstop=8 | set shiftwidth=4 | set softtabstop=4
+" COMENTTED ON 2015-10-13 12:20
+set expandtab | set tabstop=4 | set shiftwidth=4 | set softtabstop=4
 
 
 " Make vim understand that .md is short for .markdown
@@ -152,6 +154,8 @@ autocmd FileType python match ExtraWhitespace /\s\+$/
 autocmd FileType markdown set shiftwidth=2
 
 
+" C CONFIG
+setlocal comments-=://      " Disable auto insert // in a new line after a comment
 
 
 " OTHERS
@@ -185,7 +189,6 @@ set mouse=nichr
 " Type   :help backspace   to view details
 set backspace=indent,eol,start
 
-
 " Disable auto insert hash when type newline after a comment line
 " Type   :help fo-table   to view details
-set formatoptions-=cro
+autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o

@@ -32,6 +32,9 @@
 
 ###################         REMOTE          ###########################
 
+### Set local branch to pull from target remote branch
+    git branch --set-upstream-to=origin/remote_branch_name local_branch_name
+
 ### get remote url
     git config --get remote.origin.url
 
@@ -40,7 +43,7 @@
 
 ### git fetch only fetch reomte branch data, git pull will fetch and merge automatically
     git fetch remote_name remote_branch_name
-git pull  remote_name remote_branch_name
+    git pull  remote_name remote_branch_name
 
 ###  fetch all remote data
     git fetch --all
@@ -134,22 +137,16 @@ git pull  remote_name remote_branch_name
 
 
 ### Apply a change info in a particular commit to current branch:
-
     git cherry-pick d42c389f
 
-
 ### Apply a particular stash to current working directory, reapply the stage status, too.
-
     git stash apply stash@{3} --index
-
 
 ### git removing all deleted files
     git rm $(git ls-files --deleted)
 
-
 ### edit gitconfig
     vim ~/.gitconfig
-
 
 ### @{u} and @{upstream} are short for the upstream branch of current branch, so this command merge the current branch with its upstream branch
     git merge @{u}

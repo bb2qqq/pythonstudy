@@ -1,5 +1,15 @@
 ## GREP ##
 
+### grep OR
+The OR seperator in grep is `\|`.
+
+If you wanna find lines which contains at least 1 pattern within a bunch of patterns.  
+Like if I wanna find lines contain `Lucy` or `Lily` or both of them, I use:
+
+    grep 'Lucy\|Lily' taget_file
+
+> when using `-e` option, you should use `\` instead of `\|` as separator.
+
 ### Non greedy search
     grep -P 'a*?b+?c??'
 > By default, grep doesn't support non greedy search, and -P means enable the Perl style regex, which support non greedy search.

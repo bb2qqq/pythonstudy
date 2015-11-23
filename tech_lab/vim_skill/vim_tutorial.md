@@ -1,5 +1,3 @@
-** (n) in this tutorial means you should type a number, `()` should not be present in your command **
-** (a-z) means type a character between a to z, `()` should not be present in your command **
 
 ### Basic Navigation
 
@@ -510,7 +508,7 @@ When in inserting mode, press `CTRL-X CTRL-L`, you can auto-complete a line with
 
 In vim, you can fold lines to simplify navigation.  
 `:range fold` can fold lines in the specific range.  
-`zf<Navigation>` will fold the lines of Navigation moves by.  
+`zf<Navigation>/<Visual Selection>zf` will fold the lines of Navigation moves by.  
 `zd` will delete(unfold) a fold under the current cursor,  
 `za` will toggle the fold below the cursor.  
 `zR` will unfold all folds,  

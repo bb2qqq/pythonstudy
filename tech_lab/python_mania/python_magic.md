@@ -1,3 +1,47 @@
+### 将任意字符串变成全局变量
+
+      target_string = raw_input()
+      command_1 = 'global %s' % target_string
+      exec(command_1)
+      globals()[target_string] = self
+
+
+
+### 在全局变量中执行字符串命令
+exec默认是在locals()变量环境里执行语句，如果想要在全局变量环境里执行的话
+
+你需要使用 `exec 'my_command' in globals()`  
+如果需要在本地和global的混合环境里执行命令，你使用`exec 'my_command' in globals(), locals()`  
+
+[相关讨论](http://stackoverflow.com/questions/2083353/cannot-change-global-variables-in-a-function-through-an-exec-statement)
+[官方文档](https://docs.python.org/2/reference/simple_stmts.html#the-exec-statement)
+
+
+### 查看一个OBJ的代码依赖关系
+    import traceback
+    # inside something
+    for i in traceback.extract_stack:
+        print i
+
+
+### 查看一个变量是否是函数
+    hasattr(var, '__call__')
+
+
+### 反转变量True False属性
+    a = "Hi"
+    a = not a
+    a
+    False
+    a = not a
+    a
+    True
+
+
+### 小心浮点数
+在python2.7里，你指定一个值，st=0.7999999999999，你调用该值，得到0.7999999999999， 你print它， 你得到的是。。`0.8`
+
+
 ### 让你的程序运行指定的时长
     import signal
     import sys

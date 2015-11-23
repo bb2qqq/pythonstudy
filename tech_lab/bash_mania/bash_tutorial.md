@@ -1,6 +1,11 @@
-shell 是用来帮助人和机器交流的中间层。它将人的命令转化为机器能听懂的语言。terminal是shell的外观，人的输入和机器的反应会显示在它的外观上。
+shell 是用来帮助人和机器交流的中间层。它将人的命令转化为机器能听懂的语言。  
+terminal是shell的外观，人的输入和机器的反应会显示在它的外观上。
 
-Bourne Shell是unix上最早的shell, 它叫这个名字是因为最早作者的名字里有`Bourne`这个词，它写于1970s。由于它是最早的shell,所以缩写是`sh`。而bash则是另一个家伙在1989年写的，里面加入了一些增强特性。为了表达对`Bourne Shell`作者的敬意，这个新shell的名字叫`Bourne Again Shell`, 尽管新作者的名字和`Bourne`没有半毛钱关系。而这个新shell的缩写则是我们现在广泛使用的`bash`
+Bourne Shell是unix上最早的shell, 它叫这个名字是因为最早作者的名字里有`Bourne`这个词，它写于1970s。  
+由于它是最早的shell,所以缩写是`sh`。  
+而bash则是另一个家伙在1989年写的，里面加入了一些增强特性。  
+为了表达对`Bourne Shell`作者的敬意，这个新shell的名字叫`Bourne Again Shell`, 尽管新作者的名字和`Bourne`没有半毛钱关系。  
+而这个新shell的缩写则是我们现在广泛使用的`bash`
 
 开一个新terminal窗口的时候会开启一个shell进程
 

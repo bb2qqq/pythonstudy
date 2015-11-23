@@ -26,7 +26,8 @@ Then you need to make a reward-punishment rule for your robot.
 Get a can, nice! +10 points.
 Try pick a can in an empty place, not good, -10 points.
 Hit a wall? Whoops, -20 points.
-(You know what, I think `reward pick a can correctly` was a strong enough rule to evolve an efficient robot, without any other rules, others just accelerate the process, or maybe not, we can test it.)
+(You know what, I think `reward pick a can correctly` was a strong enough rule to evolve an efficient robot,
+without any other rules, others just accelerate the process, or maybe not, we can test it.)
 
 
 OK, now we start to produce a bunch of robots with different strategies.
@@ -36,7 +37,7 @@ And we made 100 genomes with 243 genes.
 We put these robots into test, let them do 200 actions, watch their scores.
 We pick samples among those best scorers, let them interchange their genes to produce offspring.
 And maybe add some small random change in offspring to accelerate the evolution.
-Until we got a new generation of 100 robots. 
+Until we got a new generation of 100 robots.
 
 
 After 1000 or more evolutions, you can get the final generation robots.
@@ -146,7 +147,7 @@ class Robot(object):
                 selected_index = random.choice(range(0, len(self.genome) - slice_length))
             else:
                 selected_index = 0
-            
+ 
             end_index = selected_index + slice_length
             father_slice = self_gnome_items[selected_index : end_index]
             mother_slice = mother_gnome_items[0 : selected_index] + mother_gnome_items[end_index : ]
@@ -196,7 +197,7 @@ class Robot(object):
                 self.score += self.PUNISHMENT  # Punishment for negative behaviour
                 self.negative_score += self.PUNISHMENT
             else:  # Walkable
-                self.current_position = (target_x, target_y)    
+                self.current_position = (target_x, target_y)
         else:  # Robot choose to Pick
             have_can = self.current_map[current_position]
             if not have_can:  # No can there.
@@ -210,7 +211,7 @@ class Robot(object):
         self.track.append(self.current_position)
 
     def exploring_map(self):
-        """ current code only support 2 dimension exploring 
+        """ current code only support 2 dimension exploring
             The imaginary map looks like:
              ...   ...  ...
             [0,1] [1,1] ...
@@ -238,8 +239,8 @@ FACTORS WHICH INFLUENCES THE EVOLUTION SPEED:
 """
 
 def generate_map(border_range, can_chance=0.5, dimension = 2, irregular=False):
-    """ can_chance is a value between 0 and 1 
-        irregular parameter is for future extension of irregular map     
+    """ can_chance is a value between 0 and 1
+        irregular parameter is for future extension of irregular map
         dimension paramter is for future extension of 3 dimension exploring
     """
     map_dict = {}

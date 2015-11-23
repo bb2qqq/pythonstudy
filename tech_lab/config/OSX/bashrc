@@ -50,6 +50,7 @@ alias gzd='pushd ~/zen/pythonstudy/creation/zen_dict'
 alias cre='pushd ~/zen/pythonstudy/creation/'
 alias mc='pushd ~/zen/pythonstudy/creation/zen_dict/mcwiki'
 alias alg='pushd ~/zen/pythonstudy/tech_lab/algorithm'
+alias lc='pushd ~/zen/pythonstudy/tech_lab/algorithm/leetcode'
 alias gcien='pushd ~/zen/pythonstudy/grocery/literatura/master_obra'
 alias au='pushd /Users/zen1/zen/automation'
 alias be='pushd ~/zen/pythonstudy/Brain_extension'
@@ -72,6 +73,7 @@ alias nzd='pushd /Users/zen1/zen/zen_dict/'
 
 # COMMANDS
 alias py='python'
+alias py3='python3'
 alias ipy='ipython -i'
 alias pd='pushd'
 alias pbc='pwd | pbcopy'
@@ -81,7 +83,19 @@ alias gbs='gitbook serve .'
 alias vim='/usr/local/bin/vim'
 alias cl='crontab -l'
 alias k='cd ..'
+alias j='vim ./'
+alias h='cd ..; vim ./'
+alias l='cd ..; vim ./'
+alias n='pbpaste | tr -d "\n" | pbcopy'  # Remove newlines in clipboard
 alias rdm='vim readme.md'
+alias vg='valgrind --track-origins=yes'
+alias ez='make exz && ./exz'
+alias vz='vim exz.c'
+alias lst='ls -lhrt'
+alias lss='ls -lhrS'
+alias lsd='tree -d -L 1'
+alias http='python -m SimpleHTTPServer 8000'
+alias vd='vimdiff'
 
 # search
 alias gr='grep'
@@ -97,13 +111,18 @@ alias gpl='git pull'
 alias gps='git push'
 alias gs='git status '
 alias gcm='git commit '
+alias gt='git log --tags --simplify-by-decoration --pretty="format:%ci %d"'
+alias gts='git tag | grep '
+alias gpt='git push origin '
+alias ga='git add .'
 # unsort
-alias http='python -m SimpleHTTPServer 8000'
 
 
 
 # FILE MANIPULATION
 alias 1='vim /users/zen1/zen/pythonstudy/1'
+alias 2='vim /users/zen1/zen/pythonstudy/2.txt'
+alias 3='vim /users/zen1/zen/pythonstudy/3'
 alias cien='vim ~/zen/pythonstudy/grocery/literatura/master_obra/cien'
 alias phi='vim ~/zen/pythonstudy/Brain_Extension/Some_times_I_am_philosophical'
 alias vb='vim ~/.bashrc'
@@ -115,7 +134,7 @@ alias pyc='vim /Users/zen1/zen/pythonstudy/tech_lab/Pycharm/mac_note.md'
 alias mem='vim /Users/zen1/zen/pythonstudy/Brain_extension/memo'
 alias zen='vim ~/zen/pythonstudy/book/zen_book/zen.md'
 alias raw='vim /Users/zen1/zen/pythonstudy/Brain_extension/raw'
-alias fun='vim /Users/zen1/zen/pythonstudy/Brain_extension/fun'
+alias fun='pushd /Users/zen1/zen/pythonstudy/fun'
 
 
 # local code directory
@@ -133,7 +152,11 @@ alias bm='pushd /Users/zen1/zen/pythonstudy/tech_lab/bash_mania'
 alias pm='pushd /Users/zen1/zen/pythonstudy/tech_lab/python_mania'
 alias vs='pushd /Users/zen1/zen/pythonstudy/tech_lab/vim_skill'
 alias vida='pushd /Users/zen1/zen/pythonstudy/vida/'
-
+alias c='pushd /Users/zen1/zen/pythonstudy/tech_lab/C/LearnCTheHardWay'
+alias js='pushd /Users/zen1/zen/pythonstudy/tech_lab/javascript'
+alias d3='pushd /Users/zen1/projects/show_graphic_data'
+alias tornado='pushd /Library/Python/2.7/site-packages/tornado/'
+alias conf_ipy='pushd /Users/zen1/.ipython/profile_default/startup'
 
 # REMOTE HOST
 alias tec='pushd ~/zen/pythonstudy/tech_lab'
@@ -141,7 +164,7 @@ alias old_tec='pushd ~/zen/pythonstudy/old_tech_lab'
 
 # Utilities
 alias r='open ~/zen/shared/library/reading/*'
-alias t='ipython -i  ~/zen/pythonstudy/tech_lab/script/zen_py_tool.py'
+alias t='ipython -i /Users/zen1/zen/pythonstudy/tech_lab/utils/python_scripts/zen_py_tool.py'
 alias gl='git log --pretty=format:"%h %<(13) %cn %ci  %d     %s  "'
 alias pro='vim /Users/zen1/zen/pythonstudy/book/notebook/pro_程序员日记'
 alias d='ipython -i /Users/zen1/zen/pythonstudy/creation/decision_maker.py'
@@ -209,37 +232,63 @@ export -f nth
 function zd { pushd ~/zen/pythonstudy/creation/zen_dict/; ipython -i ~/zen/pythonstudy/creation/zen_dict/base_dict.py "$1"; pushd;}
 export -f zd
 
+# multilple clipboard
+# 请将multi_clip_dir修改为你指定的文件夹/文件抬头(确保文件夹存在），该文件夹将用来存放临时文件
+# 请将default_multi_clip_text替换为你在使用不带参数的`x`命令时自动注入clipboard的文本
+multi_clip_dir="/Users/zen1/zen/pythonstudy/tech_lab/utils/multple_clipboard/buffer_zone/tmp"
+default_multi_clip_text="/Users/zen1/zen/shared/genesis/backend/"
+function z {
+    if [ -n "$1" ]
+        then
+    target_file=$multi_clip_dir$1
+    fi
+    echo $2 > $target_file
+}
+export -f z
+
+function x {
+    if [ -n "$1" ]
+        then
+        text="$(cat "$multi_clip_dir""$1")"
+    else
+        text=$default_multi_clip_text
+    fi
+    echo -n $text | tr -d "\n" | pbcopy
+}
+export -f x
+
+
 
 # Inactive functions
 function pme {
-               if [ -n "$1" ]
-                    then
-                    user="$1"
-               else
-                    user="zen"
-               fi
-               ipython -i /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user
-             }
+   if [ -n "$1" ]
+        then
+        user="$1"
+   else
+        user="zen"
+   fi
+   ipython -i /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user
+}
 
 function pms {
-               if [ -n "$1" ]
-                    then
-                    user="$1"
-               else
-                    user="zen"
-               fi
-               python  /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user show "$2"
-             }
+    if [ -n "$1" ]
+        then
+        user="$1"
+    else
+        user="zen"
+    fi
+    python  /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user show "$2"
+}
 
 function pmcki {
-               if [ -n "$1" ]
-                    then
-                    user="$1"
-               else
-                    user="zen"
-               fi
-               python  /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user check_in "$2"
-             }
+    if [ -n "$1" ]
+        then
+        user="$1"
+    else
+        user="zen"
+    fi
+    python  /Users/zen1/zen/pythonstudy/creation/project_manager/project_manager.py $user check_in "$2"
+}
 export -f pme
 export -f pms
 export -f pmcki

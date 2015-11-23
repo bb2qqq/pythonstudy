@@ -67,7 +67,14 @@
     brew install ctags-exuberant
 
 ### Switch Esc and Cap in mac
-    http://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x
+New tutorial can map `Caps` to both `Control` and `Esc`, but have like 200ms lag when press single `Caps` to get an `Esc` action.  
+And I thought it through, it's unavoidable cost in order to distinguish `Escape` and `Control` behaviour.  
+So we'd better use `Seil`(Old tutorial) to swap `Caps` and `Esc`,  
+Meanwhile using `karabiner` to do other kind of manipulations.
+
+[Old tutorial](http://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x)
+[New tutorial](http://apple.stackexchange.com/questions/132564/how-can-i-remap-caps-lock-to-both-escape-and-control)
+
 
 ### Install TagList on OS X
     http://www.vim.org/scripts/script.php?script_id=273

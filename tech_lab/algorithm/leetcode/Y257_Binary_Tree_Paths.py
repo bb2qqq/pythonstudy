@@ -121,14 +121,6 @@ class Solution(object):
         return self.all_paths
 
 
-class Solution_2(object):
-    def binaryTreePaths(self, root):
-        """
-        :type root: TreeNode
-        :rtype: List[str]
-        """
-
-
 
 ###   测试用例区域
 

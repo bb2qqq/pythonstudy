@@ -1,3 +1,127 @@
+### Kill a process by force
+    sudo kill -9 pid
+
+This kills nearly everything, which is the strongest signal I guess.  
+Below are some other signal references from `man kill`:
+
+     1       HUP (hang up)
+     2       INT (interrupt)
+     3       QUIT (quit)
+     6       ABRT (abort)
+     9       KILL (non-catchable, non-ignorable kill)
+     14      ALRM (alarm clock)
+     15      TERM (software termination signal)
+
+
+
+### Bring background program to foreground
+1. use `jobs` to view all background programs.  
+2. type `fg %number` to bring specified task to foreground.  
+
+> if using bare `fg`, it will revoke the last backgrounded task, which has the biggest serie number in the queue.
+
+## tr
+`tr` is short for translate, its abstract form is `tr [options] "set1" "set2" < source_text`.  
+For every characters in `source_text`, if tr find it in `set1`, then it will be translated to correspoding char in `set2`.  
+Basically, characters ins `set1` and `set2` should be mapped one by one.  
+e.g. take set1='abc', set2='789', a->7, b->8, c->9.  
+If `set1` is greater than `set2`, all the chars in the extra longer part will be map to **LAST** char of `set2`.  
+If `set2` is greater than `set1`, the extra longer part won't be used.  
+
+### Translate with range
+When you wanna transfer `b-z` into `$`, will you write something like `tr 'bcdefghijklmnopqrstuvwxyz' '$' < source_text`?  
+Definitely not, you use `tr 'b-z' '$' < source_text`.
+
+### Special ranges
+`tr` has implemented several special ranges by default, here are some most popular cases.
+
+[:alnum:]       == "0-z" == "0-9A-Za-z"
+[:alpha:]       == "A-z" == "a-zA-Z"
+[:punct:]       all punctuation chars
+[:upper:]       all upper case letters
+[:lower:]       all lower case letters
+[:space:]       all spaces
+[:graph:]       all printable chars, not including space
+[:cntrl:]       all control characters, include newline
+[:print:]       ==  " [:graph:]"
+
+### Complement translation
+What if you want translate/delete everything except a selected set?  
+`-C/-c` option is what you want.  
+
+By using `tr -cd " [:alphanum:]"`, you delete every thing except alphanum and spaces.
+
+
+### Squeeze Characters
+By using `-s`, if a character repeat itself continuously, and that char is in `set1` it will be squeezed in to one correspoding character in `set2`
+
+    $ echo "blah, blah, blahhh" | tr -s "h" "h"
+    blah, blah, blah
+
+    $ echo "I  will     crush   you" | tr -s " "  " "
+    I will crush you
+
+** Beaware, `echo "XXXYYY" | tr -s "XY" "Z"` will give you a single `Z` instead of `ZZ`. **
+### Remove Newline from input
+
+    Input_command | tr -d '\n'
+
+I guess you can also remove `\t`, `\r` with this command, too!
+> You can use `alias fcp='echo "FREQUENTLY USED TEXT" | tr -d "\n" | pbcopy'` to made a fast copy shortcut alias.
+
+### Start ipython with certain scripts
+Put your scripts file on `~/.ipython/profile_default/startup/`.
+[More discussions](http://stackoverflow.com/questions/11124578/automatically-import-modules-when-entering-the-python-or-ipython-interpreter)
+
+
+### View local route information
+    route
+    netstat -rn
+
+### Show System Resource Supply
+    ulimit -a
+
+This lists out all system resource supplies for current shell.
+
+> Linux上查看系统能开启的最大进程数，使用：`cat /proc/sys/kernel/pid_max`
+
+### List all directories in current level
+    tree -d -L 1
+> To list more levels, change the last value `1` to what you prefer!
+
+### Read user input as command and execute it
+
+    read -p "Do you love me" answer
+    echo $answer
+    eval $answer
+
+> -p flag in read will prompt the hint message
+
+### Compare piped input with another file
+    echo "ddd" | sort - target_file
+
+    1
+    2
+    3
+    5
+    ddd
+
+### Redirect command substitution result
+Redirect as input
+    sort <(ls -l)
+
+Feed by other commands' output
+
+    ls -l | tee >(grep ab > result_ab) >(grep cd > result_cd) >(grep ef > result_ef)
+    echo "I got candy" > >(wc -l)
+
+> If the >(list) form is used, writing  to  the  file  will  provide input for list.  
+> If the <(list) form is used, the file passed as an argument should be read to obtain the output of list.  
+> In the second command, tee will trigger the `write to file` action.  
+> I think we can consider `>(your_command)` as a file.  
+> But it will process the content you wirte in with its commands.  
+> <(list) is also a fifo file! Can read behaviour will release its content!
+
 ### Find tomorrow date
     tomorrow=$(date +"%Y-%m-%d" --date='-1 days ago')
     tomorrow=$(date +"%Y-%m-%d" --date='next day')
@@ -8,8 +132,8 @@
 ### SSH PROXY
     ssh -D agent_port usr@remote_host
 > After using this command, go to your network setting, enable socks proxy, and filled you `local ip(usually 127.0.0.1)` and `agent_port` in. Apply it.
-> Be sure that on your remote host, in `/etc/ssh/sshd_config`, the `AllowTcpForwarding` option was set to `yes`.
-> Then you can use your browser to surf online freely now!
+> Be sure that on your remote host, in `/etc/ssh/sshd_config`, the `AllowTcpForwarding` option was set to `yes`. (Be aware, it is `sshd_config` not `ssh_config`)
+> Then you can use your browser to surf online freely now! (You'd better using safari, because you may use proxy apps on your chrome, which could cause problems.)
 
 ### SSH Forwarding
 SSH Forwarding enable an agent machine to visit a target machine where your public key resides in its `authorized_hosts`.
@@ -92,7 +216,7 @@ SSH Forwarding enable an agent machine to visit a target machine where your publ
 
 
 
-### SYSTEM ###
+## SYSTEM ##
 
 Find release version of your Linux system:
     cat /etc/*release

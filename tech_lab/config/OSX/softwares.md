@@ -1,9 +1,24 @@
+# Other Bash tools
+`jq`: A JSON doc file Query tool
+
+# Install Seil(Key Swap/Mapping)
+[Discussion](http://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x)
+
+# Install Karabiner(Key and Mouse Manipulation)
+[Discussion on stackoverflow](http://apple.stackexchange.com/questions/132564/how-can-i-remap-caps-lock-to-both-escape-and-control)  
+[Download Link](https://pqrs.org/osx/karabiner/)  
+> By using this, you can map `Caps` to both `Esc` and `control`.  
+> Note the possible conflict with other key-map softwares, such as `Seil`.
+
+# Install Python Modules
+* [matplotlib](http://matplotlib.org/downloads.html)
+* nltk
+
 # Install macdown(A updated version of Mou)
     http://macdown.uranusjr.com/
 
 # Intall licecap(capturing screen)
     http://www.cockos.com/licecap/
-
 > Quicktime can record screen too, it will generate files with better quality but much bigger size.
 
 # Install MPlayerX as an alternative of QuickTime
